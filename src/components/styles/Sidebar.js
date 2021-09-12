@@ -1,3 +1,4 @@
+import React, { Component }  from 'react';
 import styled from '@emotion/styled';
 
 export const Sidebar = styled('aside')`

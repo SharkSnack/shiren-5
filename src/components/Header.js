@@ -8,6 +8,7 @@ import Loadable from 'react-loadable';
 import config from '../../config.js';
 import LoadingProvider from './mdxComponents/loading';
 // import { DarkModeSwitch } from './DarkModeSwitch';
+import Sidebar from './sidebar';
 
 const help = require('./images/help.svg');
 
@@ -22,8 +23,6 @@ if (isSearchEnabled && config.header.search.indexName) {
     hitComp: `PageHit`,
   });
 }
-
-import Sidebar from './sidebar';
 
 const LoadableComponent = Loadable({
   loader: () => import('./search/index'),
