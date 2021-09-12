@@ -880,8 +880,14 @@ export const baseStyles = css`
     background-color: #333333;
     color: white;
   }
+  .highlightPurple {
+    background-color: #e6e6fa;
+  }
   .itemPageImage {
     background-color: #555;
+  }
+  .tableWithImages img {
+    position: relative !important;
   }
   /* end - tables.css */
 
@@ -895,14 +901,17 @@ export const baseStyles = css`
   /* end list styling */
 
   /* Paragraph styling */
-  .cautionText {
-    color: orange;
+  .orangeText {
+    color: #f9a100;
   }
   .blueText {
     color: #66f;
   }
   .redText {
     color: #f66;
+  }
+  .greenText {
+    color: #009e25;
   }
 
   /* Image styling */
@@ -1005,11 +1014,38 @@ export const baseStyles = css`
   .trapTable img {
     position: relative !important;
   }
+  .systemImage {
+    display: inline-flex !important;
+  }
+  .systemImage img {
+    position: relative !important;
+  }
+  .pageTopImage {
+    display: inline-flex !important;
+  }
+  .pageTopImage img {
+    padding-top: 5px;
+    position: relative !important;
+  }
   .trapTable td:first-of-type {
     background-color: #555;
   }
   .statusTable img {
     position: relative !important;
+  }
+  #resonanceImage {
+    height: auto;
+    width: 280px;
+  }
+  #synthesisMixer {
+    height: 55px;
+    width: 60px;
+    margin-bottom: 10px;
+  }
+  #synthesisPot {
+    height: 20px;
+    width: 20px;
+    margin-bottom: 10px;
   }
   /* end image */
   .githubBtn {
