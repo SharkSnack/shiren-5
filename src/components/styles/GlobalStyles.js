@@ -886,6 +886,12 @@ export const baseStyles = css`
   .highlightRed {
     background-color: #ffb3b3;
   }
+  .highlightOrange {
+    background-color: #fff4e6;
+  }
+  .highlightLightblue {
+    background-color: #eef6ff;
+  }
   .itemPageImage {
     background-color: #555;
   }

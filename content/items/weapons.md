@@ -19,60 +19,60 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
     <th>6</th>
   </tr>
   <tr>
-    <td>Ordinary Stick</td>
-    <td>Kabura Katana</td>
-    <td>Water Cutter</td>
-    <td>Lizard Lasher</td>
-    <td>Shoddy Dirk</td>
-    <td>Wonder Pick</td>
+    <td class="highlightLightblue">Ordinary Stick</td>
+    <td class="highlightLightblue">Kabura Katana</td>
+    <td class="highlightOrange">Water Cutter</td>
+    <td class="highlightOrange">Lizard Lasher</td>
+    <td class="highlightOrange">Shoddy Dirk</td>
+    <td class="highlightOrange">Wonder Pick</td>
   </tr>
   <tr>
-    <td>Tin Blade</td>
-    <td>Fuuma Sword</td>
-    <td>Scythe</td>
-    <td>Nap Rattle</td>
-    <td>Glass Dirk</td>
-    <td>Sturdy Hammer</td>
+    <td class="highlightLightblue">Tin Blade</td>
+    <td class="highlightLightblue">Fuuma Sword</td>
+    <td class="highlightOrange">Scythe</td>
+    <td class="highlightOrange">Nap Rattle</td>
+    <td class="highlightOrange">Glass Dirk</td>
+    <td class="highlightOrange">Sturdy Hammer</td>
   </tr>
   <tr>
-    <td>Katana</td>
-    <td>Dull Gold Edge</td>
-    <td>Myopic Masher</td>
-    <td>Shockuto</td>
-    <td>Dirk of Debts</td>
-    <td>True Knife</td>
+    <td class="highlightLightblue">Katana</td>
+    <td class="highlightOrange">Dull Gold Edge</td>
+    <td class="highlightOrange">Myopic Masher</td>
+    <td class="highlightOrange">Shockuto</td>
+    <td class="highlightOrange">Dirk of Debts</td>
+    <td class="highlightOrange">True Knife</td>
   </tr>
   <tr>
-    <td>Beast Fang</td>
-    <td>Bright Blade</td>
-    <td>Magic Masher</td>
-    <td>Blurry Stick</td>
-    <td>Extreme Sword</td>
-    <td>Pathetic Blade</td>
+    <td class="highlightLightblue">Beast Fang</td>
+    <td class="highlightOrange">Bright Blade</td>
+    <td class="highlightOrange">Magic Masher</td>
+    <td class="highlightOrange">Blurry Stick</td>
+    <td class="highlightOrange">Extreme Sword</td>
+    <td class="highlightLightblue">Pathetic Blade</td>
   </tr>
   <tr>
-    <td>Dotanuki</td>
-    <td>Rusty Pickaxe</td>
-    <td>Drain Dagger</td>
-    <td>Sealing Keisaku</td>
-    <td>Violent Blade</td>
-    <td>Fox Kodachi</td>
+    <td class="highlightLightblue">Dotanuki</td>
+    <td class="highlightOrange">Rusty Pickaxe</td>
+    <td class="highlightOrange">Drain Dagger</td>
+    <td class="highlightOrange">Sealing Keisaku</td>
+    <td class="highlightOrange">Violent Blade</td>
+    <td class="highlightLightblue">Fox Kodachi</td>
   </tr>
   <tr>
-    <td>Bladite</td>
-    <td>Old Mallet</td>
-    <td>Copper Cleaver</td>
-    <td>Baffle Axe</td>
-    <td>Breeze Blade</td>
-    <td>Kaburagi</td>
+    <td class="highlightLightblue">Bladite</td>
+    <td class="highlightOrange">Old Mallet</td>
+    <td class="highlightOrange">Copper Cleaver</td>
+    <td class="highlightOrange">Baffle Axe</td>
+    <td class="highlightOrange">Breeze Blade</td>
+    <td class="highlightLightblue">Kaburagi</td>
   </tr>
   <tr>
-    <td>Red Blade</td>
-    <td>Sky Splitter</td>
-    <td>Crescent Katana</td>
-    <td>Hatchet</td>
-    <td>Burning Blade</td>
-    <td>Torch</td>
+    <td class="highlightLightblue">Red Blade</td>
+    <td class="highlightOrange">Sky Splitter</td>
+    <td class="highlightOrange">Crescent Katana</td>
+    <td class="highlightOrange">Hatchet</td>
+    <td class="highlightOrange">Burning Blade</td>
+    <td class="highlightOrange">Torch</td>
   </tr>
 </table>
 
@@ -90,12 +90,11 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <th>Added</th>
       <th>Exp</th>
       <th>Resonance</th>
-      <th>Effect</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td class="equipment_normal"><a href="#ordinary-stick">Ordinary Stick</a></td>
+      <td class="highlightLightblue"><a href="#ordinary-stick">Ordinary Stick</a></td>
       <td>Ogre's Club</td>
       <td>15</td>
       <td>99</td>
@@ -103,11 +102,10 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>-</td>
       <td>Redeeming (Lv8)</td>
       <td>25,250</td>
-      <td><a href="/shiren5/item/shields#plain-targe">Plain Targe</a></td>
-      <td>Equip 2 bracelets</td>
+      <td><a href="/shiren5/item/shields#plain-targe">Plain Targe</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
-      <td class="equipment_normal"><a href="#tin-blade">Tin Blade</a></td>
+      <td class="highlightLightblue"><a href="#tin-blade">Tin Blade</a></td>
       <td>Bronze Dancer</td>
       <td>18</td>
       <td>99</td>
@@ -115,11 +113,10 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>-</td>
       <td>Rustproof (Lv8)</td>
       <td>31,570</td>
-      <td><a href="/shiren5/item/shields#tin-shield">Tin Shield</a></td>
-      <td>Equip 2 bracelets</td>
+      <td><a href="/shiren5/item/shields#tin-shield">Tin Shield</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
-      <td class="equipment_normal"><a href="#katana">Katana</a></td>
+      <td class="highlightLightblue"><a href="#katana">Katana</a></td>
       <td>Storied Katana</td>
       <td>22</td>
       <td>99</td>
@@ -127,11 +124,10 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>-</td>
       <td>Rustproof (Lv8)</td>
       <td>49,300</td>
-      <td><a href="/shiren5/item/shields#iron-targe">Iron Targe</a></td>
-      <td>Equip 2 bracelets</td>
+      <td><a href="/shiren5/item/shields#iron-targe">Iron Targe</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
-      <td class="equipment_normal"><a href="#beast-fang">Beast Fang</a></td>
+      <td class="highlightLightblue"><a href="#beast-fang">Beast Fang</a></td>
       <td>Beastmaster</td>
       <td>20</td>
       <td>99</td>
@@ -139,11 +135,10 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>-</td>
       <td>Rustproof (Lv5)</td>
       <td>37,900</td>
-      <td><a href="/shiren5/item/shields#beast-shield">Beast Shield</a></td>
-      <td>Equip 2 bracelets</td>
+      <td><a href="/shiren5/item/shields#beast-shield">Beast Shield</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
-      <td class="equipment_normal"><a href="#dotanuki">Dotanuki</a></td>
+      <td class="highlightLightblue"><a href="#dotanuki">Dotanuki</a></td>
       <td>Epic Dotanuki</td>
       <td>23</td>
       <td>99</td>
@@ -151,11 +146,10 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>-</td>
       <td>Enhancing (Lv8)</td>
       <td>44,250</td>
-      <td><a href="/shiren5/item/shields#wolfshead">Wolfshead</a></td>
-      <td>Equip 2 bracelets</td>
+      <td><a href="/shiren5/item/shields#wolfshead">Wolfshead</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
-      <td class="equipment_normal"><a href="#bladite">Bladite</a></td>
+      <td class="highlightLightblue"><a href="#bladite">Bladite</a></td>
       <td>Starcutter</td>
       <td>25</td>
       <td>99</td>
@@ -163,11 +157,10 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>-</td>
       <td>Uplifting (Lv4)<br/>Rustproof (Lv8)</td>
       <td>50,600</td>
-      <td><a href="/shiren5/item/shields#targite">Targite</a></td>
-      <td>Equip 2 bracelets</td>
+      <td><a href="/shiren5/item/shields#targite">Targite</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
-      <td class="equipment_normal"><a href="#red-blade">Red Blade</a></td>
+      <td class="highlightLightblue"><a href="#red-blade">Red Blade</a></td>
       <td>Shugouseki</td>
       <td>27</td>
       <td>99</td>
@@ -175,11 +168,10 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>-</td>
       <td>Uplifting (Lv3)<br/>Flame Shot (Lv8)</td>
       <td>56,950</td>
-      <td><a href="/shiren5/item/shields#red-shield">Red Shield</a></td>
-      <td>Equip 2 bracelets</td>
+      <td><a href="/shiren5/item/shields#red-shield">Red Shield</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
-      <td class="equipment_normal"><a href="#kabura-katana">Kabura Katana</a></td>
+      <td class="highlightLightblue"><a href="#kabura-katana">Kabura Katana</a></td>
       <td>S-Class Kabura</td>
       <td>30</td>
       <td>99</td>
@@ -187,11 +179,10 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>-</td>
       <td>Quick Hitting (Lv8)</td>
       <td>95,000</td>
-      <td><a href="/shiren5/item/shields#fuuma-shield">Fuuma Shield</a></td>
-      <td>Attack damage +5</td>
+      <td><a href="/shiren5/item/shields#fuuma-shield">Fuuma Shield</a><br/>(Attack damage +5)</td>
     </tr>
     <tr>
-      <td class="equipment_normal"><a href="#fuuma-sword">Fuuma Sword</a></td>
+      <td class="highlightLightblue"><a href="#fuuma-sword">Fuuma Sword</a></td>
       <td>Hellfire Fuuma</td>
       <td>35</td>
       <td>99</td>
@@ -199,11 +190,10 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>-</td>
       <td>Flame Shot (Lv7)</td>
       <td>175,000</td>
-      <td><a href="/shiren5/item/shields#fuuma-shield">Fuuma Shield</a><br/><a href="/shiren5/item/shields#helix-shield">Helix Shield</a></td>
-      <td>Attack damage +5<br/>Attack damage +10</td>
+      <td><a href="/shiren5/item/shields#fuuma-shield">Fuuma Shield</a><br/>(Attack damage +5<br/><a href="/shiren5/item/shields#helix-shield">Helix Shield</a><br/>(Attack damage +10)</td>
     </tr>
     <tr>
-      <td class="equipment_special"><a href="#dull-gold-edge">Dull Gold Edge</a></td>
+      <td class="highlightOrange"><a href="#dull-gold-edge">Dull Gold Edge</a></td>
       <td>Pure Gold Blade</td>
       <td>14</td>
       <td>99</td>
@@ -211,11 +201,10 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Rustproof</td>
       <td>Paralyzing (Lv8)</td>
       <td>18,950</td>
-      <td><a href="/shiren5/item/shields#gold-shield">Gold Shield</a></td>
-      <td>Max strength +3</td>
+      <td><a href="/shiren5/item/shields#gold-shield">Gold Shield</a><br/>(Max strength +3)</td>
     </tr>
     <tr>
-      <td class="equipment_special"><a href="#bright-blade">Bright Blade</a></td>
+      <td class="highlightOrange"><a href="#bright-blade">Bright Blade</a></td>
       <td>Flash Sword</td>
       <td>17</td>
       <td>99</td>
@@ -223,11 +212,10 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Redeeming</td>
       <td>Lively (Lv5)<br/>Confusing (Lv8)</td>
       <td>25,300</td>
-      <td><a href="/shiren5/item/shields#day-shield">Day Shield</a></td>
-      <td>Read scrolls in the dark</td>
+      <td><a href="/shiren5/item/shields#day-shield">Day Shield</a><br/>(Read scrolls in the dark)</td>
     </tr>
     <tr>
-      <td class="equipment_special"><a href="#rusty-pickaxe">Rusty Pickaxe</a>※</td>
+      <td class="highlightOrange"><a href="#rusty-pickaxe">Rusty Pickaxe</a>※</td>
       <td>Luxury Pickaxe</td>
       <td>14</td>
       <td>99</td>
@@ -236,10 +224,9 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Blinding (Lv5)</td>
       <td>19,000</td>
       <td>-</td>
-      <td>-</td>
     </tr>
     <tr>
-      <td class="equipment_special"><a href="#old-mallet">Old Mallet</a>※</td>
+      <td class="highlightOrange"><a href="#old-mallet">Old Mallet</a>※</td>
       <td>Master's Mallet</td>
       <td>16</td>
       <td>99</td>
@@ -248,10 +235,9 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Confusing (Lv5)</td>
       <td>31,700</td>
       <td>-</td>
-      <td>-</td>
     </tr>
     <tr>
-      <td class="equipment_special"><a href="#sky-splitter">Sky Splitter</a></td>
+      <td class="highlightOrange"><a href="#sky-splitter">Sky Splitter</a></td>
       <td>Aerial Assault</td>
       <td>12</td>
       <td>99</td>
@@ -260,10 +246,9 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Rustproof (Lv8)</td>
       <td>63,500</td>
       <td>-</td>
-      <td>-</td>
     </tr>
     <tr>
-      <td class="equipment_special"><a href="#water-cutter">Water Cutter</a></td>
+      <td class="highlightOrange"><a href="#water-cutter">Water Cutter</a></td>
       <td>Sea King Sword</td>
       <td>15</td>
       <td>99</td>
@@ -272,10 +257,9 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Rustproof (Lv8)</td>
       <td>38,100</td>
       <td>-</td>
-      <td>-</td>
     </tr>
     <tr>
-      <td class="equipment_special"><a href="#scythe">Scythe</a></td>
+      <td class="highlightOrange"><a href="#scythe">Scythe</a></td>
       <td>Vegicide</td>
       <td>13</td>
       <td>99</td>
@@ -284,10 +268,9 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Rustproof (Lv8)</td>
       <td>31,750</td>
       <td>-</td>
-      <td>-</td>
     </tr>
     <tr>
-      <td class="equipment_special"><a href="#myopic-masher">Myopic Masher</a></td>
+      <td class="highlightOrange"><a href="#myopic-masher">Myopic Masher</a></td>
       <td>Cyclopicide</td>
       <td>16</td>
       <td>99</td>
@@ -295,11 +278,10 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Anti-Cyclops</td>
       <td>Rustproof (Lv8)</td>
       <td>31,750</td>
-      <td><a href="/shiren5/item/shields#spry-shield">Spry Shield</a></td>
-      <td>Attack and Defense +3</td>
+      <td><a href="/shiren5/item/shields#spry-shield">Spry Shield</a><br/>(Attack and Defense +3)</td>
     </tr>
     <tr>
-      <td class="equipment_special"><a href="#magic-masher">Magic Masher</a></td>
+      <td class="highlightOrange"><a href="#magic-masher">Magic Masher</a></td>
       <td>Die Magic Die</td>
       <td>15</td>
       <td>99</td>
@@ -308,10 +290,9 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Rustproof (Lv8)</td>
       <td>38,100</td>
       <td>-</td>
-      <td>-</td>
     </tr>
     <tr>
-      <td class="equipment_special"><a href="#drain-dagger">Drain Dagger</a></td>
+      <td class="highlightOrange"><a href="#drain-dagger">Drain Dagger</a></td>
       <td>Drain Master</td>
       <td>13</td>
       <td>99</td>
@@ -320,10 +301,9 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Rustproof (Lv8)</td>
       <td>38,100</td>
       <td>-</td>
-      <td>-</td>
     </tr>
     <tr>
-      <td class="equipment_special"><a href="#copper-cleaver">Copper Cleaver</a></td>
+      <td class="highlightOrange"><a href="#copper-cleaver">Copper Cleaver</a></td>
       <td>Lightbringer</td>
       <td>15</td>
       <td>99</td>
@@ -332,10 +312,9 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Rustproof (Lv8)</td>
       <td>63,500</td>
       <td>-</td>
-      <td>-</td>
     </tr>
     <tr>
-      <td class="equipment_special"><a href="#crescent-katana">Crescent Katana</a></td>
+      <td class="highlightOrange"><a href="#crescent-katana">Crescent Katana</a></td>
       <td>Lunar Sword</td>
       <td>14</td>
       <td>99</td>
@@ -343,11 +322,10 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Anti-Explode</td>
       <td>Rustproof (Lv8)</td>
       <td>50,800</td>
-      <td><a href="/shiren5/item/shields#blast-shield">Blast Shield</a></td>
-      <td>Attack and Defense +3</td>
+      <td><a href="/shiren5/item/shields#blast-shield">Blast Shield</a><br/>(Attack and Defense +3)</td>
     </tr>
     <tr>
-      <td class="equipment_special"><a href="#lizard-lasher">Lizard Lasher</a></td>
+      <td class="highlightOrange"><a href="#lizard-lasher">Lizard Lasher</a></td>
       <td>Dragons' Bane</td>
       <td>17</td>
       <td>99</td>
@@ -355,11 +333,10 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Anti-Dragon</td>
       <td>Rustproof (Lv8)</td>
       <td>63,500</td>
-      <td><a href="/shiren5/item/shields#snake-shield">Snake Shield</a></td>
-      <td>Attack and Defense +3</td>
+      <td><a href="/shiren5/item/shields#snake-shield">Snake Shield</a><br/>(Attack and Defense +3)</td>
     </tr>
     <tr>
-      <td class="equipment_special"><a href="#nap-rattle">Nap Rattle</a></td>
+      <td class="highlightOrange"><a href="#nap-rattle">Nap Rattle</a></td>
       <td>Ultimate Rattle</td>
       <td>16</td>
       <td>99</td>
@@ -367,11 +344,10 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Sedating</td>
       <td>Rustproof (Lv8)</td>
       <td>50,700</td>
-      <td><a href="/shiren5/item/bracelets#alert-bracelet">Alert Bracelet</a></td>
-      <td>Increase sleep chance</td>
+      <td><a href="/shiren5/item/bracelets#alert-bracelet">Alert Bracelet</a><br/>(Boost sleep chance)</td>
     </tr>
     <tr>
-      <td class="equipment_special"><a href="#shockuto">Shockuto</a></td>
+      <td class="highlightOrange"><a href="#shockuto">Shockuto</a></td>
       <td>The Paralyzer</td>
       <td>15</td>
       <td>99</td>
@@ -380,10 +356,9 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Rustproof (Lv8)</td>
       <td>50,700</td>
       <td>-</td>
-      <td>-</td>
     </tr>
     <tr>
-      <td class="equipment_special"><a href="#blurry-stick">Blurry Stick</a></td>
+      <td class="highlightOrange"><a href="#blurry-stick">Blurry Stick</a></td>
       <td>Blind Stick</td>
       <td>15</td>
       <td>99</td>
@@ -392,10 +367,9 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Rustproof (Lv8)</td>
       <td>59,900</td>
       <td>-</td>
-      <td>-</td>
     </tr>
     <tr>
-      <td class="equipment_special"><a href="#sealing-keisaku">Sealing Keisaku</a></td>
+      <td class="highlightOrange"><a href="#sealing-keisaku">Sealing Keisaku</a></td>
       <td>Divine Keisaku</td>
       <td>15</td>
       <td>99</td>
@@ -404,10 +378,9 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Rustproof (Lv8)</td>
       <td>38,000</td>
       <td>-</td>
-      <td>-</td>
     </tr>
     <tr>
-      <td class="equipment_special"><a href="#baffle-axe">Baffle Axe</a></td>
+      <td class="highlightOrange"><a href="#baffle-axe">Baffle Axe</a></td>
       <td>Epic Baffle Axe</td>
       <td>16</td>
       <td>99</td>
@@ -415,11 +388,10 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Confusing</td>
       <td>Rustproof (Lv8)</td>
       <td>38,000</td>
-      <td><a href="/shiren5/item/bracelets#anti-cnf-bracelet">Anti-Cnf. Bracelet</a></td>
-      <td>Increase confusion chance</td>
+      <td><a href="/shiren5/item/bracelets#anti-cnf-bracelet">Anti-Cnf. Bracelet</a><br/>(Boost confusion chance)</td>
     </tr>
     <tr>
-      <td class="equipment_special"><a href="#hatchet">Hatchet</a></td>
+      <td class="highlightOrange"><a href="#hatchet">Hatchet</a></td>
       <td>War God's Axe</td>
       <td>12</td>
       <td>99</td>
@@ -428,10 +400,9 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Lively (Lv5)<br/>Paralyzing (Lv8)</td>
       <td>38,000</td>
       <td>-</td>
-      <td>-</td>
     </tr>
     <tr>
-      <td class="equipment_special"><a href="#shoddy-dirk">Shoddy Dirk</a>※</td>
+      <td class="highlightOrange"><a href="#shoddy-dirk">Shoddy Dirk</a>※</td>
       <td>Worthy Sword</td>
       <td>37</td>
       <td>99</td>
@@ -439,11 +410,10 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Expendable</td>
       <td>Critical (Lv8)<br/>Quick Hitting (Lv8)</td>
       <td>103,000</td>
-      <td><a href="/shiren5/item/shields#shoddy-plank">Shoddy Plank</a></td>
-      <td>Equipped items won't rust</td>
+      <td><a href="/shiren5/item/shields#shoddy-plank">Shoddy Plank</a><br/>(Equipped items won't rust)</td>
     </tr>
     <tr>
-      <td class="equipment_special"><a href="#glass-dirk">Glass Dirk</a>※</td>
+      <td class="highlightOrange"><a href="#glass-dirk">Glass Dirk</a>※</td>
       <td>Frangible Edge</td>
       <td>42</td>
       <td>99</td>
@@ -451,11 +421,10 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Unsound</td>
       <td>Stupefying (Lv8)</td>
       <td>103,000</td>
-      <td><a href="/shiren5/item/shields#glass-buckler">Glass Buckler</a></td>
-      <td>Nullifies magic bullets received</td>
+      <td><a href="/shiren5/item/shields#glass-buckler">Glass Buckler</a><br/>(Nullifies magic bullets)</td>
     </tr>
     <tr>
-      <td class="equipment_special"><a href="#dirk-of-debts">Dirk of Debts</a>※</td>
+      <td class="highlightOrange"><a href="#dirk-of-debts">Dirk of Debts</a>※</td>
       <td>Gitan Gorger</td>
       <td>17</td>
       <td>99</td>
@@ -463,11 +432,10 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Costly</td>
       <td>-</td>
       <td>38,100</td>
-      <td><a href="/shiren5/item/shields#paupers-plank">Pauper's Plank</a></td>
-      <td>Enemies drop Gitan often</td>
+      <td><a href="/shiren5/item/shields#paupers-plank">Pauper's Plank</a><br/>(Enemies drop Gitan often)</td>
     </tr>
     <tr>
-      <td class="equipment_special"><a href="#extreme-sword">Extreme Sword</a>※</td>
+      <td class="highlightOrange"><a href="#extreme-sword">Extreme Sword</a>※</td>
       <td>All-in Sword</td>
       <td>30</td>
       <td>99</td>
@@ -475,11 +443,10 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Focusing</td>
       <td>-</td>
       <td>63,000</td>
-      <td><a href="/shiren5/item/shields#rush-shield">Rush Shield</a></td>
-      <td>Equip 2 bracelets</td>
+      <td><a href="/shiren5/item/shields#rush-shield">Rush Shield</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
-      <td class="equipment_special"><a href="#violent-blade">Violent Blade</a>※</td>
+      <td class="highlightOrange"><a href="#violent-blade">Violent Blade</a>※</td>
       <td>Muramasa</td>
       <td>20</td>
       <td>99</td>
@@ -487,11 +454,10 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Obsessive</td>
       <td>Anti-Cyclops (Lv6)<br/>Blinding (Lv8)</td>
       <td>50,700</td>
-      <td><a href="/shiren5/item/bracelets#mojo-bracelet">Mojo Bracelet</a></td>
-      <td>Chance to slow target</td>
+      <td><a href="/shiren5/item/bracelets#mojo-bracelet">Mojo Bracelet</a><br/>(Chance to slow target)</td>
     </tr>
     <tr>
-      <td class="equipment_special"><a href="#breeze-blade">Breeze Blade</a></td>
+      <td class="highlightOrange"><a href="#breeze-blade">Breeze Blade</a></td>
       <td>Deathwind</td>
       <td>13</td>
       <td>99</td>
@@ -499,11 +465,10 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Tri-direction</td>
       <td>Energizing (Lv8)</td>
       <td>50,800</td>
-      <td><a href="/shiren5/item/shields#midnight-shield">Midnight Shield</a></td>
-      <td>Equipped items won't rust</td>
+      <td><a href="/shiren5/item/shields#midnight-shield">Midnight Shield</a><br/>(Equipped items won't rust)</td>
     </tr>
     <tr>
-      <td class="equipment_special"><a href="#burning-blade">Burning Blade</a></td>
+      <td class="highlightOrange"><a href="#burning-blade">Burning Blade</a></td>
       <td>Hellfire Katana</td>
       <td>16</td>
       <td>99</td>
@@ -511,11 +476,10 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Flame Shot</td>
       <td>Uplifting (Lv5)<br/>Anti-Explode (Lv8)</td>
       <td>63,000</td>
-      <td><a href="/shiren5/item/shields#swap-shield">Swap Shield</a></td>
-      <td>Increase Flame Shot damage</td>
+      <td><a href="/shiren5/item/shields#swap-shield">Swap Shield</a><br/>(Boost Flame Shot damage)</td>
     </tr>
     <tr>
-      <td class="equipment_special"><a href="#wonder-pick">Wonder Pick</a></td>
+      <td class="highlightOrange"><a href="#wonder-pick">Wonder Pick</a></td>
       <td>Wonder Wreckr</td>
       <td>18</td>
       <td>99</td>
@@ -523,11 +487,10 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Max Wall Dig</td>
       <td>Blinding (Lv5)</td>
       <td>127,000</td>
-      <td><a href="/shiren5/item/shields#nirvana-board">Nirvana Board</a></td>
-      <td>Max HP +30</td>
+      <td><a href="/shiren5/item/shields#nirvana-board">Nirvana Board</a><br/>(Max HP +30)</td>
     </tr>
     <tr>
-      <td class="equipment_special"><a href="#sturdy-hammer">Sturdy Hammer</a></td>
+      <td class="highlightOrange"><a href="#sturdy-hammer">Sturdy Hammer</a></td>
       <td>Epic Hammer</td>
       <td>17</td>
       <td>99</td>
@@ -536,10 +499,9 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Confusing (Lv5)</td>
       <td>127,000</td>
       <td>-</td>
-      <td>-</td>
     </tr>
     <tr>
-      <td class="equipment_special"><a href="#true-knife">True Knife</a></td>
+      <td class="highlightOrange"><a href="#true-knife">True Knife</a></td>
       <td>True Striker-X</td>
       <td>8</td>
       <td>99</td>
@@ -547,11 +509,10 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Accurate</td>
       <td>Critical (Lv8)</td>
       <td>127,000</td>
-      <td><a href="/shiren5/item/bracelets#anti-parry-brce">Anti-Parry Brce.</a></td>
-      <td>Projectiles always hit</td>
+      <td><a href="/shiren5/item/bracelets#anti-parry-brce">Anti-Parry Brce.</a><br/>(Projectiles always hit)</td>
     </tr>
     <tr>
-      <td class="equipment_normal"><a href="#pathetic-blade">Pathetic Blade</a></td>
+      <td class="highlightLightblue"><a href="#pathetic-blade">Pathetic Blade</a></td>
       <td>Rising Sun</td>
       <td>38</td>
       <td>99</td>
@@ -559,11 +520,10 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>-</td>
       <td>-</td>
       <td>127,000</td>
-      <td><a href="/shiren5/item/shields#pathetic-shield">Pathetic Shield</a></td>
-      <td>Lv1-7: Equip 2 bracelets<br/>Lv8: Foes may retreat</td>
+      <td><a href="/shiren5/item/shields#pathetic-shield">Pathetic Shield</a><br/>(Lv1-7: Equip 2 bracelets)<br/>(Lv8: Foes may step back)</td>
     </tr>
     <tr>
-      <td class="equipment_normal"><a href="#fox-kodachi">Fox Kodachi</a></td>
+      <td class="highlightLightblue"><a href="#fox-kodachi">Fox Kodachi</a></td>
       <td>Koharu Sword</td>
       <td>30</td>
       <td>99</td>
@@ -572,10 +532,9 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Energizing (Lv2)<br/>Clutch (Lv3)<br/>Enlightening (Lv5)<br/>Anointing (Lv7)<br/>Healing (Lv8)<br/></td>
       <td>306,070</td>
       <td>-</td>
-      <td>-</td>
     </tr>
     <tr>
-      <td class="equipment_normal"><a href="#kaburagi">Kaburagi</a></td>
+      <td class="highlightLightblue"><a href="#kaburagi">Kaburagi</a></td>
       <td>Kaburasutegi</td>
       <td>40</td>
       <td>99</td>
@@ -583,8 +542,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>-</td>
       <td>Critical (Lv8)<br/>Quick Hitting (Lv8)</td>
       <td>305,535</td>
-      <td><a href="/shiren5/item/shields#helix-shield">Helix Shield</a></td>
-      <td>Attack damage +10</td>
+      <td><a href="/shiren5/item/shields#helix-shield">Helix Shield</a><br/>(Attack damage +10)</td>
     </tr>
   </tbody>
 </table>
