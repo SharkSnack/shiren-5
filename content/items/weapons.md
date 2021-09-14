@@ -4192,402 +4192,2965 @@ Locations:
   </tr>
 </table>
 
-### ITEM_NAME
+### Shockuto
 
-TEXT
+Slow to level up and low starting base attack, but can inflict Paralyzed status.<br/>Paralysis completely shuts down an enemy, making them unable to act until they're hit by an attack or effect.<br/>This really shines in dungeons that require run away or progress-during-night gameplay.<br/>Be careful not to synthesize <span class="green_text">Flame Shot</span>, since the fireball will immediately undo the paralysis.<br/>Unlike other status weapons/runes, <span class="green_text">Quick Hitting</span> doesn't mathematically impact the activation rate.
 
-DETAILS_TABLE_HERE
-
-Locations:
-
-LOCATION_TABLE_HERE
-
-### ITEM_NAME
-
-TEXT
-
-DETAILS_TABLE_HERE
-
-Locations:
-
-LOCATION_TABLE_HERE
-
-### ITEM_NAME
-
-TEXT
-
-DETAILS_TABLE_HERE
-
-Locations:
-
-LOCATION_TABLE_HERE
-
-### ITEM_NAME
-
-TEXT
-
-DETAILS_TABLE_HERE
-
-Locations:
-
-LOCATION_TABLE_HERE
-
-### ITEM_NAME
-
-TEXT
-
-DETAILS_TABLE_HERE
-
-Locations:
-
-LOCATION_TABLE_HERE
-
-### ITEM_NAME
-
-TEXT
-
-DETAILS_TABLE_HERE
-
-Locations:
-
-LOCATION_TABLE_HERE
-
-### ITEM_NAME
-
-TEXT
-
-DETAILS_TABLE_HERE
-
-Locations:
-
-LOCATION_TABLE_HERE
-
-### ITEM_NAME
-
-TEXT
-
-DETAILS_TABLE_HERE
-
-Locations:
-
-LOCATION_TABLE_HERE
-
-### ITEM_NAME
-
-TEXT
-
-DETAILS_TABLE_HERE
-
-Locations:
-
-LOCATION_TABLE_HERE
-
-### ITEM_NAME
-
-TEXT
-
-DETAILS_TABLE_HERE
-
-Locations:
-
-LOCATION_TABLE_HERE
-
-### ITEM_NAME
-
-TEXT
-
-DETAILS_TABLE_HERE
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Rune</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Shockuto</td>
+      <td rowspan="7">(Paralyzing)</td>
+      <td>3</td>
+      <td>12</td>
+      <td>5</td>
+      <td>-</td>
+      <td>4000</td>
+      <td>1400</td>
+      <td rowspan="8">Chance to inflict <a href="/shiren5/system/status-conditions#paralyzed">Paralyzed</a><br/>(12%, +2% per level up | Lv8: 26%)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Good Shockuto</td>
+      <td>5</td>
+      <td>20</td>
+      <td>6</td>
+      <td>300</td>
+      <td>4100</td>
+      <td>1435</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Fine Shockuto</td>
+      <td>7</td>
+      <td>29</td>
+      <td>7</td>
+      <td>800</td>
+      <td>4200</td>
+      <td>1470</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Disabling Edge</td>
+      <td>10</td>
+      <td>39</td>
+      <td>8</td>
+      <td>1600</td>
+      <td>4300</td>
+      <td>1505</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Disabling Dirk</td>
+      <td>11</td>
+      <td>50</td>
+      <td>9</td>
+      <td>3200</td>
+      <td>4400</td>
+      <td>1540</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Disabling Blade</td>
+      <td>12</td>
+      <td>62</td>
+      <td>10</td>
+      <td>6400</td>
+      <td>4500</td>
+      <td>1575</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Disabling Sword</td>
+      <td>13</td>
+      <td>75</td>
+      <td>11</td>
+      <td>12800</td>
+      <td>4600</td>
+      <td>1610</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>The Paralyzer</td>
+      <td>(Paralyzing)<br/>Rustproof</td>
+      <td>15</td>
+      <td>99</td>
+      <td>12</td>
+      <td>25600</td>
+      <td>5500</td>
+      <td>1925</td>
+    </tr>
+  </tbody>
+</table>
 
 Locations:
 
-LOCATION_TABLE_HERE
+<table class="locationTable">
+  <tr>
+    <th>Trail</th>
+    <th>Past</th>
+    <th>Present</th>
+    <th>Future</th>
+    <th>Fortune</th>
+    <th>Miracle</th>
+    <th>Rocks</th>
+    <th>Gen</th>
+    <th>Pitfall</th>
+    <th>Manor</th>
+  </tr>
+  <tr>
+    <td>S</td>
+    <td>S</td>
+    <td>S</td>
+    <td>S</td>
+    <td>S</td>
+    <td>S</td>
+    <td>-</td>
+    <td>-</td>
+    <td>FSPZME</td>
+    <td>S</td>
+  </tr>
+  <tr>
+    <th>Bizarre</th>
+    <th>Onigiri</th>
+    <th>Chasm</th>
+    <th>Well</th>
+    <th>Lake</th>
+    <th>Inori</th>
+    <th>Old</th>
+    <th>Descent</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>S</td>
+    <td>FPZM</td>
+    <td>FSPZM</td>
+    <td>-</td>
+    <td>FSP</td>
+    <td>S</td>
+    <td>FM</td>
+    <td>SPM</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-### ITEM_NAME
+### Blurry Stick
 
-TEXT
+Basically a worse Baffle Axe - lower starting base attack, rune count, and slower growth.<br/>However, it'll end up being on par with Baffle Axe at Lv8, so it's actually a decent main weapon option.<br/>Blind status makes enemies walk in a straight line until they bump into a character or wall,<br/>so the predictable movement usually causes fewer accidents than Confused status.<br/>Just keep in mind that Blind status lasts half the duration of Confused status.
 
-DETAILS_TABLE_HERE
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Rune</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Blurry Stick</td>
+      <td rowspan="7">(Blinding)</td>
+      <td>4</td>
+      <td>12</td>
+      <td>5</td>
+      <td>-</td>
+      <td>6000</td>
+      <td>2100</td>
+      <td rowspan="8">Chance to inflict <a href="/shiren5/system/status-conditions#blind">Blind</a><br/>(12%→16%, then +2% per level up)<br/>(Lv8: 28%)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Bleary Stick</td>
+      <td>6</td>
+      <td>20</td>
+      <td>6</td>
+      <td>400</td>
+      <td>6100</td>
+      <td>2135</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Dazed Stick</td>
+      <td>8</td>
+      <td>29</td>
+      <td>7</td>
+      <td>900</td>
+      <td>6200</td>
+      <td>2170</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Mole Stick</td>
+      <td>10</td>
+      <td>39</td>
+      <td>8</td>
+      <td>1800</td>
+      <td>6300</td>
+      <td>2205</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Worm Stick</td>
+      <td>11</td>
+      <td>50</td>
+      <td>9</td>
+      <td>3600</td>
+      <td>6400</td>
+      <td>2240</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Bat Stick</td>
+      <td>12</td>
+      <td>62</td>
+      <td>10</td>
+      <td>7200</td>
+      <td>6500</td>
+      <td>2275</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Typhlosis Stick</td>
+      <td>13</td>
+      <td>75</td>
+      <td>11</td>
+      <td>14400</td>
+      <td>6600</td>
+      <td>2310</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Blind Stick</td>
+      <td>(Blinding)<br/>Rustproof</td>
+      <td>15</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>28800</td>
+      <td>7500</td>
+      <td>2625</td>
+    </tr>
+  </tbody>
+</table>
 
 Locations:
 
-LOCATION_TABLE_HERE
+<table class="locationTable">
+  <tr>
+    <th>Trail</th>
+    <th>Past</th>
+    <th>Present</th>
+    <th>Future</th>
+    <th>Fortune</th>
+    <th>Miracle</th>
+    <th>Rocks</th>
+    <th>Gen</th>
+    <th>Pitfall</th>
+    <th>Manor</th>
+  </tr>
+  <tr>
+    <td>S</td>
+    <td>S</td>
+    <td>S</td>
+    <td>S</td>
+    <td>S</td>
+    <td>S</td>
+    <td>-</td>
+    <td>-</td>
+    <td>FSPZME</td>
+    <td>S</td>
+  </tr>
+  <tr>
+    <th>Bizarre</th>
+    <th>Onigiri</th>
+    <th>Chasm</th>
+    <th>Well</th>
+    <th>Lake</th>
+    <th>Inori</th>
+    <th>Old</th>
+    <th>Descent</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>S</td>
+    <td>FPZM</td>
+    <td>FPZM</td>
+    <td>-</td>
+    <td>FP</td>
+    <td>S</td>
+    <td>FM</td>
+    <td>SPM</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-### ITEM_NAME
+### Sealing Keisaku
 
-TEXT
+Pretty fast growth rate like Baffle Axe, and its stats are on par with Blurry Stick.<br/>That might look decent on paper among status inflicting weapons, but Sealed status<br/>doesn't stop enemies from attacking, so there's basically no reason to use it as a main weapon.
 
-DETAILS_TABLE_HERE
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Rune</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Sealing Keisaku</td>
+      <td rowspan="7">(Sealing)</td>
+      <td>5</td>
+      <td>12</td>
+      <td>5</td>
+      <td>-</td>
+      <td>3300</td>
+      <td>1155</td>
+      <td rowspan="8">Chance to inflict <a href="/shiren5/system/status-conditions#sealed">Sealed</a><br/>(12%→16%, then +2% per level up)<br/>(Lv8: 28%)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Nice Keisaku</td>
+      <td>7</td>
+      <td>20</td>
+      <td>6</td>
+      <td>200</td>
+      <td>3400</td>
+      <td>1190</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Good Keisaku</td>
+      <td>9</td>
+      <td>29</td>
+      <td>7</td>
+      <td>600</td>
+      <td>3500</td>
+      <td>1225</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Fine Keisaku</td>
+      <td>10</td>
+      <td>39</td>
+      <td>8</td>
+      <td>1200</td>
+      <td>3600</td>
+      <td>1260</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Super Keisaku</td>
+      <td>11</td>
+      <td>50</td>
+      <td>9</td>
+      <td>2400</td>
+      <td>3700</td>
+      <td>1295</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Power Keisaku</td>
+      <td>12</td>
+      <td>62</td>
+      <td>10</td>
+      <td>4800</td>
+      <td>3800</td>
+      <td>1330</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Epic Keisaku</td>
+      <td>13</td>
+      <td>75</td>
+      <td>11</td>
+      <td>9600</td>
+      <td>3900</td>
+      <td>1365</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Divine Keisaku</td>
+      <td>(Sealing)<br/>Rustproof</td>
+      <td>15</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>19200</td>
+      <td>5000</td>
+      <td>1750</td>
+    </tr>
+  </tbody>
+</table>
 
 Locations:
 
-LOCATION_TABLE_HERE
+<table class="locationTable">
+  <tr>
+    <th>Trail</th>
+    <th>Past</th>
+    <th>Present</th>
+    <th>Future</th>
+    <th>Fortune</th>
+    <th>Miracle</th>
+    <th>Rocks</th>
+    <th>Gen</th>
+    <th>Pitfall</th>
+    <th>Manor</th>
+  </tr>
+  <tr>
+    <td>S</td>
+    <td>S</td>
+    <td>S</td>
+    <td>S</td>
+    <td>S</td>
+    <td>S</td>
+    <td>-</td>
+    <td>-</td>
+    <td>FSPZME</td>
+    <td>S</td>
+  </tr>
+  <tr>
+    <th>Bizarre</th>
+    <th>Onigiri</th>
+    <th>Chasm</th>
+    <th>Well</th>
+    <th>Lake</th>
+    <th>Inori</th>
+    <th>Old</th>
+    <th>Descent</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>S</td>
+    <td>FPZM</td>
+    <td>FPZM</td>
+    <td>-</td>
+    <td>FP</td>
+    <td>S</td>
+    <td>FM</td>
+    <td>SPM</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-### ITEM_NAME
+### Baffle Axe
 
-TEXT
+Pretty fast to level up, decent starting base attack, high rune count, and can inflict Confused status.<br/>The chance to inflict Confused status is 12% at Lv1, and 28% at Lv8.<br/>Downside is that Confused status doesn't completely shut down enemies like Asleep status,<br/>but it's still a strong option to use as a main weapon.
 
-DETAILS_TABLE_HERE
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Rune</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Baffle Axe</td>
+      <td rowspan="7">(Confusing)</td>
+      <td>6</td>
+      <td>12</td>
+      <td>7</td>
+      <td>-</td>
+      <td>2000</td>
+      <td>700</td>
+      <td rowspan="8">Chance to inflict <a href="/shiren5/system/status-conditions#confused">Confused</a><br/>(12%→16%, then +2% per level up)<br/>(Lv8: 28%)<br/><br/>Resonance: <a href="/shiren5/item/bracelets#anti-cnf-bracelet">Anti-Cnf. Bracelet</a><br/>(Confusion chance +2%)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Good Baffle Axe</td>
+      <td>8</td>
+      <td>20</td>
+      <td>8</td>
+      <td>200</td>
+      <td>2100</td>
+      <td>735</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Nice Baffle Axe</td>
+      <td>9</td>
+      <td>29</td>
+      <td>9</td>
+      <td>600</td>
+      <td>2200</td>
+      <td>770</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Fine Baffle Axe</td>
+      <td>10</td>
+      <td>39</td>
+      <td>10</td>
+      <td>1200</td>
+      <td>2300</td>
+      <td>805</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Big Baffle Axe</td>
+      <td>12</td>
+      <td>50</td>
+      <td>11</td>
+      <td>2400</td>
+      <td>2400</td>
+      <td>840</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Huge Baffle Axe</td>
+      <td>13</td>
+      <td>62</td>
+      <td>12</td>
+      <td>4800</td>
+      <td>2500</td>
+      <td>875</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Rare Baffle Axe</td>
+      <td>14</td>
+      <td>75</td>
+      <td>13</td>
+      <td>9600</td>
+      <td>2600</td>
+      <td>910</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Epic Baffle Axe</td>
+      <td>(Confusing)<br/>Rustproof</td>
+      <td>16</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>19200</td>
+      <td>3500</td>
+      <td>1225</td>
+    </tr>
+  </tbody>
+</table>
 
 Locations:
 
-LOCATION_TABLE_HERE
+<table class="locationTable">
+  <tr>
+    <th>Trail</th>
+    <th>Past</th>
+    <th>Present</th>
+    <th>Future</th>
+    <th>Fortune</th>
+    <th>Miracle</th>
+    <th>Rocks</th>
+    <th>Gen</th>
+    <th>Pitfall</th>
+    <th>Manor</th>
+  </tr>
+  <tr>
+    <td>S</td>
+    <td>S</td>
+    <td>S</td>
+    <td>S</td>
+    <td>S</td>
+    <td>S</td>
+    <td>-</td>
+    <td>-</td>
+    <td>FSPZME</td>
+    <td>S</td>
+  </tr>
+  <tr>
+    <th>Bizarre</th>
+    <th>Onigiri</th>
+    <th>Chasm</th>
+    <th>Well</th>
+    <th>Lake</th>
+    <th>Inori</th>
+    <th>Old</th>
+    <th>Descent</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>S</td>
+    <td>FPZM</td>
+    <td>FPZM</td>
+    <td>-</td>
+    <td>FP</td>
+    <td>S</td>
+    <td>FM</td>
+    <td>SPM</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-### ITEM_NAME
+### Hatchet
 
-TEXT
+Pretty fast to level up, and has a chance to deal a x2.0 damage critical hit. (22% at Lv1, 38% at Lv8)<br/>However, it's difficult to defeat enemies in one hit if your attack is low, so it can be a little unreliable.<br/>It gains <span class="green_text">Paralyzing</span> at Lv8, which can help cover for cases where a critical hit doesn't defeat an enemy.<br/>Prioritize type effective runes and <span class="green_text">Costly</span> instead of status inflicting runes if using it as a main weapon.<br/><span class="green_text">Healing</span> and <span class="green_text">Dispersing</span> are also good rune options, but are extremely rare to come across.
 
-DETAILS_TABLE_HERE
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Rune</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Hatchet</td>
+      <td rowspan="4">(Critical)</td>
+      <td>5</td>
+      <td>8</td>
+      <td>4</td>
+      <td>-</td>
+      <td>5000</td>
+      <td>1750</td>
+      <td rowspan="8">Chance to deal a critical hit<br/>(22%→25%→28%, then +2% per level up)<br/>(Lv8: 38%)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Battle Axe</td>
+      <td>6</td>
+      <td>15</td>
+      <td>5</td>
+      <td>200</td>
+      <td>5100</td>
+      <td>1785</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Tabar</td>
+      <td>7</td>
+      <td>22</td>
+      <td>6</td>
+      <td>600</td>
+      <td>5200</td>
+      <td>1820</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>War Axe</td>
+      <td>8</td>
+      <td>30</td>
+      <td>7</td>
+      <td>1200</td>
+      <td>5300</td>
+      <td>1855</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Tomahawk</td>
+      <td rowspan="3">(Critical)<br/>Lively</td>
+      <td>9</td>
+      <td>38</td>
+      <td>8</td>
+      <td>2400</td>
+      <td>7400</td>
+      <td>2590</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Parashu</td>
+      <td>10</td>
+      <td>46</td>
+      <td>9</td>
+      <td>4800</td>
+      <td>7500</td>
+      <td>2625</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Pollaxe</td>
+      <td>11</td>
+      <td>55</td>
+      <td>10</td>
+      <td>9600</td>
+      <td>7600</td>
+      <td>2660</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>War God's Axe</td>
+      <td>(Critical)<br/>Lively<br/>Paralyzing</td>
+      <td>12</td>
+      <td>99</td>
+      <td>11</td>
+      <td>19200</td>
+      <td>9500</td>
+      <td>3325</td>
+    </tr>
+  </tbody>
+</table>
 
 Locations:
 
-LOCATION_TABLE_HERE
+<table class="locationTable">
+  <tr>
+    <th>Trail</th>
+    <th>Past</th>
+    <th>Present</th>
+    <th>Future</th>
+    <th>Fortune</th>
+    <th>Miracle</th>
+    <th>Rocks</th>
+    <th>Gen</th>
+    <th>Pitfall</th>
+    <th>Manor</th>
+  </tr>
+  <tr>
+    <td>E</td>
+    <td>E</td>
+    <td>E</td>
+    <td>E</td>
+    <td>E</td>
+    <td>-</td>
+    <td>-</td>
+    <td>E</td>
+    <td>SE</td>
+    <td>E</td>
+  </tr>
+  <tr>
+    <th>Bizarre</th>
+    <th>Onigiri</th>
+    <th>Chasm</th>
+    <th>Well</th>
+    <th>Lake</th>
+    <th>Inori</th>
+    <th>Old</th>
+    <th>Descent</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>E</td>
+    <td>E</td>
+    <td>SE</td>
+    <td>E</td>
+    <td>SE</td>
+    <td>E</td>
+    <td>FME</td>
+    <td>E</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-### ITEM_NAME
+### Shoddy Dirk
 
-TEXT
+Very high base attack, but quickly degrades if used normally.<br/>It's best to seal it and use it as a raw stat weapon for early game.
 
-DETAILS_TABLE_HERE
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Rune</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Shoddy Dirk</td>
+      <td rowspan="7">(Expendable)</td>
+      <td>30</td>
+      <td>10</td>
+      <td>10</td>
+      <td>-</td>
+      <td>3000</td>
+      <td>1050</td>
+      <td rowspan="8">Decrease weapon upgrade value<br/>by 1 every time you hit an enemy.<br/><br/>Resonance: <a href="/shiren5/item/shields#shoddy-plank">Shoddy Plank</a><br/>(Equipped items won't rust)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Shoddy Dagger</td>
+      <td>31</td>
+      <td>20</td>
+      <td>10</td>
+      <td>1000</td>
+      <td>3200</td>
+      <td>1120</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Shoddy Blade</td>
+      <td>32</td>
+      <td>30</td>
+      <td>10</td>
+      <td>2000</td>
+      <td>3400</td>
+      <td>1190</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Shoddy Edge</td>
+      <td>33</td>
+      <td>40</td>
+      <td>10</td>
+      <td>4000</td>
+      <td>3600</td>
+      <td>1260</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Shoddy Rapier</td>
+      <td>34</td>
+      <td>50</td>
+      <td>10</td>
+      <td>8000</td>
+      <td>3800</td>
+      <td>1330</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Shoddy Sword</td>
+      <td>35</td>
+      <td>60</td>
+      <td>10</td>
+      <td>16000</td>
+      <td>4000</td>
+      <td>1400</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Shoddy Katana</td>
+      <td>36</td>
+      <td>70</td>
+      <td>10</td>
+      <td>24000</td>
+      <td>4200</td>
+      <td>1470</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Worthy Sword</td>
+      <td>(Expendable)<br/>Critical<br/>Quick Hitting</td>
+      <td>37</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>48000</td>
+      <td>7000</td>
+      <td>2450</td>
+    </tr>
+  </tbody>
+</table>
 
 Locations:
 
-LOCATION_TABLE_HERE
+<table class="locationTable">
+  <tr>
+    <th>Trail</th>
+    <th>Past</th>
+    <th>Present</th>
+    <th>Future</th>
+    <th>Fortune</th>
+    <th>Miracle</th>
+    <th>Rocks</th>
+    <th>Gen</th>
+    <th>Pitfall</th>
+    <th>Manor</th>
+  </tr>
+  <tr>
+    <td>S</td>
+    <td>S</td>
+    <td>S</td>
+    <td>S</td>
+    <td>S</td>
+    <td>S</td>
+    <td>-</td>
+    <td>S</td>
+    <td>SE</td>
+    <td>FE</td>
+  </tr>
+  <tr>
+    <th>Bizarre</th>
+    <th>Onigiri</th>
+    <th>Chasm</th>
+    <th>Well</th>
+    <th>Lake</th>
+    <th>Inori</th>
+    <th>Old</th>
+    <th>Descent</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>S</td>
+    <td>S</td>
+    <td>FSPZM</td>
+    <td>-</td>
+    <td>FSP</td>
+    <td>S</td>
+    <td>S</td>
+    <td>SM</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-### ITEM_NAME
+### Glass Dirk
 
-TEXT
+Very high base attack, but quickly breaks if used normally.<br/>It's best to seal it and use it as a raw stat weapon for early game.<br/>Its resonance effect with Glass Buckler nullifies magic bullets received,<br/>so that can be used on floors where high level DJ Mages appear on rare occasions.
 
-DETAILS_TABLE_HERE
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Rune</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Glass Dirk</td>
+      <td rowspan="7">(Unsound)</td>
+      <td>35</td>
+      <td>15</td>
+      <td>4</td>
+      <td>-</td>
+      <td>5000</td>
+      <td>1750</td>
+      <td rowspan="8">Chance for the weapon<br/>to break when attacking.<br/>(50%, -2% per level up | Lv8: 36%)<br/><br/>Resonance: <a href="/shiren5/item/shields#glass-buckler">Glass Buckler</a><br/>(Nullifies magic bullets received)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Glass Dagger</td>
+      <td>36</td>
+      <td>25</td>
+      <td>5</td>
+      <td>1000</td>
+      <td>5500</td>
+      <td>1925</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Glass Blade</td>
+      <td>37</td>
+      <td>35</td>
+      <td>6</td>
+      <td>2000</td>
+      <td>6000</td>
+      <td>2100</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Glass Edge</td>
+      <td>38</td>
+      <td>45</td>
+      <td>7</td>
+      <td>4000</td>
+      <td>6500</td>
+      <td>2275</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Glass Sword</td>
+      <td>39</td>
+      <td>55</td>
+      <td>8</td>
+      <td>8000</td>
+      <td>7000</td>
+      <td>2450</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Fragile Sword</td>
+      <td>40</td>
+      <td>65</td>
+      <td>9</td>
+      <td>16000</td>
+      <td>7500</td>
+      <td>2625</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Delicate Sword</td>
+      <td>41</td>
+      <td>75</td>
+      <td>10</td>
+      <td>24000</td>
+      <td>8000</td>
+      <td>2800</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Frangible Edge</td>
+      <td>(Unsound)<br/>Stupefying</td>
+      <td>42</td>
+      <td>99</td>
+      <td>11</td>
+      <td>48000</td>
+      <td>17000</td>
+      <td>5950</td>
+    </tr>
+  </tbody>
+</table>
 
 Locations:
 
-LOCATION_TABLE_HERE
+<table class="locationTable">
+  <tr>
+    <th>Trail</th>
+    <th>Past</th>
+    <th>Present</th>
+    <th>Future</th>
+    <th>Fortune</th>
+    <th>Miracle</th>
+    <th>Rocks</th>
+    <th>Gen</th>
+    <th>Pitfall</th>
+    <th>Manor</th>
+  </tr>
+  <tr>
+    <td>E</td>
+    <td>E</td>
+    <td>E</td>
+    <td>E</td>
+    <td>E</td>
+    <td>-</td>
+    <td>-</td>
+    <td>E</td>
+    <td>SE</td>
+    <td>E</td>
+  </tr>
+  <tr>
+    <th>Bizarre</th>
+    <th>Onigiri</th>
+    <th>Chasm</th>
+    <th>Well</th>
+    <th>Lake</th>
+    <th>Inori</th>
+    <th>Old</th>
+    <th>Descent</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>E</td>
+    <td>E</td>
+    <td>SE</td>
+    <td>E</td>
+    <td>SE</td>
+    <td>E</td>
+    <td>E</td>
+    <td>SE</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-### ITEM_NAME
+### Dirk of Debts
 
-TEXT
+Direct attacks deal more damage, but Gitan is subtracted every time you land an attack.<br/>The rate is 30G / x1.3 damage at Lv1, and 250G / x2.0 damage at Lv8.<br/>If you don't have enough Gitan, both attack power and damage multiplier fall to 0.<br/>You'll want to steal from every store you come across if using it as a main weapon.<br/>Don't read unidentified scrolls in dungeons where Bankruptcy Scroll can appear.
 
-DETAILS_TABLE_HERE
+It levels up pretty quickly and gains 2 rune slots per level up, so synthesis isn't an issue.<br/>Prioritize type effective runes over status runes so that it takes fewer hits to defeat enemies,<br/>and use arrows to soften enemies first if you can't defeat them with one direct attack.<br/>It's best to transition to it mid-game (Mixergon zone or so) instead of trying to use it right away,<br/>since using it early will just make you run out of Gitan and end up stranded without a main weapon.
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Rune</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Dirk of Debts</td>
+      <td rowspan="8">(Costly)</td>
+      <td>7</td>
+      <td>12</td>
+      <td>4</td>
+      <td>-</td>
+      <td>3000</td>
+      <td>1050</td>
+      <td rowspan="8">Pay Gitan per attack to boost damage.<br/>0 attack if you don't have enough Gitan.<br/>(130% and 30G, +10% and ~30G per level up)<br/>(Lv8: 200% and 250G)<br/><br/>Resonance: <a href="/shiren5/item/shields#paupers-plank">Pauper's Plank</a><br/>(20% chance for foes to drop 200-399 Gitan)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Bankrupt Blade</td>
+      <td>9</td>
+      <td>20</td>
+      <td>6</td>
+      <td>300</td>
+      <td>3300</td>
+      <td>1155</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Scarcity Sword</td>
+      <td>10</td>
+      <td>29</td>
+      <td>8</td>
+      <td>600</td>
+      <td>3600</td>
+      <td>1260</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Gitan Eater</td>
+      <td>11</td>
+      <td>39</td>
+      <td>10</td>
+      <td>1200</td>
+      <td>3900</td>
+      <td>1365</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Gitan Swallower</td>
+      <td>13</td>
+      <td>50</td>
+      <td>12</td>
+      <td>2400</td>
+      <td>4200</td>
+      <td>1470</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Gitan Devourer</td>
+      <td>14</td>
+      <td>62</td>
+      <td>14</td>
+      <td>4800</td>
+      <td>4500</td>
+      <td>1575</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Gitan Gulper</td>
+      <td>15</td>
+      <td>75</td>
+      <td>16</td>
+      <td>9600</td>
+      <td>4800</td>
+      <td>1680</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Gitan Gorger</td>
+      <td>17</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>19200</td>
+      <td>5400</td>
+      <td>1890</td>
+    </tr>
+  </tbody>
+</table>
 
 Locations:
 
-LOCATION_TABLE_HERE
+- Tanuki Password: <span class="green_text">Treasury</span>
 
-### ITEM_NAME
+<br/>
 
-TEXT
+<table class="locationTable">
+  <tr>
+    <th>Trail</th>
+    <th>Past</th>
+    <th>Present</th>
+    <th>Future</th>
+    <th>Fortune</th>
+    <th>Miracle</th>
+    <th>Rocks</th>
+    <th>Gen</th>
+    <th>Pitfall</th>
+    <th>Manor</th>
+  </tr>
+  <tr>
+    <td>E</td>
+    <td>E</td>
+    <td>E</td>
+    <td>E</td>
+    <td>E</td>
+    <td>E</td>
+    <td>-</td>
+    <td>E</td>
+    <td>FSPZME</td>
+    <td>E</td>
+  </tr>
+  <tr>
+    <th>Bizarre</th>
+    <th>Onigiri</th>
+    <th>Chasm</th>
+    <th>Well</th>
+    <th>Lake</th>
+    <th>Inori</th>
+    <th>Old</th>
+    <th>Descent</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>SE</td>
+    <td>SE</td>
+    <td>FSPZM</td>
+    <td>-</td>
+    <td>FSP</td>
+    <td>E</td>
+    <td>SE</td>
+    <td>SM</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-DETAILS_TABLE_HERE
+### Extreme Sword
+
+Direct attacks have lower accuracy, but always deal a critical hit. (50% at Lv1, 71% at Lv8)<br/>It's useless as a rune, but has the potential to be extremely strong as a main weapon.<br/>However, some late game monsters can survive critical hits, and relying on even 71% accuracy<br/>introduces a lot of risk, so it's pretty much only used by enthusiasts.
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Rune</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Extreme Sword</td>
+      <td rowspan="8">(Focusing)</td>
+      <td>20</td>
+      <td>12</td>
+      <td>5</td>
+      <td>-</td>
+      <td>2000</td>
+      <td>700</td>
+      <td rowspan="8">Attacks always deal a critical hit,<br/>but you also have lower accuracy.<br/>(50% accuracy, +3% per level up | Lv8: 71%)<br/><br/>Resonance: <a href="/shiren5/item/shields#rush-shield">Rush Shield</a><br/>(Equip 2 bracelets)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Stressful Blade</td>
+      <td>22</td>
+      <td>20</td>
+      <td>6</td>
+      <td>1000</td>
+      <td>2400</td>
+      <td>840</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Stressful Sword</td>
+      <td>23</td>
+      <td>29</td>
+      <td>7</td>
+      <td>2000</td>
+      <td>2800</td>
+      <td>980</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Stress Buster</td>
+      <td>24</td>
+      <td>39</td>
+      <td>8</td>
+      <td>4000</td>
+      <td>3200</td>
+      <td>1120</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Risky Blade</td>
+      <td>26</td>
+      <td>50</td>
+      <td>9</td>
+      <td>7000</td>
+      <td>3600</td>
+      <td>1260</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Risky Sword</td>
+      <td>27</td>
+      <td>62</td>
+      <td>10</td>
+      <td>11000</td>
+      <td>4000</td>
+      <td>1400</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Gambler's Edge</td>
+      <td>28</td>
+      <td>75</td>
+      <td>11</td>
+      <td>16000</td>
+      <td>4400</td>
+      <td>1540</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>All-in Sword</td>
+      <td>30</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>22000</td>
+      <td>5000</td>
+      <td>1750</td>
+    </tr>
+  </tbody>
+</table>
 
 Locations:
 
-LOCATION_TABLE_HERE
+- Tanuki Password: <span class="green_text">Critical</span>
 
-### ITEM_NAME
+<br/>
 
-TEXT
+<table class="locationTable">
+  <tr>
+    <th>Trail</th>
+    <th>Past</th>
+    <th>Present</th>
+    <th>Future</th>
+    <th>Fortune</th>
+    <th>Miracle</th>
+    <th>Rocks</th>
+    <th>Gen</th>
+    <th>Pitfall</th>
+    <th>Manor</th>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>FSPZME</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Bizarre</th>
+    <th>Onigiri</th>
+    <th>Chasm</th>
+    <th>Well</th>
+    <th>Lake</th>
+    <th>Inori</th>
+    <th>Old</th>
+    <th>Descent</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>S</td>
+    <td>FPZM</td>
+    <td>FPZM</td>
+    <td>-</td>
+    <td>FP</td>
+    <td>-</td>
+    <td>FM</td>
+    <td>SM</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-DETAILS_TABLE_HERE
+### Violent Blade
+
+Having this equipped makes you unable to move when you're next to a monster.<br/>This drawback can easily end your adventure, especially if you encounter a Monster House.<br/>However, its high starting base attack can be useful early game before you find a better weapon.<br/>Equipping a Mojo Bracelet with this weapon grants a chance to inflict Slow status to enemies,<br/>but since you can't back away, it's not as good as it might appear at first glance.
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Rune</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Violent Blade</td>
+      <td rowspan="5">(Obsessive)</td>
+      <td>12</td>
+      <td>12</td>
+      <td>6</td>
+      <td>-</td>
+      <td>2500</td>
+      <td>875</td>
+      <td rowspan="8">Prevents movement when<br/>next to a monster.<br/><br/>Resonance: <a href="/shiren5/item/bracelets#mojo-bracelet">Mojo Bracelet</a><br/>(Chance to slow foes you hit)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Violent Katana</td>
+      <td>13</td>
+      <td>20</td>
+      <td>7</td>
+      <td>300</td>
+      <td>2600</td>
+      <td>910</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Brutal Blade</td>
+      <td>14</td>
+      <td>29</td>
+      <td>8</td>
+      <td>800</td>
+      <td>2700</td>
+      <td>945</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Cursed Cleaver</td>
+      <td>15</td>
+      <td>39</td>
+      <td>9</td>
+      <td>1600</td>
+      <td>2800</td>
+      <td>980</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Vile Katana</td>
+      <td>16</td>
+      <td>50</td>
+      <td>10</td>
+      <td>3200</td>
+      <td>2900</td>
+      <td>1015</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Evil Blade</td>
+      <td rowspan="2">(Obsessive)<br/>Anti-Cyclops</td>
+      <td>17</td>
+      <td>62</td>
+      <td>11</td>
+      <td>6400</td>
+      <td>3500</td>
+      <td>1225</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Evil Katana</td>
+      <td>18</td>
+      <td>75</td>
+      <td>12</td>
+      <td>12800</td>
+      <td>3600</td>
+      <td>1260</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Muramasa</td>
+      <td>(Obsessive)<br/>Anti-Cyclops<br/>Blinding</td>
+      <td>20</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>25600</td>
+      <td>5000</td>
+      <td>1750</td>
+    </tr>
+  </tbody>
+</table>
 
 Locations:
 
-LOCATION_TABLE_HERE
+- Tanuki Password: <span class="green_text">Cursed Blade</span>
 
-### ITEM_NAME
+<br/>
 
-TEXT
+<table class="locationTable">
+  <tr>
+    <th>Trail</th>
+    <th>Past</th>
+    <th>Present</th>
+    <th>Future</th>
+    <th>Fortune</th>
+    <th>Miracle</th>
+    <th>Rocks</th>
+    <th>Gen</th>
+    <th>Pitfall</th>
+    <th>Manor</th>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>FSPZM</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Bizarre</th>
+    <th>Onigiri</th>
+    <th>Chasm</th>
+    <th>Well</th>
+    <th>Lake</th>
+    <th>Inori</th>
+    <th>Old</th>
+    <th>Descent</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>S</td>
+    <td>FPZM</td>
+    <td>FPZM</td>
+    <td>-</td>
+    <td>FP</td>
+    <td>-</td>
+    <td>FM</td>
+    <td>SPZM</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-DETAILS_TABLE_HERE
+### Breeze Blade
+
+Very low base attack, and slow to level up.<br/>It doesn't gain any notable runes through level ups, and the Tri-direction rune<br/>offers an identical effect, so there's no reason to use this as a main weapon.
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Rune</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Breeze Blade</td>
+      <td rowspan="7">(Tri-direction)</td>
+      <td>2</td>
+      <td>12</td>
+      <td>6</td>
+      <td>-</td>
+      <td>8000</td>
+      <td>2800</td>
+      <td rowspan="8">Attacks in 3 forward directions.<br/><br/>Resonance: <a href="/shiren5/item/shields#midnight-shield">Midnight Shield</a><br/>(Equipped items won't rust)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Wind Cutter</td>
+      <td>4</td>
+      <td>20</td>
+      <td>7</td>
+      <td>400</td>
+      <td>8100</td>
+      <td>2835</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Gust Gouger</td>
+      <td>6</td>
+      <td>29</td>
+      <td>8</td>
+      <td>800</td>
+      <td>8200</td>
+      <td>2870</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Flurry Flayer</td>
+      <td>8</td>
+      <td>39</td>
+      <td>9</td>
+      <td>1600</td>
+      <td>8300</td>
+      <td>2905</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Gale Gutter</td>
+      <td>10</td>
+      <td>50</td>
+      <td>10</td>
+      <td>3200</td>
+      <td>8400</td>
+      <td>2940</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Storm Slicer</td>
+      <td>11</td>
+      <td>62</td>
+      <td>11</td>
+      <td>6400</td>
+      <td>8500</td>
+      <td>2975</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Typhoon Tearer</td>
+      <td>12</td>
+      <td>75</td>
+      <td>12</td>
+      <td>12800</td>
+      <td>8600</td>
+      <td>3010</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Deathwind</td>
+      <td>(Tri-direction)<br/>Energizing</td>
+      <td>13</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>25600</td>
+      <td>12500</td>
+      <td>4375</td>
+    </tr>
+  </tbody>
+</table>
 
 Locations:
 
-LOCATION_TABLE_HERE
+<table class="locationTable">
+  <tr>
+    <th>Trail</th>
+    <th>Past</th>
+    <th>Present</th>
+    <th>Future</th>
+    <th>Fortune</th>
+    <th>Miracle</th>
+    <th>Rocks</th>
+    <th>Gen</th>
+    <th>Pitfall</th>
+    <th>Manor</th>
+  </tr>
+  <tr>
+    <td>E</td>
+    <td>E</td>
+    <td>E</td>
+    <td>E</td>
+    <td>E</td>
+    <td>-</td>
+    <td>Expert</td>
+    <td>E</td>
+    <td>FSPZME</td>
+    <td>E</td>
+  </tr>
+  <tr>
+    <th>Bizarre</th>
+    <th>Onigiri</th>
+    <th>Chasm</th>
+    <th>Well</th>
+    <th>Lake</th>
+    <th>Inori</th>
+    <th>Old</th>
+    <th>Descent</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>E</td>
+    <td>SE</td>
+    <td>FSPZME</td>
+    <td>E</td>
+    <td>FSPE</td>
+    <td>E</td>
+    <td>FME</td>
+    <td>E</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-### ITEM_NAME
+### Burning Blade
 
-TEXT
+Swing the weapon when your HP is full to shoot a flame that deals fixed damage. (100% accuracy)<br/>Pair it with a Monster Detector or Monsterphobic to safely clear out enemies from a distance.<br/>Deals 8 damage at Lv1 (10 with resonance), and 25 damage at Lv8 (30 with resonance),<br/>and the fixed damage can defeat Gitan Mamels in one hit from Lv3. (Lv2 with resonance)
 
-DETAILS_TABLE_HERE
+Despite its powerful ability, it does have some drawbacks.<br/>It's easy to accidentally step on traps even when you check for them due to the flame's lag,<br/>and you won't earn any weapon or shield experience if you defeat an enemy using flame damage.<br/>It's easy to accidentally hit a Shopkeeper with a flame, which can potentially end an adventure.<br/>Lastly, it has higher base attack, but a low starting rune count and is very slow to level up.
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Rune</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Burning Blade</td>
+      <td rowspan="4">(Flame Shot)</td>
+      <td>9</td>
+      <td>12</td>
+      <td>4</td>
+      <td>-</td>
+      <td>10000</td>
+      <td>3500</td>
+      <td rowspan="8">Shoot a flame when your HP is full.<br/>(Damage: 8, 10, 12, 14, 16, 18, 21, 25)<br/><br/>Resonance: <a href="/shiren5/item/shields#swap-shield">Swap Shield</a><br/>(Raise flame damage by 1 level)<br/>(30 damage at Lv8 / with Blue Flame rune)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Burning Sword</td>
+      <td>10</td>
+      <td>20</td>
+      <td>5</td>
+      <td>1000</td>
+      <td>11000</td>
+      <td>3850</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Flame Sword</td>
+      <td>11</td>
+      <td>29</td>
+      <td>6</td>
+      <td>2000</td>
+      <td>12000</td>
+      <td>4200</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Flame Katana</td>
+      <td>12</td>
+      <td>39</td>
+      <td>7</td>
+      <td>4000</td>
+      <td>13000</td>
+      <td>4550</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Fire Sword</td>
+      <td rowspan="3">(Flame Shot)<br/>Uplifting</td>
+      <td>13</td>
+      <td>50</td>
+      <td>8</td>
+      <td>7000</td>
+      <td>15000</td>
+      <td>5250</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Fire Saber</td>
+      <td>14</td>
+      <td>62</td>
+      <td>9</td>
+      <td>11000</td>
+      <td>16000</td>
+      <td>5600</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Scorch Sword</td>
+      <td>15</td>
+      <td>75</td>
+      <td>10</td>
+      <td>16000</td>
+      <td>17000</td>
+      <td>5950</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Hellfire Katana</td>
+      <td>(Flame Shot)<br/>Uplifting<br/>Anti-Explode</td>
+      <td>16</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>22000</td>
+      <td>21500</td>
+      <td>7525</td>
+    </tr>
+  </tbody>
+</table>
 
 Locations:
 
-LOCATION_TABLE_HERE
+<table class="locationTable">
+  <tr>
+    <th>Trail</th>
+    <th>Past</th>
+    <th>Present</th>
+    <th>Future</th>
+    <th>Fortune</th>
+    <th>Miracle</th>
+    <th>Rocks</th>
+    <th>Gen</th>
+    <th>Pitfall</th>
+    <th>Manor</th>
+  </tr>
+  <tr>
+    <td>E</td>
+    <td>E</td>
+    <td>E</td>
+    <td>E</td>
+    <td>E</td>
+    <td>-</td>
+    <td>Expert</td>
+    <td>E</td>
+    <td>SE</td>
+    <td>E</td>
+  </tr>
+  <tr>
+    <th>Bizarre</th>
+    <th>Onigiri</th>
+    <th>Chasm</th>
+    <th>Well</th>
+    <th>Lake</th>
+    <th>Inori</th>
+    <th>Old</th>
+    <th>Descent</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>E</td>
+    <td>E</td>
+    <td>FSPZME</td>
+    <td>E</td>
+    <td>FSPE</td>
+    <td>E</td>
+    <td>SE</td>
+    <td>E</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-### ITEM_NAME
+### Wonder Pick
 
-TEXT
+Incredibly rare in the base game, but can be obtained easily by clearing <a href="/shiren5/dungeon/merchants-hideout">Merchant's Hideout</a>.<br/>It's mostly a weapon that can only be used in dungeons that allow carry-in items,<br/>so there's no reason to use it as a main weapon.
 
-DETAILS_TABLE_HERE
+However, you'll need to use its resonance effect to attain 630 HP for <a href="/shiren5/system/adventure-footprints">Adventure Footprints</a><br/>and level it to Lv8 for the Item Book if you're a completionist, so don't synthesize it right away.
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Rune</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Wonder Pick</td>
+      <td rowspan="4">(Max Wall Dig)</td>
+      <td>7</td>
+      <td>12</td>
+      <td>5</td>
+      <td>-</td>
+      <td>10000</td>
+      <td>3500</td>
+      <td rowspan="8">Can dig holes in walls,<br/>and will never break.<br/><br/>Resonance: <a href="/shiren5/item/shields#nirvana-board">Nirvana Board</a><br/>(+30 max HP)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Wonder Buster</td>
+      <td>9</td>
+      <td>20</td>
+      <td>6</td>
+      <td>1000</td>
+      <td>12000</td>
+      <td>4200</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Wonder Breaker</td>
+      <td>11</td>
+      <td>29</td>
+      <td>7</td>
+      <td>2000</td>
+      <td>14000</td>
+      <td>4900</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Wonder Crusher</td>
+      <td>13</td>
+      <td>39</td>
+      <td>8</td>
+      <td>4000</td>
+      <td>16000</td>
+      <td>5600</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Wonder Basher</td>
+      <td rowspan="4">(Max Wall Dig)<br/>Blinding</td>
+      <td>15</td>
+      <td>50</td>
+      <td>9</td>
+      <td>8000</td>
+      <td>19000</td>
+      <td>6650</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Wonder Masher</td>
+      <td>16</td>
+      <td>62</td>
+      <td>10</td>
+      <td>16000</td>
+      <td>21000</td>
+      <td>7350</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Wonder Ruiner</td>
+      <td>17</td>
+      <td>75</td>
+      <td>11</td>
+      <td>32000</td>
+      <td>23000</td>
+      <td>8050</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Wonder Wreckr</td>
+      <td>18</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>64000</td>
+      <td>26000</td>
+      <td>9100</td>
+    </tr>
+  </tbody>
+</table>
 
 Locations:
 
-LOCATION_TABLE_HERE
+- Merchant's Hideout (Clear reward)
 
-### ITEM_NAME
+<br/>
 
-TEXT
+<table class="locationTable">
+  <tr>
+    <th>Trail</th>
+    <th>Past</th>
+    <th>Present</th>
+    <th>Future</th>
+    <th>Fortune</th>
+    <th>Miracle</th>
+    <th>Rocks</th>
+    <th>Gen</th>
+    <th>Pitfall</th>
+    <th>Manor</th>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Bizarre</th>
+    <th>Onigiri</th>
+    <th>Chasm</th>
+    <th>Well</th>
+    <th>Lake</th>
+    <th>Inori</th>
+    <th>Old</th>
+    <th>Descent</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>SE</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-DETAILS_TABLE_HERE
+### Sturdy Hammer
+
+Obtained by clearing <a href="/shiren5/dungeon/bizarre-tower">Bizarre Tower</a>.<br/>Can only be used in dungeons that allow carry-in items, so there's no reason to use it as a main weapon.<br/>Its ability is identical to Old Mallet, but simply never breaks.
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Rune</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Sturdy Hammer</td>
+      <td rowspan="4">(Trap Killing)</td>
+      <td>7</td>
+      <td>12</td>
+      <td>5</td>
+      <td>-</td>
+      <td>15000</td>
+      <td>5250</td>
+      <td rowspan="8">Can destroy traps,<br/>and will never break.</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Plain Hammer</td>
+      <td>8</td>
+      <td>20</td>
+      <td>6</td>
+      <td>1000</td>
+      <td>16000</td>
+      <td>5600</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Nice Hammer</td>
+      <td>10</td>
+      <td>29</td>
+      <td>7</td>
+      <td>2000</td>
+      <td>17000</td>
+      <td>5950</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Good Hammer</td>
+      <td>11</td>
+      <td>39</td>
+      <td>8</td>
+      <td>4000</td>
+      <td>18000</td>
+      <td>6300</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Fine Hammer</td>
+      <td rowspan="4">(Trap Killing)<br/>Confusing</td>
+      <td>12</td>
+      <td>50</td>
+      <td>9</td>
+      <td>8000</td>
+      <td>20000</td>
+      <td>7000</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Strong Hammer</td>
+      <td>13</td>
+      <td>62</td>
+      <td>10</td>
+      <td>16000</td>
+      <td>21000</td>
+      <td>7350</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Steel Hammer</td>
+      <td>15</td>
+      <td>75</td>
+      <td>11</td>
+      <td>32000</td>
+      <td>22000</td>
+      <td>7700</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Epic Hammer</td>
+      <td>17</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>64000</td>
+      <td>26000</td>
+      <td>9100</td>
+    </tr>
+  </tbody>
+</table>
 
 Locations:
 
-LOCATION_TABLE_HERE
+- Bizarre Tower (Clear reward)
 
-### ITEM_NAME
+<br/>
 
-TEXT
+<table class="locationTable">
+  <tr>
+    <th>Trail</th>
+    <th>Past</th>
+    <th>Present</th>
+    <th>Future</th>
+    <th>Fortune</th>
+    <th>Miracle</th>
+    <th>Rocks</th>
+    <th>Gen</th>
+    <th>Pitfall</th>
+    <th>Manor</th>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Bizarre</th>
+    <th>Onigiri</th>
+    <th>Chasm</th>
+    <th>Well</th>
+    <th>Lake</th>
+    <th>Inori</th>
+    <th>Old</th>
+    <th>Descent</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-DETAILS_TABLE_HERE
+### True Knife
+
+Obtained by clearing <a href="/shiren5/dungeon/pitfall-of-life">Pitfall of Life</a>.<br/>Can only be used in dungeons that allow carry-in items, so there's no reason to use it as a main weapon.<br/>Its ability ensures that your direct attacks always connect. (<span class="green_text">Focusing</span> overrides this ability)
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Rune</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>True Knife</td>
+      <td rowspan="7">(Accurate)</td>
+      <td>1</td>
+      <td>12</td>
+      <td>10</td>
+      <td>-</td>
+      <td>20000</td>
+      <td>7000</td>
+      <td rowspan="8">Attacks always hit.<br/><br/>Resonance: <a href="/shiren5/item/bracelets#anti-parry-brce">Anti-Parry Brce.</a><br/>(Thrown items always hit)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>True Blade</td>
+      <td>2</td>
+      <td>20</td>
+      <td>11</td>
+      <td>1000</td>
+      <td>21000</td>
+      <td>7350</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>True Katana</td>
+      <td>3</td>
+      <td>29</td>
+      <td>12</td>
+      <td>2000</td>
+      <td>22000</td>
+      <td>7700</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>True Rapier</td>
+      <td>4</td>
+      <td>39</td>
+      <td>13</td>
+      <td>4000</td>
+      <td>23000</td>
+      <td>8050</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>True Sword</td>
+      <td>5</td>
+      <td>50</td>
+      <td>14</td>
+      <td>8000</td>
+      <td>24000</td>
+      <td>8400</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>True Nodachi</td>
+      <td>6</td>
+      <td>62</td>
+      <td>15</td>
+      <td>16000</td>
+      <td>25000</td>
+      <td>8750</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>True Zanbatou</td>
+      <td>7</td>
+      <td>75</td>
+      <td>16</td>
+      <td>32000</td>
+      <td>26000</td>
+      <td>9100</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>True Striker-X</td>
+      <td>(Accurate)<br/>Critical</td>
+      <td>8</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>64000</td>
+      <td>31000</td>
+      <td>10850</td>
+    </tr>
+  </tbody>
+</table>
 
 Locations:
 
-LOCATION_TABLE_HERE
+- Pitfall of Life (Clear reward)
 
-### ITEM_NAME
+<br/>
 
-TEXT
+<table class="locationTable">
+  <tr>
+    <th>Trail</th>
+    <th>Past</th>
+    <th>Present</th>
+    <th>Future</th>
+    <th>Fortune</th>
+    <th>Miracle</th>
+    <th>Rocks</th>
+    <th>Gen</th>
+    <th>Pitfall</th>
+    <th>Manor</th>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Bizarre</th>
+    <th>Onigiri</th>
+    <th>Chasm</th>
+    <th>Well</th>
+    <th>Lake</th>
+    <th>Inori</th>
+    <th>Old</th>
+    <th>Descent</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-DETAILS_TABLE_HERE
+### Pathetic Blade
+
+Extremely slow to level up, and is nearly worthless before Lv8.<br/>It unfortunately loses its 2 bracelet resonance effect when it reaches Lv8,<br/>and instead makes monsters occasionally take 1 step back.<br/>Basically, it's only used in dungeons that allow carry-in items by enthusiasts who like the design.
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Rune</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Pathetic Blade</td>
+      <td rowspan="8">-</td>
+      <td>2</td>
+      <td>12</td>
+      <td>1</td>
+      <td>-</td>
+      <td>300</td>
+      <td>105</td>
+      <td rowspan="7">Resonance: <a href="/shiren5/item/shields#pathetic-shield">Pathetic Shield</a><br/>(Equip 2 bracelets)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Awful Blade</td>
+      <td>3</td>
+      <td>20</td>
+      <td>2</td>
+      <td>1000</td>
+      <td>400</td>
+      <td>140</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Battered Blade</td>
+      <td>4</td>
+      <td>29</td>
+      <td>3</td>
+      <td>2000</td>
+      <td>500</td>
+      <td>175</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Rusty Sword</td>
+      <td>5</td>
+      <td>39</td>
+      <td>4</td>
+      <td>4000</td>
+      <td>600</td>
+      <td>210</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Worn Sword</td>
+      <td>6</td>
+      <td>50</td>
+      <td>5</td>
+      <td>8000</td>
+      <td>700</td>
+      <td>245</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Rickety Sword</td>
+      <td>7</td>
+      <td>62</td>
+      <td>6</td>
+      <td>16000</td>
+      <td>800</td>
+      <td>280</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Dingy Sword</td>
+      <td>8</td>
+      <td>75</td>
+      <td>7</td>
+      <td>32000</td>
+      <td>900</td>
+      <td>315</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Rising Sun</td>
+      <td>38</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>64000</td>
+      <td>23000</td>
+      <td>8050</td>
+      <td>Resonance: <a href="/shiren5/item/shields#pathetic-shield">Rising Sun Shld</a><br/>(Adjacent foes may retreat)</td>
+    </tr>
+  </tbody>
+</table>
 
 Locations:
 
-LOCATION_TABLE_HERE
+<table class="locationTable">
+  <tr>
+    <th>Trail</th>
+    <th>Past</th>
+    <th>Present</th>
+    <th>Future</th>
+    <th>Fortune</th>
+    <th>Miracle</th>
+    <th>Rocks</th>
+    <th>Gen</th>
+    <th>Pitfall</th>
+    <th>Manor</th>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>SE</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Bizarre</th>
+    <th>Onigiri</th>
+    <th>Chasm</th>
+    <th>Well</th>
+    <th>Lake</th>
+    <th>Inori</th>
+    <th>Old</th>
+    <th>Descent</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>E</td>
+    <td>F</td>
+    <td>FPZM</td>
+    <td>-</td>
+    <td>FP</td>
+    <td>-</td>
+    <td>FM</td>
+    <td>FM</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-### ITEM_NAME
+### Fox Kodachi
 
-TEXT
+Obtained by asking <a href="/shiren5/system/allies#koharu">Koharu</a> to transform into a weapon.<br/>High attack, but effectively 0 rune slots and has the slowest growth rate among all weapons.<br/>The only sane way to level up this weapon is to use the <a href="/shiren5/guide/tips-and-tricks#equipment-level">Gambler's Scroll technique</a>.
 
-DETAILS_TABLE_HERE
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Rune</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Fox Kodachi</td>
+      <td>-</td>
+      <td>9</td>
+      <td>25</td>
+      <td>0</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td rowspan="8">Ask <a href="/shiren5/system/allies#koharu">Koharu</a> to change<br/>into a weapon.</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Fox Katana</td>
+      <td>Energizing</td>
+      <td>12</td>
+      <td>30</td>
+      <td>1</td>
+      <td>15000</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Fine Fox Katana</td>
+      <td rowspan="2">Energizing<br/>Clutch</td>
+      <td>15</td>
+      <td>35</td>
+      <td>2</td>
+      <td>25000</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Cute Sword</td>
+      <td>18</td>
+      <td>40</td>
+      <td>2</td>
+      <td>35000</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Shy Sword</td>
+      <td rowspan="2">Energizing<br/>Clutch<br/>Enlightening</td>
+      <td>21</td>
+      <td>45</td>
+      <td>3</td>
+      <td>45000</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Loving Sword</td>
+      <td>24</td>
+      <td>50</td>
+      <td>3</td>
+      <td>55000</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Smitten Sword</td>
+      <td>Energizing<br/>Clutch<br/>Enlightening<br/>Anointing</td>
+      <td>27</td>
+      <td>55</td>
+      <td>4</td>
+      <td>65535</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Koharu Sword</td>
+      <td>Energizing<br/>Clutch<br/>Enlightening<br/>Anointing<br/>Healing</td>
+      <td>30</td>
+      <td>99</td>
+      <td>5</td>
+      <td>65535</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
 
 Locations:
 
-LOCATION_TABLE_HERE
+- Ask Koharu to change into a weapon.
 
-### ITEM_NAME
+<br/>
 
-TEXT
+<table class="locationTable">
+  <tr>
+    <th>Trail</th>
+    <th>Past</th>
+    <th>Present</th>
+    <th>Future</th>
+    <th>Fortune</th>
+    <th>Miracle</th>
+    <th>Rocks</th>
+    <th>Gen</th>
+    <th>Pitfall</th>
+    <th>Manor</th>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Bizarre</th>
+    <th>Onigiri</th>
+    <th>Chasm</th>
+    <th>Well</th>
+    <th>Lake</th>
+    <th>Inori</th>
+    <th>Old</th>
+    <th>Descent</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-DETAILS_TABLE_HERE
+### Kaburagi
+
+Obtained by wishing for an unstoppable weapon in <a href="/shiren5/dungeon/inori-cave">Inori Cave</a>.<br/>Strongest weapon in the game, and its resonance effect lets you deal somewhat meaningful<br/>damage to early game night monsters, which can be boosted further by equipping a <a href="/shiren5/item/bracelets#night-ward">Night Ward</a>.
+
+Shugouseki vs. Kaburasutegi as a main weapon for dungeons that allow carry-in items<br/>comes down to whether or not you want to equip 2 bracelets.
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Rune</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Kaburagi</td>
+      <td rowspan="7">-</td>
+      <td>25</td>
+      <td>8</td>
+      <td>∞</td>
+      <td>-</td>
+      <td>15000</td>
+      <td>5250</td>
+      <td rowspan="8">Clear <a href="/shiren5/dungeon/inori-cave">Inori Cave</a> with<br/>7 cat stones and wish for<br/>an unstoppable weapon.<br/><br/>Resonance: <a href="/shiren5/item/shields#helix-shield">Helix Shield</a><br/>(+10 attack damage)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Good Kaburagi</td>
+      <td>27</td>
+      <td>15</td>
+      <td>∞</td>
+      <td>20000</td>
+      <td>16000</td>
+      <td>5600</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Keen Kaburagi</td>
+      <td>29</td>
+      <td>22</td>
+      <td>∞</td>
+      <td>28000</td>
+      <td>17000</td>
+      <td>5950</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Rare Kaburagi</td>
+      <td>31</td>
+      <td>30</td>
+      <td>∞</td>
+      <td>36000</td>
+      <td>18000</td>
+      <td>6300</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Fine Kaburagi</td>
+      <td>33</td>
+      <td>38</td>
+      <td>∞</td>
+      <td>44000</td>
+      <td>19000</td>
+      <td>6650</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Elite Kaburagi</td>
+      <td>35</td>
+      <td>46</td>
+      <td>∞</td>
+      <td>52000</td>
+      <td>20000</td>
+      <td>7000</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Epic Kaburagi</td>
+      <td>37</td>
+      <td>55</td>
+      <td>∞</td>
+      <td>60000</td>
+      <td>21000</td>
+      <td>7350</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Kaburasutegi</td>
+      <td>Critical<br/>Quick Hitting</td>
+      <td>40</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>65535</td>
+      <td>27000</td>
+      <td>9450</td>
+    </tr>
+  </tbody>
+</table>
 
 Locations:
 
-LOCATION_TABLE_HERE
+- Wish for an unstoppable weapon in Inori Cave.
 
-### ITEM_NAME
+<br/>
 
-TEXT
+<table class="locationTable">
+  <tr>
+    <th>Trail</th>
+    <th>Past</th>
+    <th>Present</th>
+    <th>Future</th>
+    <th>Fortune</th>
+    <th>Miracle</th>
+    <th>Rocks</th>
+    <th>Gen</th>
+    <th>Pitfall</th>
+    <th>Manor</th>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Bizarre</th>
+    <th>Onigiri</th>
+    <th>Chasm</th>
+    <th>Well</th>
+    <th>Lake</th>
+    <th>Inori</th>
+    <th>Old</th>
+    <th>Descent</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-DETAILS_TABLE_HERE
+### Torch
 
-Locations:
+Technically not a weapon, but it's equipped in the same slot as a sword.<br/>Torches dim after every 250 turns, and burn out once the radius falls below 1.<br/>(example: Fine Torch dims after 250 turns, and lasts a total of 500 turns)<br/>Blessed torches dim after every 500 turns, making them last twice as long.
 
-LOCATION_TABLE_HERE
-
-### ITEM_NAME
-
-TEXT
-
-DETAILS_TABLE_HERE
-
-Locations:
-
-LOCATION_TABLE_HERE
-
-### ITEM_NAME
-
-TEXT
-
-DETAILS_TABLE_HERE
-
-Locations:
-
-LOCATION_TABLE_HERE
-
-### ITEM_NAME
-
-TEXT
-
-DETAILS_TABLE_HERE
-
-Locations:
-
-LOCATION_TABLE_HERE
-
-### ITEM_NAME
-
-TEXT
-
-DETAILS_TABLE_HERE
-
-Locations:
-
-LOCATION_TABLE_HERE
-
-### ITEM_NAME
-
-TEXT
-
-DETAILS_TABLE_HERE
-
-Locations:
-
-LOCATION_TABLE_HERE
-
-### ITEM_NAME
-
-TEXT
-
-DETAILS_TABLE_HERE
-
-Locations:
-
-LOCATION_TABLE_HERE
-
-### ITEM_NAME
-
-TEXT
-
-DETAILS_TABLE_HERE
-
-Locations:
-
-LOCATION_TABLE_HERE
-
-### ITEM_NAME
-
-TEXT
-
-DETAILS_TABLE_HERE
-
-Locations:
-
-LOCATION_TABLE_HERE
-
-### ITEM_NAME
-
-TEXT
-
-DETAILS_TABLE_HERE
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Name</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Radius</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>Torch</td>
+      <td>100</td>
+      <td>35</td>
+      <td>1 tile</td>
+      <td rowspan="3">Lights up your surroundings at night.<br/>Dims by 1 stage every 250 turns. (500 if blessed)<br/><br/>Resonance: <a href="/shiren5/item/shields#blazing-shield">Blazing Shield</a><br/>(Light up an entire room at night)<br/><br/>Resonance: <a href="/shiren5/item/shields#midnight-shield">Midnight Shield</a><br/>(Night enemies miss more often)</td>
+    </tr>
+    <tr>
+      <td>Fine Torch</td>
+      <td>200</td>
+      <td>70</td>
+      <td>2 tiles</td>
+    </tr>
+    <tr>
+      <td>Super Torch</td>
+      <td>400</td>
+      <td>140</td>
+      <td>3 tiles</td>
+    </tr>
+  </tbody>
+</table>
 
 Locations:
 
-LOCATION_TABLE_HERE
+- Dungeons that have day / night cycles.
 
-### ITEM_NAME
+<br/>
 
-TEXT
-
-DETAILS_TABLE_HERE
-
-Locations:
-
-LOCATION_TABLE_HERE
-
-### ITEM_NAME
-
-TEXT
-
-DETAILS_TABLE_HERE
-
-Locations:
-
-LOCATION_TABLE_HERE
+<table class="locationTable">
+  <tr>
+    <th>Trail</th>
+    <th>Past</th>
+    <th>Present</th>
+    <th>Future</th>
+    <th>Fortune</th>
+    <th>Miracle</th>
+    <th>Rocks</th>
+    <th>Gen</th>
+    <th>Pitfall</th>
+    <th>Manor</th>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Bizarre</th>
+    <th>Onigiri</th>
+    <th>Chasm</th>
+    <th>Well</th>
+    <th>Lake</th>
+    <th>Inori</th>
+    <th>Old</th>
+    <th>Descent</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
