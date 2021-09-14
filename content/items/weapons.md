@@ -1,7 +1,7 @@
 ---
 title: "Weapons"
-metaTitle: "Weapons - Shiren the Wanderer 2: Oni Invasion! Wiki"
-metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasion!"
+metaTitle: "Weapons - Shiren the Wanderer: Tower of Fortune Wiki"
+metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate"
 ---
 
 # Weapon List
@@ -19,60 +19,60 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
     <th>6</th>
   </tr>
   <tr>
-    <td class="highlightLightblue">Ordinary Stick</td>
-    <td class="highlightLightblue">Kabura Katana</td>
-    <td class="highlightOrange">Water Cutter</td>
-    <td class="highlightOrange">Lizard Lasher</td>
-    <td class="highlightOrange">Shoddy Dirk</td>
-    <td class="highlightOrange">Wonder Pick</td>
+    <td class="highlightLightblue"><a href="#ordinary-stick">Ordinary Stick</a></td>
+    <td class="highlightLightblue"><a href="#kabura-katana">Kabura Katana</a></td>
+    <td class="highlightOrange"><a href="#water-cutter">Water Cutter</a></td>
+    <td class="highlightOrange"><a href="#lizard-lasher">Lizard Lasher</a></td>
+    <td class="highlightOrange"><a href="#shoddy-dirk">Shoddy Dirk</a></td>
+    <td class="highlightOrange"><a href="#wonder-pick">Wonder Pick</a></td>
   </tr>
   <tr>
-    <td class="highlightLightblue">Tin Blade</td>
-    <td class="highlightLightblue">Fuuma Sword</td>
-    <td class="highlightOrange">Scythe</td>
-    <td class="highlightOrange">Nap Rattle</td>
-    <td class="highlightOrange">Glass Dirk</td>
-    <td class="highlightOrange">Sturdy Hammer</td>
+    <td class="highlightLightblue"><a href="#tin-blade">Tin Blade</a></td>
+    <td class="highlightLightblue"><a href="#fuuma-sword">Fuuma Sword</a></td>
+    <td class="highlightOrange"><a href="#scythe">Scythe</a></td>
+    <td class="highlightOrange"><a href="#nap-rattle">Nap Rattle</a></td>
+    <td class="highlightOrange"><a href="#glass-dirk">Glass Dirk</a></td>
+    <td class="highlightOrange"><a href="#sturdy-hammer">Sturdy Hammer</a></td>
   </tr>
   <tr>
-    <td class="highlightLightblue">Katana</td>
-    <td class="highlightOrange">Dull Gold Edge</td>
-    <td class="highlightOrange">Myopic Masher</td>
-    <td class="highlightOrange">Shockuto</td>
-    <td class="highlightOrange">Dirk of Debts</td>
-    <td class="highlightOrange">True Knife</td>
+    <td class="highlightLightblue"><a href="#katana">Katana</a></td>
+    <td class="highlightOrange"><a href="#dull-gold-edge">Dull Gold Edge</a></td>
+    <td class="highlightOrange"><a href="#myopic-masher">Myopic Masher</a></td>
+    <td class="highlightOrange"><a href="#shockuto">Shockuto</a></td>
+    <td class="highlightOrange"><a href="#dirk-of-debts">Dirk of Debts</a></td>
+    <td class="highlightOrange"><a href="#true-knife">True Knife</a></td>
   </tr>
   <tr>
-    <td class="highlightLightblue">Beast Fang</td>
-    <td class="highlightOrange">Bright Blade</td>
-    <td class="highlightOrange">Magic Masher</td>
-    <td class="highlightOrange">Blurry Stick</td>
-    <td class="highlightOrange">Extreme Sword</td>
-    <td class="highlightLightblue">Pathetic Blade</td>
+    <td class="highlightLightblue"><a href="#beast-fang">Beast Fang</a></td>
+    <td class="highlightOrange"><a href="#bright-blade">Bright Blade</a></td>
+    <td class="highlightOrange"><a href="#magic-masher">Magic Masher</a></td>
+    <td class="highlightOrange"><a href="#blurry-stick">Blurry Stick</a></td>
+    <td class="highlightOrange"><a href="#extreme-sword">Extreme Sword</a></td>
+    <td class="highlightLightblue"><a href="#pathetic-blade">Pathetic Blade</a></td>
   </tr>
   <tr>
-    <td class="highlightLightblue">Dotanuki</td>
-    <td class="highlightOrange">Rusty Pickaxe</td>
-    <td class="highlightOrange">Drain Dagger</td>
-    <td class="highlightOrange">Sealing Keisaku</td>
-    <td class="highlightOrange">Violent Blade</td>
-    <td class="highlightLightblue">Fox Kodachi</td>
+    <td class="highlightLightblue"><a href="#dotanuki">Dotanuki</a></td>
+    <td class="highlightOrange"><a href="#rusty-pickaxe">Rusty Pickaxe</a></td>
+    <td class="highlightOrange"><a href="#drain-dagger">Drain Dagger</a></td>
+    <td class="highlightOrange"><a href="#sealing-keisaku">Sealing Keisaku</a></td>
+    <td class="highlightOrange"><a href="#violent-blade">Violent Blade</a></td>
+    <td class="highlightLightblue"><a href="#fox-kodachi">Fox Kodachi</a></td>
   </tr>
   <tr>
-    <td class="highlightLightblue">Bladite</td>
-    <td class="highlightOrange">Old Mallet</td>
-    <td class="highlightOrange">Copper Cleaver</td>
-    <td class="highlightOrange">Baffle Axe</td>
-    <td class="highlightOrange">Breeze Blade</td>
-    <td class="highlightLightblue">Kaburagi</td>
+    <td class="highlightLightblue"><a href="#bladite">Bladite</a></td>
+    <td class="highlightOrange"><a href="#old-mallet">Old Mallet</a></td>
+    <td class="highlightOrange"><a href="#copper-cleaver">Copper Cleaver</a></td>
+    <td class="highlightOrange"><a href="#baffle-axe">Baffle Axe</a></td>
+    <td class="highlightOrange"><a href="#breeze-blade">Breeze Blade</a></td>
+    <td class="highlightLightblue"><a href="#kaburagi">Kaburagi</a></td>
   </tr>
   <tr>
-    <td class="highlightLightblue">Red Blade</td>
-    <td class="highlightOrange">Sky Splitter</td>
-    <td class="highlightOrange">Crescent Katana</td>
-    <td class="highlightOrange">Hatchet</td>
-    <td class="highlightOrange">Burning Blade</td>
-    <td class="highlightOrange">Torch</td>
+    <td class="highlightLightblue"><a href="#red-blade">Red Blade</a></td>
+    <td class="highlightOrange"><a href="#sky-splitter">Sky Splitter</a></td>
+    <td class="highlightOrange"><a href="#crescent-katana">Crescent Katana</a></td>
+    <td class="highlightOrange"><a href="#hatchet">Hatchet</a></td>
+    <td class="highlightOrange"><a href="#burning-blade">Burning Blade</a></td>
+    <td class="highlightOrange"><a href="#torch">Torch</a></td>
   </tr>
 </table>
 
@@ -102,7 +102,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>-</td>
       <td>Redeeming (Lv8)</td>
       <td>25,250</td>
-      <td><a href="/shiren5/item/shields#plain-targe">Plain Targe</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/items/shields#plain-targe">Plain Targe</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#tin-blade">Tin Blade</a></td>
@@ -113,7 +113,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>-</td>
       <td>Rustproof (Lv8)</td>
       <td>31,570</td>
-      <td><a href="/shiren5/item/shields#tin-shield">Tin Shield</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/items/shields#tin-shield">Tin Shield</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#katana">Katana</a></td>
@@ -124,7 +124,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>-</td>
       <td>Rustproof (Lv8)</td>
       <td>49,300</td>
-      <td><a href="/shiren5/item/shields#iron-targe">Iron Targe</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/items/shields#iron-targe">Iron Targe</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#beast-fang">Beast Fang</a></td>
@@ -135,7 +135,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>-</td>
       <td>Rustproof (Lv5)</td>
       <td>37,900</td>
-      <td><a href="/shiren5/item/shields#beast-shield">Beast Shield</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/items/shields#beast-shield">Beast Shield</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#dotanuki">Dotanuki</a></td>
@@ -146,7 +146,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>-</td>
       <td>Enhancing (Lv8)</td>
       <td>44,250</td>
-      <td><a href="/shiren5/item/shields#wolfshead">Wolfshead</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/items/shields#wolfshead">Wolfshead</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#bladite">Bladite</a></td>
@@ -157,18 +157,18 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>-</td>
       <td>Uplifting (Lv4)<br/>Rustproof (Lv8)</td>
       <td>50,600</td>
-      <td><a href="/shiren5/item/shields#targite">Targite</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/items/shields#targite">Targite</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#red-blade">Red Blade</a></td>
-      <td>Shugouseki</td>
+      <td>Shugoseki Swd</td>
       <td>27</td>
       <td>99</td>
       <td>∞</td>
       <td>-</td>
       <td>Uplifting (Lv3)<br/>Flame Shot (Lv8)</td>
       <td>56,950</td>
-      <td><a href="/shiren5/item/shields#red-shield">Red Shield</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/items/shields#red-shield">Red Shield</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#kabura-katana">Kabura Katana</a></td>
@@ -179,7 +179,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>-</td>
       <td>Quick Hitting (Lv8)</td>
       <td>95,000</td>
-      <td><a href="/shiren5/item/shields#fuuma-shield">Fuuma Shield</a><br/>(Attack damage +5)</td>
+      <td><a href="/items/shields#fuuma-shield">Fuuma Shield</a><br/>(Attack damage +5)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#fuuma-sword">Fuuma Sword</a></td>
@@ -190,7 +190,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>-</td>
       <td>Flame Shot (Lv7)</td>
       <td>175,000</td>
-      <td><a href="/shiren5/item/shields#fuuma-shield">Fuuma Shield</a><br/>(Attack damage +5)<br/><a href="/shiren5/item/shields#helix-shield">Helix Shield</a><br/>(Attack damage +10)</td>
+      <td><a href="/items/shields#fuuma-shield">Fuuma Shield</a><br/>(Attack damage +5)<br/><a href="/items/shields#helix-shield">Helix Shield</a><br/>(Attack damage +10)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#dull-gold-edge">Dull Gold Edge</a></td>
@@ -201,7 +201,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Rustproof</td>
       <td>Paralyzing (Lv8)</td>
       <td>18,950</td>
-      <td><a href="/shiren5/item/shields#gold-shield">Gold Shield</a><br/>(Max strength +3)</td>
+      <td><a href="/items/shields#gold-shield">Gold Shield</a><br/>(Max strength +3)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#bright-blade">Bright Blade</a></td>
@@ -212,7 +212,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Redeeming</td>
       <td>Lively (Lv5)<br/>Confusing (Lv8)</td>
       <td>25,300</td>
-      <td><a href="/shiren5/item/shields#day-shield">Day Shield</a><br/>(Read scrolls in the dark)</td>
+      <td><a href="/items/shields#day-shield">Day Shield</a><br/>(Read scrolls in the dark)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#rusty-pickaxe">Rusty Pickaxe</a>※</td>
@@ -278,7 +278,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Anti-Cyclops</td>
       <td>Rustproof (Lv8)</td>
       <td>31,750</td>
-      <td><a href="/shiren5/item/shields#spry-shield">Spry Shield</a><br/>(Attack and Defense +3)</td>
+      <td><a href="/items/shields#spry-shield">Spry Shield</a><br/>(Attack and Defense +3)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#magic-masher">Magic Masher</a></td>
@@ -322,7 +322,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Anti-Explode</td>
       <td>Rustproof (Lv8)</td>
       <td>50,800</td>
-      <td><a href="/shiren5/item/shields#blast-shield">Blast Shield</a><br/>(Attack and Defense +3)</td>
+      <td><a href="/items/shields#blast-shield">Blast Shield</a><br/>(Attack and Defense +3)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#lizard-lasher">Lizard Lasher</a></td>
@@ -333,7 +333,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Anti-Dragon</td>
       <td>Rustproof (Lv8)</td>
       <td>63,500</td>
-      <td><a href="/shiren5/item/shields#snake-shield">Snake Shield</a><br/>(Attack and Defense +3)</td>
+      <td><a href="/items/shields#snake-shield">Snake Shield</a><br/>(Attack and Defense +3)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#nap-rattle">Nap Rattle</a></td>
@@ -344,7 +344,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Sedating</td>
       <td>Rustproof (Lv8)</td>
       <td>50,700</td>
-      <td><a href="/shiren5/item/bracelets#alert-bracelet">Alert Bracelet</a><br/>(Boost sleep chance)</td>
+      <td><a href="/items/bracelets#alert-bracelet">Alert Bracelet</a><br/>(Sleep chance +2%)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#shockuto">Shockuto</a></td>
@@ -388,7 +388,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Confusing</td>
       <td>Rustproof (Lv8)</td>
       <td>38,000</td>
-      <td><a href="/shiren5/item/bracelets#anti-cnf-bracelet">Anti-Cnf. Bracelet</a><br/>(Boost confusion chance)</td>
+      <td><a href="/items/bracelets#anti-cnf-bracelet">Anti-Cnf. Bracelet</a><br/>(Confusion chance +2%)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#hatchet">Hatchet</a></td>
@@ -410,7 +410,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Expendable</td>
       <td>Critical (Lv8)<br/>Quick Hitting (Lv8)</td>
       <td>103,000</td>
-      <td><a href="/shiren5/item/shields#shoddy-plank">Shoddy Plank</a><br/>(Equipped items won't rust)</td>
+      <td><a href="/items/shields#shoddy-plank">Shoddy Plank</a><br/>(Equipped items won't rust)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#glass-dirk">Glass Dirk</a>※</td>
@@ -421,7 +421,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Unsound</td>
       <td>Stupefying (Lv8)</td>
       <td>103,000</td>
-      <td><a href="/shiren5/item/shields#glass-buckler">Glass Buckler</a><br/>(Nullifies magic bullets)</td>
+      <td><a href="/items/shields#glass-buckler">Glass Buckler</a><br/>(Nullifies magic bullets)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#dirk-of-debts">Dirk of Debts</a>※</td>
@@ -432,7 +432,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Costly</td>
       <td>-</td>
       <td>38,100</td>
-      <td><a href="/shiren5/item/shields#paupers-plank">Pauper's Plank</a><br/>(Enemies drop Gitan often)</td>
+      <td><a href="/items/shields#paupers-plank">Pauper's Plank</a><br/>(Enemies drop Gitan often)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#extreme-sword">Extreme Sword</a>※</td>
@@ -443,7 +443,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Focusing</td>
       <td>-</td>
       <td>63,000</td>
-      <td><a href="/shiren5/item/shields#rush-shield">Rush Shield</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/items/shields#rush-shield">Rush Shield</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#violent-blade">Violent Blade</a>※</td>
@@ -454,7 +454,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Obsessive</td>
       <td>Anti-Cyclops (Lv6)<br/>Blinding (Lv8)</td>
       <td>50,700</td>
-      <td><a href="/shiren5/item/bracelets#mojo-bracelet">Mojo Bracelet</a><br/>(Chance to slow target)</td>
+      <td><a href="/items/bracelets#mojo-bracelet">Mojo Bracelet</a><br/>(Chance to slow target)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#breeze-blade">Breeze Blade</a></td>
@@ -465,7 +465,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Tri-direction</td>
       <td>Energizing (Lv8)</td>
       <td>50,800</td>
-      <td><a href="/shiren5/item/shields#midnight-shield">Midnight Shield</a><br/>(Equipped items won't rust)</td>
+      <td><a href="/items/shields#midnight-shield">Midnight Shield</a><br/>(Equipped items won't rust)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#burning-blade">Burning Blade</a></td>
@@ -476,7 +476,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Flame Shot</td>
       <td>Uplifting (Lv5)<br/>Anti-Explode (Lv8)</td>
       <td>63,000</td>
-      <td><a href="/shiren5/item/shields#swap-shield">Swap Shield</a><br/>(Boost Flame Shot damage)</td>
+      <td><a href="/items/shields#swap-shield">Swap Shield</a><br/>(Boost Flame Shot damage)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#wonder-pick">Wonder Pick</a></td>
@@ -487,7 +487,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Max Wall Dig</td>
       <td>Blinding (Lv5)</td>
       <td>127,000</td>
-      <td><a href="/shiren5/item/shields#nirvana-board">Nirvana Board</a><br/>(Max HP +30)</td>
+      <td><a href="/items/shields#nirvana-board">Nirvana Board</a><br/>(Max HP +30)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#sturdy-hammer">Sturdy Hammer</a></td>
@@ -509,7 +509,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>Accurate</td>
       <td>Critical (Lv8)</td>
       <td>127,000</td>
-      <td><a href="/shiren5/item/bracelets#anti-parry-brce">Anti-Parry Brce.</a><br/>(Projectiles always hit)</td>
+      <td><a href="/items/bracelets#anti-parry-brce">Anti-Parry Brce.</a><br/>(Projectiles always hit)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#pathetic-blade">Pathetic Blade</a></td>
@@ -520,7 +520,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>-</td>
       <td>-</td>
       <td>127,000</td>
-      <td><a href="/shiren5/item/shields#pathetic-shield">Pathetic Shield</a><br/>(Lv1-7: Equip 2 bracelets)<br/>(Lv8: Foes may step back)</td>
+      <td><a href="/items/shields#pathetic-shield">Pathetic Shield</a><br/>(Lv1-7: Equip 2 bracelets)<br/>(Lv8: Foes may step back)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#fox-kodachi">Fox Kodachi</a></td>
@@ -542,7 +542,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
       <td>-</td>
       <td>Critical (Lv8)<br/>Quick Hitting (Lv8)</td>
       <td>305,535</td>
-      <td><a href="/shiren5/item/shields#helix-shield">Helix Shield</a><br/>(Attack damage +10)</td>
+      <td><a href="/items/shields#helix-shield">Helix Shield</a><br/>(Attack damage +10)</td>
     </tr>
   </tbody>
 </table>
@@ -598,7 +598,7 @@ It's weak, but levels up quickly.<br/>Has the highest starting upgrade limit amo
       <td>-</td>
       <td>300</td>
       <td>105</td>
-      <td rowspan="8">Resonance: <a href="/shiren5/item/shields#plain-targe">Plain Targe</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/items/shields#plain-targe">Plain Targe</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -755,7 +755,7 @@ Basic weak weapon.<br/>It doesn't really have any redeeming qualities.
       <td>-</td>
       <td>700</td>
       <td>245</td>
-      <td rowspan="8">Resonance: <a href="/shiren5/item/shields#tin-shield">Tin Shield</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/items/shields#tin-shield">Tin Shield</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -912,7 +912,7 @@ It has more rune slots than in Shiren 4, but it's still quite weak.<br/>Use it o
       <td>-</td>
       <td>1100</td>
       <td>385</td>
-      <td rowspan="8">Resonance: <a href="/shiren5/item/shields#iron-targe">Iron Targe</a><br/>(Equip 2 bracelets)<br/><br/>Hone a Storied Katana+99 at the<br/>Hermit's Hermitage Blacksmith to<br/>transform it into a Fuuma Sword.</td>
+      <td rowspan="8">Resonance: <a href="/items/shields#iron-targe">Iron Targe</a><br/>(Equip 2 bracelets)<br/><br/>Hone a Storied Katana+99 at the<br/>Hermit's Hermitage Blacksmith to<br/>transform it into a Fuuma Sword.</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1069,7 +1069,7 @@ Decent interim weapon that gains the Rustproof rune at Lv5.<br/>It doesn't have 
       <td>-</td>
       <td>1600</td>
       <td>560</td>
-      <td rowspan="8">Resonance: <a href="/shiren5/item/shields#beast-shield">Beast Shield</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/items/shields#beast-shield">Beast Shield</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1226,7 +1226,7 @@ Pretty fast growth, and has more starting rune slots than Bladite and Red Blade.
       <td>-</td>
       <td>2200</td>
       <td>770</td>
-      <td rowspan="8">Resonance: <a href="/shiren5/item/shields#wolfshead">Wolfshead</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/items/shields#wolfshead">Wolfshead</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1383,7 +1383,7 @@ Faster growth than Red Blade.<br/>Targite is a strong shield, so the set is exce
       <td>-</td>
       <td>3000</td>
       <td>1050</td>
-      <td rowspan="8">Resonance: <a href="/shiren5/item/shields#targite">Targite</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/items/shields#targite">Targite</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1541,7 +1541,7 @@ High attack, but low rune count for early ~ mid game.<br/>Slow growth, and the U
       <td>-</td>
       <td>4200</td>
       <td>1470</td>
-      <td rowspan="8">Resonance: <a href="/shiren5/item/shields#red-shield">Red Shield</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/items/shields#red-shield">Red Shield</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1606,7 +1606,7 @@ High attack, but low rune count for early ~ mid game.<br/>Slow growth, and the U
     </tr>
     <tr>
       <td>8</td>
-      <td>Shugouseki</td>
+      <td>Shugoseki Swd</td>
       <td>Uplifting<br/>Flame Shot</td>
       <td>27</td>
       <td>99</td>
@@ -1699,7 +1699,7 @@ High base attack, and the Quick Hitting rune is a solid addition.<br/>However, t
       <td>-</td>
       <td>7400</td>
       <td>2590</td>
-      <td rowspan="8">Resonance: <a href="/shiren5/item/shields#fuuma-shield">Fuuma Shield</a><br/>(+5 attack damage)</td>
+      <td rowspan="8">Resonance: <a href="/items/shields#fuuma-shield">Fuuma Shield</a><br/>(Attack damage +5)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1830,7 +1830,7 @@ Locations:
 
 ### Fuuma Sword
 
-Basically a better Kabura Katana, but only usable in dungeons that allow carry-in items.<br/>Its resonance with Helix Shield lets you deal slightly meaningful damage to night monsters,<br/>which can be boosted further by equipping a <a href="/shiren5/item/bracelets#night-ward">Night Ward</a>.
+Basically a better Kabura Katana, but only usable in dungeons that allow carry-in items.<br/>Its resonance with Helix Shield lets you deal slightly meaningful damage to night monsters,<br/>which can be boosted further by equipping a <a href="/items/bracelets#night-ward">Night Ward</a>.
 
 <table class="itemDetailsTable">
   <tbody>
@@ -1856,7 +1856,7 @@ Basically a better Kabura Katana, but only usable in dungeons that allow carry-i
       <td>-</td>
       <td>10000</td>
       <td>3500</td>
-      <td rowspan="8">Resonance: <a href="/shiren5/item/shields#fuuma-shield">Fuuma Shield</a><br/>(+5 attack damage)<br/><br/>Resonance: <a href="/shiren5/item/shields#helix-shield">Helix Shield</a><br/>(+10 attack damage)<br/><br/>Hone a Storied Katana+99 at the<br/>Hermit's Hermitage Blacksmith to<br/>transform it into a Fuuma Sword.</td>
+      <td rowspan="8">Resonance: <a href="/items/shields#fuuma-shield">Fuuma Shield</a><br/>(Attack damage +5)<br/><br/>Resonance: <a href="/items/shields#helix-shield">Helix Shield</a><br/>(Attack damage +10)<br/><br/>Hone a Storied Katana+99 at the<br/>Hermit's Hermitage Blacksmith to<br/>transform it into a Fuuma Sword.</td>
     </tr>
     <tr>
       <td>2</td>
@@ -2017,7 +2017,7 @@ Decent starting rune count, and levels up quickly.<br/>However, its base attack 
       <td>-</td>
       <td>1000</td>
       <td>350</td>
-      <td rowspan="8">This weapon won't rust.<br/><br/>Resonance: <a href="/shiren5/item/shields#gold-shield">Gold Shield</a><br/>(+3 max strength)</td>
+      <td rowspan="8">This weapon won't rust.<br/><br/>Resonance: <a href="/items/shields#gold-shield">Gold Shield</a><br/>(Max strength +3)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -2174,7 +2174,7 @@ Decent rune count, and levels up pretty quickly.<br/>Its innate Redeeming rune c
       <td>-</td>
       <td>3000</td>
       <td>1050</td>
-      <td rowspan="8">Deal a critical hit after<br/>2 missed attacks.<br/><br/>Resonance: <a href="/shiren5/item/shields#day-shield">Day Shield</a><br/>(Can read scrolls without light)</td>
+      <td rowspan="8">Deal a critical hit after<br/>2 missed attacks.<br/><br/>Resonance: <a href="/items/shields#day-shield">Day Shield</a><br/>(Read scrolls in the dark)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -2463,7 +2463,7 @@ Locations:
 
 ### Old Mallet
 
-It's easy to accidently destroy the weapon if you reveal a hidden trap with a direct attack.<br/>You might end up destroying an item by mistake too, so it's not recommended to use as a main weapon.<br/>However, it gains the Confusing rune at Lv5, so it's not all bad.
+It's easy to accidently destroy the weapon if you reveal a hidden trap with a direct attack.<br/>You also might destroy items by mistake, so it's not recommended as a main weapon.<br/>However, it gains the Confusing rune at Lv5, so it's not all bad.
 
 <table class="itemDetailsTable">
   <tbody>
@@ -2620,7 +2620,7 @@ Locations:
 
 ### Sky Splitter
 
-It's very slow to level up, and its low base attack also makes using it as a main weapon difficult.<br/>However, if you manage to level it using Modder status (Super) or by hunting Maneaters early on,<br/>it'll prove to be a reliable weapon capable of wiping out many monster families.
+It's very slow to level up, and its low base attack makes it difficult to use as a main weapon.<br/>However, if you manage to level it using Modder status (Super) or by hunting Maneaters,<br/>it'll prove to be a reliable weapon capable of wiping out many monster families.
 
 <table class="itemDetailsTable">
   <tbody>
@@ -2646,7 +2646,7 @@ It's very slow to level up, and its low base attack also makes using it as a mai
       <td>-</td>
       <td>7500</td>
       <td>2625</td>
-      <td rowspan="8">Deal more damage to Floating types.<br/>(135%, +25% per level up | Lv8: 310%)<br/><br/>Families: Crow Tengu, Gyadon,<br/><span class="important_text">Blade Bee</span>, Chow, <span class="important_text">Pumphantasm</span>,<br/>Firepuff, <span class="important_text">Flamebird</span>, FO-Uβ, Foly</td>
+      <td rowspan="8">Deal more damage to Floating types.<br/>(135%, +25% per level up | Lv8: 310%)<br/><br/>Families: Crow Tengu, Gyadon,<br/>Blade Bee, Chow, Pumphantasm,<br/>Firepuff, Flamebird, FO-Uβ, Foly</td>
     </tr>
     <tr>
       <td>2</td>
@@ -2803,7 +2803,7 @@ High rune count and pretty fast to level up, making it a solid option for a main
       <td>-</td>
       <td>6500</td>
       <td>2275</td>
-      <td rowspan="8">Deal more damage to Aquatic types.<br/>(135%, +25% per level up | Lv8: 310%)<br/><br/>Families: Kid Squid, <span class="important_text">Gyaza</span>, Zalokleft,<br/>Explochin, Bored Kappa, <span class="important_text">Hopodile</span>,<br/>Mudkin, Moseal</td>
+      <td rowspan="8">Deal more damage to Aquatic types.<br/>(135%, +25% per level up | Lv8: 310%)<br/><br/>Families: Kid Squid, Gyaza, Zalokleft,<br/>Explochin, Bored Kappa, Hopodile,<br/>Mudkin, Moseal</td>
     </tr>
     <tr>
       <td>2</td>
@@ -2934,7 +2934,7 @@ Locations:
 
 ### Scythe
 
-Fast to level up, solid rune count, and effective against many high attack power monster families.<br/>In particular, it makes it easier to farm grass items from Grass Boy family monsters,<br/>and it usually eliminates the worry of not defeating a Mutaikon family monster in one hit.
+Fast to level up, solid rune count, and effective against many high attack power monsters.<br/>In particular, it makes it easier to farm grass items from Grass Kid monsters,<br/>and eliminates the worry of not defeating a Mutaikon monster in one hit.
 
 <table class="itemDetailsTable">
   <tbody>
@@ -2960,7 +2960,7 @@ Fast to level up, solid rune count, and effective against many high attack power
       <td>-</td>
       <td>5500</td>
       <td>1925</td>
-      <td rowspan="8">Deal more damage to Plant types.<br/>(135%, +25% per level up | Lv8: 310%)<br/><br/>Families: Sweet Nut, Sproutant,<br/>Mutaikon, <span class="important_text">Grass Boy</span>, Pin Kid,<br/>Seedie, <span class="important_text">Pumphantasm</span></td>
+      <td rowspan="8">Deal more damage to Plant types.<br/>(135%, +25% per level up | Lv8: 310%)<br/><br/>Families: Sweet Nut, Sproutant,<br/>Mutaikon, Grass Kid, Pin Kid,<br/>Seedie, Pumphantasm</td>
     </tr>
     <tr>
       <td>2</td>
@@ -3121,7 +3121,7 @@ Fast to level up and high rune count.<br/>However, the range of effectiveness is
       <td>-</td>
       <td>5500</td>
       <td>1925</td>
-      <td rowspan="8">Deal more damage to Cyclopean types.<br/>(135%, +25% per level up | Lv8: 310%)<br/><br/>Resonance: <a href="/shiren5/item/shields#spry-shield">Spry Shield</a><br/>(+3 attack and defense)<br/><br/>Families: Explochin,<br/>Metalhead, <span class="important_text">Gazer</span>, Foly</td>
+      <td rowspan="8">Deal more damage to Cyclopean types.<br/>(135%, +25% per level up | Lv8: 310%)<br/><br/>Resonance: <a href="/items/shields#spry-shield">Spry Shield</a><br/>(Attack and Defense +3)<br/><br/>Families: Explochin, Metalhead,<br/>Gazer, Foly</td>
     </tr>
     <tr>
       <td>2</td>
@@ -3278,7 +3278,7 @@ Pretty fast to level up, but somewhat low rune count.<br/>The range of effective
       <td>-</td>
       <td>2500</td>
       <td>875</td>
-      <td rowspan="8">Deal more damage to Magic types.<br/>(135%, +25% per level up | Lv8: 310%)<br/><br/>Families: Fearabbit, <span class="important_text">DJ Mage</span>,<br/>Polygon Spinna, <span class="important_text">Gazer</span></td>
+      <td rowspan="8">Deal more damage to Magic types.<br/>(135%, +25% per level up | Lv8: 310%)<br/><br/>Families: Fearabbit, DJ Mage,<br/>Polygon Spinna, Gazer</td>
     </tr>
     <tr>
       <td>2</td>
@@ -3435,7 +3435,7 @@ Pretty fast to level up, and solid rune count.<br/>Its ability to one-shot Absor
       <td>-</td>
       <td>4500</td>
       <td>1575</td>
-      <td rowspan="8">Deal more damage to Draining types.<br/>(135%, +25% per level up | Lv8: 310%)<br/><br/>Families: Scorpion, Polygon Spinna,<br/><span class="important_text">Absorbiphant</span>, Myriman</td>
+      <td rowspan="8">Deal more damage to Draining types.<br/>(135%, +25% per level up | Lv8: 310%)<br/><br/>Families: Scorpion, Polygon Spinna,<br/>Absorbiphant, Myriman</td>
     </tr>
     <tr>
       <td>2</td>
@@ -3592,7 +3592,7 @@ Decent starting base attack and range of effectiveness, but very slow to level u
       <td>-</td>
       <td>3500</td>
       <td>1225</td>
-      <td rowspan="8">Deal more damage to Metal types.<br/>(135%, +25% per level up | Lv8: 310%)<br/><br/>Families: <span class="important_text">Pop Tank</span>, Karakuroid,<br/><span class="important_text">Scoopie</span>, <span class="important_text">N'dubba</span>, FO-Uβ</td>
+      <td rowspan="8">Deal more damage to Metal types.<br/>(135%, +25% per level up | Lv8: 310%)<br/><br/>Families: Pop Tank, Karakuroid,<br/>Scoopie, N'dubba, FO-Uβ</td>
     </tr>
     <tr>
       <td>2</td>
@@ -3749,7 +3749,7 @@ Its growth rate and range of effectiveness leave a lot to be desired.<br/>Its ru
       <td>-</td>
       <td>2500</td>
       <td>875</td>
-      <td rowspan="8">Deal more damage to Exploding types.<br/>(135%, +25% per level up | Lv8: 310%)<br/><br/>Resonance: <a href="/shiren5/item/shields#blast-shield">Blast Shield</a><br/>(+3 attack and defense)<br/><br/>Families: <span class="important_text">Pop Tank</span>,<br/>Explochin, Sweet Nut</td>
+      <td rowspan="8">Deal more damage to Exploding types.<br/>(135%, +25% per level up | Lv8: 310%)<br/><br/>Resonance: <a href="/items/shields#blast-shield">Blast Shield</a><br/>(Attack and Defense +3)<br/><br/>Families: Pop Tank, Explochin,<br/>Sweet Nut</td>
     </tr>
     <tr>
       <td>2</td>
@@ -3906,7 +3906,7 @@ Very slow to level up and low starting rune count, but high base attack at Lv1.<
       <td>-</td>
       <td>3500</td>
       <td>1225</td>
-      <td rowspan="8">Deal more damage to Dragon types.<br/>(135%, +25% per level up | Lv8: 310%)<br/><br/>Resonance: <a href="/shiren5/item/shields#snake-shield">Snake Shield</a><br/>(+3 attack and defense)<br/><br/>Families: <span class="important_text">Dragon</span>, Flamepuff,<br/><span class="important_text">Shagga</span>, <span class="important_text">Hopodile</span></td>
+      <td rowspan="8">Deal more damage to Dragon types.<br/>(135%, +25% per level up | Lv8: 310%)<br/><br/>Resonance: <a href="/items/shields#snake-shield">Snake Shield</a><br/>(Attack and Defense +3)<br/><br/>Families: Dragon, Flamepuff,<br/>Shagga, Hopodile</td>
     </tr>
     <tr>
       <td>2</td>
@@ -4063,7 +4063,7 @@ Slow to level up and has very low starting base attack, but can inflict Asleep s
       <td>-</td>
       <td>7000</td>
       <td>2450</td>
-      <td rowspan="8">Chance to inflict <a href="/shiren5/system/status-conditions#asleep">Asleep</a><br/>(12%, +2% per level up | Lv8: 26%)<br/><br/>Resonance: <a href="/shiren5/item/bracelets#alert-bracelet">Alert Bracelet</a><br/>(Sleep chance +2%)</td>
+      <td rowspan="8">Chance to inflict <a href="/system/status-conditions#asleep">Asleep</a>.<br/>(12%, +2% per level up | Lv8: 26%)<br/><br/>Resonance: <a href="/items/bracelets#alert-bracelet">Alert Bracelet</a><br/>(Sleep chance +2%)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -4194,7 +4194,7 @@ Locations:
 
 ### Shockuto
 
-Slow to level up and low starting base attack, but can inflict Paralyzed status.<br/>Paralysis completely shuts down an enemy, making them unable to act until they're hit by an attack or effect.<br/>This really shines in dungeons that require run away or progress-during-night gameplay.<br/>Be careful not to synthesize <span class="green_text">Flame Shot</span>, since the fireball will immediately undo the paralysis.<br/>Unlike other status weapons/runes, <span class="green_text">Quick Hitting</span> doesn't mathematically impact the activation rate.
+Slow to level up and low starting base attack, but can inflict Paralyzed status.<br/>Paralysis shuts down an enemy, making them unable to act until they're hit by an attack or effect.<br/>This really shines in dungeons that require run away or progress-during-night gameplay.<br/>Be careful not to synthesize <span class="greenText">Flame Shot</span>, since the fireball will immediately undo the paralysis.<br/>Unlike other status weapons/runes, <span class="greenText">Quick Hitting</span> doesn't mathematically impact the activation rate.
 
 <table class="itemDetailsTable">
   <tbody>
@@ -4220,7 +4220,7 @@ Slow to level up and low starting base attack, but can inflict Paralyzed status.
       <td>-</td>
       <td>4000</td>
       <td>1400</td>
-      <td rowspan="8">Chance to inflict <a href="/shiren5/system/status-conditions#paralyzed">Paralyzed</a><br/>(12%, +2% per level up | Lv8: 26%)</td>
+      <td rowspan="8">Chance to inflict <a href="/system/status-conditions#paralyzed">Paralyzed</a>.<br/>(12%, +2% per level up | Lv8: 26%)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -4351,7 +4351,7 @@ Locations:
 
 ### Blurry Stick
 
-Basically a worse Baffle Axe - lower starting base attack, rune count, and slower growth.<br/>However, it'll end up being on par with Baffle Axe at Lv8, so it's actually a decent main weapon option.<br/>Blind status makes enemies walk in a straight line until they bump into a character or wall,<br/>so the predictable movement usually causes fewer accidents than Confused status.<br/>Just keep in mind that Blind status lasts half the duration of Confused status.
+Basically a worse Baffle Axe - lower starting base attack, rune count, and slower growth.<br/>However, it's on par with Baffle Axe at Lv8, so it's actually a decent main weapon option.<br/>Blind status makes enemies walk in a straight line until they bump into a character or wall,<br/>so the predictable movement usually causes fewer accidents than Confused status.<br/>Just keep in mind that Blind status lasts half the duration of Confused status.
 
 <table class="itemDetailsTable">
   <tbody>
@@ -4377,7 +4377,7 @@ Basically a worse Baffle Axe - lower starting base attack, rune count, and slowe
       <td>-</td>
       <td>6000</td>
       <td>2100</td>
-      <td rowspan="8">Chance to inflict <a href="/shiren5/system/status-conditions#blind">Blind</a><br/>(12%→16%, then +2% per level up)<br/>(Lv8: 28%)</td>
+      <td rowspan="8">Chance to inflict <a href="/system/status-conditions#blind">Blind</a>.<br/>(12%→16%, then +2% per level up)<br/>(Lv8: 28%)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -4508,7 +4508,7 @@ Locations:
 
 ### Sealing Keisaku
 
-Pretty fast growth rate like Baffle Axe, and its stats are on par with Blurry Stick.<br/>That might look decent on paper among status inflicting weapons, but Sealed status<br/>doesn't stop enemies from attacking, so there's basically no reason to use it as a main weapon.
+Pretty fast growth rate like Baffle Axe, and its stats are on par with Blurry Stick.<br/>That might look decent on paper among status inflicting weapons, but Sealed status<br/>doesn't stop enemies from attacking, so there's no reason to use it as a main weapon.
 
 <table class="itemDetailsTable">
   <tbody>
@@ -4534,7 +4534,7 @@ Pretty fast growth rate like Baffle Axe, and its stats are on par with Blurry St
       <td>-</td>
       <td>3300</td>
       <td>1155</td>
-      <td rowspan="8">Chance to inflict <a href="/shiren5/system/status-conditions#sealed">Sealed</a><br/>(12%→16%, then +2% per level up)<br/>(Lv8: 28%)</td>
+      <td rowspan="8">Chance to inflict <a href="/system/status-conditions#sealed">Sealed</a>.<br/>(12%→16%, then +2% per level up)<br/>(Lv8: 28%)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -4665,7 +4665,7 @@ Locations:
 
 ### Baffle Axe
 
-Pretty fast to level up, decent starting base attack, high rune count, and can inflict Confused status.<br/>The chance to inflict Confused status is 12% at Lv1, and 28% at Lv8.<br/>Downside is that Confused status doesn't completely shut down enemies like Asleep status,<br/>but it's still a strong option to use as a main weapon.
+Pretty fast to level up, okay base attack, high rune count, and can inflict Confused status.<br/>The chance to inflict Confused status is 12% at Lv1, and 28% at Lv8.<br/>Downside is that Confused status doesn't completely shut down enemies like Asleep status,<br/>but it's still a strong main weapon option.
 
 <table class="itemDetailsTable">
   <tbody>
@@ -4691,7 +4691,7 @@ Pretty fast to level up, decent starting base attack, high rune count, and can i
       <td>-</td>
       <td>2000</td>
       <td>700</td>
-      <td rowspan="8">Chance to inflict <a href="/shiren5/system/status-conditions#confused">Confused</a><br/>(12%→16%, then +2% per level up)<br/>(Lv8: 28%)<br/><br/>Resonance: <a href="/shiren5/item/bracelets#anti-cnf-bracelet">Anti-Cnf. Bracelet</a><br/>(Confusion chance +2%)</td>
+      <td rowspan="8">Chance to inflict <a href="/system/status-conditions#confused">Confused</a>.<br/>(12%→16%, then +2% per level up)<br/>(Lv8: 28%)<br/><br/>Resonance: <a href="/items/bracelets#anti-cnf-bracelet">Anti-Cnf. Bracelet</a><br/>(Confusion chance +2%)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -4822,7 +4822,7 @@ Locations:
 
 ### Hatchet
 
-Pretty fast to level up, and has a chance to deal a x2.0 damage critical hit. (22% at Lv1, 38% at Lv8)<br/>However, it's difficult to defeat enemies in one hit if your attack is low, so it can be a little unreliable.<br/>It gains <span class="green_text">Paralyzing</span> at Lv8, which can help cover for cases where a critical hit doesn't defeat an enemy.<br/>Prioritize type effective runes and <span class="green_text">Costly</span> instead of status inflicting runes if using it as a main weapon.<br/><span class="green_text">Healing</span> and <span class="green_text">Dispersing</span> are also good rune options, but are extremely rare to come across.
+Pretty fast to level up, and has a chance to deal a x2.0 damage critical hit. (22% at Lv1, 38% at Lv8)<br/>However, it's difficult to defeat enemies in one hit with low attack, so it can be a little unreliable.<br/>It gains <span class="greenText">Paralyzing</span> at Lv8, which can help cover cases where a critical hit doesn't defeat an enemy.<br/>Prioritize type effective runes and <span class="greenText">Costly</span> instead of status runes if using it as a main weapon.<br/><span class="greenText">Healing</span> and <span class="greenText">Dispersing</span> are also good rune options, but are extremely rare to come across.
 
 <table class="itemDetailsTable">
   <tbody>
@@ -4848,7 +4848,7 @@ Pretty fast to level up, and has a chance to deal a x2.0 damage critical hit. (2
       <td>-</td>
       <td>5000</td>
       <td>1750</td>
-      <td rowspan="8">Chance to deal a critical hit<br/>(22%→25%→28%, then +2% per level up)<br/>(Lv8: 38%)</td>
+      <td rowspan="8">Chance to deal a critical hit.<br/>(22%→25%→28%, then +2% per level up)<br/>(Lv8: 38%)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -5006,7 +5006,7 @@ Very high base attack, but quickly degrades if used normally.<br/>It's best to s
       <td>-</td>
       <td>3000</td>
       <td>1050</td>
-      <td rowspan="8">Decrease weapon upgrade value<br/>by 1 every time you hit an enemy.<br/><br/>Resonance: <a href="/shiren5/item/shields#shoddy-plank">Shoddy Plank</a><br/>(Equipped items won't rust)</td>
+      <td rowspan="8">Decrease weapon upgrade value<br/>by 1 every time you hit an enemy.<br/><br/>Resonance: <a href="/items/shields#shoddy-plank">Shoddy Plank</a><br/>(Equipped items won't rust)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -5163,7 +5163,7 @@ Very high base attack, but quickly breaks if used normally.<br/>It's best to sea
       <td>-</td>
       <td>5000</td>
       <td>1750</td>
-      <td rowspan="8">Chance for the weapon<br/>to break when attacking.<br/>(50%, -2% per level up | Lv8: 36%)<br/><br/>Resonance: <a href="/shiren5/item/shields#glass-buckler">Glass Buckler</a><br/>(Nullifies magic bullets received)</td>
+      <td rowspan="8">Chance for the weapon to break<br/>when attacking.<br/>(50%, -2% per level up | Lv8: 36%)<br/><br/>Resonance: <a href="/items/shields#glass-buckler">Glass Buckler</a><br/>(Nullifies magic bullets received)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -5322,7 +5322,7 @@ It levels up pretty quickly and gains 2 rune slots per level up, so synthesis is
       <td>-</td>
       <td>3000</td>
       <td>1050</td>
-      <td rowspan="8">Pay Gitan per attack to boost damage.<br/>0 attack if you don't have enough Gitan.<br/>(130% and 30G, +10% and ~30G per level up)<br/>(Lv8: 200% and 250G)<br/><br/>Resonance: <a href="/shiren5/item/shields#paupers-plank">Pauper's Plank</a><br/>(20% chance for foes to drop 200-399 Gitan)</td>
+      <td rowspan="8">Pay Gitan per attack to boost damage.<br/>0 attack if you don't have enough Gitan.<br/>(130% and 30G, +10% and ~30G per level up)<br/>(Lv8: 200% and 250G)<br/><br/>Resonance: <a href="/items/shields#paupers-plank">Pauper's Plank</a><br/>(20% chance for foes to drop 200-399 Gitan)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -5399,7 +5399,7 @@ It levels up pretty quickly and gains 2 rune slots per level up, so synthesis is
 
 Locations:
 
-- Tanuki Password: <span class="green_text">Treasury</span>
+- Tanuki Password: <span class="greenText">Treasury</span>
 
 <br/>
 
@@ -5482,7 +5482,7 @@ Direct attacks have lower accuracy, but always deal a critical hit. (50% at Lv1,
       <td>-</td>
       <td>2000</td>
       <td>700</td>
-      <td rowspan="8">Attacks always deal a critical hit,<br/>but you also have lower accuracy.<br/>(50% accuracy, +3% per level up | Lv8: 71%)<br/><br/>Resonance: <a href="/shiren5/item/shields#rush-shield">Rush Shield</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Attacks always deal a critical hit, but you<br/>also have lower accuracy.<br/>(50% accuracy, +3% per level up | Lv8: 71%)<br/><br/>Resonance: <a href="/items/shields#rush-shield">Rush Shield</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -5559,7 +5559,7 @@ Direct attacks have lower accuracy, but always deal a critical hit. (50% at Lv1,
 
 Locations:
 
-- Tanuki Password: <span class="green_text">Critical</span>
+- Tanuki Password: <span class="greenText">Critical</span>
 
 <br/>
 
@@ -5642,7 +5642,7 @@ Having this equipped makes you unable to move when you're next to a monster.<br/
       <td>-</td>
       <td>2500</td>
       <td>875</td>
-      <td rowspan="8">Prevents movement when<br/>next to a monster.<br/><br/>Resonance: <a href="/shiren5/item/bracelets#mojo-bracelet">Mojo Bracelet</a><br/>(Chance to slow foes you hit)</td>
+      <td rowspan="8">Prevents movement when<br/>next to a monster.<br/><br/>Resonance: <a href="/items/bracelets#mojo-bracelet">Mojo Bracelet</a><br/>(Chance to slow foes you hit)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -5721,7 +5721,7 @@ Having this equipped makes you unable to move when you're next to a monster.<br/
 
 Locations:
 
-- Tanuki Password: <span class="green_text">Cursed Blade</span>
+- Tanuki Password: <span class="greenText">Cursed Blade</span>
 
 <br/>
 
@@ -5804,7 +5804,7 @@ Very low base attack, and slow to level up.<br/>It doesn't gain any notable rune
       <td>-</td>
       <td>8000</td>
       <td>2800</td>
-      <td rowspan="8">Attacks in 3 forward directions.<br/><br/>Resonance: <a href="/shiren5/item/shields#midnight-shield">Midnight Shield</a><br/>(Equipped items won't rust)</td>
+      <td rowspan="8">Attacks in 3 forward directions.<br/><br/>Resonance: <a href="/items/shields#midnight-shield">Midnight Shield</a><br/>(Equipped items won't rust)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -5963,7 +5963,7 @@ Despite its powerful ability, it does have some drawbacks.<br/>It's easy to acci
       <td>-</td>
       <td>10000</td>
       <td>3500</td>
-      <td rowspan="8">Shoot a flame when your HP is full.<br/>(Damage: 8, 10, 12, 14, 16, 18, 21, 25)<br/><br/>Resonance: <a href="/shiren5/item/shields#swap-shield">Swap Shield</a><br/>(Raise flame damage by 1 level)<br/>(30 damage at Lv8 / with Blue Flame rune)</td>
+      <td rowspan="8">Shoot a flame when your HP is full.<br/>(Damage: 8, 10, 12, 14, 16, 18, 21, 25)<br/><br/>Resonance: <a href="/items/shields#swap-shield">Swap Shield</a><br/>(Raise flame damage by 1 level)<br/>(30 damage at Lv8 / with Blue Flame rune)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -6095,9 +6095,9 @@ Locations:
 
 ### Wonder Pick
 
-Incredibly rare in the base game, but can be obtained easily by clearing <a href="/shiren5/dungeon/merchants-hideout">Merchant's Hideout</a>.<br/>It's mostly a weapon that can only be used in dungeons that allow carry-in items,<br/>so there's no reason to use it as a main weapon.
+Incredibly rare in the base game, but can be obtained easily by clearing <a href="/dungeons/merchants-hideout">Merchant's Hideout</a>.<br/>It's mostly a weapon that's only usable in dungeons that allow carry-in items,<br/>so there's no reason to use it as a main weapon.
 
-However, you'll need to use its resonance effect to attain 630 HP for <a href="/shiren5/system/adventure-footprints">Adventure Footprints</a><br/>and level it to Lv8 for the Item Book if you're a completionist, so don't synthesize it right away.
+However, you'll need to use its resonance effect to attain 630 HP for <a href="/system/adventure-footprints">Adventure Footprints</a><br/>and level it to Lv8 for the Item Book if you're a completionist, so don't synthesize it right away.
 
 <table class="itemDetailsTable">
   <tbody>
@@ -6123,7 +6123,7 @@ However, you'll need to use its resonance effect to attain 630 HP for <a href="/
       <td>-</td>
       <td>10000</td>
       <td>3500</td>
-      <td rowspan="8">Can dig holes in walls,<br/>and will never break.<br/><br/>Resonance: <a href="/shiren5/item/shields#nirvana-board">Nirvana Board</a><br/>(+30 max HP)</td>
+      <td rowspan="8">Can dig holes in walls,<br/>and will never break.<br/><br/>Resonance: <a href="/items/shields#nirvana-board">Nirvana Board</a><br/>(Max HP +30)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -6258,7 +6258,7 @@ Locations:
 
 ### Sturdy Hammer
 
-Obtained by clearing <a href="/shiren5/dungeon/bizarre-tower">Bizarre Tower</a>.<br/>Can only be used in dungeons that allow carry-in items, so there's no reason to use it as a main weapon.<br/>Its ability is identical to Old Mallet, but simply never breaks.
+Obtained by clearing <a href="/dungeons/bizarre-tower">Bizarre Tower</a>.<br/>Only usable in dungeons that allow carry-in items, so there's no reason to use it as a main weapon.<br/>Its ability is identical to Old Mallet, but simply never breaks.
 
 <table class="itemDetailsTable">
   <tbody>
@@ -6419,7 +6419,7 @@ Locations:
 
 ### True Knife
 
-Obtained by clearing <a href="/shiren5/dungeon/pitfall-of-life">Pitfall of Life</a>.<br/>Can only be used in dungeons that allow carry-in items, so there's no reason to use it as a main weapon.<br/>Its ability ensures that your direct attacks always connect. (<span class="green_text">Focusing</span> overrides this ability)
+Obtained by clearing <a href="/dungeons/pitfall-of-life">Pitfall of Life</a>.<br/>Only usable in dungeons that allow carry-in items, so there's no reason to use it as a main weapon.<br/>Its ability ensures that your direct attacks always connect. (<span class="greenText">Focusing</span> overrides this ability)
 
 <table class="itemDetailsTable">
   <tbody>
@@ -6445,7 +6445,7 @@ Obtained by clearing <a href="/shiren5/dungeon/pitfall-of-life">Pitfall of Life<
       <td>-</td>
       <td>20000</td>
       <td>7000</td>
-      <td rowspan="8">Attacks always hit.<br/><br/>Resonance: <a href="/shiren5/item/bracelets#anti-parry-brce">Anti-Parry Brce.</a><br/>(Thrown items always hit)</td>
+      <td rowspan="8">Attacks always hit.<br/><br/>Resonance: <a href="/items/bracelets#anti-parry-brce">Anti-Parry Brce.</a><br/>(Projectiles always hit)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -6580,7 +6580,7 @@ Locations:
 
 ### Pathetic Blade
 
-Extremely slow to level up, and is nearly worthless before Lv8.<br/>It unfortunately loses its 2 bracelet resonance effect when it reaches Lv8,<br/>and instead makes monsters occasionally take 1 step back.<br/>Basically, it's only used in dungeons that allow carry-in items by enthusiasts who like the design.
+Extremely slow to level up, and is nearly worthless before Lv8.<br/>It unfortunately loses its 2 bracelet resonance effect when it reaches Lv8,<br/>and instead makes monsters occasionally take 1 step back.<br/>It's only used in dungeons that allow carry-in items by enthusiasts who like the design.
 
 <table class="itemDetailsTable">
   <tbody>
@@ -6606,7 +6606,7 @@ Extremely slow to level up, and is nearly worthless before Lv8.<br/>It unfortuna
       <td>-</td>
       <td>300</td>
       <td>105</td>
-      <td rowspan="7">Resonance: <a href="/shiren5/item/shields#pathetic-shield">Pathetic Shield</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="7">Resonance: <a href="/items/shields#pathetic-shield">Pathetic Shield</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -6677,7 +6677,7 @@ Extremely slow to level up, and is nearly worthless before Lv8.<br/>It unfortuna
       <td>64000</td>
       <td>23000</td>
       <td>8050</td>
-      <td>Resonance: <a href="/shiren5/item/shields#pathetic-shield">Rising Sun Shld</a><br/>(Adjacent foes may retreat)</td>
+      <td>Resonance: <a href="/items/shields#pathetic-shield">Rising Sun Shld</a><br/>(Adjacent foes may step back)</td>
     </tr>
   </tbody>
 </table>
@@ -6737,7 +6737,7 @@ Locations:
 
 ### Fox Kodachi
 
-Obtained by asking <a href="/shiren5/system/allies#koharu">Koharu</a> to transform into a weapon.<br/>High attack, but effectively 0 rune slots and has the slowest growth rate among all weapons.<br/>The only sane way to level up this weapon is to use the <a href="/shiren5/guide/tips-and-tricks#equipment-level">Gambler's Scroll technique</a>.
+Obtained by asking <a href="/system/allies#koharu">Koharu</a> to transform into a weapon.<br/>High attack, but effectively 0 rune slots and has the slowest growth rate among all weapons.<br/>The only sane way to level up this weapon is to use the <a href="/guides/tips-and-tricks#equipment-level">Gambler's Scroll technique</a>.
 
 <table class="itemDetailsTable">
   <tbody>
@@ -6763,7 +6763,7 @@ Obtained by asking <a href="/shiren5/system/allies#koharu">Koharu</a> to transfo
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      <td rowspan="8">Ask <a href="/shiren5/system/allies#koharu">Koharu</a> to change<br/>into a weapon.</td>
+      <td rowspan="8">Ask <a href="/system/allies#koharu">Koharu</a> to change<br/>into a weapon.</td>
     </tr>
     <tr>
       <td>2</td>
@@ -6902,9 +6902,9 @@ Locations:
 
 ### Kaburagi
 
-Obtained by wishing for an unstoppable weapon in <a href="/shiren5/dungeon/inori-cave">Inori Cave</a>.<br/>Strongest weapon in the game, and its resonance effect lets you deal somewhat meaningful<br/>damage to early game night monsters, which can be boosted further by equipping a <a href="/shiren5/item/bracelets#night-ward">Night Ward</a>.
+Obtained by wishing for an unstoppable weapon in <a href="/dungeons/inori-cave">Inori Cave</a>.<br/>Strongest weapon in the game, and its resonance effect lets you deal slightly meaningful<br/>damage to night monsters, which can be boosted further by equipping a <a href="/items/bracelets#night-ward">Night Ward</a>.
 
-Shugouseki vs. Kaburasutegi as a main weapon for dungeons that allow carry-in items<br/>comes down to whether or not you want to equip 2 bracelets.
+Shugoseki Swd vs. Kaburasutegi as a main weapon for dungeons that allow carry-in items<br/>comes down to whether or not you want to equip 2 bracelets.
 
 <table class="itemDetailsTable">
   <tbody>
@@ -6930,7 +6930,7 @@ Shugouseki vs. Kaburasutegi as a main weapon for dungeons that allow carry-in it
       <td>-</td>
       <td>15000</td>
       <td>5250</td>
-      <td rowspan="8">Clear <a href="/shiren5/dungeon/inori-cave">Inori Cave</a> with<br/>7 cat stones and wish for<br/>an unstoppable weapon.<br/><br/>Resonance: <a href="/shiren5/item/shields#helix-shield">Helix Shield</a><br/>(+10 attack damage)</td>
+      <td rowspan="8">Clear <a href="/dungeons/inori-cave">Inori Cave</a> with 7<br/>Catstones and wish for<br/>an unstoppable weapon.<br/><br/>Resonance: <a href="/items/shields#helix-shield">Helix Shield</a><br/>(Attack damage +10)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -7065,7 +7065,7 @@ Locations:
 
 ### Torch
 
-Technically not a weapon, but it's equipped in the same slot as a sword.<br/>Torches dim after every 250 turns, and burn out once the radius falls below 1.<br/>(example: Fine Torch dims after 250 turns, and lasts a total of 500 turns)<br/>Blessed torches dim after every 500 turns, making them last twice as long.
+Technically not a weapon, but it's equipped in the same slot as a sword.<br/>Torches dim by 1 stage every 250 turns, and burn out once the radius falls below 1.<br/>(Example: Fine Torch dims after 250 turns, and lasts a total of 500 turns)<br/>Blessed torches dim every 500 turns, making them last twice as long.
 
 <table class="itemDetailsTable">
   <tbody>
@@ -7081,7 +7081,7 @@ Technically not a weapon, but it's equipped in the same slot as a sword.<br/>Tor
       <td>100</td>
       <td>35</td>
       <td>1 tile</td>
-      <td rowspan="3">Lights up your surroundings at night.<br/>Dims by 1 stage every 250 turns. (500 if blessed)<br/><br/>Resonance: <a href="/shiren5/item/shields#blazing-shield">Blazing Shield</a><br/>(Light up an entire room at night)<br/><br/>Resonance: <a href="/shiren5/item/shields#midnight-shield">Midnight Shield</a><br/>(Night enemies miss more often)</td>
+      <td rowspan="3">Lights up your surroundings at night.<br/>Dims by 1 stage every 250 turns. (500 if blessed)<br/><br/>Resonance: <a href="/items/shields#blazing-shield">Blazing Shield</a><br/>(Light up an entire room at night)<br/><br/>Resonance: <a href="/items/shields#midnight-shield">Midnight Shield</a><br/>(Night enemies miss more often)</td>
     </tr>
     <tr>
       <td>Fine Torch</td>
