@@ -1009,11 +1009,8 @@ export const baseStyles = css`
   .gatsby-resp-image-background-image {
     display: none !important;
   }
-  .headingImage {
+  .gatsby-resp-image-wrapper {
     display: inline-block !important;
-  }
-  .headingImage img {
-    position: relative !important;
   }
   .itemPageImage img {
     position: relative !important;
@@ -1023,17 +1020,8 @@ export const baseStyles = css`
     height: 150px !important;
     position: relative !important;
   }
-  .trapTable img {
+  .relativeImage img {
     position: relative !important;
-  }
-  .systemImage {
-    display: inline-flex !important;
-  }
-  .systemImage img {
-    position: relative !important;
-  }
-  .pageTopImage {
-    display: inline-flex !important;
   }
   .pageTopImage img {
     padding-top: 5px;
@@ -1058,6 +1046,10 @@ export const baseStyles = css`
     height: 20px;
     width: 20px;
     margin-bottom: 10px;
+  }
+  #catstone {
+    height: 30px;
+    width: 27px;
   }
   /* end image */
   .githubBtn {

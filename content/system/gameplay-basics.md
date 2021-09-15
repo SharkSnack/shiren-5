@@ -30,6 +30,7 @@ This page provides information for Shiren 5's various gameplay systems and mecha
       <li><a href="#synthesis">Synthesis</a></li>
       <li><a href="#new-items">New Items</a></li>
       <li><a href="#catstones">Catstones</a></li>
+      <li><a href="#monster-licenses">Monster Licenses</a></li>
     </ul>
   </li>
   <li><a href="#dungeon">Dungeon</a>
@@ -79,7 +80,7 @@ Special attacks that can only be used at night.<br/>
 Shiren has a fullness gauge (FG), and takes 1 damage per turn once it reaches 0.<br/>
 Fullness decreases by 1 every 10 turns, so periodically eat food to replenish fullness.
 
-<div class="systemImage">
+<div class="relativeImage">
   <img src="../images/other/onigiri.png"/> <img src="../images/other/peach.png"/>
 </div>
 
@@ -88,7 +89,7 @@ Fullness decreases by 1 every 10 turns, so periodically eat food to replenish fu
 States that affect a character's behavior in various ways.<br/>
 → <a href="/system/status-conditions">Status Conditions</a>
 
-<div class="systemImage">
+<div class="relativeImage">
   <img src="../images/other/shiren_confused.png"/>
 </div>
 
@@ -100,7 +101,7 @@ Shiren's status will change as you defeat enemies during an adventure.
 
 <br/>
 
-<div class="systemImage">
+<div class="relativeImage">
   <img src="../images/other/shiren_super.gif"/>
 </div>
 
@@ -132,7 +133,7 @@ Super status can deactivate due to the following:
 
 Shiren's HP regenerates as he walks or steps in place (A+B).<br/>(HP won't regenerate when any other action is performed)
 
-<div class="systemImage">
+<div class="relativeImage">
   <img src="../images/other/turn_clock.png"/>
 </div>
 
@@ -172,7 +173,7 @@ Source: [ダメージ計算 - 組長式(アーカイブ)](https://web.archive.or
 
 Accuracy increases while equipped with a leveled up weapon.<br/>The <span class="greenText">Redeeming</span> rune raises accuracy to 100% for 1 hit after 2 misses.
 
-|Weapon |Level  |Lv1\~3   |Lv4\~5  | Lv6\~7  | Lv8|
+|Weapon Level  |Lv1\~3   |Lv4\~5  | Lv6\~7  | Lv8|
 |-|-|-|-|-|
 |Accuracy | 92%  | 93% |  94%  | 95%|
 
@@ -216,12 +217,38 @@ Source: [攻撃の命中率 - 組長式(アーカイブ)](http://web.archive.org
 
 ## Item
 
+### Point Card
+
+Step on Point Switches while carrying a Point Card to accumulate points,<br/>which can then be exchanged at the Point Shop for various items.<br/>
+→ Point Shop Items
+
+Point Switch:
+
+<div class="relativeImage">
+  <img src="../images/traps/point_switch.png"/>
+</div>
+
+How to Obtain the Point Card:
+
+1. Go to the basement of Hotel Nekomaneki and go through the Lot Shop event.
+2. Go to the Point Shop (building next to Dungeon Center) and talk to the Point Man.
+
+Notes:
+
+- Points earned per Point Switch varies by dungeon and depth.
+- If you lose the Point Card, you can have it reissued for 1000 Gitan.
+    - The points you accumulated won't be lost.
+- The Point Card's status affects points earned from Point Switches.
+    - Sealed or inside a pot = 0 points.
+    - Blessed = Double points, but blessing wears off after 1 use.
+- Points reset to 0 if you end the game without suspending properly.
+
 ### Resonance
 
 Certain weapons, shields, and bracelets activate special effects when equipped at the same time.<br/>
 → <a href="/system/resonance">Resonance</a>
 
-<div id="resonanceImage" class="systemImage">
+<div id="resonanceImage" class="relativeImage">
   <img src="../images/other/resonance.png"/>
 </div>
 
@@ -231,7 +258,7 @@ Weapons and shields earn growth experience points when you defeat enemies using 
 
 ※ You don't earn skill points if you defeat enemies using projectiles, abilities, magic bullets, etc.
 
-<div class="systemImage">
+<div class="relativeImage">
   <img src="../images/other/weapon_level.png"/>
 </div>
 
@@ -315,13 +342,13 @@ Effect details by item category:
 
 Synthesize weapons and shields to merge special abilities, upgrade value, and runes,<br/>and combine staves to add their use counts together.
 
-<div id="resonanceImage" class="systemImage">
+<div id="resonanceImage" class="relativeImage">
   <img src="../images/other/runes.png"/>
 </div>
 
 #### Synthesis Effects
 
-Weapon, Shield:
+Weapons, Shields:
 
 - First item is the base. Runes and upgrade value of subsequent items are added to it.<br/>(Example: Katana first, Scythe+1 second → Katana+1 with <span class="greenText">Anti-Plant</span> rune)
 - Each item has a "rune count", and no more runes can be added once you reach the limit.<br/>(Example: Katana has 4 rune slots)
@@ -329,19 +356,18 @@ Weapon, Shield:
 
 Staves:
 
-- Adds use counts together. Can only combine same name staves.<br/>(Example: Knockback Staff[3] first, Knockback Staff[4] second → Knockback Staff[7])
+- Adds use counts together. Can only combine same name staves.<br/>(Example: Knockback Staff [3] first, Knockback Staff [4] second → Knockback Staff [7])
 
 #### Different Category Synthesis
 
-Normally, you can only synthesize weapons with weapons, and shields with shields.<br/>However, certain different category items can be synthesized by Mixers to add runes.
-
-Example: Weapon + Dragon Grass = <span class="greenText">Anti-Dragon</span> rune.<br/>→ Check [Rune List](/system/runes#rune-list) for all possible combinations.
+Normally, you can only synthesize weapons with weapons, and shields with shields.<br/>However, certain different category items can be synthesized by Mixers to add runes.<br/>
+(Example: Weapon + Dragon Grass = <span class="greenText">Anti-Dragon</span> rune)<br/>→ Check [Rune List](/system/runes#rune-list) for all possible combinations.
 
 #### Synthesis Methods
 
 Synthesis Pot:
 
-<div id="synthesisPot" class="systemImage">
+<div id="synthesisPot" class="relativeImage">
   <img src="../images/other/pot.png"/>
 </div>
 
@@ -350,7 +376,7 @@ Synthesis Pot:
 
 Mixer:
 
-<div id="synthesisMixer" class="systemImage">
+<div id="synthesisMixer" class="relativeImage">
   <img src="../images/other/mixer.png"/>
 </div>
 
@@ -359,7 +385,7 @@ Mixer:
     - Will eat: Any status conditions besides the ones listed below.
     - Won't eat: Napping, Asleep, Sound Asleep, Sealed, Paralyzed, S-Paralyzed, Onigiri, Tottering.
 - Mixers can only eat a set number of items, based on their level.<br/>
-(Example: Mixer = 2, Mixermon = 3, Mixergon = 4, Mixerdon = 5)
+(Mixer = 2, Mixermon = 3, Mixergon = 4, Mixerdon = 5)
 - Throw an Expand Seed to increase the number of items a Mixer can eat by 1. (Max: 8)<br/>(Example: Throw an Expand Seed at a Mixer, then synthesize 3 items instead of 2)
 - Mixers turn toward the direction the item came from when they eat an item.
 
@@ -399,48 +425,126 @@ It's fine to throw non-equipment category items before the weapon or shield.
 Secret Pots located in the basement of Hotel Nekomaneki can be used to add new abilities to items.<br/>
 → [New Items](/system/new-items)
 
-<div id="secretPotImage" class="systemImage">
+<div id="secretPotImage" class="relativeImage">
   <img src="../images/other/secret_pot.png"/>
 </div>
 
 ### Catstones
 
-### Point Card
+Collect all 7 colors and clear Inori Cave to have a wish granted.<br/>→ Wishes List
+
+<div id="catstone" class="relativeImage">
+  <img src="../images/other/cat.png"/>
+</div>
+
+There are a number of different methods to obtain Catstones.<br/>The list below is in the order of how easy it is to obtain all 7 colors.
+
+- Tanuki Passwords
+    - Talk to Pokopon inside Hotel Nekomaneki and input Tanuki Passwords to obtain 1 set.<br/>※ Passwords can only be used once per save file.
+- Rescue Passwords
+    - Use Lost Well Pick-A-Choice Rescue Passwords.<br/>(See Collecting Catstones for details)
+- Pick-A-Choice Shop
+    - Same as above, but search for a Pick-A-Choice shop on your own.
+- Purchase From Poo
+    - Talk to Ah in Hotel Manekineko to hear Poo's current location,<br/>and then go there and purchase a Catstone for 3000G. (Random color)<br/>Poo's location is randomly selected from the list of dungeons you've entered before,<br/>and will change location after 7 or so adventures.
+- Clear Destiny's Descent
+    - The clear reward for this dungeon is a full set of Catstones.<br/>However, you need Catstones to even unlock this dungeon, and it's quite difficult,<br/>so it's not a very practical option.
+- Elite Stores
+    - You'll occasionally find Catstones for sale in elite stores.
+
+### Monster Licenses
+
+
 
 ## Dungeon
 
 ### Allies
 
+Allies are mostly optional NPCs who fight alongside Shiren.<br/>(Jirokichi is a mandatory ally during the main story)<br/>→ Allies
+
+<div class="relativeImage">
+  <img src="../images/other/jirokichi.png"/><img src="../images/other/tao.png"/>
+</div>
+
 ### NPCs
+
+Characters who wander around inside dungeons and help Shiren out in various ways.<br/>
+→ Wandering NPCs
+
+<div class="relativeImage">
+  <img src="../images/other/npc.png"/>
+</div>
 
 ### Dungeon Features
 
+Details for things like shops, hidden hallways, shiny objects, item islands, lava, etc.<br/>
+→ Dungeon Features
+
 ### Monster House
+
+Information about Monster Houses.<br/>
+→ Monster House
 
 ### Traps
 
+List of traps and their effects.<br/>
+→ Traps
+
+<div class="relativeImage">
+  <img src="../images/traps/wood_arrow.png"/> <img src="../images/traps/sleep.png"/> <img src="../images/traps/gauge_blind.png"/>
+</div>
+
 ### Day / Night
+
+
 
 ### Monsters
 
+Details for enemies that appear inside dungeons.<br/>
+→ Monsters
+
+<div class="relativeImage">
+  <img src="../images/other/mamel.png"/> <img src="../images/other/sproutant.png"/> <img src="../images/other/seedie.png"/>
+</div>
+
 ### Monster Auras
+
+
 
 ### Monster Spawns
 
+
+
 ## Facilities
+
+
 
 ### Equipment Tags
 
+
+
 ### Storehouse
+
+
 
 ### Tanuki Passwords
 
+
+
 ### Sparrow's Shuttle
+
+
 
 ## Other
 
 ### Adventure Footprints
 
+
+
 ### Expert Badges
 
+
+
 ### Version Exclusives
+
+

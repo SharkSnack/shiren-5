@@ -292,9 +292,9 @@ Some players limit the number of items they create to 6 to ensure they're availa
 - Galaxy Guard
     - For those that don't care for Flame Shot.
     - Bladite is more common than Red Blade, which makes it more likely you'll be able<br/>to activate 2 bracelet resonance in dungeons that don't allow carry-in items.
-- Day Shield
+- Daytime Queen
     - Inferior to 2 bracelet resonance, so not recommended.
-    - If you want the highest raw defense in the game.
+    - If you want the highest raw damage reduction in the game.
 - Helix Shield
     - Inferior to all of the above options, so not recommended.
 
