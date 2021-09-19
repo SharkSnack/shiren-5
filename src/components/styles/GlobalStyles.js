@@ -719,6 +719,9 @@ export const baseStyles = css`
   .itemDetailsTable td {
     padding: 3px;
   }
+  .itemDetailsTable img {
+    position: relative !important;
+  }
   .formationTable td {
     padding: 3px 6px;
     text-align: center;
@@ -1050,6 +1053,10 @@ export const baseStyles = css`
   #catstone {
     height: 30px;
     width: 27px;
+  }
+  .screenshot {
+    width: 340px;
+    height: auto;
   }
   /* end image */
   .githubBtn {

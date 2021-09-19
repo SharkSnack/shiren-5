@@ -30,7 +30,7 @@ This page provides information for Shiren 5's various gameplay systems and mecha
       <li><a href="#synthesis">Synthesis</a></li>
       <li><a href="#new-items">New Items</a></li>
       <li><a href="#catstones">Catstones</a></li>
-      <li><a href="#monster-licenses">Monster Licenses</a></li>
+      <li><a href="#friendship-licenses">Friendship Licenses</a></li>
     </ul>
   </li>
   <li><a href="#dungeon">Dungeon</a>
@@ -452,7 +452,38 @@ There are a number of different methods to obtain Catstones.<br/>The list below 
 - Elite Stores
     - You'll occasionally find Catstones for sale in elite stores.
 
-### Monster Licenses
+### Friendship Licenses
+
+Friendship Licenses are items that cause a monster family to act as allies and attack enemy monsters.
+
+How to Obtain:
+
+- Purchase at the License Shop in Nekomaneki Village.
+- Read a Nixer Scroll while adjacent to an enemy monster.
+- Defeat an enemy monster that is afflicted with Dueling status.
+
+Notes:
+
+- Ally monsters won't be attacked by enemies, and won't level up when they defeat other monsters.
+- Shiren won't gain any experience points from ally monsters defeating enemies.
+- If Shiren deals damage to an ally monster, all licenses for that family get destroyed.
+    - Includes licenses inside pots.
+- Licenses don't take effect if they're on the ground or inside pots.
+- Licenses can turn into Blank Scrolls when leaving a floor where the family is in the monster table.
+    - The check is also performed on licenses in pots, and seems to be around 10\~20%.
+    - Example: In Gen's Turf, Mamel appears between 1-5F, and Pit Mamel between 3-7F.<br/>Therefore, 7 chances for Mamel Lic. to turn into a Blank Scroll.<br/>(1→2F, 2→3F, 3→4F, 4→5F, 5→6F, 6→7F, 7→8F)
+
+Example:
+
+<div class="relativeImage">
+  <img src="../images/other/sproutant_license.png"/>
+</div>
+
+If you have a Sproutant Lic. in your inventory (not inside a pot), all Sproutants, Sproutyrants,<br/>Sprouterrors, and Sproutitans on the current floor will attack enemies instead of you.
+
+<div class="relativeImage screenshot">
+  <img src="../images/other/sproutant_attacking.jpg"/>
+</div>
 
 
 
@@ -496,7 +527,38 @@ List of traps and their effects.<br/>
 
 ### Day / Night
 
+Some dungeons have day and night cycles that change based on the number of elapsed turns.<br/>The Night Training Facility in Inori Village or NPC at the exit of Hermit's Hermitage offers a tutorial.
 
+<div class="relativeImage screenshot">
+  <img src="../images/other/night.jpg"/>
+</div>
+
+The monster table is different between day and night,<br/>and all monsters on the floor vanish and new ones are generated when time of day changes.
+
+When it changes from:
+
+- Day to Night → day monsters vanish, and night monsters are generated.
+- Night to Day → night monsters vanish, and day monsters are generated.<br/>
+
+Night:
+
+- Direct attacks only deal 1 damage to night monsters, so use Necklace Abilities to defeat them.
+    - Up to 8 abilities can be assigned. (Talk to the NPC in Hotel Nekomaneki to edit)
+    - Once an ability is used, it can't be used again until you change floors or eat a peach.
+    - Special effects from items like staves and scrolls are effective.
+    - Fixed damage attacks like Dragon Grass also only deal 1 damage.
+        - However, Empathy status and the Dispersing rune are effective.
+- Field of view is reduced to a 1 tile radius.
+    - Equip a torch to expand your field of view. (Higher grade torches provide a larger radius)
+    - Night monsters deal far greater damage to you without a torch equipped.
+    - Scrolls other than Fixer Scroll cannot be read at night without light.
+- The Scout command cannot be used unless you've read a Navigation or Fixer scroll.
+- Items dropped by night monsters are always blessed, and are chosen from the shop table.
+    - In other words, generally higher quality than items you find on the ground.
+
+Day:
+
+- Direct attacks deal damage like normal to day monsters, and abilities cannot be used.
 
 ### Monsters
 

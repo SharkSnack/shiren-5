@@ -572,6 +572,19 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
 
 ### Ordinary Stick
 
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/ordinary_stick_1.png"/></td>
+    <td><img src="../images/weapons/ordinary_stick_8.png"/></td>
+    <td>It's an ordinary stick. Totally ordinary.<br/>It's ubiquitous!</td>
+  </tr>
+</table>
+
 It's weak, but levels up quickly.<br/>Has the highest starting upgrade limit among all weapons, so it shines<br/>in dungeons like Gen's Turf where you can obtain lots of Blank Scrolls.<br/>Good weapon to insert into Upgrade Pots.
 
 <table class="itemDetailsTable">
@@ -728,6 +741,19 @@ Locations:
 </table>
 
 ### Tin Blade
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/tin_blade_1.png"/></td>
+    <td><img src="../images/weapons/tin_blade_8.png"/></td>
+    <td>A weapon made from sharpening tin.<br/>It gleams dully in the light.</td>
+  </tr>
+</table>
 
 Basic weak weapon.<br/>It doesn't really have any redeeming qualities.
 
@@ -886,6 +912,19 @@ Locations:
 
 ### Katana
 
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/katana_1.png"/></td>
+    <td><img src="../images/weapons/katana_8.png"/></td>
+    <td>A standard weapon that is common<br/>wanderer gear.</td>
+  </tr>
+</table>
+
 It has more rune slots than in Shiren 4, but it's still quite weak.<br/>Use it only if you're desperate to activate 2 bracelet resonance.
 
 <table class="itemDetailsTable">
@@ -1042,6 +1081,19 @@ Locations:
 </table>
 
 ### Beast Fang
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/beast_fang_1.png"/></td>
+    <td><img src="../images/weapons/beast_fang_8.png"/></td>
+    <td>This weapon was crafted from the fang<br/>of a beast. It probably hurt to be hit<br/>by this.</td>
+  </tr>
+</table>
 
 Decent interim weapon that gains the Rustproof rune at Lv5.<br/>It doesn't have many rune slots, so choose your runes carefully.
 
@@ -1200,6 +1252,19 @@ Locations:
 
 ### Dotanuki
 
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/dotanuki_1.png"/></td>
+    <td><img src="../images/weapons/dotanuki_8.png"/></td>
+    <td>A first-rate katana forged by a seasoned<br/>bladesmith. A common weapon among<br/>wanderers.</td>
+  </tr>
+</table>
+
 Pretty fast growth, and has more starting rune slots than Bladite and Red Blade.<br/>It doesn't have any added runes before Lv8, so it's easy to transfer to stronger weapons.<br/>Solid choice for Destiny's Descent, since special weapons can't be found on the floor.
 
 <table class="itemDetailsTable">
@@ -1356,6 +1421,19 @@ Locations:
 </table>
 
 ### Bladite
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/bladite_1.png"/></td>
+    <td><img src="../images/weapons/bladite_8.png"/></td>
+    <td>A meteorite fell to earth and shattered<br/>into a million pieces. A blacksmith forged<br/>those pieces into this weapon.</td>
+  </tr>
+</table>
 
 Faster growth than Red Blade.<br/>Targite is a strong shield, so the set is excellent for 2 bracelet resonance.<br/>Good rune count early on, but you'll be stuck at 8 slots for quite a while.
 
@@ -1515,6 +1593,19 @@ Locations:
 
 ### Red Blade
 
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/red_blade_1.png"/></td>
+    <td><img src="../images/weapons/red_blade_8.png"/></td>
+    <td>This is a weapon made from a red hard<br/>stone called Shugouseki. The reddish-<br/>black color of the weapon is eerie.</td>
+  </tr>
+</table>
+
 High attack, but low rune count for early ~ mid game.<br/>Slow growth, and the Uplifting rune is added early on which doesn't help.<br/>Flame Shot often slows down the pace of the game or causes accidents.<br/>Choose your runes carefully, and unless you're using it with a Red Shield<br/>for 2 bracelet resonance, it's better to go with Bladite or Dotanuki.
 
 <table class="itemDetailsTable">
@@ -1673,6 +1764,19 @@ Locations:
 
 ### Kabura Katana
 
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/kabura_katana_1.png"/></td>
+    <td><img src="../images/weapons/kabura_katana_8.png"/></td>
+    <td>A katana made by the legendary<br/>bladesmith, Kabura. Wanderers say it's<br/>the best katana, but it's exceptionally<br/>rare.</td>
+  </tr>
+</table>
+
 High base attack, and the Quick Hitting rune is a solid addition.<br/>However, the weapon is very slow to level up, and it has low rune count for early ~ mid game.<br/>Basically a worse option than Bladite or Red Blade until it reaches Lv8.<br/>It also lacks 2 bracelet resonance, and increases damage dealt by 5 instead.<br/>It's actually decent since it works on all enemies, but you still can't one-shot Gitan Mamel.
 
 <table class="itemDetailsTable">
@@ -1829,6 +1933,19 @@ Locations:
 </table>
 
 ### Fuuma Sword
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/fuuma_sword_1.png"/></td>
+    <td><img src="../images/weapons/fuuma_sword_8.png"/></td>
+    <td>Thanks to the work of a skilled smith,<br/>the Storied Katana has been reborn!<br/>It's been remade with Fuuma iron!</td>
+  </tr>
+</table>
 
 Basically a better Kabura Katana, but only usable in dungeons that allow carry-in items.<br/>Its resonance with Helix Shield lets you deal slightly meaningful damage to night monsters,<br/>which can be boosted further by equipping a <a href="/items/bracelets#night-ward">Night Ward</a>.
 
@@ -1991,6 +2108,19 @@ Locations:
 
 ### Dull Gold Edge
 
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/dull_gold_edge_1.png"/></td>
+    <td><img src="../images/weapons/dull_gold_edge_8.png"/></td>
+    <td>It's dull and has lost some of its<br/>luster, but it's made of gold, so it won't<br/>ever rust.</td>
+  </tr>
+</table>
+
 Decent starting rune count, and levels up quickly.<br/>However, its base attack is very low, so it's mostly used as a container for runes<br/>while you're working on leveling a main weapon to increase rune count.<br/>Its resonance effect is nice for digging up blue Shiny Objects.
 
 <table class="itemDetailsTable">
@@ -2147,6 +2277,19 @@ Locations:
 </table>
 
 ### Bright Blade
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/bright_blade_1.png"/></td>
+    <td><img src="../images/weapons/bright_blade_8.png"/></td>
+    <td>"Hey. I'm a proud weapon, so whenever I<br/>miss, I get so damn mad that I start<br/>shining. I always hit the next time, and<br/>and it'll be a critical to boot!"</td>
+  </tr>
+</table>
 
 Decent rune count, and levels up pretty quickly.<br/>Its innate Redeeming rune can help make up for its low base attack a bit,<br/>but it's mostly used as a rune container while leveling a better weapon.<br/>Day Shield increases the amount of damage you receive from night monsters,<br/>so keep that in mind if you aim to utilize this weapon's resonance effect.
 
@@ -2306,6 +2449,19 @@ Locations:
 
 ### Rusty Pickaxe
 
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/rusty_pickaxe_1.png"/></td>
+    <td><img src="../images/weapons/rusty_pickaxe_8.png"/></td>
+    <td>This can be used to dig holes in walls.<br/>However, digging with it may cause it to<br/>break, so be careful.</td>
+  </tr>
+</table>
+
 Low attack, but very high rune count, and quick to level up.<br/>It gains the Blinding rune at Lv5, so it's overall not a bad weapon.<br/>Be careful not to dig walls when you use it as a main weapon, such as in Onigiri Hollow.
 
 <table class="itemDetailsTable">
@@ -2462,6 +2618,19 @@ Locations:
 </table>
 
 ### Old Mallet
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/old_mallet_1.png"/></td>
+    <td><img src="../images/weapons/old_mallet_8.png"/></td>
+    <td>It destroys traps and items on the ground,<br/>but the mallet may break instead.<br/>"Hi, everybody! It's Picotan! Everyone's<br/>favorite mallet wieldin-- What?! You<br/>haven't heard of me?!"</td>
+  </tr>
+</table>
 
 It's easy to accidently destroy the weapon if you reveal a hidden trap with a direct attack.<br/>You also might destroy items by mistake, so it's not recommended as a main weapon.<br/>However, it gains the Confusing rune at Lv5, so it's not all bad.
 
@@ -2620,6 +2789,19 @@ Locations:
 
 ### Sky Splitter
 
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/sky_splitter_1.png"/></td>
+    <td><img src="../images/weapons/sky_splitter_8.png"/></td>
+    <td>This sword deals bonus damage to floating<br/>monster types. There are a lot of floating<br/>monsters, so you could say this weapon is<br/>very versatile.</td>
+  </tr>
+</table>
+
 It's very slow to level up, and its low base attack makes it difficult to use as a main weapon.<br/>However, if you manage to level it using Modder status (Super) or by hunting Maneaters,<br/>it'll prove to be a reliable weapon capable of wiping out many monster families.
 
 <table class="itemDetailsTable">
@@ -2777,6 +2959,19 @@ Locations:
 
 ### Water Cutter
 
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/water_cutter_1.png"/></td>
+    <td><img src="../images/weapons/water_cutter_8.png"/></td>
+    <td>This sword deals bonus damage to aquatic<br/>monster types. By repelling the water<br/>first, it cuts deeper into the aquatic<br/>creatures.</td>
+  </tr>
+</table>
+
 High rune count and pretty fast to level up, making it a solid option for a main weapon.<br/>Being able to deal more damage to Gyaza and Hopodile families is nice in particular,<br/>along with making hunting Zaloklefts for items more consistent.
 
 <table class="itemDetailsTable">
@@ -2933,6 +3128,19 @@ Locations:
 </table>
 
 ### Scythe
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/scythe_1.png"/></td>
+    <td><img src="../images/weapons/scythe_8.png"/></td>
+    <td>As its name suggests, it's a scythe made<br/>to cut grass. That's why it deals extra<br/>damage to plant monsters.</td>
+  </tr>
+</table>
 
 Fast to level up, solid rune count, and effective against many high attack power monsters.<br/>In particular, it makes it easier to farm grass items from Grass Kid monsters,<br/>and eliminates the worry of not defeating a Mutaikon monster in one hit.
 
@@ -3095,6 +3303,19 @@ Locations:
 
 ### Myopic Masher
 
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/myopic_masher_1.png"/></td>
+    <td><img src="../images/weapons/myopic_masher_8.png"/></td>
+    <td>This weapon deals bonus damage to<br/>cyclopean monster types. As the<br/>designation suggests, they are monsters<br/>with only one eye. Any other questions?</td>
+  </tr>
+</table>
+
 Fast to level up and high rune count.<br/>However, the range of effectiveness is limited, as there are only four Cyclopean monster families.<br/>Metalhead family monsters aren't as threatening in this game compared to Shiren 4,<br/>and you typically want to avoid being adjacent to Gazer family monsters.
 
 <table class="itemDetailsTable">
@@ -3251,6 +3472,19 @@ Locations:
 </table>
 
 ### Magic Masher
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/magic_masher_1.png"/></td>
+    <td><img src="../images/weapons/magic_masher_8.png"/></td>
+    <td>The edge of this weapon looks like a<br/>talisman. You're supposed to swat with it,<br/>rather than slice. I don't know how it<br/>works, but it deals more damage to magic<br/>monster types.</td>
+  </tr>
+</table>
 
 Pretty fast to level up, but somewhat low rune count.<br/>The range of effectiveness is limited, as there are only four Magic monster families.<br/>You don't want to give Magic types a chance to act due to their dangerous special attacks,<br/>so deciding to use a direct attack that can miss is a bad idea to begin with.
 
@@ -3409,6 +3643,19 @@ Locations:
 
 ### Drain Dagger
 
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/drain_dagger_1.png"/></td>
+    <td><img src="../images/weapons/drain_dagger_8.png"/></td>
+    <td>This weapon deals bonus damage to<br/>draining monster types. There aren't<br/>many monsters classified as draining<br/>types, but the ones that are all have<br/>very dangerous special abilities.</td>
+  </tr>
+</table>
+
 Pretty fast to level up, and solid rune count.<br/>Its ability to one-shot Absorbiphants makes up for the limited range of effectiveness,<br/>since you don't need to spend arrows softening Absorbiphants before using a direct attack<br/>if your weapon has status condition inflicting runes synthesized.
 
 <table class="itemDetailsTable">
@@ -3565,6 +3812,19 @@ Locations:
 </table>
 
 ### Copper Cleaver
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/copper_cleaver_1.png"/></td>
+    <td><img src="../images/weapons/copper_cleaver_8.png"/></td>
+    <td>This weapon deals bonus damage to metal<br/>monster types. It boasts a big blade and<br/>looks powerful.</td>
+  </tr>
+</table>
 
 Decent starting base attack and range of effectiveness, but very slow to level up.<br/>Its starting rune count is pretty good, and rune count increases every level,<br/>so you likely won't run out of space. So it's not exactly a bad option, despite its growth rate.
 
@@ -3723,6 +3983,19 @@ Locations:
 
 ### Crescent Katana
 
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/crescent_katana_1.png"/></td>
+    <td><img src="../images/weapons/crescent_katana_8.png"/></td>
+    <td>A katana shaped like a crescent moon<br/>that deals more damage to exploding<br/>monster types. It's great how it's<br/>effective even on Pop Tank.</td>
+  </tr>
+</table>
+
 Its growth rate and range of effectiveness leave a lot to be desired.<br/>Its rune count is slow to increase, and it doesn't have particularly high base attack,<br/>so there's basically no reason to choose this as a main weapon.
 
 <table class="itemDetailsTable">
@@ -3879,6 +4152,19 @@ Locations:
 </table>
 
 ### Lizard Lasher
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/lizard_lasher_1.png"/></td>
+    <td><img src="../images/weapons/lizard_lasher_8.png"/></td>
+    <td>This weapon deals bonus damage to<br/>draconic monster types. It's a specially<br/>designed blade made to cut through dragon<br/>scales. Don't let the dragons consume you!</td>
+  </tr>
+</table>
 
 Very slow to level up and low starting rune count, but high base attack at Lv1.<br/>Its range of effectiveness is limited to four monster families, but it includes fearsome<br/>mid-game monsters like Dragon, Shagga, and Hipadile, so it's a solid main weapon option.
 
@@ -4037,6 +4323,19 @@ Locations:
 
 ### Nap Rattle
 
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/nap_rattle_1.png"/></td>
+    <td><img src="../images/weapons/nap_rattle_8.png"/></td>
+    <td>You may recognize these rattles as a<br/>baby toy. How can you use it as a weapon,<br/>you ask? Don't underestimate it. If you<br/>hit with it, the target can be afflicted<br/>with Asleep. Powerful stuff, man.</td>
+  </tr>
+</table>
+
 Slow to level up and has very low starting base attack, but can inflict Asleep status.<br/>The chance is 12% at Lv1, and 26% at Lv8, and the sleeping enemy won't be able to act for 6 turns,<br/>so as long as it activates, you'll generally win any 1-vs-1 encounter.<br/>Just be careful of Absorbiphant and Naptapir family monsters.
 
 <table class="itemDetailsTable">
@@ -4193,6 +4492,19 @@ Locations:
 </table>
 
 ### Shockuto
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/shockuto_1.png"/></td>
+    <td><img src="../images/weapons/shockuto_8.png"/></td>
+    <td>Occasionally afflicts target with<br/>Paralyzed.<br/>This older style Japanese straight blade<br/>can sometimes stop enemies in their<br/>tracks, which is very convenient.</td>
+  </tr>
+</table>
 
 Slow to level up and low starting base attack, but can inflict Paralyzed status.<br/>Paralysis shuts down an enemy, making them unable to act until they're hit by an attack or effect.<br/>This really shines in dungeons that require run away or progress-during-night gameplay.<br/>Be careful not to synthesize <span class="greenText">Flame Shot</span>, since the fireball will immediately undo the paralysis.<br/>Unlike other status weapons/runes, <span class="greenText">Quick Hitting</span> doesn't mathematically impact the activation rate.
 
@@ -4351,6 +4663,19 @@ Locations:
 
 ### Blurry Stick
 
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/blurry_stick_1.png"/></td>
+    <td><img src="../images/weapons/blurry_stick_8.png"/></td>
+    <td>Occasionally afflicts target with<br/>Blind.<br/>It's like an inverse white cane. Tilt the<br/>odds in your favor against powerful<br/>enemies! They're not so tough when they<br/>can't see!</td>
+  </tr>
+</table>
+
 Basically a worse Baffle Axe - lower starting base attack, rune count, and slower growth.<br/>However, it's on par with Baffle Axe at Lv8, so it's actually a decent main weapon option.<br/>Blind status makes enemies walk in a straight line until they bump into a character or wall,<br/>so the predictable movement usually causes fewer accidents than Confused status.<br/>Just keep in mind that Blind status lasts half the duration of Confused status.
 
 <table class="itemDetailsTable">
@@ -4507,6 +4832,19 @@ Locations:
 </table>
 
 ### Sealing Keisaku
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/sealing_keisaku_1.png"/></td>
+    <td><img src="../images/weapons/sealing_keisaku_8.png"/></td>
+    <td>Occasionally afflicts target with<br/>Sealed.<br/>This weapon can Seal away enemies'<br/>special abilities. What a wonderful world!</td>
+  </tr>
+</table>
 
 Pretty fast growth rate like Baffle Axe, and its stats are on par with Blurry Stick.<br/>That might look decent on paper among status inflicting weapons, but Sealed status<br/>doesn't stop enemies from attacking, so there's no reason to use it as a main weapon.
 
@@ -4665,6 +5003,19 @@ Locations:
 
 ### Baffle Axe
 
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/baffle_axe_1.png"/></td>
+    <td><img src="../images/weapons/baffle_axe_8.png"/></td>
+    <td>Occasionally afflicts target with<br/>Confused.<br/>Once they get Confused, take advantage<br/>and beat the crap outta them. Easy!</td>
+  </tr>
+</table>
+
 Pretty fast to level up, okay base attack, high rune count, and can inflict Confused status.<br/>The chance to inflict Confused status is 12% at Lv1, and 28% at Lv8.<br/>Downside is that Confused status doesn't completely shut down enemies like Asleep status,<br/>but it's still a strong main weapon option.
 
 <table class="itemDetailsTable">
@@ -4821,6 +5172,19 @@ Locations:
 </table>
 
 ### Hatchet
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/hatchet_1.png"/></td>
+    <td><img src="../images/weapons/hatchet_8.png"/></td>
+    <td>An axe renowned for its critical hits.<br/>Whenever this axe crits, it hits for<br/>massive damage.</td>
+  </tr>
+</table>
 
 Pretty fast to level up, and has a chance to deal a x2.0 damage critical hit. (22% at Lv1, 38% at Lv8)<br/>However, it's difficult to defeat enemies in one hit with low attack, so it can be a little unreliable.<br/>It gains <span class="greenText">Paralyzing</span> at Lv8, which can help cover cases where a critical hit doesn't defeat an enemy.<br/>Prioritize type effective runes and <span class="greenText">Costly</span> instead of status runes if using it as a main weapon.<br/><span class="greenText">Healing</span> and <span class="greenText">Dispersing</span> are also good rune options, but are extremely rare to come across.
 
@@ -4980,6 +5344,19 @@ Locations:
 
 ### Shoddy Dirk
 
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/shoddy_dirk_1.png"/></td>
+    <td><img src="../images/weapons/shoddy_dirk_8.png"/></td>
+    <td>It's a powerful sword, but it grows<br/>weaker every time it's used. Oh?<br/>Did I hear something just now? (Bark!)</td>
+  </tr>
+</table>
+
 Very high base attack, but quickly degrades if used normally.<br/>It's best to seal it and use it as a raw stat weapon for early game.
 
 <table class="itemDetailsTable">
@@ -5137,6 +5514,19 @@ Locations:
 
 ### Glass Dirk
 
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/glass_dirk_1.png"/></td>
+    <td><img src="../images/weapons/glass_dirk_8.png"/></td>
+    <td>The blade is very beautiful, but<br/>because it's made of glass, it may<br/>shatter when it is used to attack. Who<br/>the heck made this, anyway?</td>
+  </tr>
+</table>
+
 Very high base attack, but quickly breaks if used normally.<br/>It's best to seal it and use it as a raw stat weapon for early game.<br/>Its resonance effect with Glass Buckler nullifies magic bullets received,<br/>so that can be used on floors where high level DJ Mages appear on rare occasions.
 
 <table class="itemDetailsTable">
@@ -5293,6 +5683,19 @@ Locations:
 </table>
 
 ### Dirk of Debts
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/dirk_of_debts_1.png"/></td>
+    <td><img src="../images/weapons/dirk_of_debts_8.png"/></td>
+    <td>When attacking, you'll trade some of<br/>your Gitan to increase damage dealt. If<br/>you don't have any Gitan, the weapon's<br/>attack will become 0. This weapon<br/>is a Gitan sink!</td>
+  </tr>
+</table>
 
 Direct attacks deal more damage, but Gitan is subtracted every time you land an attack.<br/>The rate is 30G / x1.3 damage at Lv1, and 250G / x2.0 damage at Lv8.<br/>If you don't have enough Gitan, both attack power and damage multiplier fall to 0.<br/>You'll want to steal from every store you come across if using it as a main weapon.<br/>Don't read unidentified scrolls in dungeons where Bankruptcy Scroll can appear.
 
@@ -5456,6 +5859,19 @@ Locations:
 
 ### Extreme Sword
 
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/extreme_sword_1.png"/></td>
+    <td><img src="../images/weapons/extreme_sword_8.png"/></td>
+    <td>All attacks with this weapon are either<br/>a critical hit or a miss. Talk about a<br/>game of chance. You knew what you were<br/>getting into when you saw its name.</td>
+  </tr>
+</table>
+
 Direct attacks have lower accuracy, but always deal a critical hit. (50% at Lv1, 71% at Lv8)<br/>It's useless as a rune, but has the potential to be extremely strong as a main weapon.<br/>However, some late game monsters can survive critical hits, and relying on even 71% accuracy<br/>introduces a lot of risk, so it's pretty much only used by enthusiasts.
 
 <table class="itemDetailsTable">
@@ -5615,6 +6031,19 @@ Locations:
 </table>
 
 ### Violent Blade
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/violent_blade_1.png"/></td>
+    <td><img src="../images/weapons/violent_blade_8.png"/></td>
+    <td>This cursed blade constantly thirsts for<br/>blood. If enemies get next to you, you<br/>can't flee from the enemy and the enemy<br/>can't flee from you. Once you're adjacent<br/>to each other, you're in a mortal duel.</td>
+  </tr>
+</table>
 
 Having this equipped makes you unable to move when you're next to a monster.<br/>This drawback can easily end your adventure, especially if you encounter a Monster House.<br/>However, its high starting base attack can be useful early game before you find a better weapon.<br/>Equipping a Mojo Bracelet with this weapon grants a chance to inflict Slow status to enemies,<br/>but since you can't back away, it's not as good as it might appear at first glance.
 
@@ -5778,6 +6207,19 @@ Locations:
 
 ### Breeze Blade
 
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/breeze_blade_1.png"/></td>
+    <td><img src="../images/weapons/breeze_blade_8.png"/></td>
+    <td>Attacks in 3 forward directions.<br/>This weapon's attack properties are quite<br/>useful in passageways.</td>
+  </tr>
+</table>
+
 Very low base attack, and slow to level up.<br/>It doesn't gain any notable runes through level ups, and the Tri-direction rune<br/>offers an identical effect, so there's no reason to use this as a main weapon.
 
 <table class="itemDetailsTable">
@@ -5934,6 +6376,19 @@ Locations:
 </table>
 
 ### Burning Blade
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/burning_blade_1.png"/></td>
+    <td><img src="../images/weapons/burning_blade_8.png"/></td>
+    <td>When your HP is full and you swing the<br/>sword, it'll shoot fireballs.<br/>This weapon gives the user the power to<br/>manipulate flames.</td>
+  </tr>
+</table>
 
 Swing the weapon when your HP is full to shoot a flame that deals fixed damage. (100% accuracy)<br/>Pair it with a Monster Detector or Monsterphobic to safely clear out enemies from a distance.<br/>Deals 8 damage at Lv1 (10 with resonance), and 25 damage at Lv8 (30 with resonance),<br/>and the fixed damage can defeat Gitan Mamels in one hit from Lv3. (Lv2 with resonance)
 
@@ -6094,6 +6549,19 @@ Locations:
 </table>
 
 ### Wonder Pick
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/wonder_pick_1.png"/></td>
+    <td><img src="../images/weapons/wonder_pick_8.png"/></td>
+    <td>It can dig into walls, but it will never<br/>break, no matter how much you use it.<br/>It's the pickaxe of your dreams.</td>
+  </tr>
+</table>
 
 Incredibly rare in the base game, but can be obtained easily by clearing <a href="/dungeons/merchants-hideout">Merchant's Hideout</a>.<br/>It's mostly a weapon that's only usable in dungeons that allow carry-in items,<br/>so there's no reason to use it as a main weapon.
 
@@ -6258,6 +6726,19 @@ Locations:
 
 ### Sturdy Hammer
 
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/sturdy_hammer_1.png"/></td>
+    <td><img src="../images/weapons/sturdy_hammer_8.png"/></td>
+    <td>It destroys traps and items on the ground.<br/>It looks old, but unlike mallets, it<br/>doesn't break. Isn't that magnificent?!</td>
+  </tr>
+</table>
+
 Obtained by clearing <a href="/dungeons/bizarre-tower">Bizarre Tower</a>.<br/>Only usable in dungeons that allow carry-in items, so there's no reason to use it as a main weapon.<br/>Its ability is identical to Old Mallet, but simply never breaks.
 
 <table class="itemDetailsTable">
@@ -6418,6 +6899,19 @@ Locations:
 </table>
 
 ### True Knife
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/true_knife_1.png"/></td>
+    <td><img src="../images/weapons/true_knife_8.png"/></td>
+    <td>Attacks with this weapon always hit.<br/>It's comforting to know that it will never<br/>miss.</td>
+  </tr>
+</table>
 
 Obtained by clearing <a href="/dungeons/pitfall-of-life">Pitfall of Life</a>.<br/>Only usable in dungeons that allow carry-in items, so there's no reason to use it as a main weapon.<br/>Its ability ensures that your direct attacks always connect. (<span class="greenText">Focusing</span> overrides this ability)
 
@@ -6580,6 +7074,19 @@ Locations:
 
 ### Pathetic Blade
 
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/pathetic_blade_1.png"/></td>
+    <td><img src="../images/weapons/pathetic_blade_8.png"/></td>
+    <td>It's evident that this is a pretty<br/>dilapidated sword. It's only natural that<br/>its max reinforcement level is low. The<br/>number of runes you can put on it is<br/>low, too. Get some better equipment.</td>
+  </tr>
+</table>
+
 Extremely slow to level up, and is nearly worthless before Lv8.<br/>It unfortunately loses its 2 bracelet resonance effect when it reaches Lv8,<br/>and instead makes monsters occasionally take 1 step back.<br/>It's only used in dungeons that allow carry-in items by enthusiasts who like the design.
 
 <table class="itemDetailsTable">
@@ -6736,6 +7243,19 @@ Locations:
 </table>
 
 ### Fox Kodachi
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/fox_kodachi_1.png"/></td>
+    <td><img src="../images/weapons/fox_kodachi_8.png"/></td>
+    <td>It's Koharu morphed into a weapon.<br/>"Shark! It's me, Koharu!<br/>I'm a weapon now!"</td>
+  </tr>
+</table>
 
 Obtained by asking <a href="/system/allies#koharu">Koharu</a> to transform into a weapon.<br/>High attack, but effectively 0 rune slots and has the slowest growth rate among all weapons.<br/>The only sane way to level up this weapon is to use the <a href="/guides/tips-and-tricks#equipment-level">Gambler's Scroll technique</a>.
 
@@ -6901,6 +7421,19 @@ Locations:
 </table>
 
 ### Kaburagi
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Lv1-7</th>
+    <th>Lv8</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/kaburagi_1.png"/></td>
+    <td><img src="../images/weapons/kaburagi_8.png"/></td>
+    <td>The strongest sword in the world, it<br/>was even sought after by Kabura. Holding<br/>it aloft will make it shine.</td>
+  </tr>
+</table>
 
 Obtained by wishing for an unstoppable weapon in <a href="/dungeons/inori-cave">Inori Cave</a>.<br/>Strongest weapon in the game, and its resonance effect lets you deal slightly meaningful<br/>damage to night monsters, which can be boosted further by equipping a <a href="/items/bracelets#night-ward">Night Ward</a>.
 
