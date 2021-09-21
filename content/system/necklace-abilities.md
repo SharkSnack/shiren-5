@@ -4,6 +4,10 @@ metaTitle: "Necklace Abilities - Shiren the Wanderer: Tower of Fortune Wiki"
 metaDescription: "Details about abilities / techniques and unlock conditions for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
 ---
 
+<div class="pageTopImage screenshot">
+  <img src="../images/other/abilities.jpg"/>
+</div>
+
 ## Overview
 
 Necklace abilities, also called techniques, are attacks that can only be used at night.<br/>They are the primary means to deal damage to night monsters, and are first used<br/>in Tower of Fortune during the main story.

@@ -7598,6 +7598,17 @@ Locations:
 
 ### Torch
 
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/torch.png"/></td>
+    <td>Equip this and it will light up and<br/>illuminate your surroundings.<br/>It burns out after a few turns.<br/>(You can read scrolls at night with light,<br/>and night monsters get weaker.)</td>
+  </tr>
+</table>
+
 Technically not a weapon, but it's equipped in the same slot as a sword.<br/>Torches dim by 1 stage every 250 turns, and burn out once the radius falls below 1.<br/>(Example: Fine Torch dims after 250 turns, and lasts a total of 500 turns)<br/>Blessed torches dim every 500 turns, making them last twice as long.
 
 <table class="itemDetailsTable">

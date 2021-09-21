@@ -75,6 +75,10 @@ The amount of experience points needed to level up.<br/>
 Special attacks that can only be used at night.<br/>
 → <a href="/system/necklace-abilities">Abilities</a>
 
+<div class="relativeImage screenshot">
+  <img src="../images/other/abilities_zoom.jpg"/>
+</div>
+
 ### Fullness
 
 Shiren has a fullness gauge (FG), and takes 1 damage per turn once it reaches 0.<br/>
@@ -219,6 +223,10 @@ Source: [攻撃の命中率 - 組長式(アーカイブ)](http://web.archive.org
 
 ### Point Card
 
+<div class="relativeImage">
+  <img src="../images/other/point_card.png"/>
+</div>
+
 Step on Point Switches while carrying a Point Card to accumulate points,<br/>which can then be exchanged at the Point Shop for various items.<br/>
 → Point Shop Items
 
@@ -231,7 +239,7 @@ Point Switch:
 How to Obtain the Point Card:
 
 1. Go to the basement of Hotel Nekomaneki and go through the Lot Shop event.
-2. Go to the Point Shop (building next to Dungeon Center) and talk to the Point Man.
+2. Go to the Point Shop (building next to Dungeon Center) and talk to the Pointman.
 
 Notes:
 
@@ -252,6 +260,36 @@ Certain weapons, shields, and bracelets activate special effects when equipped a
   <img src="../images/other/resonance.png"/>
 </div>
 
+### Equipment Tags
+
+Tags can be placed on weapons or shields, and ensures the item goes to Hermit's Hermitage if lost.<br/>Up to 8 tags can be placed on items, and the tag comes off when you pick the item up.<br/>The Sentry is located to the left of the Blacksmith.
+
+<div class="relativeImage screenshot">
+  <img src="../images/other/tag.jpg"/>
+</div>
+
+Placing a tag:
+
+- Purchase from Sentry (Hermit's Hermitage) or Shopkeepers for 3000 Gitan.
+- Purchase from Tag Master for 2000 Gitan.
+- Read a Tag Scroll and select a weapon or shield.
+
+Tag removal:
+
+- Request a tag removal. (Sentry or village shop)
+- Tagged item was delivered to the Sentry.
+- Sold the item inside a dungeon store.
+    - Don't sell your tagged main weapon and shield when stealing!
+- Chance to be removed when upgrade value decreases.
+    - Safe if you keep your equipment plated.
+
+Item is lost even with Tag:
+
+- Item turned into Onigiri or Weeds.
+- Item inserted into a Presto or Sale pot.
+- Quit the game without suspending properly / game froze.
+    - If you were carrying the item when this occurred.
+
 ### Equipment Growth
 
 Weapons and shields earn growth experience points when you defeat enemies using direct attacks.<br/>For the sake of keeping the term short, this site refers to it as skill points.
@@ -259,7 +297,7 @@ Weapons and shields earn growth experience points when you defeat enemies using 
 ※ You don't earn skill points if you defeat enemies using projectiles, abilities, magic bullets, etc.
 
 <div class="relativeImage">
-  <img src="../images/other/weapon_level.png"/>
+  <img src="../images/other/equipment_level.png"/>
 </div>
 
 Notes:
@@ -456,6 +494,10 @@ There are a number of different methods to obtain Catstones.<br/>The list below 
 
 Friendship Licenses are items that cause a monster family to act as allies and attack enemy monsters.
 
+<div class="relativeImage">
+  <img src="../images/other/sproutant_license.png"/>
+</div>
+
 How to Obtain:
 
 - Purchase at the License Shop in Nekomaneki Village.
@@ -475,23 +517,17 @@ Notes:
 
 Example:
 
-<div class="relativeImage">
-  <img src="../images/other/sproutant_license.png"/>
-</div>
-
 If you have a Sproutant Lic. in your inventory (not inside a pot), all Sproutants, Sproutyrants,<br/>Sprouterrors, and Sproutitans on the current floor will attack enemies instead of you.
 
 <div class="relativeImage screenshot">
   <img src="../images/other/sproutant_attacking.jpg"/>
 </div>
 
-
-
 ## Dungeon
 
 ### Allies
 
-Allies are mostly optional NPCs who fight alongside Shiren.<br/>(Jirokichi is a mandatory ally during the main story)<br/>→ Allies
+Allies are mostly optional NPCs who fight alongside Shiren.<br/>(Jirokichi is a mandatory ally during the main story)<br/>→ <a href="/system/allies">Allies</a>
 
 <div class="relativeImage">
   <img src="../images/other/jirokichi.png"/><img src="../images/other/tao.png"/>
@@ -500,7 +536,7 @@ Allies are mostly optional NPCs who fight alongside Shiren.<br/>(Jirokichi is a 
 ### NPCs
 
 Characters who wander around inside dungeons and help Shiren out in various ways.<br/>
-→ Wandering NPCs
+→ <a href="/system/npcs">Wandering NPCs</a>
 
 <div class="relativeImage">
   <img src="../images/other/npc.png"/>
@@ -511,10 +547,21 @@ Characters who wander around inside dungeons and help Shiren out in various ways
 Details for things like shops, hidden hallways, shiny objects, item islands, lava, etc.<br/>
 → Dungeon Features
 
+
+
+### Map Patterns
+
+List of map patterns used in the game.<br/>
+→ <a href="/system/map-patterns">Map Patterns</a>
+
 ### Monster House
 
 Information about Monster Houses.<br/>
 → Monster House
+
+<div class="relativeImage screenshot">
+  <img src="../images/other/monster_house.jpg"/>
+</div>
 
 ### Traps
 
@@ -579,34 +626,76 @@ Details for enemies that appear inside dungeons.<br/>
 
 ## Facilities
 
-
-
-### Equipment Tags
-
-
+See Villages for a complete list of available facilities.
 
 ### Storehouse
 
+Store up to 80 items, or 5 x 80 = 400 items if you fill it with Preservation Pot [5].<br/>Use the Organize option to easily reorganize and sell items.<br/>Select multiple items using the R button.
 
+<div class="relativeImage screenshot">
+  <img src="../images/other/storehouse.jpg"/>
+</div>
 
 ### Tanuki Passwords
 
+Input passwords to receive items.<br/>
+→ <a href="/system/tanuki-passwords">Tanuki Passwords</a>
 
+<div class="relativeImage screenshot">
+  <img src="../images/other/tanuki_password.png"/>
+</div>
 
 ### Sparrow's Shuttle
 
+Fast travel to places you've been to before.<br/>
+→ <a href="/system/villages#sparrow's-shuttle">Sparrow's Shuttle</a>
 
+<div class="relativeImage">
+  <img src="../images/other/sparrows_shuttle.png"/>
+</div>
 
 ## Other
 
 ### Adventure Footprints
 
+Basically a form of in-game achievements.<br/>
+→ <a href="/system/adventure-footprints">Adventure Footprints</a>
 
+<div class="relativeImage screenshot">
+  <img src="../images/other/adventure_footprint.jpg"/>
+</div>
 
 ### Expert Badges
 
+In-game achievements that challenge you to clear dungeons under special restrictions.<br/>
+→ <a href="/system/expert-badges">Expert Badges</a>
 
+<div class="relativeImage screenshot">
+  <img src="../images/other/expert_badges.jpg"/>
+</div>
 
 ### Version Exclusives
 
+Features that are exclusive to certain versions of the game.
 
+<div class="relativeImage screenshot">
+  <img src="../images/other/music_collection.jpg"/>
+</div>
+
+#### Switch / Steam
+
+→ <a href="/system/music-collection">Music Collection</a>
+
+#### Steam
+
+→ <a href="">Trading Cards</a><br/>
+→ <a href="https://store.steampowered.com/points/shop/app/1178790/">Steam Point Shop <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></a>
+
+#### Steam / Vita
+
+→ <a href="/system/trophies">Trophies</a>
+
+#### DS
+
+→ <a href="/system/streetpass">Streetpass</a><br/>
+→ <a href="/system/wanderer-erasers">Wanderer Erasers</a>

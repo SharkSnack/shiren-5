@@ -4,6 +4,10 @@ metaTitle: "Music Collection - Shiren the Wanderer: Tower of Fortune Wiki"
 metaDescription: "Music Collection List for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate"
 ---
 
+<div class="pageTopImage screenshot">
+  <img src="../images/other/music_collection.jpg"/>
+</div>
+
 Switch / Steam exclusive feature that lets you listen to music tracks.<br/>
 ※ Music tracks may play in other locations that aren't listed.
 

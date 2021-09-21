@@ -722,6 +722,34 @@ export const baseStyles = css`
   .itemDetailsTable img {
     position: relative !important;
   }
+  .npcTable th {
+    font-weight: normal;
+    text-align: center;
+    padding: 3px;
+  }
+  .npcTable td:first-of-type {
+    text-align: center;
+  }
+  .npcTable td {
+    padding: 3px;
+  }
+  .npcTable img {
+    width: 48px !important;
+    height: auto !important;
+    position: relative !important;
+  }
+  .firstYellowTable th {
+    font-weight: normal;
+    text-align: center;
+    padding: 3px;
+  }
+  .firstYellowTable td:first-of-type {
+    background-color: #ffffe4;
+    text-align: center;
+  }
+  .firstYellowTable td {
+    padding: 3px;
+  }
   .formationTable td {
     padding: 3px 6px;
     text-align: center;
@@ -901,6 +929,14 @@ export const baseStyles = css`
   .tableWithImages img {
     position: relative !important;
   }
+  .mapTable td {
+    text-align: center;
+  }
+  .mapTable img {
+    width: 200px !important;
+    height: auto;
+    position: relative !important;
+  }
   /* end - tables.css */
 
   /* List styling */
@@ -1054,8 +1090,40 @@ export const baseStyles = css`
     height: 30px;
     width: 27px;
   }
+  .ally {
+    width: 100px;
+    height: auto;
+  }
   .screenshot {
     width: 340px;
+    height: auto;
+  }
+  .smallScreenshot {
+    width: 240px;
+    height: auto;
+  }
+  #islandImage img {
+    width: 150px !important;
+    height: auto;
+  }
+  #mapLine img {
+    height: 100px !important;
+    width: auto;
+  }
+  #mapI img {
+    width: 150px !important;
+    height: auto;
+  }
+  #pickachoiceImage img {
+    width: 160px !important;
+    height: auto;
+  }
+  #hiddenRoom img {
+    width: 200px !important;
+    height: auto;
+  }
+  .mapImage img {
+    width: 220px !important;
     height: auto;
   }
   /* end image */

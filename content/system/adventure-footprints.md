@@ -4,6 +4,12 @@ metaTitle: "Adventure Footprints - Shiren the Wanderer: Tower of Fortune Wiki"
 metaDescription: "List of Adventure Footprints for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate"
 ---
 
+<div class="pageTopImage screenshot">
+  <img src="../images/other/adventure_footprint.jpg"/>
+</div>
+
+In-game achievements that automatically update as you play the game.
+
 ## Switch / Steam
 
 |No.|Footprint|Notes|
