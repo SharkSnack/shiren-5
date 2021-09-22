@@ -18,13 +18,13 @@ This page offers explanations for dungeon features and gimmicks.
   <li><a href="#gitan-room">Gitan Room</a></li>
   <li><a href="#buried-item">Buried Items</a></li>
   <li><a href="#maze-room">Maze Room</a></li>
-  <li><a href="#traps">Moving Floor</a></li>
-  <li><a href="#traps">Launch Pad</a></li>
-  <li><a href="#traps">Spear Gate</a></li>
-  <li><a href="#traps">Iron Door</a></li>
-  <li><a href="#traps">Special Door</a></li>
-  <li><a href="#traps">Lava</a></li>
-  <li><a href="#traps">Tsunami (DS)</a></li>
+  <li><a href="#moving-floor">Moving Floor</a></li>
+  <li><a href="#launch-pad">Launch Pad</a></li>
+  <li><a href="#spear-door">Spear Door</a></li>
+  <li><a href="#iron-door">Iron Door</a></li>
+  <li><a href="#special-door">Special Door</a></li>
+  <li><a href="#lava">Lava</a></li>
+  <li><a href="#tidal-wave">Tidal Wave</a></li>
 </ul>
 
 ### Shop
@@ -244,7 +244,7 @@ If there's already a monster house, the next floor turns into a single room mons
   </tr>
   <tr>
     <td>Power</td>
-    <td>Absorbiphant, Pop Tank, Porky,<br/>Eligan, Ironhead, Zapdon,<br/>Gyadon, Sproutant, Scorpion</td>
+    <td>Absorbiphant, Pop Tank, Porky,<br/>Eligan, Metalhead, Zapdon,<br/>Gyadon, Sproutant, Scorpion</td>
     <td>High stat monsters, along with ranged attackers Porky<br/>and Pop Tank, and tricky to deal with Absorbiphant.<br/>Absorbiphant makes it rather difficult to overcome.</td>
   </tr>
   <tr>
@@ -384,7 +384,7 @@ There's a rare variant that requires at least 9 strength to dig up.<br/>In this 
 Ground surrounded by a waterway with 3 items and a Spring Trap.
 
 <div id="islandImage" class="relativeImage">
-  <img src="../images/other/item_island_2.png"/>
+  <img src="../images/other/island.png"/>
 </div>
 
 How to Obtain Items:
@@ -417,34 +417,83 @@ If nothing happens when you punch the wall after Shiren stops, take 1 step forwa
 
 ### Maze Room
 
+Room shaped like a maze.<br/>
+It's treated as a room despite consisting of hallways, meaning items can be found.<br/>However, traps and stairs are never generated in mazes.<br/>
+It's also possible for the entire floor to be a maze.
+
 <div class="relativeImage">
   <img src="../images/maps/maze.png"/>
 </div>
 
 ### Moving Floor
 
+Room where the ground tiles shift around every few turns.<br/>
+Only appears on floors with air tiles.
 
+<div id="islandImage" class="relativeImage">
+  <img src="../images/other/moving_floor.png"/>
+</div>
 
 ### Launch Pad
 
+Floor featuring launch pads instead of hallways to traverse between rooms.<br/>
+The lack of hallways is rather dangerous since you risk getting surrounded,<br/>and you can also get hit by monsters at the end point if you jump to another room.
 
+<div class="relativeImage screenshot">
+  <img src="../images/other/launch_pads.png"/>
+</div>
 
-### Spear Gate
+### Spear Door
 
+Door that automatically closes when Shiren walks past.<br/>
+Monsters have to break it before they can move past it, and it breaks rather easily.<br/>
+Projectiles and magic bullets can fly through it and hit characters on the other side.<br/>The stairs are never located inside rooms with spear doors.
 
+<div class="relativeImage smallScreenshot">
+  <img src="../images/other/spear_gate.png"/>
+</div>
+
+Face the door and press A to manually open the door. (Doesn't end your turn)<br/>Unfortunately, this means you can't attack an enemy standing in front of a door<br/>unless you have the Tri-direct rune and aim diagonally.<br/>
 
 ### Iron Door
 
+Door that automatically closes when Shiren walks past.<br/>
+Monsters have to break it before they can move past it, and it's sturdier than spear doors.<br/>Projectiles and magic bullets cannot fly through it.<br/>
+The stairs are never located inside rooms with iron doors.
 
+<div class="relativeImage smallScreenshot">
+  <img src="../images/other/iron_door.png"/>
+</div>
+
+Face the door and press A to manually open the door. (Doesn't end your turn)<br/>Like spear gates, you need the Tri-direction rune to hit an enemy standing in front of the door.
 
 ### Special Door
 
+Door that automatically closes when Shiren enters the room and there's at least 1 monster.<br/>The doors only open after all monsters are defeated, or if you warp out of the room.<br/>Monsters won't try to break the doors, and will instead turn around.<br/>The stairs are never located inside rooms with special doors.
 
+<div class="relativeImage smallScreenshot">
+  <img src="../images/other/blue_doors.png"/>
+</div>
 
 ### Lava
 
+Tile where lava flows out and deals 30 damage to characters in a 1 tile radius after a few turns.<br/>Items are also destroyed, and the tile becomes impassable before lava flows out.<br/>Lava won't flow out if there's an object on the glowing tile.<br/>The stairs are never located inside rooms with lava.
 
+<div class="relativeImage screenshot">
+  <img src="../images/other/lava.png"/>
+</div>
 
-### Tsunami (DS)
+It's fire damage, so Zen Pot and the Anti-Fire rune are effective, and Flamebirds will be healed.<br/>Lava won't flow out inside a Monster House until all initially placed monsters are defeated,<br/>and if the entire floor was a monster house, lava won't flow out at all.<br/>
 
+### Tidal Wave
+
+Event exclusive to the DS version of the game.
+
+The message "It's an earthquake! A tidal wave is impending." is displayed,<br/>
+and then a tidal wave that affects the entire floor occurs after a few turns.<br/>
+Unlike Flood Traps in Shiren 2, tidal waves don't deal any damage.
+
+The terrain changes, items vanish, upgrade value of all equipment not in pots decreases by 1,<br/>scrolls get wet, peaches ripen by 1 stage, and onigiri turn into Rotten Onigiri.
+
+There's a decent length of time before the tidal wave occurs, so you can usually<br/>make it to the stairs if you hurry unless you're very far away.
 

@@ -74,27 +74,27 @@ Features 6\~10 rooms connected by single hallways.
   </tr>
   <tr>
     <td>C</td>
-    <td><img src="../images/maps/c.jpg"/></td>
+    <td><img src="../images/maps/c.png"/></td>
     <td>S</td>
     <td><img src="../images/maps/s.png"/></td>
   </tr>
   <tr>
     <td>H</td>
-    <td><img src="../images/maps/h.jpg"/></td>
+    <td><img src="../images/maps/h.png"/></td>
     <td>O</td>
-    <td><img src="../images/maps/o.jpg"/></td>
+    <td><img src="../images/maps/o.png"/></td>
   </tr>
   <tr>
     <td>U</td>
-    <td><img src="../images/maps/u.jpg"/></td>
+    <td><img src="../images/maps/u.png"/></td>
     <td>F</td>
-    <td><img src="../images/maps/f.jpg"/></td>
+    <td><img src="../images/maps/f.png"/></td>
   </tr>
   <tr>
     <td>N</td>
-    <td><img src="../images/maps/n.jpg"/></td>
+    <td><img src="../images/maps/n.png"/></td>
     <td>T</td>
-    <td><img src="../images/maps/t.jpg"/></td>
+    <td><img src="../images/maps/t.png"/></td>
   </tr>
 </table>
 
@@ -146,7 +146,7 @@ The "F" pattern can occasionally look like this:
   <img src="../images/maps/4_room.png"/>
 </div>
 
-#### 8 Room Octopus
+#### 8 Room
 
 
 
@@ -164,7 +164,9 @@ The "F" pattern can occasionally look like this:
 
 #### 12 Room Octopus
 
-
+<div class="relativeImage mapImage">
+  <img src="../images/maps/12_room_octopus.png"/>
+</div>
 
 ### Special
 

@@ -75,7 +75,7 @@ The amount of experience points needed to level up.<br/>
 Special attacks that can only be used at night.<br/>
 → <a href="/system/necklace-abilities">Abilities</a>
 
-<div class="relativeImage screenshot">
+<div class="relativeImage smallScreenshot">
   <img src="../images/other/abilities_zoom.jpg"/>
 </div>
 
@@ -264,7 +264,7 @@ Certain weapons, shields, and bracelets activate special effects when equipped a
 
 Tags can be placed on weapons or shields, and ensures the item goes to Hermit's Hermitage if lost.<br/>Up to 8 tags can be placed on items, and the tag comes off when you pick the item up.<br/>The Sentry is located to the left of the Blacksmith.
 
-<div class="relativeImage screenshot">
+<div class="relativeImage smallScreenshot">
   <img src="../images/other/tag.jpg"/>
 </div>
 
@@ -296,7 +296,7 @@ Weapons and shields earn growth experience points when you defeat enemies using 
 
 ※ You don't earn skill points if you defeat enemies using projectiles, abilities, magic bullets, etc.
 
-<div class="relativeImage">
+<div class="relativeImage smallScreenshot">
   <img src="../images/other/equipment_level.png"/>
 </div>
 
@@ -494,7 +494,7 @@ There are a number of different methods to obtain Catstones.<br/>The list below 
 
 Friendship Licenses are items that cause a monster family to act as allies and attack enemy monsters.
 
-<div class="relativeImage">
+<div class="relativeImage smallScreenshot">
   <img src="../images/other/sproutant_license.png"/>
 </div>
 
@@ -545,19 +545,25 @@ Characters who wander around inside dungeons and help Shiren out in various ways
 ### Dungeon Features
 
 Details for things like shops, hidden hallways, shiny objects, item islands, lava, etc.<br/>
-→ Dungeon Features
+→ <a href="/system/dungeon-features">Dungeon Features</a>
 
-
+<div class="relativeImage smallScreenshot">
+  <img src="../images/other/iron_door.png"/>
+</div>
 
 ### Map Patterns
 
 List of map patterns used in the game.<br/>
 → <a href="/system/map-patterns">Map Patterns</a>
 
+<div class="relativeImage mapImage">
+  <img src="../images/maps/8_room.png"/>
+</div>
+
 ### Monster House
 
 Information about Monster Houses.<br/>
-→ Monster House
+→ <a href="/system/dungeon-features#monster-house">Monster House</a>
 
 <div class="relativeImage screenshot">
   <img src="../images/other/monster_house.jpg"/>
@@ -566,7 +572,7 @@ Information about Monster Houses.<br/>
 ### Traps
 
 List of traps and their effects.<br/>
-→ Traps
+→ <a href="/system/traps">Traps</a>
 
 <div class="relativeImage">
   <img src="../images/traps/wood_arrow.png"/> <img src="../images/traps/sleep.png"/> <img src="../images/traps/gauge_blind.png"/>
@@ -610,7 +616,7 @@ Day:
 ### Monsters
 
 Details for enemies that appear inside dungeons.<br/>
-→ Monsters
+→ <a href="/system/monsters">Monsters</a>
 
 <div class="relativeImage">
   <img src="../images/other/mamel.png"/> <img src="../images/other/sproutant.png"/> <img src="../images/other/seedie.png"/>
@@ -618,7 +624,36 @@ Details for enemies that appear inside dungeons.<br/>
 
 ### Monster Auras
 
+<div id="auraImage" class="relativeImage">
+  <img src="../images/other/blue_aura.png"/>
+</div>
 
+Status condition that monsters can have when they spawn naturally.<br/>
+Monsters made to appear (Summon Trap, Mnster House Scrl, etc.) never have auras,<br/>
+and some dungeons and specific floors have monster auras disabled.
+
+Monster auras can be removed by reading a Dispel Aura Scroll, swinging a Seal Staff,<br/>or hitting the target with any talisman. However, monsters with auras provide double<br/>experience points, so it's important to take advantage of that when possible.
+
+Aura effects vary by color:
+
+<table>
+  <tr>
+    <th>Color</th>
+    <th>Effect</th>
+  </tr>
+  <tr>
+    <td class="highlightRed">Red</td>
+    <td>Deal x2.5 damage. (3 stages of Buffed status)</td>
+  </tr>
+  <tr>
+    <td class="highlightBlue">Blue</td>
+    <td>Reduce damage received by 70%. (3 stages of Bolstered status)</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">Yellow</td>
+    <td>Increase action speed by 2 stages.</td>
+  </tr>
+</table>
 
 ### Monster Spawns
 

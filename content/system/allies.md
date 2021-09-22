@@ -132,7 +132,7 @@ Items for Sale:
 |Exorcism Scroll|1500|Have a cursed item equipped. (Not sealed)|
 |Antidote Grass|500|Strength has been lowered.|
 |Onigiri|500|Fullness is at 0.|
-|Good Torch|800|It's night.|
+|Fine Torch|800|It's night.|
 |Replenish Scroll|3000|It's night, and used all abilities.|
 
 #### Sidequest

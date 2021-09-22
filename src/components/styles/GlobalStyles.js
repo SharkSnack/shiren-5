@@ -681,6 +681,24 @@ export const baseStyles = css`
     padding: 2px;
     font-size: 13px;
   }
+  .monsterPageTable th {
+    font-weight: normal;
+    text-align: center;
+    padding: 2px;
+  }
+  .monsterPageTable td {
+    padding: 2px;
+  }
+  .monsterImage {
+    margin-bottom: 5px !important;
+  }
+  .monsterImage img {
+    max-width: 60px;
+    max-height: 60px;
+  }
+  #monsterList td {
+    text-align: center;
+  }
   .itemTable th {
     text-align: center;
     padding: 3px;
@@ -759,11 +777,18 @@ export const baseStyles = css`
     padding: 2px;
   }
   .trapTable th {
+    font-weight: normal;
     text-align: center;
     padding: 3px;
   }
   .trapTable td {
     padding: 3px;
+  }
+  .trapTable td:first-of-type {
+    text-align: center;
+  }
+  .trapTable img {
+    position: relative !important;
   }
   .statusTable th {
     text-align: center;
@@ -923,6 +948,9 @@ export const baseStyles = css`
   .highlightLightblue {
     background-color: #eef6ff;
   }
+  .highlightNight {
+    background-color: #ebf8ff;
+  }
   .itemPageImage {
     background-color: #555;
   }
@@ -1066,9 +1094,6 @@ export const baseStyles = css`
     padding-top: 5px;
     position: relative !important;
   }
-  .trapTable td:first-of-type {
-    background-color: #555;
-  }
   .statusTable img {
     position: relative !important;
   }
@@ -1100,6 +1125,10 @@ export const baseStyles = css`
   }
   .smallScreenshot {
     width: 240px;
+    height: auto;
+  }
+  #auraImage img {
+    width: 90px !important;
     height: auto;
   }
   #islandImage img {
