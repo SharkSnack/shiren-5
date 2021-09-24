@@ -317,7 +317,7 @@ If there's already a monster house, the next floor turns into a single room mons
 ### Traps
 
 List of traps and their effects.<br/>
-→ Traps
+→ <a href="/system/traps">Traps</a>
 
 <div class="relativeImage">
   <img src="../images/traps/wood_arrow.png"/> <img src="../images/traps/sleep.png"/> <img src="../images/traps/gauge_blind.png"/>

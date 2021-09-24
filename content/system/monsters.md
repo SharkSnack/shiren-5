@@ -5876,3 +5876,1019 @@ Element Order
     <td>It's damage output from<br/>blasts is high, and it can<br/>one-shot you with direct<br/>attacks if it's limit broken.<br/>Try to defeat it from<br/>outside its range.</td>
   </tr>
 </table>
+
+### Absorbiphant
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/absorbiphant.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Absorbiphant</td>
+    <td>43</td>
+    <td>22</td>
+    <td>10</td>
+    <td>110</td>
+    <td>12</td>
+    <td>4%</td>
+    <td rowspan="4">Rust<br/>Drain<br/>Power<br/>Harass</td>
+    <td>Absorbs status conditions inflicted<br/>on itself, or from a creature within<br/>a 1 tile radius.<br/>Its turn ends if it absorbs from<br/>another creature, but not when it<br/>absorbs its own status condition.<br/>Immune to ailments, even <span class="green_text">Sealed</span>.<br/>Absorbing a status condition fully<br/>restores its HP, and it also gains<br/><span class="green_text">Buffed</span> status. (1 stage)<br/>It can absorb all positive status<br/>conditions except <span class="green_text">Super</span> status<br/>and <a href="/shiren5/item/food#special-onigiri">Special Onigiri</a> effects.</td>
+    <td>Powers up by absorbing<br/>status conditions. The<br/>Anti-Drain rune is usually<br/>enough to one-shot it.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>Digestiphant</td>
+    <td>56</td>
+    <td>28</td>
+    <td>17</td>
+    <td>180</td>
+    <td>25</td>
+    <td>4%</td>
+    <td>Same as Absorbiphant, but gains<br/><span class="green_text">Buffed</span> status (2 stages).</td>
+    <td>One absorption boosts<br/>attack by 2 stages, so<br/>don't underestimate it.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>Spongiderm</td>
+    <td>71</td>
+    <td>42</td>
+    <td>20</td>
+    <td>850</td>
+    <td>50</td>
+    <td>4%</td>
+    <td>Same as Absorbiphant, but gains<br/><span class="green_text">Buffed</span> status (1 stage) and<br/><span class="green_text">Bolstered</span> status (1 stage).</td>
+    <td>Absorbing boosts both<br/>attack and defense.<br/>Only takes 1 damage if it<br/>absorbs multiple times.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>Osmammoth</td>
+    <td>76</td>
+    <td>59</td>
+    <td>28</td>
+    <td>1400</td>
+    <td>170</td>
+    <td>4%</td>
+    <td>Same as Absorbiphant, but gains<br/><span class="green_text">Buffed</span> status (2 stages) and<br/><span class="green_text">Bolstered</span> status (2 stages).</td>
+    <td>One absorption boosts<br/>attack and defense by 2<br/>stages. Use Gitan or an<br/>Unlucky Staff before it<br/>gets out of hand.</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>Dark Absorbiphant</td>
+    <td>10</td>
+    <td>5</td>
+    <td>1</td>
+    <td>3</td>
+    <td>20</td>
+    <td>4%</td>
+    <td rowspan="4">Rust<br/>Drain<br/>Power<br/>Harass</td>
+    <td rowspan="4">Same as daytime abilities.</td>
+    <td rowspan="4">Nemesis of Pot Party and<br/>Crawling Confusion.<br/>May not be able to slay <br/>blue aura ones if you lack<br/>pure damage abilities like<br/>Kaboom Bullet.<br/>Its attack and defense<br/>reset if it limit breaks.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>Dark Digestiphant</td>
+    <td>43</td>
+    <td>35</td>
+    <td>5</td>
+    <td>60</td>
+    <td>60</td>
+    <td>8%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>Dark Spongiderm</td>
+    <td>56</td>
+    <td>44</td>
+    <td>6</td>
+    <td>360</td>
+    <td>130</td>
+    <td>16%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>Dark Osmammoth</td>
+    <td>72</td>
+    <td>78</td>
+    <td>9</td>
+    <td>444</td>
+    <td>220</td>
+    <td>20%</td>
+  </tr>
+</table>
+
+### Punisher
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/punisher.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Punisher</td>
+    <td>55</td>
+    <td>42</td>
+    <td>10</td>
+    <td>210</td>
+    <td>90</td>
+    <td>4%</td>
+    <td rowspan="4">Rust</td>
+    <td rowspan="4">Occasionally lands a critical hit<br/>that deals double damage.</td>
+    <td rowspan="4">Powerful and lacks a weakness<br/>other than water from a <a href="/shiren5/item/pots#water-pot">Water Pot</a>.<br/>Its critical hit rate isn't too high, but<br/>it's best to plan for the critical hit.<br/>Surprisingly low HP, so projectiles<br/>are effective.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>Debaser</td>
+    <td>73</td>
+    <td>55</td>
+    <td>21</td>
+    <td>680</td>
+    <td>240</td>
+    <td>4%</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>Ruiner</td>
+    <td>80</td>
+    <td>65</td>
+    <td>24</td>
+    <td>1900</td>
+    <td>480</td>
+    <td>4%</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>Despoiler</td>
+    <td>95</td>
+    <td>85</td>
+    <td>30</td>
+    <td>3600</td>
+    <td>720</td>
+    <td>4%</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>Hell's Punisher</td>
+    <td>20</td>
+    <td>18</td>
+    <td>2</td>
+    <td>24</td>
+    <td>30</td>
+    <td>4%</td>
+    <td rowspan="4">Rust</td>
+    <td rowspan="4">Same as daytime abilities.</td>
+    <td rowspan="4">Water Pot isn't enough to reduce<br/>its damage to 1 if it limit breaks.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>Hell's Debaser</td>
+    <td>45</td>
+    <td>38</td>
+    <td>3</td>
+    <td>150</td>
+    <td>130</td>
+    <td>8%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>Hell's Ruiner</td>
+    <td>60</td>
+    <td>56</td>
+    <td>5</td>
+    <td>300</td>
+    <td>320</td>
+    <td>16%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>Hell's Despoiler</td>
+    <td>80</td>
+    <td>70</td>
+    <td>12</td>
+    <td>450</td>
+    <td>600</td>
+    <td>20%</td>
+  </tr>
+</table>
+
+### Firepuff
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/firepuff.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Firepuff</td>
+    <td>50</td>
+    <td>25</td>
+    <td>20</td>
+    <td>175</td>
+    <td>8</td>
+    <td>4%</td>
+    <td rowspan="4">Dragon<br/>Floating<br/>Explosive</td>
+    <td>Breathes 10 damage fire at<br/>a target 1 tile in front.<br/>Chance to fail fire breath.<br/>Fire can go through corners.</td>
+    <td rowspan="2">Occasionally uses direct attacks.<br/>Higher stats than in Shiren 4, but<br/>it's hard to say it lives up to being<br/>called a dragon. Breathes fire even<br/>if you're on a Sanctuary Scroll.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>Flamepuff</td>
+    <td>64</td>
+    <td>39</td>
+    <td>22</td>
+    <td>400</td>
+    <td>75</td>
+    <td>4%</td>
+    <td>Same as Firepuff, but fire<br/>deals 20 damage.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>Blazepuff</td>
+    <td>73</td>
+    <td>56</td>
+    <td>24</td>
+    <td>1250</td>
+    <td>35</td>
+    <td>4%</td>
+    <td>Same as Firepuff, but fire<br/>deals 30 damage.</td>
+    <td>Significantly buffed from Shiren 4,<br/>and it finally resembles a dragon.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>Pyrepuff</td>
+    <td>83</td>
+    <td>70</td>
+    <td>26</td>
+    <td>2650</td>
+    <td>80</td>
+    <td>4%</td>
+    <td>Same as Firepuff, but fire<br/>deals 40 damage.</td>
+    <td>Above average attack and defense.<br/>Its direct attacks can be more<br/>painful than its fire.</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>Evil Firepuff</td>
+    <td>33</td>
+    <td>24</td>
+    <td>4</td>
+    <td>40</td>
+    <td>24</td>
+    <td>4%</td>
+    <td rowspan="4">Dragon<br/>Floating<br/>Explosive</td>
+    <td>Same as Firepuff, but fire<br/>deals 20 damage.</td>
+    <td rowspan="4">Fire deals a lot more damage.<br/>Don't let your guard down just<br/>because it's a cute little Firepuff.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>Evil Flamepuff</td>
+    <td>43</td>
+    <td>35</td>
+    <td>5</td>
+    <td>80</td>
+    <td>45</td>
+    <td>8%</td>
+    <td>Same as Firepuff, but fire<br/>deals 40 damage.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>Evil Blazepuff</td>
+    <td>65</td>
+    <td>62</td>
+    <td>9</td>
+    <td>160</td>
+    <td>100</td>
+    <td>16%</td>
+    <td>Same as Firepuff, but fire<br/>deals 60 damage.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>Evil Pyrepuff</td>
+    <td>73</td>
+    <td>71</td>
+    <td>11</td>
+    <td>320</td>
+    <td>190</td>
+    <td>20%</td>
+    <td>Same as Firepuff, but fire<br/>deals 80 damage.</td>
+  </tr>
+</table>
+
+### Crow Tengu
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/crow_tengu.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Crow Tengu</td>
+    <td>37</td>
+    <td>16</td>
+    <td>11</td>
+    <td>24</td>
+    <td>6</td>
+    <td>-</td>
+    <td rowspan="4">Floating</td>
+    <td rowspan="4">Disguises itself as a different<br/>monster from the current<br/>floor's monster table.<br/>It can't use special attacks of<br/>the monster it's disguised as.<br/>Reveals itself when <span class="green_text">Sealed</span> or<br/>defeated.</td>
+    <td rowspan="4">Often appears on the same floors<br/>as common Extinction Scroll<br/>targets, so you should seal the<br/>target before throwing the scroll.<br/>Sometimes overlaps with Mixers<br/>in PS Vita dungeons, so shoot an<br/>arrow or check if the Mixer is<br/>able to move over water or air<br/>tiles before synthesizing.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>Falcon Tengu</td>
+    <td>55</td>
+    <td>17</td>
+    <td>11</td>
+    <td>66</td>
+    <td>20</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>Eagle Tengu</td>
+    <td>65</td>
+    <td>26</td>
+    <td>13</td>
+    <td>130</td>
+    <td>60</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>Phoenix Tengu</td>
+    <td>77</td>
+    <td>34</td>
+    <td>25</td>
+    <td>360</td>
+    <td>100</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>Bad Crow Tengu</td>
+    <td>35</td>
+    <td>40</td>
+    <td>4</td>
+    <td>43</td>
+    <td>5</td>
+    <td>-</td>
+    <td rowspan="4">Floating</td>
+    <td rowspan="4">Same as daytime abilities.</td>
+    <td rowspan="4">Higher attack than their daytime<br/>counterparts.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>Bad Falcon Tengu</td>
+    <td>45</td>
+    <td>50</td>
+    <td>5</td>
+    <td>150</td>
+    <td>23</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>Bad Eagle Tengu</td>
+    <td>73</td>
+    <td>60</td>
+    <td>11</td>
+    <td>300</td>
+    <td>70</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>Bad Phoenix Tengu</td>
+    <td>86</td>
+    <td>88</td>
+    <td>14</td>
+    <td>450</td>
+    <td>190</td>
+    <td>-</td>
+  </tr>
+</table>
+
+### FO-Uβ
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/fo_ub.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>FO-Uβ</td>
+    <td>3</td>
+    <td>35</td>
+    <td>13</td>
+    <td>111</td>
+    <td>50</td>
+    <td>100%</td>
+    <td rowspan="4">Swift 2<br/>Rust<br/>Floating<br/>Metal</td>
+    <td>Double speed, 2 attacks.<br/>Runs away from Shiren.<br/>Only takes 1 damage from direct<br/>and fixed damage attacks.<br/>Warps if it gets hit by an attack.<br/>Can summon a Myriman when hit.<br/>Drops 1~3 Life Grass when slain.</td>
+    <td rowspan="3">Bonus monster that drops grass.<br/>Only takes 1 damage from any<br/>attack, even when <span class="green_text">Sealed</span>.<br/>Takes 2 damage if your sword<br/>has Anti-Metal or Anti-Floating.<br/>No longer warps when <span class="green_text">Sealed</span>,<br/>but will approach and attack<br/>instead, making it easier to slay.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>FO-U</td>
+    <td>4</td>
+    <td>39</td>
+    <td>15</td>
+    <td>444</td>
+    <td>150</td>
+    <td>100%</td>
+    <td>Same as FO-Uβ, but summons<br/>Billman, drops 1~3 Cheery Grass.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>FO-UZ</td>
+    <td>5</td>
+    <td>42</td>
+    <td>17</td>
+    <td>888</td>
+    <td>300</td>
+    <td>100%</td>
+    <td>Same as FO-Uβ, but summons<br/>Trillman, warps if you're within<br/>3 tiles, drops 1~3 Strength Grass.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>FO-UZZ</td>
+    <td>6</td>
+    <td>80</td>
+    <td>40</td>
+    <td>5555</td>
+    <td>777</td>
+    <td>100%</td>
+    <td>Same as FO-Uβ, but summons<br/>Googoman, warps if you're within<br/>3 tiles, drops 1~3 Revival Grass.</td>
+    <td>Lots of HP, but drops valuable<br/>Revival Grass if you defeat it.<br/>High attack, so be careful if you<br/>decide to seal it.</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>εFO-Uβ</td>
+    <td>3</td>
+    <td>24</td>
+    <td>2</td>
+    <td>50</td>
+    <td>100</td>
+    <td>100%</td>
+    <td rowspan="4">Swift 2<br/>Rust<br/>Floating<br/>Metal</td>
+    <td>Double speed, 2 attacks.<br/>Runs away from Shiren.<br/>Only takes 1 damage from direct<br/>and fixed damage attacks, abilities.<br/>Uses direct attacks when adjacent.<br/>Warps if it gets hit by an attack.<br/>Can summon a Dark Myriman if hit.<br/>Drops 1~3 Life Grass when slain.</td>
+    <td rowspan="2">Converts abilities to 1 damage<br/>as well, so use arrows instead.<br/>Anti-Metal and Anti-Floating<br/>increase your direct attack<br/>damage like dayime, but it's a<br/>bit risky since you might get hit<br/>by a direct attack if you miss.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>εFO-U</td>
+    <td>3</td>
+    <td>30</td>
+    <td>3</td>
+    <td>100</td>
+    <td>300</td>
+    <td>100%</td>
+    <td>Same as εFO-Uβ, but summons Dark<br/>Billman, drops 1~3 Cheery Grass.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>εFO-UZ</td>
+    <td>3</td>
+    <td>40</td>
+    <td>4</td>
+    <td>130</td>
+    <td>450</td>
+    <td>100%</td>
+    <td>Same as εFO-Uβ, but summons Dark<br/>Trillman, warps if you're within 3 tiles,<br/>drops 1~3 Strength Grass.</td>
+    <td>Warps when you go near it.<br/>Use Knockback Arrows.<br/>Its HP is fully healed if it slays<br/>a monster and limit breaks.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>εFO-UZZ</td>
+    <td>3</td>
+    <td>50</td>
+    <td>5</td>
+    <td>200</td>
+    <td>600</td>
+    <td>100%</td>
+    <td>Same as εFO-Uβ, but summons Dark<br/>Googoman, warps if you're within 3<br/>tiles, drops 1~3 Revival Grass.</td>
+    <td>Drops blessed Revival Grass,<br/>but is very difficult to defeat.<br/>Occasionally collapses from a<br/>different night monster's attack,<br/>but it usually wins encounters<br/>and heals HP by limit breaking.</td>
+  </tr>
+</table>
+
+### Myriman
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/myriman.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlight_yellow_2">1</td>
+    <td>Myriman</td>
+    <td>108</td>
+    <td>32</td>
+    <td>10</td>
+    <td>500</td>
+    <td>7</td>
+    <td>4%</td>
+    <td rowspan="4">Drain<br/>Harass</td>
+    <td>Inflicts <span class="green_text">Grassnesia</span> if adjacent.</td>
+    <td rowspan="4">Item amnesia prevents you from<br/>using or throwing items of the<br/>affected category for 100 turns.<br/>It's possible to encounter Trillmans<br/>during the main story, but it requires<br/>a setup you're extremely unlikely to<br/>encounter while playing normally.<br/>(See <a href="/shiren5/dungeon/tower-of-miracles">Tower of Miracles</a> for details)</td>
+  </tr>
+  <tr>
+    <td class="highlight_yellow_2">2</td>
+    <td>Billman</td>
+    <td>114</td>
+    <td>40</td>
+    <td>15</td>
+    <td>700</td>
+    <td>32</td>
+    <td>4%</td>
+    <td>Inflicts <span class="green_text">Scrollnesia</span> if adjacent.</td>
+  </tr>
+  <tr>
+    <td class="highlight_yellow_2">3</td>
+    <td>Trillman</td>
+    <td>118</td>
+    <td>51</td>
+    <td>18</td>
+    <td>1050</td>
+    <td>150</td>
+    <td>4%</td>
+    <td>Inflicts <span class="green_text">Staffnesia</span> if adjacent.</td>
+  </tr>
+  <tr>
+    <td class="highlight_yellow_2">4</td>
+    <td>Googoman</td>
+    <td>128</td>
+    <td>63</td>
+    <td>25</td>
+    <td>2450</td>
+    <td>320</td>
+    <td>4%</td>
+    <td>Inflicts <span class="green_text">Potnesia</span> if adjacent.</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlight_blue">1</td>
+    <td>Dark Myriman</td>
+    <td>30</td>
+    <td>19</td>
+    <td>3</td>
+    <td>250</td>
+    <td>15</td>
+    <td>4%</td>
+    <td rowspan="4">Drain<br/>Harass</td>
+    <td rowspan="4">Same as daytime abilities.</td>
+    <td rowspan="4">Easy to avoid its special at night.</td>
+  </tr>
+  <tr>
+    <td class="highlight_blue">2</td>
+    <td>Dark Billman</td>
+    <td>50</td>
+    <td>30</td>
+    <td>4</td>
+    <td>800</td>
+    <td>70</td>
+    <td>8%</td>
+  </tr>
+  <tr>
+    <td class="highlight_blue">3</td>
+    <td>Dark Trillman</td>
+    <td>60</td>
+    <td>45</td>
+    <td>5</td>
+    <td>1500</td>
+    <td>290</td>
+    <td>16%</td>
+  </tr>
+  <tr>
+    <td class="highlight_blue">4</td>
+    <td>Dark Googoman</td>
+    <td>70</td>
+    <td>60</td>
+    <td>6</td>
+    <td>2020</td>
+    <td>420</td>
+    <td>20%</td>
+  </tr>
+</table>
+
+### Moseal
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/moseal.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlight_yellow_2">1</td>
+    <td>Moseal</td>
+    <td>60</td>
+    <td>10</td>
+    <td>6</td>
+    <td>25</td>
+    <td>4</td>
+    <td>10%</td>
+    <td rowspan="4">Aquatic</td>
+    <td>Doesn't move on its own.<br/>Tackles if lined up vertically<br/>within 10 tiles, deals 10 damage.<br/>Turns <span class="green_text">Apathetic</span> after tackling.<br/>High item drop rate.</td>
+    <td rowspan="4">It's <span class="green_text">Apathetic</span> after tackling,<br/>so that's your chance.<br/>Tackles hurt other enemies,<br/>so you can easily level it up.<br/>Can be tricky in long rooms<br/>or Monster Houses.<br/>High item drop rate, so hunt<br/>them if you're not in a rush.</td>
+  </tr>
+  <tr>
+    <td class="highlight_yellow_2">2</td>
+    <td>Momoseal</td>
+    <td>70</td>
+    <td>17</td>
+    <td>8</td>
+    <td>40</td>
+    <td>12</td>
+    <td>12%</td>
+    <td>Same as Moseal, but tackle deals<br/>20 damage, range of 15 tiles.</td>
+  </tr>
+  <tr>
+    <td class="highlight_yellow_2">3</td>
+    <td>Momomoseal</td>
+    <td>80</td>
+    <td>26</td>
+    <td>10</td>
+    <td>400</td>
+    <td>80</td>
+    <td>14%</td>
+    <td>Same as Moseal, but tackle deals<br/>30 damage, range of 20 tiles.</td>
+  </tr>
+  <tr>
+    <td class="highlight_yellow_2">4</td>
+    <td>Momomomoseal</td>
+    <td>90</td>
+    <td>37</td>
+    <td>15</td>
+    <td>670</td>
+    <td>100</td>
+    <td>16%</td>
+    <td>Same as Moseal, but tackle deals<br/>40 damage, range of 25 tiles.</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlight_blue">1</td>
+    <td>Bad Moseal</td>
+    <td>23</td>
+    <td>18</td>
+    <td>1</td>
+    <td>18</td>
+    <td>30</td>
+    <td>4%</td>
+    <td rowspan="4">Aquatic</td>
+    <td>Doesn't move on its own.<br/>Tackles if lined up vertically,<br/>dealing 15 damage.<br/>Turns <span class="green_text">Apathetic</span> after tackling.</td>
+    <td>Stationary powerhouse that<br/>destroys incoming creatures,<br/>showing how important it is<br/>to get the first hit.<br/></td>
+  </tr>
+  <tr>
+    <td class="highlight_blue">2</td>
+    <td>Bad Momoseal</td>
+    <td>55</td>
+    <td>45</td>
+    <td>3</td>
+    <td>1111</td>
+    <td>150</td>
+    <td>4%</td>
+    <td>Same as Bad Moseal, but tackle<br/>deals 25 damage.</td>
+    <td rowspan="3">Very high exp compared to<br/>other night monsters on the<br/>same floor, which can be<br/>boosted further by having it<br/>defeat other enemies and<br/>letting it limit break.</td>
+  </tr>
+  <tr>
+    <td class="highlight_blue">3</td>
+    <td>Bad Momomoseal</td>
+    <td>80</td>
+    <td>55</td>
+    <td>5</td>
+    <td>2222</td>
+    <td>300</td>
+    <td>4%</td>
+    <td>Same as Bad Moseal, but tackle<br/>deals 35 damage.</td>
+  </tr>
+  <tr>
+    <td class="highlight_blue">4</td>
+    <td>Bad Momomomoseal</td>
+    <td>90</td>
+    <td>70</td>
+    <td>7</td>
+    <td>3333</td>
+    <td>500</td>
+    <td>4%</td>
+    <td>Same as Bad Moseal, but tackle<br/>deals 45 damage.</td>
+  </tr>
+</table>
+
+### Kumonigiri
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/kumonigiri.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlight_yellow_2">1</td>
+    <td>Kumonigiri</td>
+    <td>25</td>
+    <td>15</td>
+    <td>8</td>
+    <td>35</td>
+    <td>18</td>
+    <td>4%</td>
+    <td>-</td>
+    <td rowspan="4">Only drops <a href="/shiren5/item/food#onigiri">Onigiri</a>.</td>
+    <td>No abilities besides only dropping Onigiri.</td>
+  </tr>
+  <tr>
+    <td class="highlight_yellow_2">2</td>
+    <td>Pandanigiri</td>
+    <td>55</td>
+    <td>40</td>
+    <td>18</td>
+    <td>350</td>
+    <td>120</td>
+    <td>4%</td>
+    <td>-</td>
+    <td>High attack for the floors it appears on.</td>
+  </tr>
+  <tr>
+    <td class="highlight_yellow_2">3</td>
+    <td>Onigirizzly</td>
+    <td>69</td>
+    <td>52</td>
+    <td>29</td>
+    <td>700</td>
+    <td>250</td>
+    <td>4%</td>
+    <td>-</td>
+    <td rowspan="2">Basically a much weaker Eligan monster.<br/>Its Onigiri drop rate is low, and there's<br/>nothing noteworthy about it.</td>
+  </tr>
+  <tr>
+    <td class="highlight_yellow_2">4</td>
+    <td>Kodionigiri</td>
+    <td>78</td>
+    <td>62</td>
+    <td>39</td>
+    <td>1200</td>
+    <td>300</td>
+    <td>4%</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlight_blue">1</td>
+    <td>Dark Kumonigiri</td>
+    <td>20</td>
+    <td>18</td>
+    <td>2</td>
+    <td>24</td>
+    <td>20</td>
+    <td>4%</td>
+    <td>-</td>
+    <td rowspan="4">Only drops <a href="/shiren5/item/food#onigiri">Onigiri</a>.</td>
+    <td rowspan="4">The Onigiri it drops is always blessed.</td>
+  </tr>
+  <tr>
+    <td class="highlight_blue">2</td>
+    <td>Dark Pandanigiri</td>
+    <td>34</td>
+    <td>50</td>
+    <td>4</td>
+    <td>100</td>
+    <td>75</td>
+    <td>8%</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td class="highlight_blue">3</td>
+    <td>Dark Onigirizzly</td>
+    <td>63</td>
+    <td>60</td>
+    <td>8</td>
+    <td>220</td>
+    <td>180</td>
+    <td>16%</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td class="highlight_blue">4</td>
+    <td>Dark Kodionigiri</td>
+    <td>72</td>
+    <td>78</td>
+    <td>9</td>
+    <td>440</td>
+    <td>300</td>
+    <td>20%</td>
+    <td>-</td>
+  </tr>
+</table>
+
+### Shagga
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/shagga.png"/>
+</div>
+
