@@ -65,7 +65,7 @@ Monster Book Order
     <td class="highlightGray"><a href="#gazer">Gazer</a></td>
     <td class="highlightYellow"><a href="#absorbiphant">Absorbiphant</a></td>
     <td class="highlightGray"><a href="#kumonigiri">Kumonigiri</a></td>
-    <td class="highlightYellow"><a href="#boss">Boss Group</a></td>
+    <td class="highlightYellow"><a href="#boss-group">Boss Group</a></td>
   </tr>
   <tr>
     <td class="highlightYellow"><a href="#chintala">Chintala</a></td>
@@ -6526,7 +6526,7 @@ Element Order
     <th>Notes</th>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">1</td>
+    <td class="highlightYellow">1</td>
     <td>Myriman</td>
     <td>108</td>
     <td>32</td>
@@ -6539,7 +6539,7 @@ Element Order
     <td rowspan="4">Item amnesia prevents you from<br/>using or throwing items of the<br/>affected category for 100 turns.<br/>It's possible to encounter Trillmans<br/>during the main story, but it requires<br/>a setup you're extremely unlikely to<br/>encounter while playing normally.<br/>(See <a href="/shiren5/dungeon/tower-of-miracles">Tower of Miracles</a> for details)</td>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">2</td>
+    <td class="highlightYellow">2</td>
     <td>Billman</td>
     <td>114</td>
     <td>40</td>
@@ -6550,7 +6550,7 @@ Element Order
     <td>Inflicts <span class="green_text">Scrollnesia</span> if adjacent.</td>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">3</td>
+    <td class="highlightYellow">3</td>
     <td>Trillman</td>
     <td>118</td>
     <td>51</td>
@@ -6561,7 +6561,7 @@ Element Order
     <td>Inflicts <span class="green_text">Staffnesia</span> if adjacent.</td>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">4</td>
+    <td class="highlightYellow">4</td>
     <td>Googoman</td>
     <td>128</td>
     <td>63</td>
@@ -6585,7 +6585,7 @@ Element Order
     <th>Notes</th>
   </tr>
   <tr>
-    <td class="highlight_blue">1</td>
+    <td class="highlightNight">1</td>
     <td>Dark Myriman</td>
     <td>30</td>
     <td>19</td>
@@ -6598,7 +6598,7 @@ Element Order
     <td rowspan="4">Easy to avoid its special at night.</td>
   </tr>
   <tr>
-    <td class="highlight_blue">2</td>
+    <td class="highlightNight">2</td>
     <td>Dark Billman</td>
     <td>50</td>
     <td>30</td>
@@ -6608,7 +6608,7 @@ Element Order
     <td>8%</td>
   </tr>
   <tr>
-    <td class="highlight_blue">3</td>
+    <td class="highlightNight">3</td>
     <td>Dark Trillman</td>
     <td>60</td>
     <td>45</td>
@@ -6618,7 +6618,7 @@ Element Order
     <td>16%</td>
   </tr>
   <tr>
-    <td class="highlight_blue">4</td>
+    <td class="highlightNight">4</td>
     <td>Dark Googoman</td>
     <td>70</td>
     <td>60</td>
@@ -6650,7 +6650,7 @@ Element Order
     <th>Notes</th>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">1</td>
+    <td class="highlightYellow">1</td>
     <td>Moseal</td>
     <td>60</td>
     <td>10</td>
@@ -6663,7 +6663,7 @@ Element Order
     <td rowspan="4">It's <span class="green_text">Apathetic</span> after tackling,<br/>so that's your chance.<br/>Tackles hurt other enemies,<br/>so you can easily level it up.<br/>Can be tricky in long rooms<br/>or Monster Houses.<br/>High item drop rate, so hunt<br/>them if you're not in a rush.</td>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">2</td>
+    <td class="highlightYellow">2</td>
     <td>Momoseal</td>
     <td>70</td>
     <td>17</td>
@@ -6674,7 +6674,7 @@ Element Order
     <td>Same as Moseal, but tackle deals<br/>20 damage, range of 15 tiles.</td>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">3</td>
+    <td class="highlightYellow">3</td>
     <td>Momomoseal</td>
     <td>80</td>
     <td>26</td>
@@ -6685,7 +6685,7 @@ Element Order
     <td>Same as Moseal, but tackle deals<br/>30 damage, range of 20 tiles.</td>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">4</td>
+    <td class="highlightYellow">4</td>
     <td>Momomomoseal</td>
     <td>90</td>
     <td>37</td>
@@ -6709,7 +6709,7 @@ Element Order
     <th>Notes</th>
   </tr>
   <tr>
-    <td class="highlight_blue">1</td>
+    <td class="highlightNight">1</td>
     <td>Bad Moseal</td>
     <td>23</td>
     <td>18</td>
@@ -6722,7 +6722,7 @@ Element Order
     <td>Stationary powerhouse that<br/>destroys incoming creatures,<br/>showing how important it is<br/>to get the first hit.<br/></td>
   </tr>
   <tr>
-    <td class="highlight_blue">2</td>
+    <td class="highlightNight">2</td>
     <td>Bad Momoseal</td>
     <td>55</td>
     <td>45</td>
@@ -6734,7 +6734,7 @@ Element Order
     <td rowspan="3">Very high exp compared to<br/>other night monsters on the<br/>same floor, which can be<br/>boosted further by having it<br/>defeat other enemies and<br/>letting it limit break.</td>
   </tr>
   <tr>
-    <td class="highlight_blue">3</td>
+    <td class="highlightNight">3</td>
     <td>Bad Momomoseal</td>
     <td>80</td>
     <td>55</td>
@@ -6745,7 +6745,7 @@ Element Order
     <td>Same as Bad Moseal, but tackle<br/>deals 35 damage.</td>
   </tr>
   <tr>
-    <td class="highlight_blue">4</td>
+    <td class="highlightNight">4</td>
     <td>Bad Momomomoseal</td>
     <td>90</td>
     <td>70</td>
@@ -6778,7 +6778,7 @@ Element Order
     <th>Notes</th>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">1</td>
+    <td class="highlightYellow">1</td>
     <td>Kumonigiri</td>
     <td>25</td>
     <td>15</td>
@@ -6791,7 +6791,7 @@ Element Order
     <td>No abilities besides only dropping Onigiri.</td>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">2</td>
+    <td class="highlightYellow">2</td>
     <td>Pandanigiri</td>
     <td>55</td>
     <td>40</td>
@@ -6803,7 +6803,7 @@ Element Order
     <td>High attack for the floors it appears on.</td>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">3</td>
+    <td class="highlightYellow">3</td>
     <td>Onigirizzly</td>
     <td>69</td>
     <td>52</td>
@@ -6815,7 +6815,7 @@ Element Order
     <td rowspan="2">Basically a much weaker Eligan monster.<br/>Its Onigiri drop rate is low, and there's<br/>nothing noteworthy about it.</td>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">4</td>
+    <td class="highlightYellow">4</td>
     <td>Kodionigiri</td>
     <td>78</td>
     <td>62</td>
@@ -6839,7 +6839,7 @@ Element Order
     <th>Notes</th>
   </tr>
   <tr>
-    <td class="highlight_blue">1</td>
+    <td class="highlightNight">1</td>
     <td>Dark Kumonigiri</td>
     <td>20</td>
     <td>18</td>
@@ -6852,7 +6852,7 @@ Element Order
     <td rowspan="4">The Onigiri it drops is always blessed.</td>
   </tr>
   <tr>
-    <td class="highlight_blue">2</td>
+    <td class="highlightNight">2</td>
     <td>Dark Pandanigiri</td>
     <td>34</td>
     <td>50</td>
@@ -6863,7 +6863,7 @@ Element Order
     <td>-</td>
   </tr>
   <tr>
-    <td class="highlight_blue">3</td>
+    <td class="highlightNight">3</td>
     <td>Dark Onigirizzly</td>
     <td>63</td>
     <td>60</td>
@@ -6874,7 +6874,7 @@ Element Order
     <td>-</td>
   </tr>
   <tr>
-    <td class="highlight_blue">4</td>
+    <td class="highlightNight">4</td>
     <td>Dark Kodionigiri</td>
     <td>72</td>
     <td>78</td>
@@ -6892,3 +6892,1380 @@ Element Order
   <img src="../images/monsters/shagga.png"/>
 </div>
 
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Shagga</td>
+    <td>70</td>
+    <td>44</td>
+    <td>25</td>
+    <td>480</td>
+    <td>100</td>
+    <td>4%</td>
+    <td rowspan="4">Rust<br/>Dragon</td>
+    <td>None.</td>
+    <td>Doesn't attack multiple times,<br/>but high HP and attack.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>Nashagga</td>
+    <td>85</td>
+    <td>55</td>
+    <td>27</td>
+    <td>1060</td>
+    <td>200</td>
+    <td>4%</td>
+    <td>2 attacks in 1 turn. (1 animation)<br/>The displayed damage is the<br/>total after 2 attacks.<br/>Only attacks 1 time if <span class="green_text">Sealed</span>.</td>
+    <td>Attacks twice in a row.<br/>It performs 2 attacks twice<br/>if its speed is raised 2 stages.<br/>(Similar for higher levels)</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>Lashagga</td>
+    <td>106</td>
+    <td>70</td>
+    <td>32</td>
+    <td>1980</td>
+    <td>300</td>
+    <td>4%</td>
+    <td>Same as Nashagga, but 3 attacks.</td>
+    <td>Regularly deals 3 digit damage.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>Bashagga</td>
+    <td>120</td>
+    <td>88</td>
+    <td>42</td>
+    <td>4500</td>
+    <td>400</td>
+    <td>4%</td>
+    <td>Same as Nashagga, but 4 attacks.</td>
+    <td>Deals ridiculous damage.<br/>Extremely high HP, so don't<br/>plan on defeating it in one hit.<br/>Bashagga2 appears in Storm<br/>Forest and Trapper's Sandbox,<br/>and can deal 800+ damage.</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>Filthy Shagga</td>
+    <td>52</td>
+    <td>65</td>
+    <td>6</td>
+    <td>160</td>
+    <td>200</td>
+    <td>4%</td>
+    <td rowspan="4">Rust<br/>Dragon</td>
+    <td rowspan="4">Same as daytime abilities.</td>
+    <td>High attack even at Lv1.<br/>Act with the assumption that<br/>you'll collapse if you get hit by<br/>Filthy Shagga monsters.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>Filthy Nashagga</td>
+    <td>65</td>
+    <td>70</td>
+    <td>7</td>
+    <td>320</td>
+    <td>300</td>
+    <td>8%</td>
+    <td rowspan="2">Terrifying attack power.<br/>Don't get hit by its attacks.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>Filthy Lashagga</td>
+    <td>80</td>
+    <td>80</td>
+    <td>9</td>
+    <td>480</td>
+    <td>400</td>
+    <td>16%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>Filthy Bashagga</td>
+    <td>100</td>
+    <td>90</td>
+    <td>13</td>
+    <td>600</td>
+    <td>600</td>
+    <td>20%</td>
+    <td>Stronger than day version.<br/>Deals 300+ damage to other<br/>enemies before limit breaking.<br/>1 Kaboom Bullet might not be<br/>enough to defeat it.<br/>Yellow aura is a nightmare.</td>
+  </tr>
+</table>
+
+### Explochin
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/explochin.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Explochin</td>
+    <td>62</td>
+    <td>14</td>
+    <td>7</td>
+    <td>15</td>
+    <td>7</td>
+    <td>-</td>
+    <td rowspan="4">Cyclops<br/>Explode<br/>Aquatic<br/>Explosive<br/>Harass</td>
+    <td>Turns red and stops moving<br/>after losing 35+ HP.<br/>Explodes after losing 50+ HP.</td>
+    <td rowspan="4">Explosion leaves you with 1 HP.<br/>Use arrows or rocks even when<br/>adjacent to manage its HP and<br/>prevent it from exploding.<br/>Easy to one-shot if you have<br/>multiple type effective runes.<br/><span class="green_text">Seal</span> it if a Cheer-Ham is nearby.<br/>Can be used to block off rooms.<br/>Dangerous if Yanpii headbutts it.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>Concusschin</td>
+    <td>72</td>
+    <td>18</td>
+    <td>8</td>
+    <td>200</td>
+    <td>60</td>
+    <td>-</td>
+    <td>Turns red and stops moving<br/>after losing 40+ HP.<br/>Explodes after losing 58+ HP.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>Fulminachin</td>
+    <td>83</td>
+    <td>48</td>
+    <td>9</td>
+    <td>1600</td>
+    <td>100</td>
+    <td>-</td>
+    <td>Turns red and stops moving<br/>after losing 46+ HP.<br/>Explodes after losing 67+ HP.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>Detonachin</td>
+    <td>96</td>
+    <td>70</td>
+    <td>10</td>
+    <td>2300</td>
+    <td>130</td>
+    <td>-</td>
+    <td>Turns red and stops moving<br/>after losing 53+ HP.<br/>Explodes after losing 77+ HP.</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>Evil Explochin</td>
+    <td>40</td>
+    <td>18</td>
+    <td>0</td>
+    <td>35</td>
+    <td>49</td>
+    <td>-</td>
+    <td rowspan="4">Cyclops<br/>Explode<br/>Aquatic<br/>Explosive<br/>Harass</td>
+    <td rowspan="4">Explodes after losing a<br/>certain amount of HP.</td>
+    <td rowspan="4">Explodes from enemy attacks.<br/>Items caught in the blast vanish.<br/>Explodes even if you use <a href="/shiren5/system/abilities">abilities</a><br/>like Pot Party if condition is met.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>Evil Concusschin</td>
+    <td>45</td>
+    <td>55</td>
+    <td>1</td>
+    <td>70</td>
+    <td>80</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>Evil Fulminachin</td>
+    <td>75</td>
+    <td>66</td>
+    <td>2</td>
+    <td>150</td>
+    <td>160</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>Evil Detonachin</td>
+    <td>85</td>
+    <td>75</td>
+    <td>3</td>
+    <td>300</td>
+    <td>220</td>
+    <td>-</td>
+  </tr>
+</table>
+
+### Chow
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/chow.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Chow</td>
+    <td>8</td>
+    <td>4</td>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+    <td>100%</td>
+    <td rowspan="4">Swift 1<br/>Floating</td>
+    <td>Double speed, 1 attack.<br/>Runs away from other creatures.<br/>Monsters attack Chow instead<br/>of Shiren if one is visible.<br/>Always drops a floor table item.<br/>Doesn't use direct attacks.</td>
+    <td rowspan="4">Drops an item if slain by Shiren.<br/>Higher levels drop better items,<br/>so do all you can to defeat it.<br/>Other monsters focus on it,<br/>similar to <span class="green_text">Cloned</span> status, and<br/>will level up if they defeat it.<br/>Can be used as bait to hunt<br/>other monsters by paralyzing it<br/>or trapping it in a corner using<br/>Fort. Staff inside a room.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>Snacky</td>
+    <td>9</td>
+    <td>9</td>
+    <td>1</td>
+    <td>1</td>
+    <td>2</td>
+    <td>100%</td>
+    <td rowspan="2">Same as Chow, but drops a<br/>shop table item.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>Munchy</td>
+    <td>10</td>
+    <td>10</td>
+    <td>1</td>
+    <td>1</td>
+    <td>3</td>
+    <td>100%</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>Mealy</td>
+    <td>11</td>
+    <td>15</td>
+    <td>1</td>
+    <td>1</td>
+    <td>4</td>
+    <td>100%</td>
+    <td>Same as Chow, but drops a<br/>Mealy table item.</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>Plump Chow</td>
+    <td>12</td>
+    <td>4</td>
+    <td>1</td>
+    <td>1</td>
+    <td>5</td>
+    <td>100%</td>
+    <td rowspan="4">Swift 1<br/>Floating</td>
+    <td>Double speed, 1 attack.<br/>Runs away from other creatures.<br/>Monsters attack Plump Chow<br/>instead of Shiren if one is visible.<br/>Always drops a floor table item.<br/>Uses direct attacks.</td>
+    <td rowspan="4">Trickier to defeat than their day<br/>counterparts, but still try to<br/>defeat them when possible.<br/>Easy with Crawling Confusion.<br/>It can use direct attacks, but it<br/>doesn't deal much damage.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>Plump Snacky</td>
+    <td>13</td>
+    <td>10</td>
+    <td>1</td>
+    <td>1</td>
+    <td>6</td>
+    <td>100%</td>
+    <td rowspan="2">Same as Plump Chow, but drops<br/>a shop table item.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>Plump Munchy</td>
+    <td>14</td>
+    <td>16</td>
+    <td>1</td>
+    <td>1</td>
+    <td>8</td>
+    <td>100%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>Plump Mealy</td>
+    <td>15</td>
+    <td>17</td>
+    <td>1</td>
+    <td>1</td>
+    <td>8</td>
+    <td>100%</td>
+    <td>Same as Plump Chow, but drops<br/>a Mealy table item.</td>
+  </tr>
+</table>
+
+### Field Knave
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/field_knave.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Field Knave</td>
+    <td>23</td>
+    <td>12</td>
+    <td>7</td>
+    <td>18</td>
+    <td>4</td>
+    <td>2%</td>
+    <td rowspan="4">Projectile</td>
+    <td>Turns ground items into Weeds.<br/>Throws Weeds at Shiren when<br/>he's lined up within 10 tiles.<br/>Gains Swift status if hit by Weeds.<br/>Only drops Weeds.</td>
+    <td>Somewhat rare monster.<br/>Ultimate Bad Madam Ateska<br/>fortune changes all initial<br/>monsters into Field Knaves.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>Pot Knave</td>
+    <td>43</td>
+    <td>16</td>
+    <td>11</td>
+    <td>75</td>
+    <td>8</td>
+    <td>2%</td>
+    <td>Same as Field Knave, but the<br/>Weeds it throws goes into an<br/>open pot in your inventory.</td>
+    <td>Useful as a food source if you<br/>have a Preservation Pot, but<br/>it's very rare in the base game.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>Item Knave</td>
+    <td>54</td>
+    <td>34</td>
+    <td>21</td>
+    <td>820</td>
+    <td>40</td>
+    <td>2%</td>
+    <td>Same as Field Knave, but the<br/>Weeds it throws knocks an<br/>inventory item away and takes<br/>that item's place.</td>
+    <td>Pots often break if knocked<br/>away by Weeds, so use a<br/><a href="/shiren5/item/pots#perceptive-pot">Perceptive Pot</a> or <a href="/shiren5/item/bracelets#anti-parry-brce">Anti-Parry<br/>Brce.</a> to protect your items.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>Knave King</td>
+    <td>78</td>
+    <td>39</td>
+    <td>24</td>
+    <td>1800</td>
+    <td>90</td>
+    <td>2%</td>
+    <td>Same as Item Knave, but can<br/>also turn an inventory item into<br/>Weeds if adjacent, including<br/>equipped items.</td>
+    <td>Knocking an item away is bad,<br/>let alone turning it into Weeds.<br/>Don't give it a chance to act.</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>Dark Field Knave</td>
+    <td>20</td>
+    <td>14</td>
+    <td>2</td>
+    <td>20</td>
+    <td>10</td>
+    <td>2%</td>
+    <td rowspan="4">Projectile</td>
+    <td rowspan="4">Same as daytime abilities.</td>
+    <td>Splendid monster who turns<br/>valuable night monster drops<br/>into Weeds.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>Dark Pot Knave</td>
+    <td>39</td>
+    <td>22</td>
+    <td>3</td>
+    <td>120</td>
+    <td>45</td>
+    <td>2%</td>
+    <td>Rare outside <a href="/shiren5/dungeon/destinys-descent">Destiny's Descent</a>.<br/>Don't let it ruin important pots.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>Dark Item Knave</td>
+    <td>58</td>
+    <td>30</td>
+    <td>4</td>
+    <td>350</td>
+    <td>80</td>
+    <td>2%</td>
+    <td rowspan="2">Knocks away items from out<br/>of view. For your items' sake,<br/>don't walk around on floors<br/>where it appears if you don't<br/>have a Perceptive Pot or<br/>Anti-Parry Brce.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>Dark Knave King</td>
+    <td>66</td>
+    <td>57</td>
+    <td>5</td>
+    <td>700</td>
+    <td>190</td>
+    <td>2%</td>
+  </tr>
+</table>
+
+### Maneater
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/maneater.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Maneater</td>
+    <td>100</td>
+    <td>65+<br/>(F*0.5)</td>
+    <td>30+<br/>(F*0.25)</td>
+    <td>1000+<br/>((F-1)*10)</td>
+    <td>400</td>
+    <td>31%</td>
+    <td>-</td>
+    <td rowspan="4">Regular speed, but changes<br/>to double speed (1 attack)<br/>when it sees Shiren.<br/>Can roar if in same room.<br/>Roars can inflict <span class="green_text">Paralyzed</span>.<br/>Ignores <a href="/shiren5/item/scrolls#sanctuary-scroll">Sanctuary Scrolls</a>,<br/>and only takes 10 damage<br/>from thrown Gitan.<br/>High item drop rate.<br/>(Shop table item)</td>
+    <td rowspan="4">Attack, defense, and<br/>exp increase based on<br/>current floor depth.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>Villeater</td>
+    <td>120</td>
+    <td>70+<br/>(F*0.5)</td>
+    <td>30+<br/>(F*0.25)</td>
+    <td>2000+<br/>((F-1)*10)</td>
+    <td>600</td>
+    <td>31%</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>Mounteater</td>
+    <td>140</td>
+    <td>75+<br/>(F*0.5)</td>
+    <td>30+<br/>(F*0.25)</td>
+    <td>3000+<br/>((F-1)*10)</td>
+    <td>800</td>
+    <td>31%</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>Isleater</td>
+    <td>160</td>
+    <td>80+<br/>(F*0.5)</td>
+    <td>30+<br/>(F*0.25)</td>
+    <td>4000+<br/>((F-1)*10)</td>
+    <td>900</td>
+    <td>31%</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>Dark Maneater</td>
+    <td>60</td>
+    <td>70</td>
+    <td>5</td>
+    <td>15</td>
+    <td>500</td>
+    <td>31%</td>
+    <td>-</td>
+    <td rowspan="4">Same as daytime abilities,<br/>but only takes 1 damage<br/>from thrown Gitan.</td>
+    <td rowspan="3">Attack, defense, and<br/>exp increase based on<br/>current floor depth.<br/>The item it drops is<br/>always blessed, but it<br/>doesn't offer much exp.<br/>Multiple abilities might<br/>be needed to defeat it<br/>due to its high HP, so<br/>you could let them slay<br/>each other instead.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>Dark Villeater</td>
+    <td>85</td>
+    <td>80</td>
+    <td>9</td>
+    <td>20</td>
+    <td>600</td>
+    <td>31%</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>Dark Mounteater</td>
+    <td>110</td>
+    <td>90</td>
+    <td>13</td>
+    <td>25</td>
+    <td>900</td>
+    <td>31%</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>Dark Isleater</td>
+    <td>123</td>
+    <td>110</td>
+    <td>17</td>
+    <td>30</td>
+    <td>999</td>
+    <td>31%</td>
+    <td>-</td>
+    <td>Much higher stats than<br/>Dark Mounteater, so be<br/>careful.</td>
+  </tr>
+</table>
+
+### Boss Group
+
+### Jack Wand
+
+<div class="relativeImage bossImage">
+  <img src="../images/monsters/jack_wand.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>Jack Wand</td>
+    <td>400</td>
+    <td>35</td>
+    <td>10</td>
+    <td>0</td>
+    <td>0</td>
+    <td>-</td>
+    <td>-</td>
+    <td rowspan="4">Immune to select statuses.<br/>Cures ailments after 1 turn.<br/>Scatters staves in the room,<br/>which shoot magic bullets if<br/>you're lined up with them.<br/>Magic effects include Electric,<br/>Knockback, Swap, Unlucky,<br/>Seal, Slow, Paralysis, Boring,<br/>Mage, etc.</td>
+    <td>Boss of First Cavern.</td>
+  </tr>
+  <tr>
+    <td>Queen Wand</td>
+    <td>500</td>
+    <td>40</td>
+    <td>13</td>
+    <td>0</td>
+    <td>0</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Boss of Adventure Cave.</td>
+  </tr>
+  <tr>
+    <td>King Wand</td>
+    <td>600</td>
+    <td>45</td>
+    <td>16</td>
+    <td>0</td>
+    <td>0</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Boss of Restriction Cave.</td>
+  </tr>
+  <tr>
+    <td>Ace Wand</td>
+    <td>700</td>
+    <td>50</td>
+    <td>19</td>
+    <td>0</td>
+    <td>0</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Boss of Mage Training Facility.</td>
+  </tr>
+  <tr>
+    <td>Emperor Wand</td>
+    <td>800</td>
+    <td>55</td>
+    <td>22</td>
+    <td>0</td>
+    <td>0</td>
+    <td>-</td>
+    <td rowspan="2">Swift 1</td>
+    <td rowspan="2">Same as Jack Wand, but<br/>double speed (1 attack).</td>
+    <td>Boss of Explosive Hideout.</td>
+  </tr>
+  <tr>
+    <td>Kaiser Wand</td>
+    <td>900</td>
+    <td>60</td>
+    <td>25</td>
+    <td>0</td>
+    <td>0</td>
+    <td>-</td>
+    <td>Boss of Demon Lord Playground.</td>
+  </tr>
+  <tr>
+    <td>God Wand</td>
+    <td>1000</td>
+    <td>65</td>
+    <td>28</td>
+    <td>0</td>
+    <td>0</td>
+    <td>-</td>
+    <td>Swift 2</td>
+    <td>Same as Jack Wand, but<br/>double speed (2 attacks).</td>
+    <td>Boss of Dragon's Territory.</td>
+  </tr>
+</table>
+
+<ul class="monsterTableNotes">
+  <li>Boss enemies of the 7 co-op dungeons.
+    <ul>
+      <li>Also encountered by wishing to fight Jack Wand monsters in Inori Cave.</li>
+    </ul>
+  </li>
+</ul>
+
+### Reeva Statue
+
+<div class="relativeImage bossImage">
+  <img src="../images/monsters/reeva_statue.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>Reeva Statue</td>
+    <td>600</td>
+    <td>70</td>
+    <td>10</td>
+    <td>0</td>
+    <td>0</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Immune to select statuses.<br/>(Cloned, Laughing, etc.)<br/>Cures ailments after 1 turn.<br/>Converts explosions to 50 damage.<br/>(Example: <a href="/shiren5/item/pots#4-2-8-pot">4-2-8 Pot</a>)<br/>Nullifies <a href="/shiren5/item/scrolls#sanctuary-scroll">Sanctuary Scroll</a>.<br/>Moves:<br/>・Direct attack<br/>・Light Bullet - Ranged, inflicts ailment<br/>・Beam - Ranged, pierces<br/>・Shockwave - 15 damage + knockback<br/>・Warp to a new spot in the room<br/>・Summon - Shaggas and Death Gyazas</td>
+    <td>Boss of <a href="/shiren5/dungeon/tower-of-fortune">Tower of Fortune</a>.</td>
+  </tr>
+</table>
+
+### Gr. Reeva Statue
+
+<div class="relativeImage bossImage">
+  <img src="../images/monsters/gr_reeva_statue.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>Gr. Reeva Statue</td>
+    <td>1200</td>
+    <td>75</td>
+    <td>20</td>
+    <td>0</td>
+    <td>0</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Immune to select statuses.<br/>Cures ailments after 1 turn.<br/>Converts explosions to 50 damage.<br/>(Example: <a href="/shiren5/item/pots#4-2-8-pot">4-2-8 Pot</a>)<br/>Nullifies <a href="/shiren5/item/scrolls#sanctuary-scroll">Sanctuary Scroll</a>.<br/>Reflects projectiles and thrown items.<br/>Only takes 2 damage from Gitan.<br/>Moves:<br/>・Direct attack<br/>・Shockwave - 15 damage + knockback<br/>・Lightning - Damage to all creatures<br/>・Earthquake - Unequips your items<br/>・Gust - Knockback<br/>・Stray Missile - 40 damage cannonball<br/>・Monsters - Summons Sky Dragons</td>
+    <td>Boss of <a href="/shiren5/dungeon/tower-of-miracles">Tower of Miracles</a>.</td>
+  </tr>
+</table>
+
+<ul class="monsterTableNotes">
+  <li>DS version has an additional prophecy move called Tidal Wave.
+    <ul>
+      <li>Shuffles characters positions, equipment rusts, scrolls get wet.</li>
+    </ul>
+  </li>
+</ul>
+
+### Gendolucika
+
+<div class="relativeImage bossImage">
+  <img src="../images/monsters/gendolucika.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>Gendolucika</td>
+    <td>600</td>
+    <td>70</td>
+    <td>15</td>
+    <td>0</td>
+    <td>0</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Immune to select statuses.<br/>Cures ailments after 1 turn.<br/>Converts explosions to 50 damage.<br/>(Example: <a href="/shiren5/item/pots#4-2-8-pot">4-2-8 Pot</a>)<br/>Summons monsters.<br/>Moves away to keep a set distance.<br/>Uses a piercing attack that deals 40<br/>damage and makes you trip if lined up.<br/>Uses an attack that deals knockback<br/>when you're adjacent.<br/>Nullifies <a href="/shiren5/item/scrolls#sanctuary-scroll">Sanctuary Scroll</a>.<br/>Only takes 2 damage from Gitan.</td>
+    <td>Boss of <a href="/shiren5/dungeon/old-road">Old Road</a>.</td>
+  </tr>
+</table>
+
+### Shopkeeper
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/shopkeeper.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Shopkeeper<br/>(Red)</td>
+    <td>200</td>
+    <td>150</td>
+    <td>30</td>
+    <td>0</td>
+    <td>0</td>
+    <td>-</td>
+    <td>-</td>
+    <td rowspan="3">Only takes 2 damage from abilities.<br/>Immune to Three Screams and<br/>Transmogrification.<br/>Ignores <a href="/shiren5/item/scrolls#sanctuary-scroll">Sanctuary Scrolls</a>.<br/>Thrown Gitan is effective.</td>
+    <td>Found in regular shops.<br/>Shopkeepers don't vanish<br/>when time of day changes.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Shopkeeper<br/>(Blue)</td>
+    <td>200</td>
+    <td>150</td>
+    <td>30</td>
+    <td>0</td>
+    <td>0</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Same color as the Peddler<br/>in Shiren 4.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Shopkeeper<br/>(Green)</td>
+    <td>200</td>
+    <td>160</td>
+    <td>40</td>
+    <td>0</td>
+    <td>0</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Found in Pick-A-Choice shops.<br/>Higher stats than red and blue<br/>Shopkeepers.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Shopkeeper<br/>(Gold)</td>
+    <td>250</td>
+    <td>180</td>
+    <td>60</td>
+    <td>0</td>
+    <td>0</td>
+    <td>-</td>
+    <td>Swift 1</td>
+    <td>Same as above, but double speed.<br/>(1 attack)</td>
+    <td>Found in elite shops.<br/>Double speed, and highest<br/>stats among all Shopkeepers.</td>
+  </tr>
+</table>
+
+## Limit Break
+
+### Stats
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+  </tr>
+  <tr>
+    <td>Gitan Mamel2</td>
+    <td>12</td>
+    <td>168</td>
+    <td>47</td>
+    <td>6875</td>
+  </tr>
+  <tr>
+    <td>Sproutitan2</td>
+    <td>99</td>
+    <td>170</td>
+    <td>47</td>
+    <td>1975</td>
+  </tr>
+  <tr>
+    <td>Colocolocolum2</td>
+    <td>130</td>
+    <td>150</td>
+    <td>27</td>
+    <td>1625</td>
+  </tr>
+  <tr>
+    <td>Grainie2</td>
+    <td>83</td>
+    <td>140</td>
+    <td>33</td>
+    <td>1562</td>
+  </tr>
+  <tr>
+    <td>Huge Chintala2</td>
+    <td>92</td>
+    <td>164</td>
+    <td>35</td>
+    <td>4500</td>
+  </tr>
+  <tr>
+    <td>Grass Gramps2</td>
+    <td>94</td>
+    <td>160</td>
+    <td>27</td>
+    <td>1325</td>
+  </tr>
+  <tr>
+    <td>Pin Gramps2</td>
+    <td>94</td>
+    <td>120</td>
+    <td>24</td>
+    <td>1075</td>
+  </tr>
+  <tr>
+    <td>Bitter Nut2</td>
+    <td>65</td>
+    <td>140</td>
+    <td>27</td>
+    <td>500</td>
+  </tr>
+  <tr>
+    <td>Zanbeeto2</td>
+    <td>83</td>
+    <td>126</td>
+    <td>33</td>
+    <td>1500</td>
+  </tr>
+  <tr>
+    <td>Nigiri King2</td>
+    <td>97</td>
+    <td>138</td>
+    <td>37</td>
+    <td>4687</td>
+  </tr>
+  <tr>
+    <td>Kleptoad2</td>
+    <td>80</td>
+    <td>110</td>
+    <td>21</td>
+    <td>1250</td>
+  </tr>
+  <tr>
+    <td>Cyberoid2</td>
+    <td>96</td>
+    <td>160</td>
+    <td>50</td>
+    <td>4937</td>
+  </tr>
+  <tr>
+    <td>Tiger Ace2</td>
+    <td>93</td>
+    <td>144</td>
+    <td>40</td>
+    <td>2500</td>
+  </tr>
+  <tr>
+    <td>Cursenior2</td>
+    <td>78</td>
+    <td>78</td>
+    <td>30</td>
+    <td>2250</td>
+  </tr>
+  <tr>
+    <td>Terrabbit2</td>
+    <td>83</td>
+    <td>106</td>
+    <td>37</td>
+    <td>1500</td>
+  </tr>
+  <tr>
+    <td>Doom Gyaza2</td>
+    <td>85</td>
+    <td>160</td>
+    <td>43</td>
+    <td>4000</td>
+  </tr>
+  <tr>
+    <td>Pumptergeist2</td>
+    <td>84</td>
+    <td>160</td>
+    <td>30</td>
+    <td>3125</td>
+  </tr>
+  <tr>
+    <td>Bouncy2</td>
+    <td>92</td>
+    <td>164</td>
+    <td>35</td>
+    <td>5250</td>
+  </tr>
+  <tr>
+    <td>N'dup2</td>
+    <td>92</td>
+    <td>120</td>
+    <td>35</td>
+    <td>4000</td>
+  </tr>
+  <tr>
+    <td>Mixerdon2</td>
+    <td>92</td>
+    <td>164</td>
+    <td>43</td>
+    <td>2750</td>
+  </tr>
+  <tr>
+    <td>BlightScorp2</td>
+    <td>95</td>
+    <td>178</td>
+    <td>45</td>
+    <td>3375</td>
+  </tr>
+  <tr>
+    <td>Mesmerikon2</td>
+    <td>75</td>
+    <td>100</td>
+    <td>32</td>
+    <td>1625</td>
+  </tr>
+  <tr>
+    <td>Comatapir2</td>
+    <td>120</td>
+    <td>180</td>
+    <td>33</td>
+    <td>1437</td>
+  </tr>
+  <tr>
+    <td>Swordmaster2</td>
+    <td>100</td>
+    <td>170</td>
+    <td>45</td>
+    <td>4125</td>
+  </tr>
+  <tr>
+    <td>Mudder2</td>
+    <td>83</td>
+    <td>100</td>
+    <td>30</td>
+    <td>1187</td>
+  </tr>
+  <tr>
+    <td>Polygon Stunna2</td>
+    <td>86</td>
+    <td>130</td>
+    <td>35</td>
+    <td>1750</td>
+  </tr>
+  <tr>
+    <td>Doomhead2</td>
+    <td>73</td>
+    <td>180</td>
+    <td>43</td>
+    <td>4750</td>
+  </tr>
+  <tr>
+    <td>Spirit Ham2</td>
+    <td>65</td>
+    <td>78</td>
+    <td>25</td>
+    <td>987</td>
+  </tr>
+  <tr>
+    <td>Squidperor2</td>
+    <td>85</td>
+    <td>144</td>
+    <td>37</td>
+    <td>2750</td>
+  </tr>
+  <tr>
+    <td>Foly2</td>
+    <td>46</td>
+    <td>40</td>
+    <td>2</td>
+    <td>500</td>
+  </tr>
+  <tr>
+    <td>Kappa Troll2</td>
+    <td>89</td>
+    <td>126</td>
+    <td>37</td>
+    <td>2125</td>
+  </tr>
+  <tr>
+    <td>Boingodile2</td>
+    <td>95</td>
+    <td>176</td>
+    <td>36</td>
+    <td>5375</td>
+  </tr>
+  <tr>
+    <td>Blazebird2</td>
+    <td>76</td>
+    <td>118</td>
+    <td>41</td>
+    <td>1750</td>
+  </tr>
+  <tr>
+    <td>Boss Yanpii2</td>
+    <td>97</td>
+    <td>142</td>
+    <td>43</td>
+    <td>4000</td>
+  </tr>
+  <tr>
+    <td>Shovelie2</td>
+    <td>86</td>
+    <td>170</td>
+    <td>43</td>
+    <td>2931</td>
+  </tr>
+  <tr>
+    <td>Zalokleftis King2</td>
+    <td>80</td>
+    <td>122</td>
+    <td>18</td>
+    <td>2375</td>
+  </tr>
+  <tr>
+    <td>Elizgagon2</td>
+    <td>100</td>
+    <td>206</td>
+    <td>60</td>
+    <td>6250</td>
+  </tr>
+  <tr>
+    <td>Gyandoron2</td>
+    <td>95</td>
+    <td>150</td>
+    <td>45</td>
+    <td>3500</td>
+  </tr>
+  <tr>
+    <td>Ultra Gazer2</td>
+    <td>93</td>
+    <td>124</td>
+    <td>47</td>
+    <td>2312</td>
+  </tr>
+  <tr>
+    <td>Zotdon2</td>
+    <td>165</td>
+    <td>180</td>
+    <td>43</td>
+    <td>2777</td>
+  </tr>
+  <tr>
+    <td>Abyssal Dragon2</td>
+    <td>120</td>
+    <td>212</td>
+    <td>62</td>
+    <td>8332</td>
+  </tr>
+  <tr>
+    <td>MC Sorceror2</td>
+    <td>73</td>
+    <td>90</td>
+    <td>26</td>
+    <td>1250</td>
+  </tr>
+  <tr>
+    <td>Porgon2</td>
+    <td>86</td>
+    <td>170</td>
+    <td>43</td>
+    <td>4625</td>
+  </tr>
+  <tr>
+    <td>Pierce Cart2</td>
+    <td>74</td>
+    <td>100</td>
+    <td>27</td>
+    <td>1375</td>
+  </tr>
+  <tr>
+    <td>Cranky Tank2</td>
+    <td>86</td>
+    <td>124</td>
+    <td>25</td>
+    <td>4000</td>
+  </tr>
+  <tr>
+    <td>Osmammoth2</td>
+    <td>76</td>
+    <td>118</td>
+    <td>35</td>
+    <td>1750</td>
+  </tr>
+  <tr>
+    <td>Despoiler2</td>
+    <td>95</td>
+    <td>170</td>
+    <td>37</td>
+    <td>4500</td>
+  </tr>
+  <tr>
+    <td>Pyrepuff2</td>
+    <td>85</td>
+    <td>140</td>
+    <td>32</td>
+    <td>3312</td>
+  </tr>
+  <tr>
+    <td>Phoenix Tengu2</td>
+    <td>77</td>
+    <td>68</td>
+    <td>31</td>
+    <td>450</td>
+  </tr>
+  <tr>
+    <td>FO-UZZ2</td>
+    <td>6</td>
+    <td>160</td>
+    <td>50</td>
+    <td>6943</td>
+  </tr>
+  <tr>
+    <td>Googoman2</td>
+    <td>128</td>
+    <td>126</td>
+    <td>31</td>
+    <td>3062</td>
+  </tr>
+  <tr>
+    <td>Momomomoseal2</td>
+    <td>90</td>
+    <td>74</td>
+    <td>18</td>
+    <td>837</td>
+  </tr>
+  <tr>
+    <td>Kodionigiri2</td>
+    <td>78</td>
+    <td>124</td>
+    <td>48</td>
+    <td>1500</td>
+  </tr>
+  <tr>
+    <td>Bashagga2</td>
+    <td>120</td>
+    <td>176</td>
+    <td>52</td>
+    <td>5625</td>
+  </tr>
+  <tr>
+    <td>Detonachin2</td>
+    <td>96</td>
+    <td>140</td>
+    <td>12</td>
+    <td>2875</td>
+  </tr>
+  <tr>
+    <td>Mealy2</td>
+    <td>11</td>
+    <td>30</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Knave King2</td>
+    <td>78</td>
+    <td>78</td>
+    <td>30</td>
+    <td>2250</td>
+  </tr>
+  <tr>
+    <td>Shopkeeper<br/>(Red)</td>
+    <td>200</td>
+    <td>300</td>
+    <td>37</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Shopkeeper<br/>(Blue)</td>
+    <td>200</td>
+    <td>300</td>
+    <td>37</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Shopkeeper<br/>(Green)</td>
+    <td>200</td>
+    <td>320</td>
+    <td>50</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Shopkeeper<br/>(Gold)</td>
+    <td>250</td>
+    <td>360</td>
+    <td>75</td>
+    <td>0</td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+  </tr>
+  <tr>
+    <td>Isleater2</td>
+    <td>160</td>
+    <td>160+(F*0.5)</td>
+    <td>37+(F*0.25)</td>
+    <td>5000+((F-1)*10)</td>
+  </tr>
+</table>

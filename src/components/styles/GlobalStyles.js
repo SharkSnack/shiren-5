@@ -696,6 +696,13 @@ export const baseStyles = css`
     max-width: 60px;
     max-height: 60px;
   }
+  .bossImage {
+    margin-bottom: 5px !important;
+  }
+  .bossImage img {
+    max-width: 100px;
+    max-height: 70px;
+  }
   #monsterList td {
     text-align: center;
   }
@@ -973,6 +980,9 @@ export const baseStyles = css`
   }
   .quickLinksUL li {
     line-height: 1.3 !important;
+  }
+  .monsterTableNotes {
+    margin-top: 3px !important;
   }
   /* end list styling */
 
