@@ -992,6 +992,9 @@ export const baseStyles = css`
   .greenText {
     color: #009e25;
   }
+  .purpleText {
+    color: #9d338b;
+  }
 
   /* Image styling */
   img {

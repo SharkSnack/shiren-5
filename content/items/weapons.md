@@ -7253,7 +7253,7 @@ Locations:
   <tr>
     <td><img src="../images/weapons/fox_kodachi_1.png"/></td>
     <td><img src="../images/weapons/fox_kodachi_8.png"/></td>
-    <td>It's Koharu morphed into a weapon.<br/>"Shark! It's me, Koharu!<br/>I'm a weapon now!"</td>
+    <td>It's Koharu morphed into a weapon.<br/>"Shiren! It's me, Koharu!<br/>I'm a weapon now!"</td>
   </tr>
 </table>
 

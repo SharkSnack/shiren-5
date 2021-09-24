@@ -2646,7 +2646,7 @@ Element Order
     <th>Notes</th>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">1</td>
+    <td class="highlightYellow">1</td>
     <td>Mixer</td>
     <td>40</td>
     <td>15</td>
@@ -2659,7 +2659,7 @@ Element Order
     <td>The key to early game synthesis.<br/>Its attacks don't hurt that much<br/>if you have a strong shield.</td>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">2</td>
+    <td class="highlightYellow">2</td>
     <td>Mixermon</td>
     <td>70</td>
     <td>34</td>
@@ -2671,7 +2671,7 @@ Element Order
     <td>High stats for when appears.<br/>Defeat it without taking damage.</td>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">3</td>
+    <td class="highlightYellow">3</td>
     <td>Mixergon</td>
     <td>77</td>
     <td>48</td>
@@ -2683,7 +2683,7 @@ Element Order
     <td>Higher attack, and basically<br/>immune to projectiles. Appears<br/>as early as 1F in <a href="/shiren5/dungeon/lost-well">Lost Well</a>.</td>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">4</td>
+    <td class="highlightYellow">4</td>
     <td>Mixerdon</td>
     <td>92</td>
     <td>82</td>
@@ -2708,7 +2708,7 @@ Element Order
     <th>Notes</th>
   </tr>
   <tr>
-    <td class="highlight_blue">1</td>
+    <td class="highlightNight">1</td>
     <td>Dark Mixer</td>
     <td>45</td>
     <td>20</td>
@@ -2721,7 +2721,7 @@ Element Order
     <td rowspan="4">Try to stop other monsters from<br/>defeating it while synthesizing.<br/>Daytime often has monsters<br/>that can destroy ground items<br/>on floors where these spawn,<br/>so collect the item quickly after<br/>time of day changes.</td>
   </tr>
   <tr>
-    <td class="highlight_blue">2</td>
+    <td class="highlightNight">2</td>
     <td>Dark Mixermon</td>
     <td>60</td>
     <td>40</td>
@@ -2732,7 +2732,7 @@ Element Order
     <td>Same as Mixer, but eats 3 items.</td>
   </tr>
   <tr>
-    <td class="highlight_blue">3</td>
+    <td class="highlightNight">3</td>
     <td>Dark Mixergon</td>
     <td>72</td>
     <td>60</td>
@@ -2743,7 +2743,7 @@ Element Order
     <td>Same as Mixer, but eats 4 items.</td>
   </tr>
   <tr>
-    <td class="highlight_blue">4</td>
+    <td class="highlightNight">4</td>
     <td>Dark Mixerdon</td>
     <td>90</td>
     <td>86</td>
@@ -2776,7 +2776,7 @@ Element Order
     <th>Notes</th>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">1</td>
+    <td class="highlightYellow">1</td>
     <td>Scorpion</td>
     <td>45</td>
     <td>21</td>
@@ -2789,7 +2789,7 @@ Element Order
     <td>Troublesome monster with<br/>high attack on early floors of<br/><a href="/shiren5/dungeon/pitfall-of-life">Pitfall of Life</a>.</td>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">2</td>
+    <td class="highlightYellow">2</td>
     <td>VeniScorp</td>
     <td>70</td>
     <td>45</td>
@@ -2801,7 +2801,7 @@ Element Order
     <td>Higher stats. Losing 2 strength<br/>greatly lowers damage output.</td>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">3</td>
+    <td class="highlightYellow">3</td>
     <td>StunScorp</td>
     <td>80</td>
     <td>60</td>
@@ -2813,7 +2813,7 @@ Element Order
     <td rowspan="2">High attack and defense.<br/>Max strength can't be restored<br/>by Antidote Grass or Heal Pot.</td>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">4</td>
+    <td class="highlightYellow">4</td>
     <td>BlightScorp</td>
     <td>95</td>
     <td>89</td>
@@ -2837,7 +2837,7 @@ Element Order
     <th>Notes</th>
   </tr>
   <tr>
-    <td class="highlight_blue">1</td>
+    <td class="highlightNight">1</td>
     <td>Dark Scorpion</td>
     <td>27</td>
     <td>16</td>
@@ -2850,7 +2850,7 @@ Element Order
     <td rowspan="4">Easy to avoid its special at night.</td>
   </tr>
   <tr>
-    <td class="highlight_blue">2</td>
+    <td class="highlightNight">2</td>
     <td>Dark VeniScorp</td>
     <td>65</td>
     <td>55</td>
@@ -2861,7 +2861,7 @@ Element Order
     <td>Same as Scorpion, but lowers<br/>strength by 3.</td>
   </tr>
   <tr>
-    <td class="highlight_blue">3</td>
+    <td class="highlightNight">3</td>
     <td>Dark StunScorp</td>
     <td>75</td>
     <td>65</td>
@@ -2872,7 +2872,7 @@ Element Order
     <td>Same as Scorpion, but lowers<br/>max strength by 2.</td>
   </tr>
   <tr>
-    <td class="highlight_blue">4</td>
+    <td class="highlightNight">4</td>
     <td>Dark BlightScorp</td>
     <td>86</td>
     <td>85</td>
@@ -2905,7 +2905,7 @@ Element Order
     <th>Notes</th>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">1</td>
+    <td class="highlightYellow">1</td>
     <td>Mutaikon</td>
     <td>42</td>
     <td>15</td>
@@ -2918,7 +2918,7 @@ Element Order
     <td>Poison Grass lowers strength<br/>by 1 and inflicts <span class="green_text">Slow</span> status.<br/>Easy to get discouraged if you<br/>get hit multiple times.</td>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">2</td>
+    <td class="highlightYellow">2</td>
     <td>Dazikon</td>
     <td>46</td>
     <td>23</td>
@@ -2930,7 +2930,7 @@ Element Order
     <td>Actions are limited for a<br/>long time if you're <span class="green_text">confused</span><br/>and <span class="green_text">slow</span>, and it can throw<br/>from outside of your view.</td>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">3</td>
+    <td class="highlightYellow">3</td>
     <td>Dozikon</td>
     <td>61</td>
     <td>39</td>
@@ -2942,7 +2942,7 @@ Element Order
     <td>Mean grass, and long range.<br/>Risk of sleeping forever if<br/><span class="green_text">slowed</span> at the same time.<br/>Keep an Alert or Cleansing<br/>bracelet equipped.</td>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">4</td>
+    <td class="highlightYellow">4</td>
     <td>Mesmerikon</td>
     <td>75</td>
     <td>50</td>
@@ -2967,7 +2967,7 @@ Element Order
     <th>Notes</th>
   </tr>
   <tr>
-    <td class="highlight_blue">1</td>
+    <td class="highlightNight">1</td>
     <td>Dark Mutaikon</td>
     <td>33</td>
     <td>20</td>
@@ -2980,7 +2980,7 @@ Element Order
     <td>No issue with a Super Torch.</td>
   </tr>
   <tr>
-    <td class="highlight_blue">2</td>
+    <td class="highlightNight">2</td>
     <td>Dark Dazikon</td>
     <td>37</td>
     <td>24</td>
@@ -2992,7 +2992,7 @@ Element Order
     <td>Abilities can be used like<br/>normal while you're <span class="green_text">Confused</span>.</td>
   </tr>
   <tr>
-    <td class="highlight_blue">3</td>
+    <td class="highlightNight">3</td>
     <td>Dark Dozikon</td>
     <td>56</td>
     <td>45</td>
@@ -3004,7 +3004,7 @@ Element Order
     <td>Doesn't throw grass as often<br/>as its day counterpart.</td>
   </tr>
   <tr>
-    <td class="highlight_blue">4</td>
+    <td class="highlightNight">4</td>
     <td>Dark Mesmerikon</td>
     <td>58</td>
     <td>53</td>
@@ -3038,7 +3038,7 @@ Element Order
     <th>Notes</th>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">1</td>
+    <td class="highlightYellow">1</td>
     <td>Naptapir</td>
     <td>32</td>
     <td>27</td>
@@ -3051,7 +3051,7 @@ Element Order
     <td rowspan="4">Ridiculous HP and attack along<br/>with its troublesome ability means<br/>there's no merit to attacking it.<br/>Be wary of Naptapirs that spawn<br/>next to a room entrance.</td>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">2</td>
+    <td class="highlightYellow">2</td>
     <td>Snooztapir</td>
     <td>80</td>
     <td>50</td>
@@ -3062,7 +3062,7 @@ Element Order
     <td>-</td>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">3</td>
+    <td class="highlightYellow">3</td>
     <td>Doztapir</td>
     <td>100</td>
     <td>70</td>
@@ -3073,7 +3073,7 @@ Element Order
     <td>-</td>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">4</td>
+    <td class="highlightYellow">4</td>
     <td>Comatapir</td>
     <td>120</td>
     <td>90</td>
@@ -3097,7 +3097,7 @@ Element Order
     <th>Notes</th>
   </tr>
   <tr>
-    <td class="highlight_blue">1</td>
+    <td class="highlightNight">1</td>
     <td>Dark Naptapir</td>
     <td>24</td>
     <td>14</td>
@@ -3110,7 +3110,7 @@ Element Order
     <td rowspan="4">Easier to deal with than daytime.<br/>It can be woken up by other night<br/>monsters, so be a little careful.</td>
   </tr>
   <tr>
-    <td class="highlight_blue">2</td>
+    <td class="highlightNight">2</td>
     <td>Dark Snooztapir</td>
     <td>48</td>
     <td>35</td>
@@ -3121,7 +3121,7 @@ Element Order
     <td>-</td>
   </tr>
   <tr>
-    <td class="highlight_blue">3</td>
+    <td class="highlightNight">3</td>
     <td>Dark Doztapir</td>
     <td>65</td>
     <td>42</td>
@@ -3132,7 +3132,7 @@ Element Order
     <td>-</td>
   </tr>
   <tr>
-    <td class="highlight_blue">4</td>
+    <td class="highlightNight">4</td>
     <td>Dark Comatapir</td>
     <td>102</td>
     <td>57</td>
@@ -3165,7 +3165,7 @@ Element Order
     <th>Notes</th>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">1</td>
+    <td class="highlightYellow">1</td>
     <td>Swordsman</td>
     <td>45</td>
     <td>15</td>
@@ -3178,7 +3178,7 @@ Element Order
     <td rowspan="3">Fight with your back against a wall.<br/>The Swordsman monster levels up<br/>if a parried item defeats a creature.<br/><span class="green_text">Cannon Arm</span> status from Can. Arm<br/>Bracelet or Dracon Grass cause<br/>disarmed items to pierce through<br/>walls and creatures.</td>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">2</td>
+    <td class="highlightYellow">2</td>
     <td>Fencer</td>
     <td>67</td>
     <td>29</td>
@@ -3189,7 +3189,7 @@ Element Order
     <td>Same as Swordsman, but<br/>also knocks away weapons.</td>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">3</td>
+    <td class="highlightYellow">3</td>
     <td>Sensei</td>
     <td>75</td>
     <td>55</td>
@@ -3200,7 +3200,7 @@ Element Order
     <td>Same as Fencer, but also<br/>knocks away bracelets.</td>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">4</td>
+    <td class="highlightYellow">4</td>
     <td>Swordmaster</td>
     <td>100</td>
     <td>85</td>
@@ -3225,7 +3225,7 @@ Element Order
     <th>Notes</th>
   </tr>
   <tr>
-    <td class="highlight_blue">1</td>
+    <td class="highlightNight">1</td>
     <td>Evil Swordsman</td>
     <td>35</td>
     <td>15</td>
@@ -3238,7 +3238,7 @@ Element Order
     <td rowspan="4">Easy to avoid its special at night.</td>
   </tr>
   <tr>
-    <td class="highlight_blue">2</td>
+    <td class="highlightNight">2</td>
     <td>Evil Fencer</td>
     <td>47</td>
     <td>22</td>
@@ -3248,7 +3248,7 @@ Element Order
     <td>8%</td>
   </tr>
   <tr>
-    <td class="highlight_blue">3</td>
+    <td class="highlightNight">3</td>
     <td>Evil Sensei</td>
     <td>68</td>
     <td>50</td>
@@ -3258,7 +3258,7 @@ Element Order
     <td>16%</td>
   </tr>
   <tr>
-    <td class="highlight_blue">4</td>
+    <td class="highlightNight">4</td>
     <td>Evil Swordmaster</td>
     <td>86</td>
     <td>88</td>
@@ -3290,7 +3290,7 @@ Element Order
     <th>Notes</th>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">1</td>
+    <td class="highlightYellow">1</td>
     <td>Mudkin</td>
     <td>45</td>
     <td>15</td>
@@ -3303,7 +3303,7 @@ Element Order
     <td>Hard to deal with in <a href="/shiren5/dungeon/pitfall-of-life">Pitfall of Life</a><br/>since you don't want to unequip<br/>your weapon and shield.<br/>Plate items before 9F if possible.</td>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">2</td>
+    <td class="highlightYellow">2</td>
     <td>Muddy</td>
     <td>55</td>
     <td>17</td>
@@ -3315,7 +3315,7 @@ Element Order
     <td>-</td>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">3</td>
+    <td class="highlightYellow">3</td>
     <td>Mudster</td>
     <td>77</td>
     <td>40</td>
@@ -3327,7 +3327,7 @@ Element Order
     <td>Erases a rune even if the weapon<br/>or shield has the Rustproof rune.<br/>Erasing a rune is a separate<br/>attack from upgrade value loss.<br/>Rustproof still prevents lowering<br/>of upgrade value.</td>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">4</td>
+    <td class="highlightYellow">4</td>
     <td>Mudder</td>
     <td>83</td>
     <td>50</td>
@@ -3352,7 +3352,7 @@ Element Order
     <th>Notes</th>
   </tr>
   <tr>
-    <td class="highlight_blue">1</td>
+    <td class="highlightNight">1</td>
     <td>Shady Mudkin</td>
     <td>20</td>
     <td>18</td>
@@ -3365,7 +3365,7 @@ Element Order
     <td rowspan="4">It limit breaks by itself defeating<br/>duplicates, so don't assume it<br/>has low attack power.</td>
   </tr>
   <tr>
-    <td class="highlight_blue">2</td>
+    <td class="highlightNight">2</td>
     <td>Shady Muddy</td>
     <td>27</td>
     <td>26</td>
@@ -3376,7 +3376,7 @@ Element Order
     <td>Same as Shady Mudkin, but lowers<br/>upgrade value by 4.</td>
   </tr>
   <tr>
-    <td class="highlight_blue">3</td>
+    <td class="highlightNight">3</td>
     <td>Shady Mudster</td>
     <td>52</td>
     <td>29</td>
@@ -3387,7 +3387,7 @@ Element Order
     <td>Lowers upgrade value of equipped<br/>weapon and shield by 2, puts out<br/>equipped torches, and can remove<br/>an item's tag.<br/>Erases 1 rune from an equipped<br/>weapon or shield.<br/>Chance to duplicate itself when hit.<br/>Uses direct attacks.</td>
   </tr>
   <tr>
-    <td class="highlight_blue">4</td>
+    <td class="highlightNight">4</td>
     <td>Shady Mudder</td>
     <td>65</td>
     <td>46</td>
@@ -3420,7 +3420,7 @@ Element Order
     <th>Notes</th>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">1</td>
+    <td class="highlightYellow">1</td>
     <td>Polygon Spinna</td>
     <td>45</td>
     <td>15</td>
@@ -3433,7 +3433,7 @@ Element Order
     <td rowspan="4">Losing max HP is bad in<br/><a href="/shiren5/dungeon/pitfall-of-life">Pitfall of Life</a>.<br/>Repeatedly step away to<br/>recover HP while fighting.<br/>Dangerous in single room<br/>Monster Houses since you'll<br/>be immediately surrounded.</td>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">2</td>
+    <td class="highlightYellow">2</td>
     <td>Polygon Shaka</td>
     <td>70</td>
     <td>34</td>
@@ -3444,7 +3444,7 @@ Element Order
     <td>Same as Polygon Spinna, but max<br/>fullness by 5 or max HP by 2.</td>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">3</td>
+    <td class="highlightYellow">3</td>
     <td>Polygon Singa</td>
     <td>76</td>
     <td>55</td>
@@ -3455,7 +3455,7 @@ Element Order
     <td>Same as Polygon Spinna, but max<br/>fullness by 7 or max HP by 3.</td>
   </tr>
   <tr>
-    <td class="highlight_yellow_2">4</td>
+    <td class="highlightYellow">4</td>
     <td>Polygon Stunna</td>
     <td>86</td>
     <td>65</td>
@@ -3479,7 +3479,7 @@ Element Order
     <th>Notes</th>
   </tr>
   <tr>
-    <td class="highlight_blue">1</td>
+    <td class="highlightNight">1</td>
     <td>Evil PolySpinna</td>
     <td>25</td>
     <td>18</td>
@@ -3492,7 +3492,7 @@ Element Order
     <td rowspan="4">Not a 100% chance to warp in<br/>front of you, so it's easy to not<br/>realize that they're in the room.<br/>Take it one step at a time on<br/>floors where they can appear.</td>
   </tr>
   <tr>
-    <td class="highlight_blue">2</td>
+    <td class="highlightNight">2</td>
     <td>Evil PolyShaka</td>
     <td>45</td>
     <td>33</td>
@@ -3503,7 +3503,7 @@ Element Order
     <td>Same as Evil PolySpinna, but max<br/>fullness by 7 or max HP by 3.</td>
   </tr>
   <tr>
-    <td class="highlight_blue">3</td>
+    <td class="highlightNight">3</td>
     <td>Evil PolySinga</td>
     <td>63</td>
     <td>60</td>
@@ -3514,7 +3514,7 @@ Element Order
     <td>Same as Evil PolySpinna, but max<br/>fullness by 10 or max HP by 4.</td>
   </tr>
   <tr>
-    <td class="highlight_blue">4</td>
+    <td class="highlightNight">4</td>
     <td>Evil PolyStunna</td>
     <td>72</td>
     <td>78</td>
@@ -3532,3 +3532,2347 @@ Element Order
   <img src="../images/monsters/metalhead.png"/>
 </div>
 
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Metalhead</td>
+    <td>55</td>
+    <td>19</td>
+    <td>11</td>
+    <td>55</td>
+    <td>15</td>
+    <td>4%</td>
+    <td rowspan="4">Cyclops<br/>Power</td>
+    <td rowspan="4">Attacks 2 tiles ahead and<br/>through corners.<br/>Charges strength to deal a<br/>critical hit on the next turn,<br/>dealing double damage.<br/>Moving cancels its charge.</td>
+    <td>Use zigzag movement to avoid<br/>critical hits. Its charge is basically<br/>a free hit when solo, but is tricky<br/>to work around with allies.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>Ironhead</td>
+    <td>60</td>
+    <td>38</td>
+    <td>16</td>
+    <td>230</td>
+    <td>70</td>
+    <td>4%</td>
+    <td rowspan="3">Weaker than in Shiren 4, but critical<br/>hits still deal significant damage.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>Steelhead</td>
+    <td>65</td>
+    <td>58</td>
+    <td>25</td>
+    <td>650</td>
+    <td>200</td>
+    <td>4%</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>Doomhead</td>
+    <td>73</td>
+    <td>90</td>
+    <td>35</td>
+    <td>3800</td>
+    <td>500</td>
+    <td>4%</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>Dark Metalhead</td>
+    <td>27</td>
+    <td>16</td>
+    <td>3</td>
+    <td>28</td>
+    <td>40</td>
+    <td>4%</td>
+    <td rowspan="4">Cyclops<br/>Power</td>
+    <td rowspan="4">Same as daytime abilities.</td>
+    <td rowspan="4">Hits other monsters from 2 tiles<br/>away, so it tends to survive and<br/>limit break easily.<br/>You'll get hit before it enters your<br/>field of view with only a Fine Torch.<br/>Dark Doomhead has the highest<br/>attack stat among night monsters.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>Dark Ironhead</td>
+    <td>66</td>
+    <td>59</td>
+    <td>7</td>
+    <td>150</td>
+    <td>140</td>
+    <td>8%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>Dark Steelhead</td>
+    <td>74</td>
+    <td>72</td>
+    <td>9</td>
+    <td>300</td>
+    <td>260</td>
+    <td>16%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>Dark Doomhead</td>
+    <td>88</td>
+    <td>100</td>
+    <td>10</td>
+    <td>450</td>
+    <td>500</td>
+    <td>20%</td>
+  </tr>
+</table>
+
+### Cheer-Ham
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/cheer_ham.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Cheer-Ham</td>
+    <td>34</td>
+    <td>10</td>
+    <td>7</td>
+    <td>28</td>
+    <td>5</td>
+    <td>4%</td>
+    <td rowspan="4">Harass</td>
+    <td>Runs away, but attacks if cornered.<br/>Moves toward monsters in its view.<br/>Cheers for creatures in a 1 tile radius,<br/>raising attack power by 1 stage and<br/>letting them survive a fatal hit.<br/>Its cheer also affects Shiren and his<br/>allies.</td>
+    <td rowspan="4">No longer appears with Gyaza,<br/>but still dangerous if it shows<br/>up next to strong enemies.<br/>Its cheer stacks when multiple<br/>Cheer-Hams are adjacent.<br/>Particularly irritating when it<br/>cheers for Explochin monsters.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>Go-Ham!</td>
+    <td>45</td>
+    <td>15</td>
+    <td>10</td>
+    <td>50</td>
+    <td>20</td>
+    <td>4%</td>
+    <td>Same as Cheer-Ham, but raises<br/>attack power by 2 stages.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>Rally Ham</td>
+    <td>55</td>
+    <td>22</td>
+    <td>15</td>
+    <td>130</td>
+    <td>30</td>
+    <td>4%</td>
+    <td>Same as Cheer-Ham, but raises<br/>attack power and defense by 1<br/>stage.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>Spirit Ham</td>
+    <td>65</td>
+    <td>39</td>
+    <td>20</td>
+    <td>790</td>
+    <td>50</td>
+    <td>4%</td>
+    <td>Same as Cheer-Ham, but raises<br/>attack power and defense by 2<br/>stages.</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>Mean Cheer-Ham</td>
+    <td>23</td>
+    <td>14</td>
+    <td>1</td>
+    <td>18</td>
+    <td>17</td>
+    <td>4%</td>
+    <td rowspan="4">Harass</td>
+    <td rowspan="4">Same as daytime abilities.</td>
+    <td rowspan="4">Often slain by night monsters<br/>it tries to cheer for, so it's just<br/>limit break fodder.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>Mean Go-Ham!</td>
+    <td>47</td>
+    <td>27</td>
+    <td>5</td>
+    <td>36</td>
+    <td>60</td>
+    <td>8%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>Mean Rally Ham</td>
+    <td>50</td>
+    <td>36</td>
+    <td>5</td>
+    <td>100</td>
+    <td>130</td>
+    <td>16%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>Mean Spirit Ham</td>
+    <td>67</td>
+    <td>57</td>
+    <td>7</td>
+    <td>126</td>
+    <td>220</td>
+    <td>20%</td>
+  </tr>
+</table>
+
+### Kid Squid
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/kid_squid.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Kid Squid</td>
+    <td>42</td>
+    <td>20</td>
+    <td>11</td>
+    <td>66</td>
+    <td>5</td>
+    <td>4%</td>
+    <td rowspan="4">Aquatic</td>
+    <td>Blinds an adjacent target.<br/>Turns into Squid Sushi Scroll if<br/>hit by onigiri, granting exp at<br/>the same time.</td>
+    <td><span class="green_text">Blind</span> overwrites <span class="green_text">Farseeing</span> status.<br/>Check if unidentified scrolls are<br/>selection type scrolls by reading<br/>them while <span class="green_text">Blind</span>.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>Squidfficial</td>
+    <td>55</td>
+    <td>23</td>
+    <td>15</td>
+    <td>110</td>
+    <td>45</td>
+    <td>4%</td>
+    <td>Same as Kid Squid, but its ink<br/>blinds targets in a 1 tile radius.</td>
+    <td>Only appears in <a href="/shiren5/dungeon/destinys-descent">Destiny's Descent</a><br/>in the base game.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>King Squid</td>
+    <td>65</td>
+    <td>55</td>
+    <td>24</td>
+    <td>1300</td>
+    <td>50</td>
+    <td>4%</td>
+    <td rowspan="2">Same as Kid Squid, but its ink<br/>blinds all targets within its view.</td>
+    <td rowspan="2">Causes you to lose <span class="green_text">Super</span> status.<br/>Use an Immunity Scroll or blessed<br/>Peach in one room Monster Houses.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>Squidperor</td>
+    <td>85</td>
+    <td>72</td>
+    <td>30</td>
+    <td>2200</td>
+    <td>200</td>
+    <td>4%</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>Evil Kid Squid</td>
+    <td>20</td>
+    <td>18</td>
+    <td>2</td>
+    <td>24</td>
+    <td>7</td>
+    <td>4%</td>
+    <td rowspan="4">Aquatic</td>
+    <td rowspan="4">Same as daytime abilities.</td>
+    <td rowspan="2">Walking around while <span class="green_text">Blind</span> usually<br/>leads to accidents.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>Evil Squidfficial</td>
+    <td>39</td>
+    <td>30</td>
+    <td>3</td>
+    <td>65</td>
+    <td>35</td>
+    <td>8%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>Evil King Squid</td>
+    <td>55</td>
+    <td>56</td>
+    <td>4</td>
+    <td>270</td>
+    <td>100</td>
+    <td>16%</td>
+    <td rowspan="2">Causes you to lose <span class="green_text">Super</span> status.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>Evil Squidperor</td>
+    <td>57</td>
+    <td>90</td>
+    <td>5</td>
+    <td>540</td>
+    <td>190</td>
+    <td>20%</td>
+  </tr>
+</table>
+
+### Foly
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/foly.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Foly</td>
+    <td>46</td>
+    <td>20</td>
+    <td>2</td>
+    <td>400</td>
+    <td>6</td>
+    <td>-</td>
+    <td rowspan="2">Swift 1<br/>Cyclops<br/>Floating</td>
+    <td rowspan="2">Double speed, 1 attack.<br/>Moves along the wall in rooms.<br/>Changes color and abilities every 8 turns.<br/><span class="redText">Red: Nullifies and reflects direct attacks.</span><br/><span class="blueText">Blue: 15 damage lightning to all creatures<br/>in the room after it acts, and levels up if it<br/>defeats someone. Lightning occurs even<br/>after it uses a direct attack.</span><br/><span class="greenText">Green: Heals your HP by 100 after it hits<br/>you with a direct attack.</span><br/><span class="purpleText">Purple: Counters with an ailment if hit:<br/>Berserk, Grounded, Inaccurate, Confused,<br/>or Shadow Bound.</span><br/>Green and Purple effects won't occur if<br/>defeated in one hit, and only 1 Foly can<br/>be present on a floor at a time.</td>
+    <td>Often slays new players.<br/>Beware of its direct attacks<br/>if it limit breaks from lightning.<br/>Paralyze it or throw a Hide Pot<br/>to make it a non-issue.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>Dark Foly</td>
+    <td>33</td>
+    <td>24</td>
+    <td>4</td>
+    <td>8</td>
+    <td>19</td>
+    <td>-</td>
+    <td>Found in <a href="/shiren5/dungeon/inori-cave">Inori Cave</a>. (13-14F)<br/>Lightning deals 1 damage to<br/>other night monsters, so it<br/>doesn't limit break as often as<br/>its day counterpart.</td>
+  </tr>
+</table>
+
+### Bored Kappa
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/bored_kappa.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Bored Kappa</td>
+    <td>50</td>
+    <td>18</td>
+    <td>11</td>
+    <td>48</td>
+    <td>7</td>
+    <td>4%</td>
+    <td rowspan="4">Aquatic<br/>Projectile</td>
+    <td>Stands on item, throws it at Shiren.<br/>Catches and tosses thrown items<br/>back at you if the item is a category<br/>it can throw. Range of 3 tiles.<br/>Items it throws always miss.<br/>Can't throw Gitan, shields, or swords.<br/>Moves toward items, but stops and<br/>uses direct attacks if adjacent.</td>
+    <td>Don't underestimate it just<br/>because it always misses.<br/>If you're standing on a trap,<br/>it'll activate when the item<br/>lands on it, and Sleep Trap<br/>is particularly bad.<br/>Thrown Truestrike Arrows<br/>will always hit you.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>Kappa Pest</td>
+    <td>65</td>
+    <td>25</td>
+    <td>17</td>
+    <td>180</td>
+    <td>20</td>
+    <td>4%</td>
+    <td>Stands on item, throws it at Shiren.<br/>Catches and tosses thrown items<br/>back at you if the item is a category<br/>it can throw. Range of 5 tiles.<br/>Can't throw Gitan or weapons.<br/>Moves toward items, but stops and<br/>uses direct attacks if adjacent.<br/>Thrown items can land in open pots.<br/>Shiren might equip the item it throws,<br/>and the prior equipped item falls to<br/>the ground.</td>
+    <td>Appears with Mixermon<br/>in some dungeons, so<br/>don't let it throw your<br/>shield after synthesizing.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>Vexing Kappa</td>
+    <td>77</td>
+    <td>48</td>
+    <td>20</td>
+    <td>800</td>
+    <td>60</td>
+    <td>4%</td>
+    <td>Same as Kappa Pest, but range of<br/>10 tiles, and can throw weapons.</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>Kappa Troll</td>
+    <td>89</td>
+    <td>63</td>
+    <td>30</td>
+    <td>1700</td>
+    <td>170</td>
+    <td>4%</td>
+    <td>Same as Kappa Pest, but throws<br/>items from anywhere on the<br/>current floor, and can throw Gitan<br/>and weapons.</td>
+    <td>Often appears with Gitan<br/>Mamel, Kleptoad, Snide<br/>Kleptoad, etc. so you can<br/>get one-shot by Gitan.</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>Dark Bored Kappa</td>
+    <td>14</td>
+    <td>5</td>
+    <td>2</td>
+    <td>3</td>
+    <td>7</td>
+    <td>4%</td>
+    <td rowspan="4">Aquatic<br/>Projectile</td>
+    <td rowspan="4">Same as daytime abilities.</td>
+    <td>Doesn't stand on items.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>Dark Kappa Pest</td>
+    <td>38</td>
+    <td>55</td>
+    <td>3</td>
+    <td>50</td>
+    <td>25</td>
+    <td>8%</td>
+    <td>Limit break raises power<br/>of thrown items, so eat a<br/>Juicy Peach to stay safe.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>Dark Vexing Kappa</td>
+    <td>63</td>
+    <td>55</td>
+    <td>5</td>
+    <td>100</td>
+    <td>6</td>
+    <td>16%</td>
+    <td>Blessed items deal more<br/>damage. Helps to leave<br/>space open in pots.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>Dark Kappa Troll</td>
+    <td>66</td>
+    <td>75</td>
+    <td>8</td>
+    <td>200</td>
+    <td>160</td>
+    <td>20%</td>
+    <td>Blessed Gitan is an<br/>instant collapse.</td>
+  </tr>
+</table>
+
+### Hopodile
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/hopodile.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Hopodile</td>
+    <td>50</td>
+    <td>22</td>
+    <td>10</td>
+    <td>50</td>
+    <td>9</td>
+    <td>4%</td>
+    <td rowspan="4">Dragon<br/>Aquatic</td>
+    <td>Moves like a chess knight<br/>when Shiren is in view.<br/>Does a 10 damage jump attack<br/>if you're standing in range of a<br/>chess knight hop.</td>
+    <td>Doesn't appear as early as<br/>Shiren 4, but higher stats.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>Hipadile</td>
+    <td>60</td>
+    <td>48</td>
+    <td>15</td>
+    <td>480</td>
+    <td>40</td>
+    <td>4%</td>
+    <td>Same as Hopodile, but jump<br/>attack deals 20 damage.</td>
+    <td>Powerful monster that lives up<br/>to being called a Dragon type.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>Oingodile</td>
+    <td>77</td>
+    <td>63</td>
+    <td>22</td>
+    <td>1100</td>
+    <td>150</td>
+    <td>4%</td>
+    <td>Same as Hopodile, but jump<br/>attack deals 30 damage.</td>
+    <td rowspan="2">Easier to deal with if you have<br/>2 type effective runes.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>Boingodile</td>
+    <td>95</td>
+    <td>88</td>
+    <td>29</td>
+    <td>4300</td>
+    <td>500</td>
+    <td>4%</td>
+    <td>Same as Hopodile, but jump<br/>attack deals 40 damage.</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>Evil Hopodile</td>
+    <td>24</td>
+    <td>12</td>
+    <td>3</td>
+    <td>22</td>
+    <td>14</td>
+    <td>4%</td>
+    <td rowspan="4">Dragon<br/>Aquatic</td>
+    <td>Same as Hopodile, but jump<br/>attack deals 15 damage.</td>
+    <td rowspan="4">More likely to be approached<br/>by it compared to other night<br/>monsters.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>Evil Hipadile</td>
+    <td>27</td>
+    <td>16</td>
+    <td>5</td>
+    <td>100</td>
+    <td>75</td>
+    <td>8%</td>
+    <td>Same as Hopodile, but jump<br/>attack deals 25 damage.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>Evil Oingodile</td>
+    <td>57</td>
+    <td>53</td>
+    <td>7</td>
+    <td>220</td>
+    <td>180</td>
+    <td>16%</td>
+    <td>Same as Hopodile, but jump<br/>attack deals 35 damage.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>Evil Boingodile</td>
+    <td>61</td>
+    <td>65</td>
+    <td>9</td>
+    <td>420</td>
+    <td>500</td>
+    <td>20%</td>
+    <td>Same as Hopodile, but jump<br/>attack deals 45 damage.</td>
+  </tr>
+</table>
+
+### Flamebird
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/flamebird.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Flamebird</td>
+    <td>33</td>
+    <td>16</td>
+    <td>11</td>
+    <td>75</td>
+    <td>9</td>
+    <td>-</td>
+    <td rowspan="4">Rust<br/>Floating<br/>Explosive</td>
+    <td>Thrown items burn up.<br/>Fire damage restores HP.<br/>Duplicates from explosions.<br/>Heals an adjacent monster's<br/>HP by 30 if they're hurt.</td>
+    <td rowspan="2">Not bad on its own, but a bit tricky<br/>if it's supporting a different enemy.<br/>Troublesome for don't use direct<br/>attacks restrictions.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>Sparkbird</td>
+    <td>43</td>
+    <td>20</td>
+    <td>25</td>
+    <td>200</td>
+    <td>25</td>
+    <td>-</td>
+    <td>Same as Flamebird, but heals<br/>60 HP.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>Flarebird</td>
+    <td>54</td>
+    <td>34</td>
+    <td>28</td>
+    <td>820</td>
+    <td>80</td>
+    <td>-</td>
+    <td>Thrown items burn up.<br/>Fire damage restores HP.<br/>Duplicates from explosions.<br/>Warps next to a hurt monster<br/>within Shiren's view (3 tiles)<br/>and heals HP of all monsters<br/>in a 1 tile radius by 30.</td>
+    <td>Heals adjacent monster HP even<br/>when it's not near Shiren.<br/>Doesn't heal much HP individually,<br/>but a group can fully restore HP in<br/>one turn. To make things worse,<br/>it's useless to throw talismans at it.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>Blazebird</td>
+    <td>76</td>
+    <td>59</td>
+    <td>33</td>
+    <td>1400</td>
+    <td>170</td>
+    <td>-</td>
+    <td>Same as Flarebird, but heals<br/>60 HP.</td>
+    <td>If you can't defeat it in a single hit,<br/>you might end up being walled in.<br/>Use Seal Staff or Cannon Arm +<br/>talismans.</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>Dark Flamebird</td>
+    <td>20</td>
+    <td>16</td>
+    <td>2</td>
+    <td>24</td>
+    <td>13</td>
+    <td>-</td>
+    <td rowspan="4">Rust<br/>Floating<br/>Explosive</td>
+    <td>Same as Flamebird, but heals<br/>40 HP.</td>
+    <td rowspan="2">Much easier to deal with at night.<br/>It can cure <span class="green_text">Hiding</span> status enemies<br/>after Pot Party is used.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>Dark Sparkbird</td>
+    <td>34</td>
+    <td>18</td>
+    <td>4</td>
+    <td>40</td>
+    <td>60</td>
+    <td>-</td>
+    <td>Same as Flamebird, but heals<br/>70 HP.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>Dark Flarebird</td>
+    <td>63</td>
+    <td>55</td>
+    <td>7</td>
+    <td>120</td>
+    <td>130</td>
+    <td>-</td>
+    <td>Same as Flarebird, but heals<br/>40 HP.</td>
+    <td rowspan="2">Don't use Pot Party if you're next<br/>to a night monster on floors where<br/>these appear. It's best to memorize<br/>the floors it appears on.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>Dark Blazebird</td>
+    <td>86</td>
+    <td>75</td>
+    <td>14</td>
+    <td>240</td>
+    <td>190</td>
+    <td>-</td>
+    <td>Same as Flarebird, but heals<br/>70 HP.</td>
+  </tr>
+</table>
+
+### Yanpii
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/yanpii.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Yanpii</td>
+    <td>36</td>
+    <td>22</td>
+    <td>15</td>
+    <td>170</td>
+    <td>6</td>
+    <td>4%</td>
+    <td rowspan="4">Harass</td>
+    <td>Headbutts if lined up, dealing<br/>knockback based on distance.<br/>Headbutt deals 10 damage.<br/>If you hit a wall, go into the wall<br/>1 tile and take 10 more damage.<br/>Headbutts even if another<br/>creature is in-between.</td>
+    <td>Lower attack than in Shiren 4.<br/>Knockback is equal to twice<br/>the distance between the two<br/>of you before the headbutt.<br/>It's risky to have a Wall Clip<br/>Bracelet equipped on floors<br/>where Yanpiis appear.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>Sr. Yanpii</td>
+    <td>49</td>
+    <td>33</td>
+    <td>17</td>
+    <td>450</td>
+    <td>90</td>
+    <td>4%</td>
+    <td>Same as Yanpii, but 20 damage.<br/>If you hit a wall, go into the wall<br/>2 tiles and take 20 more damage.</td>
+    <td>Try not to get separated from<br/>allies during the main story<br/>due to a headbutt.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>Lt. Yanpii</td>
+    <td>78</td>
+    <td>60</td>
+    <td>21</td>
+    <td>1200</td>
+    <td>180</td>
+    <td>4%</td>
+    <td>Same as Yanpii, but 30 damage.<br/>If you hit a wall, go into the wall<br/>3 tiles and take 30 more damage.</td>
+    <td>It can trigger Thief Mode if it<br/>headbutts you out of a store<br/>while shopping.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>Boss Yanpii</td>
+    <td>97</td>
+    <td>71</td>
+    <td>35</td>
+    <td>3200</td>
+    <td>250</td>
+    <td>4%</td>
+    <td>Same as Yanpii, but 40 damage.<br/>If you hit a wall, go into the wall<br/>4 tiles and take 40 more damage.</td>
+    <td>80 damage if you hit a wall,<br/>so don't fight with your back<br/>against a wall.</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>Sinful Yanpii</td>
+    <td>10</td>
+    <td>5</td>
+    <td>1</td>
+    <td>10</td>
+    <td>40</td>
+    <td>4%</td>
+    <td rowspan="4">Harass</td>
+    <td>Same as Yanpii, but 15 damage.<br/>If you hit a wall, go into the wall<br/>1 tile and take 10 more damage.</td>
+    <td rowspan="4">Special deals more damage.<br/>Same dangers as daytime,<br/>but hard to predict or defend<br/>against due to poor visibility.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>Sinful Sr. Yanpii</td>
+    <td>48</td>
+    <td>53</td>
+    <td>2</td>
+    <td>50</td>
+    <td>80</td>
+    <td>8%</td>
+    <td>Same as Yanpii, but 25 damage.<br/>If you hit a wall, go into the wall<br/>2 tiles and take 20 more damage.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>Sinful Lt. Yanpii</td>
+    <td>56</td>
+    <td>75</td>
+    <td>4</td>
+    <td>150</td>
+    <td>160</td>
+    <td>16%</td>
+    <td>Same as Yanpii, but 35 damage.<br/>If you hit a wall, go into the wall<br/>3 tiles and take 30 more damage.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>Sinful Boss Yanpii</td>
+    <td>61</td>
+    <td>80</td>
+    <td>9</td>
+    <td>360</td>
+    <td>260</td>
+    <td>20%</td>
+    <td>Same as Yanpii, but 45 damage.<br/>If you hit a wall, go into the wall<br/>4 tiles and take 40 more damage.</td>
+  </tr>
+</table>
+
+### Scoopie
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/scoopie.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Scoopie</td>
+    <td>43</td>
+    <td>16</td>
+    <td>11</td>
+    <td>75</td>
+    <td>9</td>
+    <td>4%</td>
+    <td rowspan="4">Rust<br/>Metal<br/>Harass</td>
+    <td rowspan="2">Shovels dirt at an adjacent target,<br/>which can hit through corners.<br/>Dirt fills 1 open pot if it hits you,<br/>and inflicts <span class="green_text">Blind</span> if it hits an ally.<br/>Can't insert or take items from<br/>Preservation Pots filled with dirt.<br/>Dirt randomly turns into grass<br/>when you change floors.</td>
+    <td rowspan="2">New monster that ruins pots.<br/>Protect fragrance pots by placing<br/>them on the ground beforehand.<br/>Dirt can't go into sealed pots.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>Spadie</td>
+    <td>49</td>
+    <td>23</td>
+    <td>17</td>
+    <td>190</td>
+    <td>45</td>
+    <td>4%</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>Trowelie</td>
+    <td>66</td>
+    <td>40</td>
+    <td>20</td>
+    <td>550</td>
+    <td>130</td>
+    <td>4%</td>
+    <td>Throws dirt within a 4 tile radius.<br/>Won't throw dirt if it can't see you.<br/>Dirt fills 1 open pot if it hits you,<br/>and inflicts Blind if it hits an ally.<br/>Can't insert or take items from<br/>Preservation Pots filled with dirt.<br/>Dirt randomly turns into grass<br/>when you change floors.</td>
+    <td>Dirt throwing range of 4 tiles.<br/>Dodger Pot can be used to dodge<br/>dirt, but ideally you'll want to save<br/>it for later.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>Shovelie</td>
+    <td>86</td>
+    <td>85</td>
+    <td>35</td>
+    <td>2345</td>
+    <td>345</td>
+    <td>4%</td>
+    <td>Same as Trowelie, but throws<br/>dirt within a 6 tile radius.</td>
+    <td>High attack, so it's a bad idea to<br/>place pots down while fighting it.<br/>Floors often overlap with Porgon,<br/>so it's fine to use a Dodger Pot.</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>Wicked Scoopie</td>
+    <td>22</td>
+    <td>16</td>
+    <td>2</td>
+    <td>22</td>
+    <td>20</td>
+    <td>4%</td>
+    <td rowspan="4">Rust<br/>Metal<br/>Harass</td>
+    <td rowspan="4">Same as daytime abilities.</td>
+    <td rowspan="2">Easy to avoid its special at night.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>Wicked Spadie</td>
+    <td>37</td>
+    <td>28</td>
+    <td>4</td>
+    <td>210</td>
+    <td>100</td>
+    <td>8%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>Wicked Trowelie</td>
+    <td>45</td>
+    <td>46</td>
+    <td>6</td>
+    <td>320</td>
+    <td>200</td>
+    <td>16%</td>
+    <td rowspan="2">It doesn't throw dirt often, but you<br/>tend to get hit by dirt from outside<br/>your view due to low visibility.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>Wicked Shovelie</td>
+    <td>52</td>
+    <td>56</td>
+    <td>8</td>
+    <td>420</td>
+    <td>300</td>
+    <td>20%</td>
+  </tr>
+</table>
+
+### Zalokleft
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/zalokleft.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Zalokleft</td>
+    <td>43</td>
+    <td>14</td>
+    <td>9</td>
+    <td>50</td>
+    <td>3</td>
+    <td>100%</td>
+    <td rowspan="4">Aquatic<br/>Greed</td>
+    <td rowspan="3">Steals 1 item and warps if adjacent,<br/>excluding equipped items.<br/>Picks up a floor item and warps.<br/>Runs from Shiren after stealing.<br/>Doesn't use direct attacks.<br/>Always generated <span class="green_text">Napping</span>.<br/>Drops an item from a unique table<br/>if slain before stealing an item, or<br/>the stolen item if slain after it stole.</td>
+    <td rowspan="3">Always drops 1 item from a<br/>unique Zalokleft item table.<br/>Hard to reclaim stolen item<br/>on water floors.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>Green Zalokleft</td>
+    <td>55</td>
+    <td>17</td>
+    <td>11</td>
+    <td>240</td>
+    <td>10</td>
+    <td>100%</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>Iron Zalokleft</td>
+    <td>71</td>
+    <td>42</td>
+    <td>13</td>
+    <td>850</td>
+    <td>40</td>
+    <td>100%</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>Zalokleftis King</td>
+    <td>80</td>
+    <td>61</td>
+    <td>15</td>
+    <td>1900</td>
+    <td>80</td>
+    <td>100%</td>
+    <td>Steals 1 item and vanishes if<br/>adjacent, including equipped items.<br/>Picks up a floor item and vanishes.<br/>Doesn't use direct attacks.<br/>Always generated <span class="green_text">Napping</span>.<br/>Drops an item from a unique table<br/>when defeated.</td>
+    <td>Impossible to reclaim stolen<br/>item since it vanishes from<br/>the current floor.<br/>Use arrows if you don't have<br/>the Anti-Theft rune.</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>Bad Zalokleft</td>
+    <td>48</td>
+    <td>28</td>
+    <td>2</td>
+    <td>130</td>
+    <td>5</td>
+    <td>100%</td>
+    <td rowspan="4">Aquatic<br/>Greed</td>
+    <td rowspan="3">Steals 1 item and warps if adjacent,<br/>excluding equipped items.<br/>Picks up a floor item and warps.<br/>Item becomes cursed or sealed.<br/>Always generated <span class="green_text">Napping</span>.<br/>Drops an item from a unique table<br/>if slain before stealing an item, or<br/>the stolen item if slain after it stole.<br/>Uses direct attacks.</td>
+    <td rowspan="3">Dropped items are blessed,<br/>but the item isn't likely to be<br/>anything special.<br/>Stolen item turns cursed or<br/>sealed, so keep that in mind<br/>if you're thinking about<br/>reclaiming the item.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>Bad G. Zalokleft</td>
+    <td>55</td>
+    <td>29</td>
+    <td>4</td>
+    <td>250</td>
+    <td>20</td>
+    <td>100%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>Bad I. Zalokleft</td>
+    <td>65</td>
+    <td>30</td>
+    <td>5</td>
+    <td>300</td>
+    <td>40</td>
+    <td>100%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>Bad Zalokleft King</td>
+    <td>70</td>
+    <td>31</td>
+    <td>6</td>
+    <td>400</td>
+    <td>190</td>
+    <td>100%</td>
+    <td>Steals 1 item and vanishes if<br/>adjacent, including equipped items.<br/>Picks up a floor item and vanishes.<br/>Always generated <span class="green_text">Napping</span>.<br/>Drops an item from a unique table<br/>when defeated.<br/>Uses direct attacks.</td>
+    <td>Impossible to reclaim stolen<br/>item since it vanishes from<br/>the current floor.</td>
+  </tr>
+</table>
+
+### Eligan
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/eligan.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Eligan</td>
+    <td>58</td>
+    <td>32</td>
+    <td>16</td>
+    <td>220</td>
+    <td>50</td>
+    <td>4%</td>
+    <td rowspan="4">Power</td>
+    <td rowspan="4">None.</td>
+    <td>Significantly weaker than in Shiren 4.<br/>Still pretty strong for when it appears, though.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>Eligagan</td>
+    <td>62</td>
+    <td>62</td>
+    <td>22</td>
+    <td>680</td>
+    <td>100</td>
+    <td>4%</td>
+    <td>Attack is on par with Eligan in Shiren 4.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>Eligagon</td>
+    <td>96</td>
+    <td>80</td>
+    <td>40</td>
+    <td>3000</td>
+    <td>200</td>
+    <td>4%</td>
+    <td>Formidable stats, and stronger than a decent<br/>number of monsters that have special abilities.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>Elizgagon</td>
+    <td>100</td>
+    <td>103</td>
+    <td>48</td>
+    <td>5000</td>
+    <td>400</td>
+    <td>4%</td>
+    <td>Extremely high offense and defense.<br/>It doesn't have a type effective weakness,<br/>and often appears with Despoiler late game.</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>Dark Eligan</td>
+    <td>33</td>
+    <td>24</td>
+    <td>4</td>
+    <td>40</td>
+    <td>24</td>
+    <td>4%</td>
+    <td rowspan="4">Power</td>
+    <td rowspan="4">None.</td>
+    <td rowspan="4">Far weaker than their day counterparts.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>Dark Eligagan</td>
+    <td>45</td>
+    <td>38</td>
+    <td>5</td>
+    <td>150</td>
+    <td>100</td>
+    <td>8%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>Dark Eligagon</td>
+    <td>70</td>
+    <td>69</td>
+    <td>10</td>
+    <td>220</td>
+    <td>180</td>
+    <td>16%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>Dark Elizgagon</td>
+    <td>79</td>
+    <td>80</td>
+    <td>11</td>
+    <td>330</td>
+    <td>420</td>
+    <td>20%</td>
+  </tr>
+</table>
+
+### Gyadon
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/gyadon.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Gyadon</td>
+    <td>55</td>
+    <td>17</td>
+    <td>1</td>
+    <td>165</td>
+    <td>19</td>
+    <td>4%</td>
+    <td rowspan="4">Floating<br/>Power<br/>Greed</td>
+    <td>Reduces a staff's count to 0.</td>
+    <td rowspan="2">Protect staves by storing them<br/>in pots or by placing them down.<br/>Perceptive Pot nullifies pecking.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>Gyairas</td>
+    <td>64</td>
+    <td>49</td>
+    <td>22</td>
+    <td>440</td>
+    <td>35</td>
+    <td>4%</td>
+    <td>Turns a scroll or talisman<br/>into Piece of Paper.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>Gyandora</td>
+    <td>83</td>
+    <td>59</td>
+    <td>27</td>
+    <td>1200</td>
+    <td>80</td>
+    <td>4%</td>
+    <td>Reduces a pot's capacity to 0.<br/>All items in the pot vanish.</td>
+    <td>Bad if it pecks Preservation Pots.<br/>Used for <a href="/shiren5/guide/tips-and-tricks#fever-pots">2 item Fever Pots</a>.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>Gyandoron</td>
+    <td>95</td>
+    <td>75</td>
+    <td>36</td>
+    <td>2800</td>
+    <td>200</td>
+    <td>4%</td>
+    <td>Reduces a staff's count to 0.<br/>Turns a scroll or talisman<br/>into Piece of Paper.<br/>Reduces a pot's capacity to 0.<br/>Erases 1 sword or shield rune,<br/>excluding equipped items.</td>
+    <td>Randomly uses 1 of 4 specials,<br/>so it might not peck anything if<br/>you don't have an item that fits<br/>the selected item category.<br/>Often appears with Tiger Ace.<br/>Anti-Peck rune blocks all specials.</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>Violent Gyadon</td>
+    <td>10</td>
+    <td>5</td>
+    <td>1</td>
+    <td>4</td>
+    <td>18</td>
+    <td>4%</td>
+    <td rowspan="4">Floating<br/>Power<br/>Greed</td>
+    <td rowspan="4">Same as daytime abilities.</td>
+    <td rowspan="4">Easy to avoid its special at night.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>Violent Gyairas</td>
+    <td>51</td>
+    <td>42</td>
+    <td>6</td>
+    <td>230</td>
+    <td>80</td>
+    <td>8%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>Violent Gyandora</td>
+    <td>65</td>
+    <td>60</td>
+    <td>9</td>
+    <td>360</td>
+    <td>160</td>
+    <td>16%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>Violent Gyandoron</td>
+    <td>70</td>
+    <td>86</td>
+    <td>10</td>
+    <td>480</td>
+    <td>220</td>
+    <td>20%</td>
+  </tr>
+</table>
+
+### Gazer
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/gazer.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Gazer</td>
+    <td>26</td>
+    <td>11</td>
+    <td>9</td>
+    <td>19</td>
+    <td>8</td>
+    <td>2%</td>
+    <td rowspan="4">Cyclops<br/>Magic<br/>Harass</td>
+    <td rowspan="3"><span class="green_text">Hypnotizes</span> Shiren when<br/>adjacent, making him<br/>attack or use an item.</td>
+    <td>Only on 20-21F in Destiny's Descent<br/>in the DS version, but appears on<br/>early floors of DLC dungeons.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>Super Gazer</td>
+    <td>66</td>
+    <td>35</td>
+    <td>20</td>
+    <td>550</td>
+    <td>15</td>
+    <td>2%</td>
+    <td>Likely your first Gazer encounter.<br/>If unlucky, you could lose equipment<br/>or be unable to act until you collapse.<br/></td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>Hyper Gazer</td>
+    <td>83</td>
+    <td>42</td>
+    <td>24</td>
+    <td>1300</td>
+    <td>80</td>
+    <td>2%</td>
+    <td>High HP, so it's difficult to defeat it in<br/>1 hit without type effective runes.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>Ultra Gazer</td>
+    <td>93</td>
+    <td>62</td>
+    <td>38</td>
+    <td>1850</td>
+    <td>130</td>
+    <td>100%</td>
+    <td><span class="green_text">Hypnotizes</span> Shiren from<br/>anywhere within its view,<br/>making him attack or use<br/>an item.<br/>Drops 5000 Gitan if slain.</td>
+    <td>Terrifying long-range hypnosis.<br/>Drops 5000G, which can one-shot<br/>any end game monster that it hits.<br/>Use Anti-Hypno rune, Reflection Pot,<br/><span class="green_text">Immune</span> status, Extinction Scroll, etc.</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>Evil Gazer</td>
+    <td>33</td>
+    <td>24</td>
+    <td>3</td>
+    <td>40</td>
+    <td>10</td>
+    <td>2%</td>
+    <td rowspan="4">Cyclops<br/>Magic<br/>Harass</td>
+    <td rowspan="4">Same as daytime abilities.</td>
+    <td rowspan="3">Often appears on floors with water<br/>or air tiles in <a href="/shiren5/dungeon/destinys-descent">Destiny's Descent</a>,<br/>leading to item loss.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>Evil Super Gazer</td>
+    <td>47</td>
+    <td>39</td>
+    <td>4</td>
+    <td>120</td>
+    <td>35</td>
+    <td>2%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>Evil Hyper Gazer</td>
+    <td>53</td>
+    <td>50</td>
+    <td>5</td>
+    <td>240</td>
+    <td>100</td>
+    <td>2%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>Evil Ultra Gazer</td>
+    <td>59</td>
+    <td>70</td>
+    <td>6</td>
+    <td>390</td>
+    <td>260</td>
+    <td>100%</td>
+    <td>Doesn't use its hypnosis as often<br/>as its day counterpart.</td>
+  </tr>
+</table>
+
+### Zapdon
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/zapdon.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Zapdon</td>
+    <td>79</td>
+    <td>59</td>
+    <td>22</td>
+    <td>330</td>
+    <td>33</td>
+    <td>4%</td>
+    <td rowspan="4">Slow<br/>Rust<br/>Power</td>
+    <td>1 action every 2 turns.<br/>25 damage lightning attack<br/>if Shiren is within view after<br/>taking damage 3 times.<br/>Always uses its lightning<br/>attack after electric damage.</td>
+    <td rowspan="2">Slow but powerful monster.<br/>Runs at double speed (1 attack)<br/>if it spawns with a yellow aura.<br/></td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>Huistdon</td>
+    <td>108</td>
+    <td>69</td>
+    <td>25</td>
+    <td>660</td>
+    <td>220</td>
+    <td>4%</td>
+    <td>Same as Zapdon, but<br/>lightning deals 30 damage.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>Bunchukdon</td>
+    <td>137</td>
+    <td>79</td>
+    <td>28</td>
+    <td>1280</td>
+    <td>400</td>
+    <td>4%</td>
+    <td>Same as Zapdon, but<br/>lightning deals 35 damage.</td>
+    <td rowspan="2">Lower attack than in Shiren 4,<br/>but more HP. Be careful not to<br/>get sandwiched by monsters<br/>while fighting it in hallways.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>Zotdon</td>
+    <td>165</td>
+    <td>90</td>
+    <td>35</td>
+    <td>2222</td>
+    <td>600</td>
+    <td>4%</td>
+    <td>Same as Zapdon, but<br/>lightning deals 40 damage.</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>Dark Zapdon</td>
+    <td>47</td>
+    <td>43</td>
+    <td>4</td>
+    <td>120</td>
+    <td>40</td>
+    <td>4%</td>
+    <td rowspan="4">Slow<br/>Rust<br/>Power</td>
+    <td>1 action every 2 turns.<br/>40 damage lightning attack<br/>to all characters in the room<br/>after taking damage 3 times.<br/>Always uses its lightning<br/>attack after electric damage.</td>
+    <td rowspan="4">Between abilities and other<br/>night monster attacks, it mostly<br/>collapses before it has a chance<br/>to use its lightning attack.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>Dark Huistdon</td>
+    <td>78</td>
+    <td>75</td>
+    <td>5</td>
+    <td>200</td>
+    <td>220</td>
+    <td>8%</td>
+    <td>Same as Dark Zapdon, but<br/>lightning deals 50 damage.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>Dark Bunchukdon</td>
+    <td>72</td>
+    <td>78</td>
+    <td>9</td>
+    <td>300</td>
+    <td>300</td>
+    <td>16%</td>
+    <td>Same as Dark Zapdon, but<br/>lightning deals 60 damage.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>Dark Zotdon</td>
+    <td>82</td>
+    <td>96</td>
+    <td>13</td>
+    <td>450</td>
+    <td>500</td>
+    <td>20%</td>
+    <td>Same as Dark Zapdon, but<br/>lightning deals 70 damage.</td>
+  </tr>
+</table>
+
+### Dragon
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/dragon.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Dragon</td>
+    <td>75</td>
+    <td>42</td>
+    <td>22</td>
+    <td>560</td>
+    <td>50</td>
+    <td>22%</td>
+    <td rowspan="4">Dragon<br/>Explosive</td>
+    <td>Breathes 20 damage fire<br/>in a straight line.<br/>High item drop rate.</td>
+    <td>Dragons in Shiren 5 deal less<br/>fire damage than other games.<br/>Often generated <span class="green_text">Napping</span>.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>Sky Dragon</td>
+    <td>80</td>
+    <td>55</td>
+    <td>26</td>
+    <td>1600</td>
+    <td>120</td>
+    <td>22%</td>
+    <td>Breathes 20 damage fire<br/>at a target in the room.<br/>High item drop rate.</td>
+    <td>Lowest fire damage in the series,<br/>but breathes fire more often than<br/>Archdragon or Abyssal Dragon,<br/>so it's dangerous in large rooms.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>Archdragon</td>
+    <td>92</td>
+    <td>82</td>
+    <td>30</td>
+    <td>3333</td>
+    <td>240</td>
+    <td>22%</td>
+    <td>Breathes 30 damage fire<br/>at a target from anywhere<br/>on the current floor.<br/>High item drop rate.</td>
+    <td>Burns Shiren to a crisp from any<br/>position on the current floor.<br/>Lowest fire damage in the series,<br/>and doesn't breathe fire very often,<br/>but dangerous if multiple spawn.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>Abyssal Dragon</td>
+    <td>120</td>
+    <td>106</td>
+    <td>50</td>
+    <td>6666</td>
+    <td>600</td>
+    <td>22%</td>
+    <td>Same as Archdragon,<br/>but fire deals 40 damage.</td>
+    <td>Top-class attack and defense.<br/>Often appears until 99F in places<br/>where it naturally spawns.</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>Evil Dragon</td>
+    <td>32</td>
+    <td>24</td>
+    <td>3</td>
+    <td>100</td>
+    <td>100</td>
+    <td>22%</td>
+    <td rowspan="4">Dragon<br/>Explosive</td>
+    <td>Same as Dragon,<br/>but fire deals 50 damage.</td>
+    <td>Fire deals a whopping 50 damage.<br/>It uses its special more often than<br/>other night monsters.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>Evil Sky Dragon</td>
+    <td>55</td>
+    <td>38</td>
+    <td>5</td>
+    <td>300</td>
+    <td>200</td>
+    <td>22%</td>
+    <td>Same as Sky Dragon,<br/>but fire deals 50 damage.</td>
+    <td>Wait for daytime in a hallway if<br/>you lack a Monster Detector.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>Evil Archdragon</td>
+    <td>93</td>
+    <td>65</td>
+    <td>12</td>
+    <td>600</td>
+    <td>300</td>
+    <td>22%</td>
+    <td>Same as Archdragon,<br/>but fire deals 60 damage.</td>
+    <td>Won't breathe fire often, but deals<br/>a lot of damage when it does.<br/>Use Zen Pot or Extinction Scroll.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>Evil Abyss Dragon</td>
+    <td>104</td>
+    <td>81</td>
+    <td>14</td>
+    <td>900</td>
+    <td>500</td>
+    <td>22%</td>
+    <td>Same as Archdragon,<br/>but fire deals 70 damage.</td>
+    <td>Its fire damage is ridiculous, and it<br/>often survives a Kaboom Bullet.</td>
+  </tr>
+</table>
+
+### DJ Mage
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/dj_mage.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>DJ Mage</td>
+    <td>45</td>
+    <td>22</td>
+    <td>13</td>
+    <td>110</td>
+    <td>8</td>
+    <td>6%</td>
+    <td rowspan="4">Magic<br/>Harass</td>
+    <td>Fires a magic bullet with a random<br/>effect in a straight line: Warp,<br/>knockback, switch positions,<br/>Swift (1 stage).</td>
+    <td>Higher stats than in Shiren 4.<br/>Its magic often helps you out.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>MC Mage</td>
+    <td>56</td>
+    <td>26</td>
+    <td>17</td>
+    <td>360</td>
+    <td>25</td>
+    <td>6%</td>
+    <td>Fires a magic bullet with a random<br/>effect in a straight line: Blind,<br/>Confused, transient, 20 damage.</td>
+    <td>Effects that limit actions.<br/>Bad if other enemies are nearby.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>MC Wizard</td>
+    <td>62</td>
+    <td>32</td>
+    <td>20</td>
+    <td>800</td>
+    <td>60</td>
+    <td>6%</td>
+    <td>Fires a magic bullet with a random<br/>effect in a straight line: <span class="green_text">Level -1</span>,<br/><span class="green_text">Sealed</span>, <span class="green_text">Paralyzed</span>, <span class="green_text">Cloned</span>, Berserk</td>
+    <td>Berserk can easily end a run<br/>by making you walk straight at<br/>MC Wizard or causing accidents<br/>with traps and Shopkeepers, etc.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>MC Sorceror</td>
+    <td>73</td>
+    <td>45</td>
+    <td>21</td>
+    <td>1000</td>
+    <td>100</td>
+    <td>6%</td>
+    <td>Fires a magic bullet with a random<br/>effect in a straight line: <span class="green_text">Empathy</span>,<br/><span class="green_text">Onigiri</span>, <span class="green_text">Slow</span> (1 stage), Level -3,<br/>reduce HP to 1/4 of current HP</td>
+    <td>Extremely dangerous effects.<br/>You can even lose 1-on-1 if you<br/>get hit by Onigiri and Slow.</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>Dark DJ Mage</td>
+    <td>22</td>
+    <td>16</td>
+    <td>2</td>
+    <td>22</td>
+    <td>18</td>
+    <td>6%</td>
+    <td rowspan="4">Magic<br/>Harass</td>
+    <td rowspan="4">Same as daytime abilities.</td>
+    <td>Uses magic less often, but<br/>limited visibility makes it more<br/>dangerous.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>Dark MC Mage</td>
+    <td>36</td>
+    <td>30</td>
+    <td>6</td>
+    <td>50</td>
+    <td>72</td>
+    <td>8%</td>
+    <td>You might get one-shot if a limit<br/>broken monster is near the<br/>stairs after getting hit by the<br/>transient effect.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>Dark MC Wizard</td>
+    <td>50</td>
+    <td>40</td>
+    <td>8</td>
+    <td>150</td>
+    <td>130</td>
+    <td>16%</td>
+    <td>Berserk or Sealed often lead to<br/>a collapse at night.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>Dark MC Sorceror</td>
+    <td>70</td>
+    <td>66</td>
+    <td>10</td>
+    <td>400</td>
+    <td>190</td>
+    <td>20%</td>
+    <td>Fewer effects that cause an<br/>immediate collapse compared<br/>to MC Wizard.</td>
+  </tr>
+</table>
+
+### Porky
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/porky.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Porky</td>
+    <td>47</td>
+    <td>21</td>
+    <td>8</td>
+    <td>100</td>
+    <td>35</td>
+    <td>6%</td>
+    <td rowspan="4">Power<br/>Projectile</td>
+    <td>Throws a Porky Rock within<br/>a 2 tile radius. (20 damage)<br/>Only drops Porky Rocks.</td>
+    <td rowspan="2">Only found in Destiny's Descent<br/>in the DS version, but appears<br/>elsewhere in PS Vita dungeons.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>Porko</td>
+    <td>65</td>
+    <td>36</td>
+    <td>18</td>
+    <td>840</td>
+    <td>70</td>
+    <td>6%</td>
+    <td>Same as Porky,<br/>but range of 4 tiles.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>Porkon</td>
+    <td>75</td>
+    <td>52</td>
+    <td>20</td>
+    <td>1600</td>
+    <td>200</td>
+    <td>6%</td>
+    <td>Same as Porky,<br/>but range of 6 tiles.</td>
+    <td>Its range and throw frequency<br/>can be irritating in hallways.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>Porgon</td>
+    <td>86</td>
+    <td>85</td>
+    <td>35</td>
+    <td>3700</td>
+    <td>400</td>
+    <td>6%</td>
+    <td>Same as Porky,<br/>but range of 10 tiles.</td>
+    <td>Uses special attacks more than<br/>Archdragon and Abyssal Dragon.<br/>If you see it on a maze floor, use<br/>a Dodger Pot or Extinction Scroll.</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>Sinister Porky</td>
+    <td>20</td>
+    <td>18</td>
+    <td>2</td>
+    <td>50</td>
+    <td>30</td>
+    <td>6%</td>
+    <td rowspan="4">Power<br/>Projectile</td>
+    <td>Throws a Porky Rock within<br/>a 2 tile radius. (20 damage)<br/>Only drops Porky Rocks.<br/>Porky Rocks that miss vanish.</td>
+    <td rowspan="4">Still dangerous, even if its rock<br/>throwing frequency isn't as high<br/>as daytime.<br/>Makes it difficult to safely cycle<br/>time of day in hallways.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>Sinister Porko</td>
+    <td>42</td>
+    <td>52</td>
+    <td>3</td>
+    <td>100</td>
+    <td>140</td>
+    <td>8%</td>
+    <td>Same as Sinister Porky,<br/>but range of 4 tiles.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>Sinister Porkon</td>
+    <td>62</td>
+    <td>72</td>
+    <td>4</td>
+    <td>250</td>
+    <td>220</td>
+    <td>16%</td>
+    <td>Same as Sinister Porky,<br/>but range of 6 tiles.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>Sinister Porgon</td>
+    <td>74</td>
+    <td>85</td>
+    <td>6</td>
+    <td>500</td>
+    <td>350</td>
+    <td>20%</td>
+    <td>Same as Sinister Porky,<br/>but range of 10 tiles.</td>
+  </tr>
+</table>
+
+### Boy Cart
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/boy_cart.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Boy Cart</td>
+    <td>43</td>
+    <td>20</td>
+    <td>11</td>
+    <td>75</td>
+    <td>2</td>
+    <td>6%</td>
+    <td rowspan="4">Swift 1<br/>Rust<br/>Projectile</td>
+    <td>Double speed, 1 attack.<br/>Shoots <a href="/shiren5/item/projectiles#wood-arrow">Wood Arrows</a>.<br/>Moves away if you get close.<br/>Shoots even if another enemy<br/>is in-between.<br/>Doesn't attack in hallways.<br/>Only drops Wood Arrows.</td>
+    <td rowspan="2">Higher stats than in Shiren 4.<br/>Fight it in a hallway for safety.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>Cross Cart</td>
+    <td>56</td>
+    <td>28</td>
+    <td>17</td>
+    <td>180</td>
+    <td>7</td>
+    <td>6%</td>
+    <td>Same as Boy Cart, but shoots<br/>and drops <a href="/shiren5/item/projectiles#iron-arrow">Iron Arrows</a>.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>Strong Cart</td>
+    <td>65</td>
+    <td>38</td>
+    <td>20</td>
+    <td>600</td>
+    <td>9</td>
+    <td>6%</td>
+    <td>Same as Boy Cart, but shoots<br/>and drops <a href="/shiren5/item/projectiles#knockback-arrow">Knockback Arrows</a>.</td>
+    <td>Knockback Arrows can be<br/>collected using a <a href="/shiren5/item/pots#dodger-pot">Dodger Pot</a>.<br/>Level up a Lv1-2 Boy Cart, or<br/>level down a Pierce Cart or<br/><a href="#pop-tank">Pop Tank</a> to create one on<br/>floors where it doesn't spawn.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>Pierce Cart</td>
+    <td>74</td>
+    <td>50</td>
+    <td>22</td>
+    <td>1100</td>
+    <td>15</td>
+    <td>6%</td>
+    <td>Same as Boy Cart, but shoots<br/>and drops <a href="/shiren5/item/projectiles#silver-arrow">Silver Arrows</a>.<br/>Turns into <a href="#pop-tank">Pop Tank</a> if it gains<br/>a level.</td>
+    <td>Silver Arrows pierce through<br/>walls and creatures, so they<br/>can't be collected.<br/>If an Extinction Scroll was<br/>thrown at a Pop Tank, the<br/>Pierce Cart will limit break<br/>instead of leveling up.</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>Dark Boy Cart</td>
+    <td>14</td>
+    <td>5</td>
+    <td>2</td>
+    <td>3</td>
+    <td>8</td>
+    <td>6%</td>
+    <td rowspan="4">Swift 1<br/>Rust<br/>Projectile</td>
+    <td>Double speed, 1 attack.<br/>Shoots <a href="/shiren5/item/projectiles#wood-arrow">Wood Arrows</a>.<br/>Moves away if you get close.<br/>Uses direct attacks, and<br/>attacks in hallways.<br/>Arrows that miss vanish.<br/>Only drops Wood Arrows.</td>
+    <td rowspan="4">Unlike Shiren 4, Dark Boy Cart<br/>has unpredictable movement<br/>in this game, meaning it can<br/>slay other monsters and limit<br/>break, greatly raising attack.<br/>It usually tries to move away,<br/>but it can also approach and<br/>use direct attacks.<br/>Its arrows deal 1 damage to<br/>other enemies.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>Dark Cross Cart</td>
+    <td>35</td>
+    <td>30</td>
+    <td>4</td>
+    <td>43</td>
+    <td>18</td>
+    <td>8%</td>
+    <td>Same as Dark Boy Cart, but<br/>shoots and drops <a href="/shiren5/item/projectiles#iron-arrow">Iron Arrows</a>.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>Dark Strong Cart</td>
+    <td>50</td>
+    <td>41</td>
+    <td>8</td>
+    <td>86</td>
+    <td>35</td>
+    <td>16%</td>
+    <td>Same as Dark Boy Cart, but<br/>shoots and drops <a href="/shiren5/item/projectiles#knockback-arrow">Knockback<br/>Arrows</a>.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>Dark Pierce Cart</td>
+    <td>75</td>
+    <td>70</td>
+    <td>9</td>
+    <td>150</td>
+    <td>80</td>
+    <td>20%</td>
+    <td>Same as Dark Boy Cart, but<br/>shoots and drops <a href="/shiren5/item/projectiles#silver-arrow">Silver Arrows</a>.</td>
+  </tr>
+</table>
+
+### Pop Tank
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/pop_tank.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Pop Tank</td>
+    <td>40</td>
+    <td>25</td>
+    <td>12</td>
+    <td>120</td>
+    <td>12</td>
+    <td>2%</td>
+    <td>Slow<br/>Rust<br/>Explode<br/>Metal<br/>Power<br/>Explosive</td>
+    <td>1 action every 2 turns.<br/>Fires a cannonball in a straight<br/>line, dealing 20 damage.<br/>Uses other enemies and walls<br/>to hit you with the blast, even<br/>if you're not lined up.<br/>Items caught in the blast vanish.<br/>Won't fire if another enemy is<br/>blocking its line of sight.<br/>Turns into <a href="#boy-cart">Pierce Cart</a> if it loses<br/>a level.</td>
+    <td>Smart AI like in Shiren 4.<br/>Often levels up after being<br/>attracted by a Fearabbit.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>Grampa Tank</td>
+    <td>60</td>
+    <td>37</td>
+    <td>15</td>
+    <td>400</td>
+    <td>75</td>
+    <td>2%</td>
+    <td>Rust<br/>Explode<br/>Metal<br/>Power<br/>Explosive</td>
+    <td>Same as Pop Tank,<br/>but blasts deal 30 damage<br/>and regular speed.</td>
+    <td>Scout your surroundings<br/>to avoid getting blasted.<br/>Particularly fearsome if<br/>you can't one-shot it.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>Ornery Tank</td>
+    <td>83</td>
+    <td>48</td>
+    <td>19</td>
+    <td>1600</td>
+    <td>80</td>
+    <td>2%</td>
+    <td>Swift 1<br/>Rust<br/>Explode<br/>Metal<br/>Power<br/>Explosive</td>
+    <td>Same as Pop Tank,<br/>but blasts deal 40 damage<br/>and double speed (1 attack).</td>
+    <td>Running away isn't viable.<br/>Ailments wear off in half<br/>the time since it's swift.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>Cranky Tank</td>
+    <td>86</td>
+    <td>62</td>
+    <td>20</td>
+    <td>3200</td>
+    <td>200</td>
+    <td>2%</td>
+    <td>Swift 2<br/>Rust<br/>Explode<br/>Metal<br/>Power<br/>Explosive</td>
+    <td>Same as Pop Tank,<br/>but blasts deal 50 damage<br/>and double speed (2 attacks).</td>
+    <td>Rivals Abyssal Dragon in<br/>its ability to cause dread.<br/>You'll take 100 damage<br/>per turn without Anti-Blast<br/>rune, and with 62 attack,<br/>it hits hard even if <span class="green_text">Sealed</span>.<br/>Use an Extinction Scroll.</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Abilities</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>Dark Pop Tank</td>
+    <td>20</td>
+    <td>18</td>
+    <td>2</td>
+    <td>24</td>
+    <td>18</td>
+    <td>4%</td>
+    <td>Slow<br/>Rust<br/>Explode<br/>Metal<br/>Power<br/>Explosive</td>
+    <td>1 action every 2 turns.<br/>Fires a cannonball in a straight<br/>line, dealing 30 damage.<br/>Uses other enemies and walls<br/>to hit you with the blast, even<br/>if you're not lined up.<br/>Items caught in the blast vanish.<br/>Won't fire if another enemy is<br/>blocking its line of sight.<br/>Uses direct attacks.</td>
+    <td rowspan="2">Unlike daytime, it won't<br/>always fire a cannonball<br/>when the blast would be<br/>able to hit you, and it can<br/>use direct attacks when<br/>you're adjacent to it.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>Dark Grampa Tank</td>
+    <td>45</td>
+    <td>32</td>
+    <td>3</td>
+    <td>130</td>
+    <td>35</td>
+    <td>8%</td>
+    <td>Rust<br/>Explode<br/>Metal<br/>Power<br/>Explosive</td>
+    <td>Same as Dark Pop Tank,<br/>but blasts deal 40 damage<br/>and regular speed.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>Dark Ornery Tank</td>
+    <td>47</td>
+    <td>50</td>
+    <td>4</td>
+    <td>260</td>
+    <td>130</td>
+    <td>16%</td>
+    <td>Swift 1<br/>Rust<br/>Explode<br/>Metal<br/>Power<br/>Explosive</td>
+    <td>Same as Dark Pop Tank,<br/>but blasts deal 50 damage<br/>and double speed (1 attack).</td>
+    <td>Double speed means it<br/>can ambush in hallways<br/>if you don't have a torch,<br/>so be wary if cycling time.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>Dark Cranky Tank</td>
+    <td>66</td>
+    <td>60</td>
+    <td>6</td>
+    <td>500</td>
+    <td>260</td>
+    <td>20%</td>
+    <td>Swift 2<br/>Rust<br/>Explode<br/>Metal<br/>Power<br/>Explosive</td>
+    <td>Same as Dark Pop Tank,<br/>but blasts deal 60 damage<br/>and double speed (2 attacks).</td>
+    <td>It's damage output from<br/>blasts is high, and it can<br/>one-shot you with direct<br/>attacks if it's limit broken.<br/>Try to defeat it from<br/>outside its range.</td>
+  </tr>
+</table>

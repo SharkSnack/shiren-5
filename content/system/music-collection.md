@@ -84,7 +84,7 @@ Switch / Steam exclusive feature that lets you listen to music tracks.<br/>
 |69 | Ceremonial Cave (Shiren 1) | |
 |70 | Sanuki Forest (Shiren 3) | Bladeless Wasteland (1F)|
 |71 | Sanuki Bamboo Grove (Shiren 3)|  Tower of Fortune (1-3F night)|
-|72 | Great Centipede's Burrow (Shiren 3)  | Bladeless Wasteland (31-35F)|
+|72 | Great Centipede's Burrow (Shiren 3)  | Storm Forest (4F)|
 |73 | Giant Eagle's Fortress (Shiren 3) |  Cloister of Certain Doom (1F)|
 |74 | Forest of Fire (Shiren 3) |  |
 |75 | Valley of the Dead (Shiren 3) |  Sleeping Lands (21-25F)|
