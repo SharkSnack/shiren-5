@@ -54,7 +54,7 @@ Monster Book Order
     <td class="highlightGray"><a href="#gyadon">Gyadon</a></td>
     <td class="highlightYellow"><a href="#pop-tank">Pop Tank</a></td>
     <td class="highlightGray"><a href="#moseal">Moseal</a></td>
-    <td class="highlightYellow"><a href="#boss">Jack Wand</a></td>
+    <td class="highlightYellow"><a href="#jack-wand">Jack Wand</a></td>
   </tr>
   <tr>
     <td class="highlightYellow"><a href="#seedie">Seedie</a></td>
@@ -3928,7 +3928,7 @@ Element Order
     <td>6</td>
     <td>-</td>
     <td rowspan="2">Swift 1<br/>Cyclops<br/>Floating</td>
-    <td rowspan="2">Double speed, 1 attack.<br/>Moves along the wall in rooms.<br/>Changes color and abilities every 8 turns.<br/><span class="redText">Red: Nullifies and reflects direct attacks.</span><br/><span class="blueText">Blue: 15 damage lightning to all creatures<br/>in the room after it acts, and levels up if it<br/>defeats someone. Lightning occurs even<br/>after it uses a direct attack.</span><br/><span class="greenText">Green: Heals your HP by 100 after it hits<br/>you with a direct attack.</span><br/><span class="purpleText">Purple: Counters with an ailment if hit:<br/>Berserk, Grounded, Inaccurate, Confused,<br/>or Shadow Bound.</span><br/>Green and Purple effects won't occur if<br/>defeated in one hit, and only 1 Foly can<br/>be present on a floor at a time.</td>
+    <td rowspan="2">Double speed, 1 attack.<br/>Moves along the wall in rooms.<br/>Changes color and abilities every 8 turns.<br/><span class="redText">Red: Nullifies and reflects direct attacks.</span><br/><span class="blueText">Blue: 15 damage lightning to all creatures<br/>in the room after it acts, and levels up if it<br/>defeats someone. Lightning occurs even<br/>after it uses a direct attack.</span><br/><span class="greenText">Green: Heals your HP by 100 after you hit<br/>it with a direct attack.</span><br/><span class="purpleText">Purple: Counters with an ailment if hit:<br/>Berserk, Grounded, Inaccurate, Confused,<br/>or Shadow Bound.</span><br/>Green and Purple effects won't occur if<br/>defeated in one hit, and only 1 Foly can<br/>be present on a floor at a time.</td>
     <td>Often slays new players.<br/>Beware of its direct attacks<br/>if it limit breaks from lightning.<br/>Paralyze it or throw a Hide Pot<br/>to make it a non-issue.</td>
   </tr>
   <tr>

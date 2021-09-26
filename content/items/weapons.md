@@ -6,7 +6,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
 
 # Weapon List
 
-<table class="itemListTable">
+<table class="itemListCentered">
   <tr>
     <th colspan="6">Item Book Order</th>
   </tr>
@@ -95,7 +95,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
   <tbody>
     <tr>
       <td class="highlightLightblue"><a href="#ordinary-stick">Ordinary Stick</a></td>
-      <td>Ogre's Club</td>
+      <td class="highlightYellow">Ogre's Club</td>
       <td>15</td>
       <td>99</td>
       <td>∞</td>
@@ -106,7 +106,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#tin-blade">Tin Blade</a></td>
-      <td>Bronze Dancer</td>
+      <td class="highlightYellow">Bronze Dancer</td>
       <td>18</td>
       <td>99</td>
       <td>∞</td>
@@ -117,7 +117,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#katana">Katana</a></td>
-      <td>Storied Katana</td>
+      <td class="highlightYellow">Storied Katana</td>
       <td>22</td>
       <td>99</td>
       <td>∞</td>
@@ -128,7 +128,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#beast-fang">Beast Fang</a></td>
-      <td>Beastmaster</td>
+      <td class="highlightYellow">Beastmaster</td>
       <td>20</td>
       <td>99</td>
       <td>∞</td>
@@ -139,7 +139,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#dotanuki">Dotanuki</a></td>
-      <td>Epic Dotanuki</td>
+      <td class="highlightYellow">Epic Dotanuki</td>
       <td>23</td>
       <td>99</td>
       <td>∞</td>
@@ -150,7 +150,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#bladite">Bladite</a></td>
-      <td>Starcutter</td>
+      <td class="highlightYellow">Starcutter</td>
       <td>25</td>
       <td>99</td>
       <td>∞</td>
@@ -161,7 +161,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#red-blade">Red Blade</a></td>
-      <td>Shugoseki Swd</td>
+      <td class="highlightYellow">Shugoseki Swd</td>
       <td>27</td>
       <td>99</td>
       <td>∞</td>
@@ -172,7 +172,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#kabura-katana">Kabura Katana</a></td>
-      <td>S-Class Kabura</td>
+      <td class="highlightYellow">S-Class Kabura</td>
       <td>30</td>
       <td>99</td>
       <td>∞</td>
@@ -183,7 +183,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#fuuma-sword">Fuuma Sword</a></td>
-      <td>Hellfire Fuuma</td>
+      <td class="highlightYellow">Hellfire Fuuma</td>
       <td>35</td>
       <td>99</td>
       <td>∞</td>
@@ -194,7 +194,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#dull-gold-edge">Dull Gold Edge</a></td>
-      <td>Pure Gold Blade</td>
+      <td class="highlightYellow">Pure Gold Blade</td>
       <td>14</td>
       <td>99</td>
       <td>∞</td>
@@ -205,7 +205,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#bright-blade">Bright Blade</a></td>
-      <td>Flash Sword</td>
+      <td class="highlightYellow">Flash Sword</td>
       <td>17</td>
       <td>99</td>
       <td>∞</td>
@@ -216,7 +216,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#rusty-pickaxe">Rusty Pickaxe</a>※</td>
-      <td>Luxury Pickaxe</td>
+      <td class="highlightYellow">Luxury Pickaxe</td>
       <td>14</td>
       <td>99</td>
       <td>∞</td>
@@ -227,7 +227,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#old-mallet">Old Mallet</a>※</td>
-      <td>Master's Mallet</td>
+      <td class="highlightYellow">Master's Mallet</td>
       <td>16</td>
       <td>99</td>
       <td>∞</td>
@@ -238,7 +238,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#sky-splitter">Sky Splitter</a></td>
-      <td>Aerial Assault</td>
+      <td class="highlightYellow">Aerial Assault</td>
       <td>12</td>
       <td>99</td>
       <td>∞</td>
@@ -249,7 +249,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#water-cutter">Water Cutter</a></td>
-      <td>Sea King Sword</td>
+      <td class="highlightYellow">Sea King Sword</td>
       <td>15</td>
       <td>99</td>
       <td>∞</td>
@@ -260,7 +260,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#scythe">Scythe</a></td>
-      <td>Vegicide</td>
+      <td class="highlightYellow">Vegicide</td>
       <td>13</td>
       <td>99</td>
       <td>∞</td>
@@ -271,7 +271,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#myopic-masher">Myopic Masher</a></td>
-      <td>Cyclopicide</td>
+      <td class="highlightYellow">Cyclopicide</td>
       <td>16</td>
       <td>99</td>
       <td>∞</td>
@@ -282,7 +282,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#magic-masher">Magic Masher</a></td>
-      <td>Die Magic Die</td>
+      <td class="highlightYellow">Die Magic Die</td>
       <td>15</td>
       <td>99</td>
       <td>∞</td>
@@ -293,7 +293,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#drain-dagger">Drain Dagger</a></td>
-      <td>Drain Master</td>
+      <td class="highlightYellow">Drain Master</td>
       <td>13</td>
       <td>99</td>
       <td>∞</td>
@@ -304,7 +304,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#copper-cleaver">Copper Cleaver</a></td>
-      <td>Lightbringer</td>
+      <td class="highlightYellow">Lightbringer</td>
       <td>15</td>
       <td>99</td>
       <td>∞</td>
@@ -315,7 +315,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#crescent-katana">Crescent Katana</a></td>
-      <td>Lunar Sword</td>
+      <td class="highlightYellow">Lunar Sword</td>
       <td>14</td>
       <td>99</td>
       <td>∞</td>
@@ -326,7 +326,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#lizard-lasher">Lizard Lasher</a></td>
-      <td>Dragons' Bane</td>
+      <td class="highlightYellow">Dragons' Bane</td>
       <td>17</td>
       <td>99</td>
       <td>∞</td>
@@ -337,7 +337,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#nap-rattle">Nap Rattle</a></td>
-      <td>Ultimate Rattle</td>
+      <td class="highlightYellow">Ultimate Rattle</td>
       <td>16</td>
       <td>99</td>
       <td>11</td>
@@ -348,7 +348,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#shockuto">Shockuto</a></td>
-      <td>The Paralyzer</td>
+      <td class="highlightYellow">The Paralyzer</td>
       <td>15</td>
       <td>99</td>
       <td>12</td>
@@ -359,7 +359,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#blurry-stick">Blurry Stick</a></td>
-      <td>Blind Stick</td>
+      <td class="highlightYellow">Blind Stick</td>
       <td>15</td>
       <td>99</td>
       <td>∞</td>
@@ -370,7 +370,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#sealing-keisaku">Sealing Keisaku</a></td>
-      <td>Divine Keisaku</td>
+      <td class="highlightYellow">Divine Keisaku</td>
       <td>15</td>
       <td>99</td>
       <td>∞</td>
@@ -381,7 +381,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#baffle-axe">Baffle Axe</a></td>
-      <td>Epic Baffle Axe</td>
+      <td class="highlightYellow">Epic Baffle Axe</td>
       <td>16</td>
       <td>99</td>
       <td>∞</td>
@@ -392,7 +392,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#hatchet">Hatchet</a></td>
-      <td>War God's Axe</td>
+      <td class="highlightYellow">War God's Axe</td>
       <td>12</td>
       <td>99</td>
       <td>11</td>
@@ -403,7 +403,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#shoddy-dirk">Shoddy Dirk</a>※</td>
-      <td>Worthy Sword</td>
+      <td class="highlightYellow">Worthy Sword</td>
       <td>37</td>
       <td>99</td>
       <td>∞</td>
@@ -414,7 +414,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#glass-dirk">Glass Dirk</a>※</td>
-      <td>Frangible Edge</td>
+      <td class="highlightYellow">Frangible Edge</td>
       <td>42</td>
       <td>99</td>
       <td>11</td>
@@ -425,7 +425,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#dirk-of-debts">Dirk of Debts</a>※</td>
-      <td>Gitan Gorger</td>
+      <td class="highlightYellow">Gitan Gorger</td>
       <td>17</td>
       <td>99</td>
       <td>∞</td>
@@ -436,7 +436,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#extreme-sword">Extreme Sword</a>※</td>
-      <td>All-in Sword</td>
+      <td class="highlightYellow">All-in Sword</td>
       <td>30</td>
       <td>99</td>
       <td>∞</td>
@@ -447,7 +447,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#violent-blade">Violent Blade</a>※</td>
-      <td>Muramasa</td>
+      <td class="highlightYellow">Muramasa</td>
       <td>20</td>
       <td>99</td>
       <td>∞</td>
@@ -458,7 +458,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#breeze-blade">Breeze Blade</a></td>
-      <td>Deathwind</td>
+      <td class="highlightYellow">Deathwind</td>
       <td>13</td>
       <td>99</td>
       <td>∞</td>
@@ -469,7 +469,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#burning-blade">Burning Blade</a></td>
-      <td>Hellfire Katana</td>
+      <td class="highlightYellow">Hellfire Katana</td>
       <td>16</td>
       <td>99</td>
       <td>∞</td>
@@ -480,7 +480,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#wonder-pick">Wonder Pick</a></td>
-      <td>Wonder Wreckr</td>
+      <td class="highlightYellow">Wonder Wreckr</td>
       <td>18</td>
       <td>99</td>
       <td>∞</td>
@@ -491,7 +491,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#sturdy-hammer">Sturdy Hammer</a></td>
-      <td>Epic Hammer</td>
+      <td class="highlightYellow">Epic Hammer</td>
       <td>17</td>
       <td>99</td>
       <td>∞</td>
@@ -502,7 +502,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#true-knife">True Knife</a></td>
-      <td>True Striker-X</td>
+      <td class="highlightYellow">True Striker-X</td>
       <td>8</td>
       <td>99</td>
       <td>∞</td>
@@ -513,7 +513,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#pathetic-blade">Pathetic Blade</a></td>
-      <td>Rising Sun</td>
+      <td class="highlightYellow">Rising Sun</td>
       <td>38</td>
       <td>99</td>
       <td>∞</td>
@@ -524,7 +524,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#fox-kodachi">Fox Kodachi</a></td>
-      <td>Koharu Sword</td>
+      <td class="highlightYellow">Koharu Sword</td>
       <td>30</td>
       <td>99</td>
       <td>5</td>
@@ -535,7 +535,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#kaburagi">Kaburagi</a></td>
-      <td>Kaburasutegi</td>
+      <td class="highlightYellow">Kaburasutegi</td>
       <td>40</td>
       <td>99</td>
       <td>∞</td>
@@ -7435,7 +7435,7 @@ Locations:
   </tr>
 </table>
 
-Obtained by wishing for an unstoppable weapon in <a href="/dungeons/inori-cave">Inori Cave</a>.<br/>Strongest weapon in the game, and its resonance effect lets you deal slightly meaningful<br/>damage to night monsters, which can be boosted further by equipping a <a href="/items/bracelets#night-ward">Night Ward</a>.
+Obtained by wishing for an unstoppable weapon in <a href="/dungeons/inori-cave">Inori Cave</a>.<br/>Strongest regular weapon, and its resonance effect lets you deal slightly meaningful<br/>damage to night monsters, which can be boosted further by equipping a <a href="/items/bracelets#night-ward">Night Ward</a>.
 
 Shugoseki Swd vs. Kaburasutegi as a main weapon for dungeons that allow carry-in items<br/>comes down to whether or not you want to equip 2 bracelets.
 

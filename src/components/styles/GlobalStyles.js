@@ -720,6 +720,14 @@ export const baseStyles = css`
   .itemListTable td {
     padding: 2px;
   }
+  .itemListCentered th {
+    text-align: center;
+    padding: 2px;
+  }
+  .itemListCentered td {
+    text-align: center;
+    padding: 2px;
+  }
   .summaryTable th {
     text-align: center;
     padding: 1.5px;
