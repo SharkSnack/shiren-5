@@ -4,295 +4,378 @@ metaTitle: "Price Chart - Shiren the Wanderer 2: Oni Invasion! Wiki"
 metaDescription: "Item price chart for Shiren the Wanderer 2: Oni Invasion!"
 ---
 
-### Scrolls - Bracelets - Grass
+# Categories
 
-<table class="priceTable">
+<ul class="quickLinksUL">
+  <li><a href="#scrolls-/-bracelets-/-grass-/-talismans">Scrolls / Grass / Bracelets / Talismans</a></li>
+  <li><a href="#staves">Staves</a></li>
+  <li><a href="#pots">Pots</a></li>
+  <li><a href="#lv1-weapons">Lv1 Weapons</a></li>
+  <li><a href="#lv1-shields">Lv1 Shields</a></li>
+</ul>
+
+# Price Calculation
+
+#### Buying / Selling Price
+
+- Selling price is 35% of the buying price. (Decimals are truncated)
+- Multiply the selling price by 3 to get the approximate buying price inside a shop.
+
+#### Blessed, cursed, sealed
+
+- Blessed = regular price x1.1
+- Cursed or sealed = regular price x0.8
+
+#### Upgrade value, staff uses, pot capacity
+
+- Add 5% of the regular price per +1 upgrade value, use, or capacity.
+- Subtract 5% of the regular price per -1 upgrade value.
+
+#### Price formula
+
+Floor[ <span class="highlightGreen">[1, 1.1(blessed), or 0.8(cursed/sealed)]</span> x <span class="highlightPink">Floor[{</span><span class="highlightBlue">base price</span><span class="highlightPink"> x</span><span class="highlightYellow"> (1 + upgrade value/uses/capacity x 0.05) </span><span class="highlightPink">}]</span> ]<br/>
+Example: Bladite-1 (Cursed): 0.8 x {3000 x (1 - 0.05)} = 3000 x 0.8 x 0.95 = 3000 x 0.76 = 2280<br/>
+※ Floor means truncate decimals. (Example: 5.54 → 5)
+
+## Scrolls / Bracelets / Grass / Talismans
+
+<table class="priceTableMedium">
   <tr>
-    <th colspan="4">Scroll</th>
-    <th colspan="4">Bracelet</th>
-    <th colspan="4">Grass</th>
+    <th colspan="3">Scroll</th>
+    <th colspan="3">Grass</th>
+    <th colspan="3">Bracelet</th>
+    <th colspan="3">Talisman</th>
   </tr>
   <tr>
     <th>Name</th>
-    <th>Seal</th>
     <th>Buy</th>
     <th>Sell</th>
     <th>Name</th>
-    <th>Seal</th>
     <th>Buy</th>
     <th>Sell</th>
     <th>Name</th>
-    <th>Seal</th>
+    <th>Buy</th>
+    <th>Sell</th>
+    <th>Name</th>
     <th>Buy</th>
     <th>Sell</th>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/scrolls#trap-trigger-scroll">Trap Trigger Scroll</a></td>
-    <td>-</td>
+    <td class="highlightGray">Wet Scroll</td>
+    <td rowspan="2">10</td>
+    <td rowspan="2">3</td>
+    <td class="highlightGray">Weeds</td>
+    <td>10</td>
+    <td>3</td>
+    <td class="highlightGray">Strength Bracelet</td>
+    <td rowspan="4">2000</td>
+    <td rowspan="4">700</td>
+    <td class="highlightGray">Shadow Bind Tal.</td>
+    <td rowspan="13">600</td>
+    <td rowspan="13">210</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Piece of Paper</td>
+    <td class="highlightGray">Herb</td>
+    <td rowspan="2">50</td>
+    <td rowspan="2">17</td>
+    <td class="highlightGray">Can. Arm Bracelet</td>
+    <td class="highlightGray">Cnf. Talisman</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Escape Scroll</td>
+    <td rowspan="6">100</td>
+    <td rowspan="6">35</td>
+    <td class="highlightGray">Fine Grass</td>
+    <td class="highlightGray">Inacc. Bracelet</td>
+    <td class="highlightGray">Seal Talisman</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Navigation Scroll</td>
+    <td class="highlightGray">Otogiriso</td>
+    <td rowspan="4">100</td>
+    <td rowspan="4">35</td>
+    <td class="highlightGray">Bunch Bracelet</td>
+    <td class="highlightGray">Fear Talisman</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Oil Scroll</td>
+    <td class="highlightGray">Antidote Grass</td>
+    <td class="highlightGray">Cleansing Bracelet</td>
+    <td rowspan="10">3000</td>
+    <td rowspan="10">1050</td>
+    <td class="highlightGray">Berserker Tal.</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Light Scroll</td>
+    <td class="highlightGray">Poison Grass</td>
+    <td class="highlightGray">Anti-Cnf. Bracelet</td>
+    <td class="highlightGray">Inacc. Talisman</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Recommend. Letter</td>
+    <td class="highlightGray">Warp Grass</td>
+    <td class="highlightGray">Alert Bracelet</td>
+    <td class="highlightGray">Sleep Talisman</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Commend. Letter</td>
+    <td class="highlightGray">Heal Grass</td>
     <td>200</td>
-    <td>100</td>
-    <td><a href="/shiren-2/items/bracelets#level-lock-bracelet">Level Lock Bracelet</a></td>
-    <td>-</td>
-    <td>3000</td>
-    <td>1500</td>
-    <td><a href="/shiren-2/items/grass#weeds">Weeds</a></td>
-    <td>-</td>
-    <td>50</td>
-    <td>25</td>
+    <td>70</td>
+    <td class="highlightGray">Anti-Crs. Bracelet</td>
+    <td class="highlightGray">Slumber Talisman</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/scrolls#identify-scroll">Identify Scroll</a></td>
-    <td>識</td>
-    <td rowspan="5">500</td>
-    <td rowspan="5">250</td>
-    <td><a href="/shiren-2/items/bracelets#pierce-bracelet">Pierce Bracelet</a></td>
-    <td>-</td>
-    <td rowspan="3">4000</td>
-    <td rowspan="3">2000</td>
-    <td><a href="/shiren-2/items/grass#herb">Herb</a></td>
-    <td>薬</td>
-    <td>100</td>
-    <td>50</td>
+    <td class="highlightGray">Identify Scroll</td>
+    <td>200</td>
+    <td>70</td>
+    <td class="highlightGray">Power Up Grass</td>
+    <td rowspan="9">300</td>
+    <td rowspan="9">105</td>
+    <td class="highlightGray">Staunch Bracelet</td>
+    <td class="highlightGray">Slow Talisman</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/scrolls#lightning-scroll">Lightning Scroll</a></td>
-    <td>-</td>
-    <td><a href="/shiren-2/items/bracelets#dragon-tile-bracelet">Dragon Tile Bracelet</a></td>
-    <td>中</td>
-    <td><a href="/shiren-2/items/grass#twisty-grass">Twisty Grass</a></td>
-    <td>-</td>
+    <td class="highlightGray">Gathering Scroll</td>
     <td rowspan="3">300</td>
-    <td rowspan="3">150</td>
+    <td rowspan="3">105</td>
+    <td class="highlightGray">Upgrade Seed</td>
+    <td class="highlightGray">Critical Bracelet</td>
+    <td class="highlightGray">Swift Talisman</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/scrolls#blaze-scroll">Blaze Scroll</a></td>
-    <td>-</td>
-    <td><a href="/shiren-2/items/bracelets#no-control-bracelet">No Control Bracelet</a></td>
-    <td>-</td>
-    <td><a href="/shiren-2/items/grass#swift-grass">Swift Grass</a></td>
-    <td>-</td>
+    <td class="highlightGray">Collection Scroll</td>
+    <td class="highlightGray">Perception Grass</td>
+    <td class="highlightGray">Mojo Bracelet</td>
+    <td class="highlightGray">Enraged Talisman</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/scrolls#retreat-scroll">Retreat Scroll</a></td>
-    <td>帰</td>
-    <td><a href="/shiren-2/items/bracelets#salty-bracelet">Salty Bracelet</a></td>
-    <td>-</td>
-    <td rowspan="6">5000</td>
-    <td rowspan="5">2500</td>
-    <td><a href="/shiren-2/items/grass#warp-grass">Warp Grass</a></td>
-    <td>-</td>
+    <td class="highlightGray">Squid Sushi Scroll</td>
+    <td class="highlightGray">Swift Grass</td>
+    <td class="highlightGray">Monster Summoner</td>
+    <td class="highlightGray">Furious Talisman</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/scrolls#squid-sushi-scroll">Squid Sushi Scroll</a></td>
-    <td>-</td>
-    <td><a href="/shiren-2/items/bracelets#heal-bracelet">Heal Bracelet</a></td>
-    <td>-</td>
-    <td><a href="/shiren-2/items/grass#life-grass">Life Grass</a></td>
-    <td>命</td>
-    <td rowspan="5">400</td>
-    <td rowspan="5">200</td>
+    <td class="highlightGray">Exorcism Scroll</td>
+    <td rowspan="15">500</td>
+    <td rowspan="15">175</td>
+    <td class="highlightGray">Stomach Expander</td>
+    <td class="highlightGray">Dozer Bracelet</td>
+    <td class="highlightGray">Glorious Talisman</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/scrolls#purify-scroll">Purify Scroll</a></td>
-    <td>祓</td>
-    <td rowspan="6">1000</td>
+    <td class="highlightGray">Fate Scroll</td>
+    <td class="highlightGray">Stomach Shrinker</td>
+    <td class="highlightGray">Trap Bracelet</td>
+    <td rowspan="40"></td>
+    <td rowspan="40"></td>
+    <td rowspan="40"></td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Earth Scroll</td>
+    <td class="highlightGray">Confusion Grass</td>
+    <td class="highlightGray">Monster Detector</td>
+    <td rowspan="11">5000</td>
+    <td rowspan="11">1750</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Plating Scroll</td>
+    <td class="highlightGray">Blinding Grass</td>
+    <td class="highlightGray">Monsterphobic</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Tag Scroll</td>
+    <td class="highlightGray">Nymph Grass</td>
+    <td class="highlightGray">Item Detector</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Sale Scroll</td>
+    <td class="highlightGray">Life Grass</td>
     <td rowspan="6">500</td>
-    <td><a href="/shiren-2/items/bracelets#bend-bracelet">Bend Bracelet</a></td>
-    <td>-</td>
-    <td><a href="/shiren-2/items/grass#expand-seed">Expand Seed</a></td>
-    <td>-</td>
+    <td rowspan="6">175</td>
+    <td class="highlightGray">Itemphobic</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/scrolls#freeze-scroll">Freeze Scroll</a></td>
-    <td>-</td>
-    <td><a href="/shiren-2/items/bracelets#song-bracelet">Song Bracelet</a></td>
-    <td>-</td>
-    <td><a href="/shiren-2/items/grass#shrink-seed">Shrink Seed</a></td>
-    <td>-</td>
+    <td class="highlightGray">Onigiri Scroll</td>
+    <td class="highlightGray">Strength Grass</td>
+    <td class="highlightGray">Waterwalk Bracelet</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/scrolls#shadow-scroll">Shadow Scroll</a></td>
-    <td>-</td>
-    <td><a href="/shiren-2/items/bracelets#breadcrumb-bracelet">Breadcrumb Bracelet</a></td>
-    <td>-</td>
-    <td><a href="/shiren-2/items/grass#antidote-grass">Antidote Grass</a></td>
-    <td>消</td>
+    <td class="highlightGray">Pot God Scroll</td>
+    <td class="highlightGray">Dragon Grass</td>
+    <td class="highlightGray">Wall Clip Bracelet</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/scrolls#trap-remove-scroll">Trap Remove Scroll</a></td>
-    <td>-</td>
-    <td><a href="/shiren-2/items/bracelets#strength-bracelet">Strength Bracelet</a></td>
-    <td>-</td>
-    <td>3400</td>
-    <td><a href="/shiren-2/items/grass#disaster-seed">Disaster Seed</a></td>
-    <td>超</td>
+    <td class="highlightGray">Extraction Scroll</td>
+    <td class="highlightGray">Sleepy Grass</td>
+    <td class="highlightGray">Heal Bracelet</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/scrolls#fear-scroll">Fear Scroll</a></td>
-    <td>-</td>
-    <td><a href="/shiren-2/items/bracelets#bullseye-bracelet">Bullseye Bracelet</a></td>
-    <td>-</td>
-    <td rowspan="2">7500</td>
-    <td>3000</td>
-    <td><a href="/shiren-2/items/grass#talk-seed">Talk Seed</a></td>
-    <td>-</td>
-    <td rowspan="4">500</td>
-    <td>100</td>
+    <td class="highlightGray">Blessing Scroll</td>
+    <td class="highlightGray">Rage Grass</td>
+    <td class="highlightGray">Alleyway Bracelet</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/scrolls#escape-scroll">Escape Scroll</a></td>
-    <td>-</td>
-    <td><a href="/shiren-2/items/bracelets#critical-bracelet">Critical Bracelet</a></td>
-    <td>-</td>
-    <td>1500</td>
-    <td><a href="/shiren-2/items/grass#otogiriso">Otogiriso</a></td>
-    <td>弟</td>
-    <td rowspan="3">250</td>
+    <td class="highlightGray">Curse Scroll</td>
+    <td class="highlightGray">Dracon Grass</td>
+    <td class="highlightGray">Blink Bracelet</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/scrolls#heaven-scroll">Heaven Scroll</a></td>
-    <td>-</td>
-    <td rowspan="3">1200</td>
-    <td rowspan="3">600</td>
-    <td><a href="/shiren-2/items/bracelets#phantasm-bracelet">Phantasm Bracelet</a></td>
-    <td>-</td>
-    <td rowspan="2">10000</td>
+    <td class="highlightGray">Coupon Scroll</td>
+    <td class="highlightGray">Revival Grass</td>
+    <td rowspan="2">1000</td>
+    <td rowspan="2">350</td>
+    <td class="highlightGray">Explosion Bracelet</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Mate Scroll</td>
+    <td class="highlightGray">Gut Grass</td>
+    <td class="highlightGray">Nonary Bracelet</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Darth Scroll</td>
+    <td class="highlightGray">Undo Grass</td>
+    <td rowspan="2">1500</td>
+    <td rowspan="2">525</td>
+    <td class="highlightGray">Growth Bracelet</td>
+    <td rowspan="4">10000</td>
+    <td rowspan="4">3500</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Pot Dog Scroll</td>
+    <td class="highlightGray">Repeat Grass</td>
+    <td class="highlightGray">Anti-Parry Brce.</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Fear Scroll</td>
+    <td rowspan="7">800</td>
+    <td rowspan="7">280</td>
+    <td class="highlightGray">Invincible Grass</td>
+    <td rowspan="5">2000</td>
+    <td rowspan="5">700</td>
+    <td class="highlightGray">Time Stop Bracelet</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Trap Deletion Scrl</td>
+    <td class="highlightGray">Cheery Grass</td>
+    <td class="highlightGray">Floating Bracelet</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Desert Scroll</td>
+    <td class="highlightGray">Unlucky Seed</td>
+    <td class="highlightGray">Night Ward</td>
+    <td rowspan="4">30000</td>
+    <td rowspan="4">10500</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Trap Scroll</td>
+    <td class="highlightGray">Imabikiso</td>
+    <td class="highlightGray">Scout Bracelet</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Muzzled Scroll</td>
+    <td class="highlightGray">Amnesia Grass</td>
+    <td class="highlightGray">Trapper Bracelet</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Grounded Scroll</td>
+    <td class="highlightGray">Angel Seed</td>
     <td rowspan="2">5000</td>
-    <td><a href="/shiren-2/items/grass#sight-grass">Sight Grass</a></td>
-    <td>-</td>
+    <td rowspan="2">1750</td>
+    <td class="highlightGray">Identify Bracelet</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/scrolls#earth-scroll">Earth Scroll</a></td>
-    <td>-</td>
-    <td><a href="/shiren-2/items/bracelets#scout-bracelet">Scout Bracelet</a></td>
-    <td>-</td>
-    <td><a href="/shiren-2/items/grass#dragon-grass">Dragon Grass</a></td>
-    <td>火</td>
+    <td class="highlightGray">Attraction Scroll</td>
+    <td class="highlightGray">SuperUnlucky Seed</td>
+    <td class="highlightGray">VIP Bracelet</td>
+    <td>50000</td>
+    <td>17500</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/scrolls#slumber-scroll">Slumber Scroll</a></td>
-    <td>眠</td>
-    <td><a href="/shiren-2/items/bracelets#paper-thin-bracelet">Paper Thin Bracelet</a></td>
-    <td>-</td>
-    <td rowspan="4">15000</td>
-    <td rowspan="4">7500</td>
-    <td><a href="/shiren-2/items/grass#flame-grass">Flame Grass</a></td>
-    <td>火</td>
-    <td>700</td>
-    <td>350</td>
+    <td class="highlightGray">Confusion Scroll</td>
+    <td rowspan="13">1000</td>
+    <td rowspan="13">350</td>
+    <td rowspan="19"></td>
+    <td rowspan="19"></td>
+    <td rowspan="19"></td>
+    <td rowspan="19"></td>
+    <td rowspan="19"></td>
+    <td rowspan="19"></td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/scrolls#evaporate-scroll">Evaporate Scroll</a></td>
-    <td>-</td>
-    <td rowspan="2">1500</td>
-    <td rowspan="2">750</td>
-    <td><a href="/shiren-2/items/bracelets#parry-bracelet">Parry Bracelet</a></td>
-    <td>-</td>
-    <td><a href="/shiren-2/items/grass#boost-grass">Boost Grass</a></td>
-    <td>-</td>
-    <td>1000</td>
-    <td>500</td>
+    <td class="highlightGray">Slumber Scroll</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/scrolls#explosion-scroll">Explosion Scroll</a></td>
-    <td>-</td>
-    <td><a href="/shiren-2/items/bracelets#no-hunger-bracelet">No Hunger Bracelet</a></td>
-    <td>-</td>
-    <td><a href="/shiren-2/items/grass#strength-grass">Strength Grass</a></td>
-    <td>ち</td>
-    <td rowspan="2">1500</td>
-    <td rowspan="2">700</td>
+    <td class="highlightGray">Vacuum Slash Scrl</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/scrolls#great-hall-scroll">Great Hall Scroll</a></td>
-    <td>-</td>
-    <td rowspan="3">2000</td>
-    <td rowspan="2">1000</td>
-    <td><a href="/shiren-2/items/bracelets#hunger-bracelet">Hunger Bracelet</a></td>
-    <td>-</td>
-    <td><a href="/shiren-2/items/grass#poison-grass">Poison Grass</a></td>
-    <td>-</td>
+    <td class="highlightGray">Dispel Aura Scroll</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/scrolls#sturdy-pot-scroll">Sturdy Pot Scroll</a></td>
-    <td>-</td>
-    <td><a href="/shiren-2/items/bracelets#trapper-bracelet">Trapper Bracelet</a></td>
-    <td>-</td>
-    <td>25000</td>
-    <td>1000</td>
-    <td><a href="/shiren-2/items/grass#happy-grass">Happy Grass</a></td>
-    <td>幸</td>
-    <td rowspan="2">2000</td>
-    <td rowspan="2">1000</td>
+    <td class="highlightGray">Night-Day Scroll</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/scrolls#pot-expand-scroll">Pot Expand Scroll</a></td>
-    <td>-</td>
-    <td>1100</td>
-    <td rowspan="8" colspan="4"></td>
-    <td><a href="/shiren-2/items/grass#unlucky-seed">Unlucky Seed</a></td>
-    <td>不</td>
+    <td class="highlightGray">Swift Foe Scroll</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/scrolls#suction-scroll">Suction Scroll</a></td>
-    <td>-</td>
-    <td>3000</td>
-    <td>1500</td>
-    <td><a href="/shiren-2/items/grass#revival-grass">Revival Grass</a></td>
-    <td>-</td>
-    <td>2500</td>
-    <td>1250</td>
+    <td class="highlightGray">Mnster House Scrl</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/scrolls#plating-scroll">Plating Scroll</a></td>
-    <td>金</td>
-    <td rowspan="2">4000</td>
-    <td rowspan="2">2000</td>
-    <td><a href="/shiren-2/items/grass#angel-seed">Angel Seed</a></td>
-    <td>天</td>
-    <td>3000</td>
-    <td>1500</td>
+    <td class="highlightGray">Immunity Scroll</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/scrolls#restock-scroll">Restock Scroll</a></td>
-    <td>-</td>
-    <td rowspan="5" colspan="4"></td>
+    <td class="highlightGray">Replenish Scroll</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/scrolls#blank-scroll">Blank Scroll</a></td>
-    <td>-</td>
+    <td class="highlightGray">Fixer Scroll</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Gambler's Scroll</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Arbor Scroll</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Nixer Scroll</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Lost Scroll</td>
+    <td rowspan="4">3000</td>
+    <td rowspan="4">1050</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Sanctuary Scroll</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Expulsion Scroll</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Bankruptcy Scroll</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Blank Scroll</td>
     <td>5000</td>
-    <td>2500</td>
+    <td>1750</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/scrolls#sanctuary-scroll">Sanctuary Scroll</a></td>
-    <td>-</td>
-    <td rowspan="2">7500</td>
-    <td rowspan="2">2500</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/scrolls#sanctaruy-scroll">Sanctaruy Scroll</a></td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/scrolls#extinction-scroll">Extinction Scroll</a></td>
-    <td>-</td>
-    <td>25000</td>
-    <td>400</td>
+    <td class="highlightGray">Extinction Scroll</td>
+    <td>10000</td>
+    <td>3500</td>
   </tr>
 </table>
 
-### Staves
+## Staves
 
-<table class="priceTableSmall">
+<table class="priceTableMedium">
   <tr>
-    <th></th>
+    <th rowspan="2">Name</th>
+    <th rowspan="2">Use</th>
     <th colspan="9">Buy</th>
-    <td rowspan="21" class="tableDivider"></td>
+    <th></th>
     <th colspan="9">Sell</th>
   </tr>
   <tr>
-    <th>Name</th>
     <th>+1</th>
     <th>0</th>
     <th>1</th>
@@ -302,302 +385,7 @@ metaDescription: "Item price chart for Shiren the Wanderer 2: Oni Invasion!"
     <th>5</th>
     <th>6</th>
     <th>7</th>
-    <th>+1</th>
-    <th>0</th>
-    <th>1</th>
-    <th>2</th>
-    <th>3</th>
-    <th>4</th>
-    <th>5</th>
-    <th>6</th>
-    <th>7</th>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/staves#knockback-staff">Knockback Staff</a></td>
-    <td rowspan="2">25</td>
-    <td rowspan="2">500</td>
-    <td rowspan="2">525</td>
-    <td rowspan="2">550</td>
-    <td rowspan="2">575</td>
-    <td rowspan="2">600</td>
-    <td rowspan="2">625</td>
-    <td rowspan="2">650</td>
-    <td rowspan="2">675</td>
-    <td rowspan="2">12.5</td>
-    <td rowspan="2">250</td>
-    <td rowspan="2">262</td>
-    <td rowspan="2">275</td>
-    <td rowspan="2">287</td>
-    <td rowspan="2">300</td>
-    <td rowspan="2">312</td>
-    <td rowspan="2">325</td>
-    <td rowspan="2">337</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/staves#possession-staff">Possession Staff</a></td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/staves#swap-staff">Swap Staff</a></td>
-    <td rowspan="2">40</td>
-    <td rowspan="2">800</td>
-    <td rowspan="2">840</td>
-    <td rowspan="2">880</td>
-    <td rowspan="2">920</td>
-    <td rowspan="2">960</td>
-    <td rowspan="2">1000</td>
-    <td rowspan="2">1040</td>
-    <td rowspan="2">1080</td>
-    <td rowspan="2">20</td>
-    <td rowspan="2">400</td>
-    <td rowspan="2">420</td>
-    <td rowspan="2">440</td>
-    <td rowspan="2">460</td>
-    <td rowspan="2">480</td>
-    <td rowspan="2">500</td>
-    <td rowspan="2">520</td>
-    <td rowspan="2">540</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/staves#pull-staff">Pull Staff</a></td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/staves#heal-staff">Heal Staff</a></td>
-    <td>80</td>
-    <td>800</td>
-    <td>880</td>
-    <td>960</td>
-    <td>1040</td>
-    <td>1120</td>
-    <td>1200</td>
-    <td>1280</td>
-    <td>1360</td>
-    <td>40</td>
-    <td>400</td>
-    <td>440</td>
-    <td>480</td>
-    <td>520</td>
-    <td>560</td>
-    <td>600</td>
-    <td>640</td>
-    <td>680</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/staves#balance-staff">Balance Staff</a></td>
-    <td rowspan="2">50</td>
-    <td rowspan="2">1000</td>
-    <td rowspan="2">1050</td>
-    <td rowspan="2">1100</td>
-    <td rowspan="2">1150</td>
-    <td rowspan="2">1200</td>
-    <td rowspan="2">1250</td>
-    <td rowspan="2">1300</td>
-    <td rowspan="2">1350</td>
-    <td rowspan="2">25</td>
-    <td rowspan="2">500</td>
-    <td rowspan="2">525</td>
-    <td rowspan="2">550</td>
-    <td rowspan="2">575</td>
-    <td rowspan="2">600</td>
-    <td rowspan="2">625</td>
-    <td rowspan="2">650</td>
-    <td rowspan="2">675</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/staves#knowledge-staff">Knowledge Staff</a></td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/staves#quarter-staff">Quarter Staff</a></td>
-    <td rowspan="2">60</td>
-    <td rowspan="2">1200</td>
-    <td rowspan="2">1260</td>
-    <td rowspan="2">1320</td>
-    <td rowspan="2">1380</td>
-    <td rowspan="2">1440</td>
-    <td rowspan="2">1500</td>
-    <td rowspan="2">1560</td>
-    <td rowspan="2">1620</td>
-    <td>12.5</td>
-    <td>250</td>
-    <td>262</td>
-    <td>275</td>
-    <td>287</td>
-    <td>300</td>
-    <td>312</td>
-    <td>325</td>
-    <td>337</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/staves#slow-staff">Slow Staff</a></td>
-    <td>20</td>
-    <td>400</td>
-    <td>420</td>
-    <td>440</td>
-    <td>460</td>
-    <td>480</td>
-    <td>500</td>
-    <td>520</td>
-    <td>540</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/staves#seal-staff">Seal Staff</a></td>
-    <td rowspan="3">100</td>
-    <td rowspan="3">2000</td>
-    <td rowspan="3">2100</td>
-    <td rowspan="3">2200</td>
-    <td rowspan="3">2300</td>
-    <td rowspan="3">2400</td>
-    <td rowspan="3">2500</td>
-    <td rowspan="3">2600</td>
-    <td rowspan="3">2700</td>
-    <td>25</td>
-    <td>500</td>
-    <td>525</td>
-    <td>550</td>
-    <td>575</td>
-    <td>600</td>
-    <td>625</td>
-    <td>650</td>
-    <td>675</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/staves#tunnel-staff">Tunnel Staff</a></td>
-    <td rowspan="2">50</td>
-    <td rowspan="2">1000</td>
-    <td rowspan="2">1050</td>
-    <td rowspan="2">1100</td>
-    <td rowspan="2">1150</td>
-    <td rowspan="2">1200</td>
-    <td rowspan="2">1250</td>
-    <td rowspan="2">1300</td>
-    <td rowspan="2">1350</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/staves#invisible-staff">Invisible Staff</a></td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/staves#swift-staff">Swift Staff</a></td>
-    <td>200</td>
-    <td>2000</td>
-    <td>2200</td>
-    <td>2400</td>
-    <td>2600</td>
-    <td>2800</td>
-    <td>3000</td>
-    <td>3200</td>
-    <td>3400</td>
-    <td>100</td>
-    <td>1000</td>
-    <td>1100</td>
-    <td>1200</td>
-    <td>1300</td>
-    <td>1400</td>
-    <td>1500</td>
-    <td>1600</td>
-    <td>1700</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/staves#miss-staff">Miss Staff</a></td>
-    <td rowspan="2">125</td>
-    <td rowspan="2">2500</td>
-    <td rowspan="2">2625</td>
-    <td rowspan="2">2750</td>
-    <td rowspan="2">2875</td>
-    <td rowspan="2">3000</td>
-    <td rowspan="2">3125</td>
-    <td rowspan="2">3250</td>
-    <td rowspan="2">3375</td>
-    <td rowspan="2">60</td>
-    <td rowspan="2">1200</td>
-    <td rowspan="2">1260</td>
-    <td rowspan="2">1320</td>
-    <td rowspan="2">1380</td>
-    <td rowspan="2">1440</td>
-    <td rowspan="2">1500</td>
-    <td rowspan="2">1560</td>
-    <td rowspan="2">1620</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/staves#fire-staff">Fire Staff</a></td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/staves#unlucky-staff">Unlucky Staff</a></td>
-    <td>250</td>
-    <td>2500</td>
-    <td>2750</td>
-    <td>3000</td>
-    <td>3250</td>
-    <td>3500</td>
-    <td>3750</td>
-    <td>4000</td>
-    <td>4250</td>
-    <td>100</td>
-    <td>1000</td>
-    <td>1100</td>
-    <td>1200</td>
-    <td>1300</td>
-    <td>1400</td>
-    <td>1500</td>
-    <td>1600</td>
-    <td>1700</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/staves#happy-staff">Happy Staff</a></td>
-    <td rowspan="3">150</td>
-    <td rowspan="3">3000</td>
-    <td rowspan="3">3150</td>
-    <td rowspan="3">3300</td>
-    <td rowspan="3">3450</td>
-    <td rowspan="3">3600</td>
-    <td rowspan="3">3750</td>
-    <td rowspan="3">3900</td>
-    <td rowspan="3">4050</td>
-    <td>50</td>
-    <td>1000</td>
-    <td>1050</td>
-    <td>1100</td>
-    <td>1150</td>
-    <td>1200</td>
-    <td>1250</td>
-    <td>1300</td>
-    <td>1350</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/staves#grass-tosser">Grass Tosser</a></td>
-    <td>60</td>
-    <td>1200</td>
-    <td>1260</td>
-    <td>1320</td>
-    <td>1380</td>
-    <td>1440</td>
-    <td>1500</td>
-    <td>1560</td>
-    <td>1620</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/staves#grass-gainer">Grass Gainer</a></td>
-    <td>70</td>
-    <td>1400</td>
-    <td>1470</td>
-    <td>1540</td>
-    <td>1610</td>
-    <td>1680</td>
-    <td>1750</td>
-    <td>1820</td>
-    <td>1890</td>
-  </tr>
-</table>
-
-### Pots
-
-<table class="priceTableSmall priceTablePots">
-  <tr>
     <th></th>
-    <th colspan="8">Buy</th>
-    <td rowspan="15" style="background-color: #ececec;"></td>
-    <th colspan="8">Sell</th>
-  </tr>
-  <tr>
-    <th>Name</th>
     <th>+1</th>
     <th>0</th>
     <th>1</th>
@@ -606,755 +394,773 @@ metaDescription: "Item price chart for Shiren the Wanderer 2: Oni Invasion!"
     <th>4</th>
     <th>5</th>
     <th>6</th>
-    <th>+1</th>
-    <th>0</th>
-    <th>1</th>
-    <th>2</th>
-    <th>3</th>
-    <th>4</th>
-    <th>5</th>
-    <th>6</th>
+    <th>7</th>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/pots#identify-pot">Identify Pot</a></td>
-    <td rowspan="2">50</td>
-    <td rowspan="2">1000</td>
-    <td rowspan="2">1050</td>
-    <td rowspan="2">1100</td>
-    <td rowspan="2">1150</td>
+    <td class="highlightGray">Swap Staff</td>
+    <td rowspan="4">5~7</td>
+    <td rowspan="6">30</td>
+    <td rowspan="6">600</td>
+    <td rowspan="6">630</td>
+    <td rowspan="6">660</td>
+    <td rowspan="6">690</td>
+    <td rowspan="6">720</td>
+    <td rowspan="6">750</td>
+    <td rowspan="6">780</td>
+    <td rowspan="6">810</td>
+    <td class="tableDivider" rowspan="6"></td>
+    <td rowspan="6">10.5</td>
+    <td rowspan="6">210</td>
+    <td rowspan="6">220</td>
+    <td rowspan="6">231</td>
+    <td rowspan="6">241</td>
+    <td rowspan="6">252</td>
+    <td rowspan="6">262</td>
+    <td rowspan="6">273</td>
+    <td rowspan="6">283</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Knockback Staff</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Pinning Staff</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Mage Staff</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Slow Staff</td>
+    <td rowspan="2">4~6</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Swift Staff</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Transient Staff</td>
+    <td rowspan="4">4~6</td>
+    <td rowspan="8">45</td>
+    <td rowspan="8">900</td>
+    <td rowspan="8">945</td>
+    <td rowspan="8">990</td>
+    <td rowspan="8">1035</td>
+    <td rowspan="8">1080</td>
+    <td rowspan="8">1125</td>
+    <td rowspan="8">1170</td>
+    <td rowspan="8">1215</td>
+    <td class="tableDivider" rowspan="8"></td>
+    <td rowspan="8">15.75</td>
+    <td rowspan="8">315</td>
+    <td rowspan="8">330</td>
+    <td rowspan="8">346</td>
+    <td rowspan="8">362</td>
+    <td rowspan="8">378</td>
+    <td rowspan="8">393</td>
+    <td rowspan="8">409</td>
+    <td rowspan="8">425</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Paralysis Staff</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Drama Staff</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Nagging Staff</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Balance Staff</td>
+    <td rowspan="4">5~7</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Empathy Staff</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Ordinary Staff</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Trap Del. Staff</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Electric Staff</td>
+    <td rowspan="2">4~6</td>
+    <td rowspan="2">60</td>
     <td rowspan="2">1200</td>
-    <td rowspan="2">1250</td>
-    <td rowspan="2">1300</td>
-    <td rowspan="2">25</td>
-    <td rowspan="2">500</td>
-    <td rowspan="2">525</td>
-    <td rowspan="2">550</td>
-    <td rowspan="2">575</td>
-    <td rowspan="2">600</td>
-    <td rowspan="2">625</td>
-    <td rowspan="2">650</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/pots#degrade-pot">Degrade Pot</a></td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/pots#storage-pot">Storage Pot</a></td>
-    <td>60</td>
-    <td>1200</td>
-    <td>1260</td>
-    <td>1320</td>
-    <td>1380</td>
-    <td>1440</td>
-    <td>1500</td>
-    <td>1560</td>
-    <td>30</td>
-    <td>600</td>
-    <td>630</td>
-    <td>660</td>
-    <td>690</td>
-    <td>720</td>
-    <td>750</td>
-    <td>780</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/pots#presto-pot">Presto Pot</a></td>
-    <td>100</td>
-    <td>2000</td>
-    <td>2100</td>
-    <td>2200</td>
-    <td>2300</td>
-    <td>2400</td>
-    <td>2500</td>
-    <td>2600</td>
-    <td>50</td>
-    <td>1000</td>
-    <td>1050</td>
-    <td>1100</td>
-    <td>1150</td>
-    <td>1200</td>
-    <td>1250</td>
-    <td>1300</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/pots#sticky-pot">Sticky Pot</a></td>
-    <td rowspan="2">150</td>
-    <td rowspan="2">3000</td>
-    <td rowspan="2">3150</td>
-    <td rowspan="2">3300</td>
-    <td rowspan="2">3450</td>
-    <td rowspan="2">3600</td>
-    <td rowspan="2">3750</td>
-    <td rowspan="2">3900</td>
-    <td rowspan="2">75</td>
+    <td rowspan="2">1260</td>
+    <td rowspan="2">1320</td>
+    <td rowspan="2">1380</td>
+    <td rowspan="2">1440</td>
     <td rowspan="2">1500</td>
-    <td rowspan="2">1575</td>
-    <td rowspan="2">1650</td>
-    <td rowspan="2">1725</td>
-    <td rowspan="2">1800</td>
-    <td rowspan="2">1875</td>
-    <td rowspan="2">1950</td>
+    <td rowspan="2">1560</td>
+    <td rowspan="2">1620</td>
+    <td class="tableDivider" rowspan="2"></td>
+    <td rowspan="2">21</td>
+    <td rowspan="2">420</td>
+    <td rowspan="2">441</td>
+    <td rowspan="2">462</td>
+    <td rowspan="2">483</td>
+    <td rowspan="2">504</td>
+    <td rowspan="2">525</td>
+    <td rowspan="2">546</td>
+    <td rowspan="2">567</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/pots#water-pot">Water Pot</a></td>
+    <td class="highlightGray">Shocking Staff</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/pots#grass-pot">Grass Pot</a></td>
-    <td>200</td>
-    <td>4000</td>
-    <td>4200</td>
-    <td>4400</td>
-    <td>4600</td>
-    <td>4800</td>
-    <td>5000</td>
-    <td>5200</td>
-    <td>100</td>
-    <td>2000</td>
-    <td>2100</td>
-    <td>2200</td>
-    <td>2300</td>
-    <td>2400</td>
-    <td>2500</td>
-    <td>2600</td>
+    <td class="highlightGray">Seal Staff</td>
+    <td rowspan="3">4~6</td>
+    <td rowspan="3">75</td>
+    <td rowspan="3">1500</td>
+    <td rowspan="3">1575</td>
+    <td rowspan="3">1650</td>
+    <td rowspan="3">1725</td>
+    <td rowspan="3">1800</td>
+    <td rowspan="3">1875</td>
+    <td rowspan="3">1950</td>
+    <td rowspan="3">2025</td>
+    <td class="tableDivider" rowspan="3"></td>
+    <td rowspan="3">26.25</td>
+    <td rowspan="3">525</td>
+    <td rowspan="3">551</td>
+    <td rowspan="3">577</td>
+    <td rowspan="3">603</td>
+    <td rowspan="3">630</td>
+    <td rowspan="3">656</td>
+    <td rowspan="3">682</td>
+    <td rowspan="3">708</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/pots#synthesis-pot">Synthesis Pot</a></td>
-    <td>400</td>
-    <td>8000</td>
-    <td>8400</td>
-    <td>8800</td>
-    <td>9200</td>
-    <td>9600</td>
-    <td>10000</td>
-    <td>10400</td>
-    <td>200</td>
-    <td>4000</td>
-    <td>4200</td>
-    <td>4400</td>
-    <td>4600</td>
-    <td>4800</td>
-    <td>5000</td>
-    <td>5200</td>
+    <td class="highlightGray">Clone Staff</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/pots#upgrade-pot">Upgrade Pot</a></td>
-    <td>750</td>
-    <td>15000</td>
-    <td>15750</td>
-    <td>16500</td>
-    <td>17250</td>
-    <td>18000</td>
-    <td>18750</td>
-    <td>19500</td>
-    <td>375</td>
-    <td>7500</td>
-    <td>7875</td>
-    <td>8250</td>
-    <td>8625</td>
-    <td>9000</td>
-    <td>9325</td>
-    <td>9750</td>
+    <td class="highlightGray">Staff of Sacrifice</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/pots#surprise-pot">Surprise Pot</a></td>
-    <td>0</td>
-    <td>3000</td>
-    <td>3000</td>
-    <td>3000</td>
-    <td>3000</td>
-    <td>3000</td>
-    <td>3000</td>
-    <td>3000</td>
-    <td>0</td>
-    <td>1500</td>
-    <td>1500</td>
-    <td>1500</td>
-    <td>1500</td>
-    <td>1500</td>
-    <td>1500</td>
-    <td>1500</td>
+    <td class="highlightGray">Glorious Staff</td>
+    <td rowspan="5">4~6</td>
+    <td rowspan="5">90</td>
+    <td rowspan="5">1800</td>
+    <td rowspan="5">1890</td>
+    <td rowspan="5">1980</td>
+    <td rowspan="5">2070</td>
+    <td rowspan="5">2160</td>
+    <td rowspan="5">2250</td>
+    <td rowspan="5">2340</td>
+    <td rowspan="5">2430</td>
+    <td class="tableDivider" rowspan="5"></td>
+    <td rowspan="5">31.5</td>
+    <td rowspan="5">630</td>
+    <td rowspan="5">661</td>
+    <td rowspan="5">693</td>
+    <td rowspan="5">724</td>
+    <td rowspan="5">756</td>
+    <td rowspan="5">787</td>
+    <td rowspan="5">819</td>
+    <td rowspan="5">850</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/pots#memento-pot">Memento Pot</a></td>
-    <td>500</td>
-    <td>10000</td>
-    <td>10500</td>
-    <td>11000</td>
-    <td>11500</td>
-    <td>12000</td>
-    <td>12500</td>
-    <td>13000</td>
-    <td>250</td>
-    <td>5000</td>
-    <td>5250</td>
-    <td>5500</td>
-    <td>5750</td>
-    <td>6000</td>
-    <td>6250</td>
-    <td>6500</td>
+    <td class="highlightGray">Unlucky Staff</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/pots#monster-pot">Monster Pot</a></td>
-    <td>0</td>
-    <td>10000</td>
-    <td>10000</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>0</td>
-    <td>1</td>
-    <td>1</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
+    <td class="highlightGray">Boring Staff</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/pots#savings-pot">Savings Pot</a></td>
-    <td>-</td>
-    <td>2</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>1</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
+    <td class="highlightGray">Fort. Staff</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Sharing Staff</td>
   </tr>
 </table>
 
-### Weapons
+## Pots
+
+<table class="priceTableMedium">
+  <tr>
+    <th rowspan="2">Name</th>
+    <th rowspan="2">Size</th>
+    <th colspan="7">Buy</th>
+    <th></th>
+    <th colspan="7">Sell</th>
+  </tr>
+  <tr>
+    <th>+1</th>
+    <th>0</th>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+    <th></th>
+    <th>+1</th>
+    <th>0</th>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+  </tr>
+  <tr>
+    <td class="highlightGray">Preservation Pot</td>
+    <td rowspan="5">3~5</td>
+    <td rowspan="5">30</td>
+    <td rowspan="5">600</td>
+    <td rowspan="5">630</td>
+    <td rowspan="5">660</td>
+    <td rowspan="5">690</td>
+    <td rowspan="5">720</td>
+    <td rowspan="5">750</td>
+    <td class="tableDivider" rowspan="5"></td>
+    <td rowspan="5">10.5</td>
+    <td rowspan="5">210</td>
+    <td rowspan="5">220</td>
+    <td rowspan="5">231</td>
+    <td rowspan="5">241</td>
+    <td rowspan="5">252</td>
+    <td rowspan="5">262</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Ordinary Pot</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Identify Pot</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Hide Pot</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">4-2-8 Pot</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Sale Pot</td>
+    <td rowspan="5">3~5</td>
+    <td rowspan="7">50</td>
+    <td rowspan="7">1000</td>
+    <td rowspan="7">1050</td>
+    <td rowspan="7">1100</td>
+    <td rowspan="7">1150</td>
+    <td rowspan="7">1200</td>
+    <td rowspan="7">1250</td>
+    <td class="tableDivider" rowspan="7"></td>
+    <td rowspan="7">17.5</td>
+    <td rowspan="7">350</td>
+    <td rowspan="7">367</td>
+    <td rowspan="7">385</td>
+    <td rowspan="7">402</td>
+    <td rowspan="7">420</td>
+    <td rowspan="7">437</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Presto Pot</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Floramorph Pot</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Sticky Pot</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Unbreakable Pot</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Black Hole Pot</td>
+    <td>2~4</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Fever Pot</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Exorcism Pot</td>
+    <td rowspan="3">2~4</td>
+    <td rowspan="3">80</td>
+    <td rowspan="3">1600</td>
+    <td rowspan="3">1680</td>
+    <td rowspan="3">1760</td>
+    <td rowspan="3">1840</td>
+    <td rowspan="3">1920</td>
+    <td rowspan="3">2000</td>
+    <td class="tableDivider" rowspan="3"></td>
+    <td rowspan="3">28</td>
+    <td rowspan="3">560</td>
+    <td rowspan="3">588</td>
+    <td rowspan="3">616</td>
+    <td rowspan="3">644</td>
+    <td rowspan="3">672</td>
+    <td rowspan="3">700</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Blessing Pot</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Curse Pot</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Water Pot</td>
+    <td>3~5</td>
+    <td rowspan="2">100</td>
+    <td rowspan="2">2000</td>
+    <td rowspan="2">2100</td>
+    <td rowspan="2">2200</td>
+    <td rowspan="2">2300</td>
+    <td rowspan="2">2400</td>
+    <td rowspan="2">2500</td>
+    <td class="tableDivider" rowspan="2"></td>
+    <td rowspan="2">35</td>
+    <td rowspan="2">700</td>
+    <td rowspan="2">735</td>
+    <td rowspan="2">770</td>
+    <td rowspan="2">805</td>
+    <td rowspan="2">840</td>
+    <td rowspan="2">875</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Heavenly Pot</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Zen Pot</td>
+    <td rowspan="4">2~4</td>
+    <td rowspan="4">125</td>
+    <td rowspan="4">2500</td>
+    <td rowspan="4">2625</td>
+    <td rowspan="4">2750</td>
+    <td rowspan="4">2875</td>
+    <td rowspan="4">3000</td>
+    <td rowspan="4">3125</td>
+    <td class="tableDivider" rowspan="4"></td>
+    <td rowspan="4">43.75</td>
+    <td rowspan="4">875</td>
+    <td rowspan="4">918</td>
+    <td rowspan="4">962</td>
+    <td rowspan="4">1006</td>
+    <td rowspan="4">1050</td>
+    <td rowspan="4">1093</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Dodger Pot</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Perceptive Pot</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Reflection Pot</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Heal Pot</td>
+    <td rowspan="4">3~5</td>
+    <td rowspan="6">175</td>
+    <td rowspan="6">3500</td>
+    <td rowspan="6">3675</td>
+    <td rowspan="6">3850</td>
+    <td rowspan="6">4025</td>
+    <td rowspan="6">4200</td>
+    <td rowspan="6">4375</td>
+    <td class="tableDivider" rowspan="6"></td>
+    <td rowspan="6">61.25</td>
+    <td rowspan="6">1225</td>
+    <td rowspan="6">1286</td>
+    <td rowspan="6">1347</td>
+    <td rowspan="6">1408</td>
+    <td rowspan="6">1470</td>
+    <td rowspan="6">1531</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Zalokleft Pot</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Monster Pot</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Klein Pot</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Hilarious Pot</td>
+    <td>2~4</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Shrine Maid. Pot</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Synthesis Pot</td>
+    <td>5</td>
+    <td rowspan="2">300</td>
+    <td rowspan="2">6000</td>
+    <td rowspan="2">6300</td>
+    <td rowspan="2">6600</td>
+    <td rowspan="2">6900</td>
+    <td rowspan="2">7200</td>
+    <td rowspan="2">7500</td>
+    <td class="tableDivider" rowspan="2"></td>
+    <td rowspan="2">105</td>
+    <td rowspan="2">2100</td>
+    <td rowspan="2">2205</td>
+    <td rowspan="2">2310</td>
+    <td rowspan="2">2415</td>
+    <td rowspan="2">2520</td>
+    <td rowspan="2">2625</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Modder's Pot</td>
+    <td>3~5</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Upgrade Pot</td>
+    <td rowspan="2">2~3</td>
+    <td rowspan="5">500</td>
+    <td rowspan="5">10000</td>
+    <td rowspan="5">10500</td>
+    <td rowspan="5">11000</td>
+    <td rowspan="5">11500</td>
+    <td rowspan="5">12000</td>
+    <td rowspan="5">12500</td>
+    <td class="tableDivider" rowspan="5"></td>
+    <td rowspan="5">175</td>
+    <td rowspan="5">3500</td>
+    <td rowspan="5">3675</td>
+    <td rowspan="5">3850</td>
+    <td rowspan="5">4025</td>
+    <td rowspan="5">4200</td>
+    <td rowspan="5">4375</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Degrade Pot</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Lucky Pot</td>
+    <td rowspan="3">3~5</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Unlucky Pot</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Grilling Pot</td>
+  </tr>
+</table>
+
+## Lv1 Weapons
 
 <table class="priceTable">
   <tr>
     <th>Name</th>
-    <th>Seal</th>
-    <th>Atk</th>
-    <th>Slot</th>
     <th>Buy</th>
     <th>Sell</th>
-    <th rowspan="23" class="tableDivider"></th>
     <th>Name</th>
-    <th>Seal</th>
-    <th>Atk</th>
-    <th>Slot</th>
+    <th>Buy</th>
+    <th>Sell</th>
+    <th>Name</th>
     <th>Buy</th>
     <th>Sell</th>
   </tr>
-  <tr class="tableCategory">
-    <th colspan="6">Regular</th>
-    <th colspan="6">Special</th>
-  </tr>
   <tr>
-    <td><a href="/shiren-2/items/weapons#wooden-sword">Wooden Sword</a></td>
-    <td>-</td>
-    <td>2</td>
-    <td>1</td>
-    <td>3000</td>
-    <td>1500</td>
-    <td><a href="/shiren-2/items/weapons#gamarra-whip">Gamarra Whip</a></td>
-    <td>銭</td>
-    <td>2</td>
-    <td>4</td>
-    <td>16000</td>
-    <td>8000</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/weapons#club">Club</a></td>
-    <td>-</td>
-    <td>3</td>
-    <td>3</td>
-    <td>400</td>
-    <td>200</td>
-    <td><a href="/shiren-2/items/weapons#pickaxe">Pickaxe</a></td>
-    <td>掘</td>
-    <td>2</td>
-    <td>5</td>
-    <td>3500</td>
-    <td>1600</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/weapons#nagamaki">Nagamaki</a></td>
-    <td>-</td>
-    <td>2</td>
-    <td>1</td>
-    <td>3000</td>
-    <td>1500</td>
-    <td><a href="/shiren-2/items/weapons#gobo">Gobo</a></td>
-    <td>食</td>
-    <td>3</td>
-    <td>2</td>
-    <td>500</td>
-    <td>250</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/weapons#sacred-sword">Sacred Sword</a></td>
-    <td>-</td>
-    <td>3</td>
-    <td>3</td>
-    <td>400</td>
-    <td>200</td>
-    <td><a href="/shiren-2/items/weapons#homing-blade">Homing Blade</a></td>
-    <td>必</td>
-    <td>3</td>
-    <td>3</td>
-    <td>10000</td>
-    <td>5000</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/weapons#katana">Katana</a></td>
-    <td>-</td>
-    <td>10</td>
-    <td>5</td>
-    <td>900</td>
-    <td>400</td>
-    <td><a href="/shiren-2/items/weapons#onigiri-sword">Onigiri Sword</a></td>
-    <td>に</td>
-    <td>3</td>
-    <td>4</td>
-    <td>10000</td>
-    <td>5000</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/weapons#dotanuki">Dotanuki</a></td>
-    <td>-</td>
-    <td>12</td>
-    <td>6</td>
-    <td>3600</td>
-    <td>1200</td>
-    <td><a href="/shiren-2/items/weapons#golden-sword">Golden Sword</a></td>
-    <td>金</td>
-    <td>3</td>
-    <td>5</td>
-    <td>6000</td>
-    <td>3000</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/weapons#ivory-sword">Ivory Sword</a></td>
-    <td>-</td>
-    <td>13</td>
-    <td>4</td>
-    <td>4000</td>
-    <td>1600</td>
-    <td><a href="/shiren-2/items/weapons#dried-bonito">Dried Bonito</a></td>
-    <td>か</td>
-    <td>4</td>
-    <td>2</td>
-    <td>2000</td>
+    <td class="highlightGray">Ordinary Stick</td>
+    <td>300</td>
+    <td>105</td>
+    <td class="highlightGray">Rusty Pickaxe</td>
     <td>1000</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/weapons#kabura's-blade">Kabura's Blade</a></td>
-    <td>-</td>
-    <td>18</td>
-    <td>5</td>
-    <td>15000</td>
-    <td>7000</td>
-    <td><a href="/shiren-2/items/weapons#fish-spear">Fish Spear</a></td>
-    <td>水</td>
-    <td>4</td>
-    <td>5</td>
+    <td>350</td>
+    <td class="highlightGray">Shockuto</td>
     <td>4000</td>
-    <td>1600</td>
+    <td>1400</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/weapons#daisangen-sword">Daisangen Sword</a></td>
-    <td>-</td>
-    <td>20</td>
-    <td>9</td>
-    <td>48000</td>
-    <td>32000</td>
-    <td><a href="/shiren-2/items/weapons#razor-wind">Razor Wind</a></td>
-    <td>三</td>
-    <td>5</td>
-    <td>4</td>
-    <td>5000</td>
-    <td>2500</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/weapons#fiery-fuuma">Fiery Fuuma</a></td>
-    <td>-</td>
-    <td>30</td>
-    <td>10</td>
-    <td>20000</td>
-    <td>10000</td>
-    <td><a href="/shiren-2/items/weapons#healing-sword">Healing Sword</a></td>
-    <td>回</td>
-    <td>6</td>
-    <td>3</td>
-    <td>20000</td>
-    <td>10000</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/weapons#mijinha">Mijinha</a></td>
-    <td>-</td>
-    <td>50</td>
-    <td>16</td>
-    <td>60000</td>
-    <td>40000</td>
-    <td><a href="/shiren-2/items/weapons#kengo's-katana">Kengo's Katana</a></td>
-    <td>ケ</td>
-    <td>7</td>
-    <td>4</td>
-    <td>3200</td>
-    <td>900</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/weapons#kaburasutegi">Kaburasutegi</a></td>
-    <td>-</td>
-    <td>99</td>
-    <td>12</td>
-    <td>55000</td>
-    <td>20000</td>
-    <td><a href="/shiren-2/items/weapons#spark-sword">Spark Sword</a></td>
-    <td>ス</td>
-    <td>7</td>
-    <td>6</td>
-    <td>15000</td>
-    <td>7500</td>
-  </tr>
-  <tr class="tableCategory">
-    <th colspan="6">Two-Handed</th>
-    <td><a href="/shiren-2/items/weapons#wonder-pick">Wonder Pick</a></td>
-    <td>サ</td>
-    <td>13</td>
-    <td>4</td>
-    <td>20000</td>
-    <td>10000</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/weapons#mallet">Mallet</a></td>
-    <td>木</td>
-    <td>3</td>
-    <td>5</td>
-    <td>4000</td>
-    <td>2000</td>
-    <td><a href="/shiren-2/items/weapons#disposable-sword">Disposable Sword</a></td>
-    <td>捨</td>
-    <td>35</td>
-    <td>3</td>
-    <td>3000</td>
-    <td>1500</td>
-  </tr>
-  <tr class="tableCategory">
-    <td><a href="/shiren-2/items/weapons#power-pole">Power Pole</a></td>
-    <td>-</td>
-    <td>5</td>
-    <td>4</td>
-    <td>20000</td>
-    <td>10000</td>
-    <th colspan="6">Type Effective</th>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/weapons#iron-hammer">Iron Hammer</a></td>
-    <td>鉄</td>
-    <td>5</td>
-    <td>5</td>
-    <td>20000</td>
-    <td>10000</td>
-    <td><a href="/shiren-2/items/weapons#ghost-sickle">Ghost Sickle</a></td>
-    <td>仏</td>
-    <td>5</td>
-    <td>5</td>
-    <td>5000</td>
-    <td>2000</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/weapons#morning-star">Morning Star</a></td>
-    <td>-</td>
-    <td>5</td>
-    <td>6</td>
-    <td>5000</td>
-    <td>2500</td>
-    <td><a href="/shiren-2/items/weapons#drain-buster">Drain Buster</a></td>
-    <td>ド</td>
-    <td>6</td>
-    <td>5</td>
-    <td>5000</td>
-    <td>2500</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/weapons#spear">Spear</a></td>
-    <td>-</td>
-    <td>6</td>
-    <td>7</td>
-    <td>10000</td>
-    <td>4000</td>
-    <td><a href="/shiren-2/items/weapons#cyclops-killer">Cyclops Killer</a></td>
-    <td>目</td>
-    <td>9</td>
-    <td>4</td>
-    <td>4500</td>
-    <td>2000</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/weapons#minotaur's-axe">Minotaur's Axe</a></td>
-    <td>会</td>
-    <td>8</td>
-    <td>11</td>
-    <td>6000</td>
-    <td>2400</td>
-    <td><a href="/shiren-2/items/weapons#crescent-arm">Crescent Arm</a></td>
-    <td>月</td>
-    <td>14</td>
-    <td>6</td>
-    <td>50000</td>
-    <td>25000</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/weapons#ironhead's-head">Ironhead's Head</a></td>
-    <td>-</td>
-    <td>9</td>
-    <td>7</td>
-    <td>6000</td>
-    <td>2400</td>
-    <td><a href="/shiren-2/items/weapons#dragon-killer">Dragon Killer</a></td>
-    <td>竜</td>
-    <td>15</td>
-    <td>7</td>
-    <td>10000</td>
-    <td>5000</td>
-  </tr>
-  <tr>
-    <td colspan="6"></td>
-    <td><a href="/shiren-2/items/weapons#ryujin-sword">Ryujin Sword</a></td>
-    <td>龍</td>
-    <td>25</td>
-    <td>7</td>
-    <td>30000</td>
-    <td>15000</td>
-  </tr>
-</table>
-
-### Shields
-
-<table class="priceTable">
-  <tr>
-    <th>Name</th>
-    <th>Seal</th>
-    <th>Def</th>
-    <th>Slot</th>
-    <th>Buy</th>
-    <th>Sell</th>
-    <th rowspan="20" class="tableDivider"></th>
-    <th>Name</th>
-    <th>Seal</th>
-    <th>Def</th>
-    <th>Slot</th>
-    <th>Buy</th>
-    <th>Sell</th>
-  </tr>
-  <tr class="tableCategory">
-    <th colspan="6">Regular</th>
-    <th colspan="6">Special (cont.)</th>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/shields#wooden-shield">Wooden Shield</a></td>
-    <td>-</td>
-    <td>2</td>
-    <td>1</td>
-    <td>3000</td>
-    <td>500</td>
-    <td><a href="/shiren-2/items/shields#dodge-shield">Dodge Shield</a></td>
-    <td>身</td>
-    <td>5</td>
-    <td>4</td>
-    <td>15000</td>
-    <td>7500</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/shields#tribal-shield">Tribal Shield</a></td>
-    <td>-</td>
-    <td>6</td>
-    <td>5</td>
-    <td>1500</td>
+    <td class="highlightGray">Tin Blade</td>
     <td>700</td>
-    <td><a href="/shiren-2/items/shields#holy-shield">Holy Shield</a></td>
-    <td>祓</td>
-    <td>5</td>
-    <td>5</td>
-    <td>10000</td>
+    <td>245</td>
+    <td class="highlightGray">Old Mallet</td>
+    <td>2000</td>
+    <td>700</td>
+    <td class="highlightGray">Blurry Stick</td>
+    <td>6000</td>
+    <td>2100</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Katana</td>
+    <td>1100</td>
+    <td>385</td>
+    <td class="highlightGray">Sky Splitter</td>
+    <td>7500</td>
+    <td>2625</td>
+    <td class="highlightGray">Sealing Keisaku</td>
+    <td>3300</td>
+    <td>1155</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Beast Fang</td>
+    <td>1600</td>
+    <td>560</td>
+    <td class="highlightGray">Water Cutter</td>
+    <td>6500</td>
+    <td>2275</td>
+    <td class="highlightGray">Baffle Axe</td>
+    <td>2000</td>
+    <td>700</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Dotanuki</td>
+    <td>2200</td>
+    <td>770</td>
+    <td class="highlightGray">Scythe</td>
+    <td>5500</td>
+    <td>1925</td>
+    <td class="highlightGray">Hatchet</td>
+    <td>5000</td>
+    <td>1750</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Bladite</td>
+    <td>3000</td>
+    <td>1050</td>
+    <td class="highlightGray">Myopic Masher</td>
+    <td>5500</td>
+    <td>1925</td>
+    <td class="highlightGray">Shoddy Dirk</td>
+    <td>3000</td>
+    <td>1050</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Red Blade</td>
+    <td>4200</td>
+    <td>1470</td>
+    <td class="highlightGray">Magic Masher</td>
     <td>2500</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/shields#sacred-shield">Sacred Shield</a></td>
-    <td>-</td>
-    <td>8</td>
-    <td>16</td>
-    <td>12000</td>
-    <td>4000</td>
-    <td><a href="/shiren-2/items/shields#gamarra-shield">Gamarra Shield</a></td>
-    <td>銭</td>
-    <td>5</td>
-    <td>5</td>
-    <td>4000</td>
-    <td>1600</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/shields#beetle-shield">Beetle Shield</a></td>
-    <td>-</td>
-    <td>10</td>
-    <td>5</td>
-    <td>7000</td>
-    <td>3000</td>
-    <td><a href="/shiren-2/items/shields#scale-shield">Scale Shield</a></td>
-    <td>う</td>
-    <td>6</td>
-    <td>5</td>
-    <td>6000</td>
-    <td>3000</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/shields#ivory-shield">Ivory Shield</a></td>
-    <td>-</td>
-    <td>12</td>
-    <td>5</td>
-    <td>10000</td>
-    <td>2000</td>
-    <td><a href="/shiren-2/items/shields#happy-shield">Happy Shield</a></td>
-    <td>幸</td>
-    <td>6</td>
-    <td>5</td>
-    <td>15000</td>
-    <td>3500</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/shields#fuuma-shield">Fuuma Shield</a></td>
-    <td>-</td>
-    <td>16</td>
-    <td>6</td>
-    <td>15000</td>
-    <td>3500</td>
-    <td><a href="/shiren-2/items/shields#walrus-shield">Walrus Shield</a></td>
-    <td>ト</td>
-    <td>6</td>
-    <td>6</td>
-    <td>6000</td>
-    <td>1500</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/shields#daisangen-shield">Daisangen Shield</a></td>
-    <td>-</td>
-    <td>30</td>
-    <td>5</td>
-    <td>48000</td>
-    <td>32000</td>
-    <td><a href="/shiren-2/items/shields#reflect-shield">Reflect Shield</a></td>
-    <td>返</td>
-    <td>7</td>
-    <td>4</td>
-    <td>18000</td>
+    <td>875</td>
+    <td class="highlightGray">Glass Dirk</td>
     <td>5000</td>
+    <td>1750</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/shields#basilisk-shield">Basilisk Shield</a></td>
-    <td>-</td>
-    <td>40</td>
-    <td>13</td>
-    <td>60000</td>
+    <td class="highlightGray">Kabura Katana</td>
+    <td>7400</td>
+    <td>2590</td>
+    <td class="highlightGray">Drain Dagger</td>
+    <td>4500</td>
+    <td>1575</td>
+    <td class="highlightGray">Dirk of Debts</td>
+    <td>3000</td>
+    <td>1050</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Fuuma Sword</td>
     <td>10000</td>
-    <td><a href="/shiren-2/items/shields#counter-shield">Counter Shield</a></td>
-    <td>バ</td>
-    <td>7</td>
-    <td>5</td>
-    <td>4000</td>
+    <td>3500</td>
+    <td class="highlightGray">Copper Cleaver</td>
+    <td>3500</td>
+    <td>1225</td>
+    <td class="highlightGray">Extreme Sword</td>
+    <td>2000</td>
+    <td>700</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Pathetic Blade</td>
+    <td>300</td>
+    <td>105</td>
+    <td class="highlightGray">Crescent Katana</td>
+    <td>2500</td>
+    <td>875</td>
+    <td class="highlightGray">Violent Blade</td>
+    <td>2500</td>
+    <td>875</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Dull Gold Edge</td>
     <td>1000</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/shields#helix-shield">Helix Shield</a></td>
-    <td>-</td>
-    <td>50</td>
-    <td>12</td>
-    <td>55000</td>
-    <td>30000</td>
-    <td><a href="/shiren-2/items/shields#traproid-shield">Traproid Shield</a></td>
-    <td>カ</td>
-    <td>8</td>
-    <td>4</td>
-    <td>12000</td>
-    <td>6000</td>
-  </tr>
-  <tr class="tableCategory">
-    <th colspan="6">Special</th>
-    <td><a href="/shiren-2/items/shields#blast-shield">Blast Shield</a></td>
-    <td>爆</td>
-    <td>8</td>
-    <td>5</td>
-    <td>5000</td>
-    <td>2000</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/shields#nirvana-shield">Nirvana Shield</a></td>
-    <td>サ</td>
-    <td>1</td>
-    <td>1</td>
-    <td>40000</td>
-    <td>20000</td>
-    <td><a href="/shiren-2/items/shields#dragon-shield">Dragon Shield</a></td>
-    <td>竜</td>
-    <td>14</td>
-    <td>5</td>
+    <td>350</td>
+    <td class="highlightGray">Lizard Lasher</td>
+    <td>3500</td>
+    <td>1225</td>
+    <td class="highlightGray">Breeze Blade</td>
     <td>8000</td>
-    <td>4000</td>
+    <td>2800</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/shields#evasive-shield">Evasive Shield</a></td>
-    <td>見</td>
-    <td>2</td>
-    <td>5</td>
-    <td>10000</td>
-    <td>5000</td>
-    <td><a href="/shiren-2/items/shields#heavy-shield">Heavy Shield</a></td>
-    <td>重</td>
-    <td>15</td>
-    <td>3</td>
+    <td class="highlightGray">Bright Blade</td>
     <td>3000</td>
-    <td>1200</td>
-  </tr>
-  <tr>
-    <td><a href="/shiren-2/items/shields#echo-shield">Echo Shield</a></td>
-    <td>山</td>
-    <td>3</td>
-    <td>5</td>
-    <td>12000</td>
-    <td>4000</td>
-    <td><a href="/shiren-2/items/shields#disposable-shield">Disposable Shield</a></td>
-    <td>捨</td>
-    <td>40</td>
-    <td>3</td>
-    <td>1600</td>
-    <td>600</td>
-  </tr>
-  <tr class="tableCategory">
-    <td><a href="/shiren-2/items/shields#golden-shield">Golden Shield</a></td>
-    <td>金</td>
-    <td>4</td>
-    <td>4</td>
+    <td>1050</td>
+    <td class="highlightGray">Nap Rattle</td>
+    <td>7000</td>
+    <td>2450</td>
+    <td class="highlightGray">Burning Blade</td>
     <td>10000</td>
-    <td>4000</td>
-    <th colspan="6">Two-Handed</th>
+    <td>3500</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/shields#leather-shield">Leather Shield</a></td>
-    <td>皮</td>
-    <td>4</td>
-    <td>5</td>
-    <td>2000</td>
-    <td>1000</td>
-    <td><a href="/shiren-2/items/shields#halberd-shield">Halberd Shield</a></td>
+    <td class="highlightGray">True Knife</td>
+    <td>20000</td>
+    <td>7000</td>
+    <td class="highlightGray">Wonder Pick</td>
+    <td>10000</td>
+    <td>3500</td>
+    <td class="highlightGray">Sturdy Hammer</td>
+    <td>15000</td>
+    <td>5250</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Kaburagi</td>
+    <td>15000</td>
+    <td>5250</td>
+    <td class="highlightGray">Fox Kodachi</td>
     <td>-</td>
-    <td>7</td>
-    <td>5</td>
-    <td>13000</td>
-    <td>5000</td>
+    <td>-</td>
+    <td colspan="3"></td>
   </tr>
 </table>
+
+## Lv1 Shields
+
+<table class="priceTable">
+  <tr>
+    <th>Name</th>
+    <th>Buy</th>
+    <th>Sell</th>
+    <th>Name</th>
+    <th>Buy</th>
+    <th>Sell</th>
+    <th>Name</th>
+    <th>Buy</th>
+    <th>Sell</th>
+  </tr>
+  <tr>
+    <td class="highlightGray">Plain Targe</td>
+    <td>360</td>
+    <td>126</td>
+    <td class="highlightGray">Heavy Shield</td>
+    <td>6000</td>
+    <td>2100</td>
+    <td class="highlightGray">Gyadon Blocker</td>
+    <td>4000</td>
+    <td>1400</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Tin Shield</td>
+    <td>740</td>
+    <td>259</td>
+    <td class="highlightGray">Midnight Shield</td>
+    <td>4200</td>
+    <td>1470</td>
+    <td class="highlightGray">Snake Shield</td>
+    <td>10000</td>
+    <td>3500</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Iron Targe</td>
+    <td>1300</td>
+    <td>455</td>
+    <td class="highlightGray">Day Shield</td>
+    <td>4200</td>
+    <td>1470</td>
+    <td class="highlightGray">Steady Shield</td>
+    <td>3000</td>
+    <td>1050</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Wolfshead</td>
+    <td>1800</td>
+    <td>630</td>
+    <td class="highlightGray">Binary Shield</td>
+    <td>2500</td>
+    <td>875</td>
+    <td class="highlightGray">Anti-Gaze Trge</td>
+    <td>10000</td>
+    <td>3500</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Beast Shield</td>
+    <td>2400</td>
+    <td>840</td>
+    <td class="highlightGray">Counter Shield</td>
+    <td>3000</td>
+    <td>1050</td>
+    <td class="highlightGray">Swap Shield</td>
+    <td>6000</td>
+    <td>2100</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Targite</td>
+    <td>3200</td>
+    <td>1120</td>
+    <td class="highlightGray">Student Shield</td>
+    <td>8000</td>
+    <td>2800</td>
+    <td class="highlightGray">Shoddy Plank</td>
+    <td>4000</td>
+    <td>1400</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Red Shield</td>
+    <td>4800</td>
+    <td>1680</td>
+    <td class="highlightGray">Bowl Shield</td>
+    <td>10000</td>
+    <td>3500</td>
+    <td class="highlightGray">Glass Buckler</td>
+    <td>6000</td>
+    <td>2100</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Fuuma Shield</td>
+    <td>8500</td>
+    <td>2975</td>
+    <td class="highlightGray">Spry Shield</td>
+    <td>8000</td>
+    <td>2800</td>
+    <td class="highlightGray">Pauper's Plank</td>
+    <td>2500</td>
+    <td>875</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Pathetic Shield</td>
+    <td>360</td>
+    <td>126</td>
+    <td class="highlightGray">Blast Shield</td>
+    <td>6000</td>
+    <td>2100</td>
+    <td class="highlightGray">Rush Shield</td>
+    <td>3000</td>
+    <td>1050</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Gold Shield</td>
+    <td>1500</td>
+    <td>525</td>
+    <td class="highlightGray">Lock Shield</td>
+    <td>2000</td>
+    <td>700</td>
+    <td class="highlightGray">Blazing Shield</td>
+    <td>1500</td>
+    <td>525</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Diet Shield</td>
+    <td>5000</td>
+    <td>1750</td>
+    <td class="highlightGray">Safe Shield</td>
+    <td>1800</td>
+    <td>630</td>
+    <td class="highlightGray">Onigiri Shield</td>
+    <td>12000</td>
+    <td>4200</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Helix Shield</td>
+    <td>12000</td>
+    <td>4200</td>
+    <td class="highlightGray">Parry Shield</td>
+    <td>9000</td>
+    <td>3150</td>
+    <td class="highlightGray">Nirvana Board</td>
+    <td>14000</td>
+    <td>4900</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Fox Shield</td>
+    <td>-</td>
+    <td>-</td>
+    <td colspan="6"></td>
+  </tr>
+</table>
+
+# Related Links
+
+- <a href="/shiren-5/guides/identifying">Identifying</a>
+- <a href="https://minotalen.github.io/shiren/">Price Identification Tool <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></a>

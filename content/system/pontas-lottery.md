@@ -27,18 +27,13 @@ You always draw a "Super Ultra Super Big Winner" and receive the following:
 
 #### Big Winner
 
-<table class="itemTable">
+<table class="itemListCentered3">
   <tr>
     <th>Weapon</th>
-    <th rowspan="12" class="tableDivider"></th>
     <th>Shield</th>
-    <th rowspan="12" class="tableDivider"></th>
     <th>Bracelet</th>
-    <th rowspan="12" class="tableDivider"></th>
     <th>Grass</th>
-    <th rowspan="12" class="tableDivider"></th>
     <th>Scroll</th>
-    <th rowspan="12" class="tableDivider"></th>
     <th>Pot</th>
   </tr>
   <tr>
@@ -113,18 +108,13 @@ You always draw a "Super Ultra Super Big Winner" and receive the following:
 
 #### Winner
 
-<table class="itemTable">
+<table class="itemListCentered3">
   <tr>
     <th>Weapon</th>
-    <th rowspan="15" class="tableDivider"></th>
     <th>Shield</th>
-    <th rowspan="15" class="tableDivider"></th>
     <th>Bracelet</th>
-    <th rowspan="15" class="tableDivider"></th>
     <th>Staff</th>
-    <th rowspan="15" class="tableDivider"></th>
     <th>Pot</th>
-    <th rowspan="15" class="tableDivider"></th>
     <th>Talisman</th>
   </tr>
   <tr>
@@ -219,14 +209,11 @@ You always draw a "Super Ultra Super Big Winner" and receive the following:
 
 #### Loser
 
-<table class="itemTable">
+<table class="itemListCentered3">
   <tr>
     <th>Grass</th>
-    <th rowspan="15" class="tableDivider"></th>
     <th>Scroll</th>
-    <th rowspan="15" class="tableDivider"></th>
     <th>Projectile</th>
-    <th rowspan="15" class="tableDivider"></th>
     <th>Food</th>
   </tr>
   <tr>

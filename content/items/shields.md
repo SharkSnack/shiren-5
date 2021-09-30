@@ -537,7 +537,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
   <tr>
     <td><img src="../images/shields/plain_targe_1.png"/></td>
     <td><img src="../images/shields/plain_targe_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>An ordinary shield made from carving a<br/>hunk of wood. It's plain. It's ordinary.<br/>Its defining feature is that it's devoid of<br/>any defining features, hence the name.</td>
   </tr>
 </table>
 
@@ -711,7 +711,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/tin_shield_1.png"/></td>
     <td><img src="../images/shields/tin_shield_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>This is a shield made of tin.<br/>It's not that strong, but it offers<br/>better protection than a Plain Targe.</td>
   </tr>
 </table>
 
@@ -882,7 +882,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/iron_targe_1.png"/></td>
     <td><img src="../images/shields/iron_targe_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>This shield is made of tough iron.<br/>It's strong and stout, because it's not<br/>made from puny wood or bronze. IRON!</td>
   </tr>
 </table>
 
@@ -1053,7 +1053,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/wolfshead_1.png"/></td>
     <td><img src="../images/shields/wolfshead_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>The bladesmith of Dotanuki actually<br/>created this shield! It was originally called<br/>"sword breaker," and as you might have<br/>deduced, it was intended to break swords.<br/>However, because of the way it looks,<br/>everyone just calls it by its nickname.</td>
   </tr>
 </table>
 
@@ -1227,7 +1227,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/beast_shield_1.png"/></td>
     <td><img src="../images/shields/beast_shield_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>The surface of the shield looks like a<br/>beast's face. It's so lifelike, it feels<br/>like it will jump out at you at any moment.</td>
   </tr>
 </table>
 
@@ -1399,7 +1399,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/targite_1.png"/></td>
     <td><img src="../images/shields/targite_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>One day, a tremendous tremor shook a<br/>mountain. Villagers searched and<br/>discovered a meteorite crater. The local<br/>bladesmith could hardly contain<br/>himself...</td>
   </tr>
 </table>
 
@@ -1572,7 +1572,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/red_shield_1.png"/></td>
     <td><img src="../images/shields/red_shield_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>This is a shield made from a hard,<br/>red mineral called Shugouseki. It's quite<br/>tough.</td>
   </tr>
 </table>
 
@@ -1744,7 +1744,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/fuuma_shield_1.png"/></td>
     <td><img src="../images/shields/fuuma_shield_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>This is a sturdy shield made with a<br/>special metal known as Fuuma Iron. It is<br/>difficult to create Fuuma Iron, so this<br/>shield is an uncommon item.</td>
   </tr>
 </table>
 
@@ -1916,7 +1916,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/gold_shield_1.png"/></td>
     <td><img src="../images/shields/gold_shield_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>This shield is rust-proof. A shield<br/>that is rust-proof?! How is that possible?<br/>It's all possible thanks to the power of<br/>gold! That's right, it's made of gold.<br/>It's a bit dirty, so it doesn't look like<br/>it's gold, but trust me. It totally is.</td>
   </tr>
 </table>
 
@@ -2089,7 +2089,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/diet_shield_1.png"/></td>
     <td><img src="../images/shields/diet_shield_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>Resist hunger while this is equipped.<br/>A little less starvation, a little more<br/>action. "More filling!" "Less hunger!"<br/>"Tastes great?"</td>
   </tr>
 </table>
 
@@ -2260,7 +2260,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/heavy_shield_1.png"/></td>
     <td><img src="../images/shields/heavy_shield_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>This shield has high defense, but the<br/>shield's heft makes you hungry quicker.<br/>You have to think hard about whether or<br/>not to equip this.</td>
   </tr>
 </table>
 
@@ -2430,7 +2430,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/midnight_shield_1.png"/></td>
     <td><img src="../images/shields/midnight_shield_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>This shield reduces damage taken from<br/>night monsters. However, you'll take more<br/>damage from day monsters, so you gotta be<br/>wary about when you equip it.</td>
   </tr>
 </table>
 
@@ -2604,7 +2604,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/day_shield_1.png"/></td>
     <td><img src="../images/shields/day_shield_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>This shield reduces damage taken from<br/>day monsters. However, it will increase<br/>the damage that night monsters do to you.<br/>Be sure to remove this when night falls,<br/>Day Man.</td>
   </tr>
 </table>
 
@@ -2778,7 +2778,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/binary_shield_1.png"/></td>
     <td><img src="../images/shields/binary_shield_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>When the first digit of your HP is 1 or 0,<br/>damage inflicted by enemies is halved.</td>
   </tr>
 </table>
 
@@ -2949,7 +2949,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/counter_shield_1.png"/></td>
     <td><img src="../images/shields/counter_shield_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>Reflects a portion of damage inflicted<br/>via direct attacks. This is perfect for<br/>people who don't like to turn the other<br/>cheek.</td>
   </tr>
 </table>
 
@@ -3121,7 +3121,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/student_shield_1.png"/></td>
     <td><img src="../images/shields/student_shield_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>This shield converts some direct<br/>damage into experience points. Pain is an<br/>effective teacher.</td>
   </tr>
 </table>
 
@@ -3293,7 +3293,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/bowl_shield_1.png"/></td>
     <td><img src="../images/shields/bowl_shield_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>This shield will restore some fullness if<br/>you take direct damage. The effect will<br/>increase as the shield is upgraded.</td>
   </tr>
 </table>
 
@@ -3465,7 +3465,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/spry_shield_1.png"/></td>
     <td><img src="../images/shields/spry_shield_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>This shield helps you dodge direct<br/>attacks. It feels great when monsters<br/>miss their attacks. As the shield it<br/>upgraded, dodging becomes even easier!</td>
   </tr>
 </table>
 
@@ -3636,7 +3636,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/blast_shield_1.png"/></td>
     <td><img src="../images/shields/blast_shield_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>This shield reduces explosive damage.<br/>The special effect on this shield is great.</td>
   </tr>
 </table>
 
@@ -3808,7 +3808,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/lock_shield_1.png"/></td>
     <td><img src="../images/shields/lock_shield_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>Zalokleft type monsters can't steal<br/>from you while you have this equipped.<br/>Your precious belongings won't be stolen<br/>anymore with this equipped. Never starve<br/>to death pursuing pesky purloining<br/>pilferers again!</td>
   </tr>
 </table>
 
@@ -3980,7 +3980,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/safe_shield_1.png"/></td>
     <td><img src="../images/shields/safe_shield_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>Froggo type monsters can't steal<br/>from you while you have this equipped.<br/>You'll never have to do on the fly<br/>cost-benefit analysis to figure out if its<br/>worth chasing down stolen cash again!</td>
   </tr>
 </table>
 
@@ -4152,12 +4152,12 @@ Locations:
   <tr>
     <td><img src="../images/shields/gyadon_blocker_1.png"/></td>
     <td><img src="../images/shields/gyadon_blocker_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>Gyadon type monsters can't eat<br/>your items while you have this equipped.<br/>With this, you won't have to worry about<br/>your usage counts decreasing frivolously.<br/>What a relief.</td>
   </tr>
 </table>
 
 You can protect items against Gyadon and Gyairas by placing them down or into pots,<br/>
-but you can't fight Gyandora or Gyandoron worry-free unless you have <span class="greenText">Anti-Peck</span>.<br/>It gains <span class="greenText">Agility</span> at Lv8, but it's so slow to level up, it's not worth aiming for it.
+but you can't fight Gyandora or Gyandoron worry-free unless you have <span class="greenText">Anti-Peck</span>.<br/>It gains <span class="greenText">Agile</span> at Lv8, but it's so slow to level up, it's not worth aiming for it.
 
 <table class="itemDetailsTable">
   <tbody>
@@ -4323,7 +4323,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/snake_shield_1.png"/></td>
     <td><img src="../images/shields/snake_shield_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>A shield you made from lizard scales<br/>that can reduce fire damage dealt to you.<br/>You should've made it with dragon scales,<br/>but I guess you're not ready for that.</td>
   </tr>
 </table>
 
@@ -4494,7 +4494,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/steady_shield_1.png"/></td>
     <td><img src="../images/shields/steady_shield_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>Nullifies any effect that would move you<br/>from your position. In other words, even<br/>if you use Warp Grass or<br/>Swap Staff, it won't<br/>work. This sounds...useless.</td>
   </tr>
 </table>
 
@@ -4666,7 +4666,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/anti_gaze_trge_1.png"/></td>
     <td><img src="../images/shields/anti_gaze_trge_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>This shield makes you immune to<br/>Gazer's hypnosis.<br/>Everyone hates being hypnotized, so this<br/>shield is pretty sweet.</td>
   </tr>
 </table>
 
@@ -4837,7 +4837,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/swap_shield_1.png"/></td>
     <td><img src="../images/shields/swap_shield_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>This shield transforms the effect of a<br/>Magic Bullet hit into damage. It's great<br/>that you'll be immune to the effects, but<br/>it'll hurt. Suck it up, buttercup.</td>
   </tr>
 </table>
 
@@ -5007,7 +5007,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/shoddy_plank_1.png"/></td>
     <td><img src="../images/shields/shoddy_plank_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>Its defense is strong at first, but it<br/>drops as the shield takes damage. In the<br/>end, you'll probably discard it. This<br/>process seems wasteful.</td>
   </tr>
 </table>
 
@@ -5177,7 +5177,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/glass_buckler_1.png"/></td>
     <td><img src="../images/shields/glass_buckler_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>A famed glassmaker created this work of<br/>art. It looks beautiful, but it shatters<br/>easily because it's made of glass. Who<br/>wants to use a shield made of glass?</td>
   </tr>
 </table>
 
@@ -5348,7 +5348,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/paupers_plank_1.png"/></td>
     <td><img src="../images/shields/paupers_plank_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>Every time damage it taken, Gitan is<br/>spent to reduce the damage. If you have no<br/>Gitan, the shield's strength is nullified.<br/>What a money grubbing shield.</td>
   </tr>
 </table>
 
@@ -5525,7 +5525,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/rush_shield_1.png"/></td>
     <td><img src="../images/shields/rush_shield_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>"As the name implies, this shield is<br/>made for offense. It's not really even a<br/>shield. Why you ask?"<br/>(To be continued...)</td>
   </tr>
 </table>
 
@@ -5698,7 +5698,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/blazing_shield_1.png"/></td>
     <td><img src="../images/shields/blazing_shield_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>Burn items to illuminate surroundings.<br/>This ability cannot be synthesized. Hold<br/>the fire aloft and walk through the night.</td>
   </tr>
 </table>
 
@@ -5868,7 +5868,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/onigiri_shield_1.png"/></td>
     <td><img src="../images/shields/onigiri_shield_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>Attacks that turn you or your items into<br/>onigiri are nullified. Now you can ensure<br/>your precious items' safety and make sure<br/>nothing is turned into friggin' onigiri.</td>
   </tr>
 </table>
 
@@ -6042,7 +6042,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/parry_shield_1.png"/></td>
     <td><img src="../images/shields/parry_shield_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>This shield occasionally deflects direct<br/>damage to nearby creatures. As the shield<br/>is upgraded, the likelihood of getting a<br/>deflection increases!</td>
   </tr>
 </table>
 
@@ -6218,7 +6218,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/nirvana_board_1.png"/></td>
     <td><img src="../images/shields/nirvana_board_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>Actions won't make you hungry, but max<br/>fullness is set to 1. Your max<br/>fullness won't return to normal even<br/>after unequipping the shield, so be very<br/>sure you want to equip this.</td>
   </tr>
 </table>
 
@@ -6393,7 +6393,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/pathetic_shield_1.png"/></td>
     <td><img src="../images/shields/pathetic_shield_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>A very weathered and battered shield.<br/>Its stats are quite low. It's better than<br/>nothing...barely.</td>
   </tr>
 </table>
 
@@ -6566,7 +6566,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/fox_shield_1.png"/></td>
     <td><img src="../images/shields/fox_shield_1.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>This is Koharu morphed into a shield.<br/>"Shiren! It's me! I'm Koharu!<br/>I'll work hard as your shield! I'll do my<br/>best to protect you, Shiren!"</td>
   </tr>
 </table>
 
@@ -6746,7 +6746,7 @@ Locations:
   <tr>
     <td><img src="../images/shields/helix_shield_1.png"/></td>
     <td><img src="../images/shields/helix_shield_8.png"/></td>
-    <td>DESCRIPTION_TEXT</td>
+    <td>This miraculous shield's existence<br/>still defies belief. Its spiral shape will<br/>enhance the effectiveness of Fuuma Iron.</td>
   </tr>
 </table>
 

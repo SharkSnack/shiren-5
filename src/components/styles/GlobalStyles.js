@@ -587,7 +587,7 @@ export const baseStyles = css`
 
   table tr th {
     font-weight: bold;
-    border: 1px solid #cccccc;
+    border: 1px solid #bbb;
     text-align: left;
     margin: 0;
     padding: 3px 8px;
@@ -595,7 +595,7 @@ export const baseStyles = css`
   }
 
   table tr td {
-    border: 1px solid #cccccc;
+    border: 1px solid #bbb;
     text-align: left;
     margin: 0;
     padding: 3px 8px;
@@ -625,6 +625,7 @@ export const baseStyles = css`
     padding: 2px;
   }
   .priceTable td {
+    text-align: center;
     padding: 3px;
   }
   /* Price Table Small (Price Chart page)*/
@@ -640,6 +641,15 @@ export const baseStyles = css`
   }
   .priceTableSmall td {
     font-size: 12.5px;
+  }
+  .priceTableMedium th {
+    text-align: center;
+    padding: 2px;
+  }
+  .priceTableMedium td {
+    text-align: center;
+    padding: 2px;
+    font-size: 13.5px;
   }
   .priceTablePots th {
     font-size: 13.5px;
@@ -728,6 +738,14 @@ export const baseStyles = css`
     text-align: center;
     padding: 2px;
   }
+  .itemListCentered3 th {
+    text-align: center;
+    padding: 3px;
+  }
+  .itemListCentered3 td {
+    text-align: center;
+    padding: 3px;
+  }
   .summaryTable th {
     text-align: center;
     padding: 1.5px;
@@ -736,6 +754,7 @@ export const baseStyles = css`
     padding: 1.5px;
   }
   .locationTable th {
+    background-color: #f6f4ff;
     font-weight: normal;
     text-align: center;
     padding: 1px;
@@ -745,6 +764,7 @@ export const baseStyles = css`
     padding: 1px;
   }
   .itemDetailsTable th {
+    background-color: #f6f4ff;
     font-weight: normal;
     text-align: center;
     padding: 3px;
@@ -933,38 +953,38 @@ export const baseStyles = css`
     background-color: #7aabdd;
   }
   .highlightGreen {
-    background-color: #CCFFCC;
+    background-color: #CCFFCC !important;
   }
   .highlightGray {
-    background-color: #f3f3f3;
+    background-color: #f3f3f3 !important;
   }
   .highlightYellow {
-    background-color: #ffffe4;
+    background-color: #ffffe4 !important;
   }
   .highlightPink {
-    background-color: #ffd3d3;
+    background-color: #ffd3d3 !important;
   }
   .highlightBlue {
-    background-color: #a3e0fd;
+    background-color: #a3e0fd !important;
   }
   .highlightBlack {
-    background-color: #333333;
+    background-color: #333333 !important;
     color: white;
   }
   .highlightPurple {
-    background-color: #e6e6fa;
+    background-color: #e6e6fa !important;
   }
   .highlightRed {
-    background-color: #ffb3b3;
+    background-color: #ffb3b3 !important;
   }
   .highlightOrange {
-    background-color: #fff4e6;
+    background-color: #fff4e6 !important;
   }
   .highlightLightblue {
-    background-color: #eef6ff;
+    background-color: #eef6ff !important;
   }
   .highlightNight {
-    background-color: #ebf8ff;
+    background-color: #ebf8ff !important;
   }
   .itemPageImage {
     background-color: #555;
@@ -1012,6 +1032,15 @@ export const baseStyles = css`
   }
   .purpleText {
     color: #9d338b;
+  }
+  .purpleText2 {
+    color: #a256bd;
+  }
+  .centeredText {
+    text-align: center;
+  }
+  .leftText {
+    text-align: left !important;
   }
 
   /* Image styling */
@@ -1147,6 +1176,10 @@ export const baseStyles = css`
   .smallScreenshot {
     width: 240px;
     height: auto;
+  }
+  .flower {
+    height: 70px !important;
+    width: auto;
   }
   #auraImage img {
     width: 90px !important;
