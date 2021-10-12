@@ -351,7 +351,6 @@ It can also be revealed by equipping an Alleyway Bracelet and approaching the en
   <img src="../images/other/buried_room.gif"/>
 </div>
 
-The stairs are never located inside hidden rooms.<br/>
 Lost Well can rarely feature floors where most hallways and rooms are hidden.<br/>
 People online aren't joking when they say punch walls on floors where there's no path forward.
 

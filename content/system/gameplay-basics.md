@@ -399,7 +399,7 @@ Staves:
 #### Different Category Synthesis
 
 Normally, you can only synthesize weapons with weapons, and shields with shields.<br/>However, certain different category items can be synthesized by Mixers to add runes.<br/>
-(Example: Weapon + Dragon Grass = <span class="greenText">Anti-Dragon</span> rune)<br/>→ Check [Rune List](/system/runes#rune-list) for all possible combinations.
+(Example: Weapon + Dragon Grass = <span class="greenText">Anti-Dragon</span> rune)<br/>→ Check [Rune List](/system/synthesis-runes#rune-list) for all possible combinations.
 
 #### Synthesis Methods
 

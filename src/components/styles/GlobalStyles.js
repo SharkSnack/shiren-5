@@ -974,6 +974,10 @@ export const baseStyles = css`
   .highlightPurple {
     background-color: #e6e6fa !important;
   }
+  .highlightPurple2 {
+    background-color: #7700cc !important;
+    color: white;
+  }
   .highlightRed {
     background-color: #ffb3b3 !important;
   }
