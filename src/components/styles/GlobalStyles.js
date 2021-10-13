@@ -738,6 +738,16 @@ export const baseStyles = css`
     text-align: center;
     padding: 2px;
   }
+  .itemListCenteredSmall th {
+    font-size: 13px;
+    text-align: center;
+    padding: 1.5px;
+  }
+  .itemListCenteredSmall td {
+    font-size: 13px;
+    text-align: center;
+    padding: 1.5px;
+  }
   .itemListCentered3 th {
     text-align: center;
     padding: 3px;
