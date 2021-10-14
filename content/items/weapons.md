@@ -1,7 +1,7 @@
 ---
 title: "Weapons"
 metaTitle: "Weapons - Shiren the Wanderer: Tower of Fortune Wiki"
-metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate"
+metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
 ---
 
 # Weapon List

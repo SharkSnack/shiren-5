@@ -1,7 +1,7 @@
 ---
 title: "Exp Table"
 metaTitle: "Exp Table - Shiren the Wanderer: Tower of Fortune Wiki"
-metaDescription: "Experience Point Table for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate"
+metaDescription: "Experience point table for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate"
 ---
 
 This page lists the amount of experience points needed for characters to level up.

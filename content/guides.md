@@ -1,7 +1,7 @@
 ---
 title: "Guides"
-metaTitle: "Guides - Shiren the Wanderer 2: Oni Invasion! Wiki"
-metaDescription: "Gameplay Guides for Shiren the Wanderer 2: Oni Invasion!"
+metaTitle: "Guides - Shiren the Wanderer: Tower of Fortune Wiki"
+metaDescription: "Gameplay Guides for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
 ---
 
 Click on individual sub pages.

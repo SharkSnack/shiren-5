@@ -1,7 +1,7 @@
 ---
 title: "Food"
-metaTitle: "Food - Shiren the Wanderer 2: Oni Invasion! Wiki"
-metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invasion!"
+metaTitle: "Food - Shiren the Wanderer: Tower of Fortune Wiki"
+metaDescription: "Complete food details for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
 ---
 
 # Food List

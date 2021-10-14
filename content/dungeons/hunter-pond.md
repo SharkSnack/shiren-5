@@ -1,5 +1,5 @@
 ---
 title: "Hunter Pond"
-metaTitle: "Bracelets - Shiren the Wanderer 2: Oni Invasion! Wiki"
-metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invasion!"
+metaTitle: "Hunter Pond - Shiren the Wanderer: Tower of Fortune Wiki"
+metaDescription: "Hunter Pond guide for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
 ---

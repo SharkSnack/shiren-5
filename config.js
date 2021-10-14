@@ -45,11 +45,7 @@ const config = {
       '/other',
     ],
     collapsedNav: [],
-    links: [
-      { text: 'Project Thread', link: 'https://krikzz.com/forum/index.php?topic=8495' },
-      { text: 'Project64', link: 'https://www.pj64-emu.com/windows-downloads' },
-      { text: 'RetroArch', link: 'https://retroarch.com/index.php?page=platforms' },
-    ],
+    links: [],
     frontline: false,
     ignoreIndex: false
   },

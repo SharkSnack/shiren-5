@@ -1,5 +1,5 @@
 ---
 title: "Ouma Shrine"
-metaTitle: "Bracelets - Shiren the Wanderer 2: Oni Invasion! Wiki"
-metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invasion!"
+metaTitle: "Ouma Shrine - Shiren the Wanderer: Tower of Fortune Wiki"
+metaDescription: "Ouma Shrine guide for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
 ---

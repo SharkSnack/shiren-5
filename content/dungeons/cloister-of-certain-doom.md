@@ -1,7 +1,7 @@
 ---
 title: "Cloister of Doom"
-metaTitle: "Bracelets - Shiren the Wanderer 2: Oni Invasion! Wiki"
-metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invasion!"
+metaTitle: "Cloister of Certain Doom - Shiren the Wanderer: Tower of Fortune Wiki"
+metaDescription: "Cloister of Certain Doom guide for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
 ---
 
 ## Notes

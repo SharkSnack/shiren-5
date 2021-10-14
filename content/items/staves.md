@@ -1,7 +1,7 @@
 ---
 title: "Staves"
-metaTitle: "Staves - Shiren the Wanderer 2: Oni Invasion! Wiki"
-metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invasion!"
+metaTitle: "Staves - Shiren the Wanderer: Tower of Fortune Wiki"
+metaDescription: "Complete staff details for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
 ---
 
 # Staff List

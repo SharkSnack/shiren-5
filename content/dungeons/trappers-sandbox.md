@@ -1,5 +1,5 @@
 ---
 title: "Trapper's Sandbox"
-metaTitle: "Bracelets - Shiren the Wanderer 2: Oni Invasion! Wiki"
-metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invasion!"
+metaTitle: "Trapper's Sandbox - Shiren the Wanderer: Tower of Fortune Wiki"
+metaDescription: "Trapper's Sandbox guide for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pitfall of Life"
-metaTitle: "Bracelets - Shiren the Wanderer 2: Oni Invasion! Wiki"
-metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invasion!"
+metaTitle: "Pitfall of Life - Shiren the Wanderer: Tower of Fortune Wiki"
+metaDescription: "Pitfall of Life guide for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
 ---

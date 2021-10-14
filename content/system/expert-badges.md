@@ -1,5 +1,5 @@
 ---
 title: "Expert Badges"
-metaTitle: "Bracelets - Shiren the Wanderer 2: Oni Invasion! Wiki"
-metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invasion!"
+metaTitle: "Expert Badges - Shiren the Wanderer: Tower of Fortune Wiki"
+metaDescription: "List of Expert Badges for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
 ---

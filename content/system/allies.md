@@ -1,7 +1,7 @@
 ---
 title: "Allies"
-metaTitle: "Allies - Shiren the Wanderer 2: Oni Invasion! Wiki"
-metaDescription: "List of allies and their characteristics for Shiren the Wanderer 2: Oni Invasion!"
+metaTitle: "Allies - Shiren the Wanderer: Tower of Fortune Wiki"
+metaDescription: "List of allies and their characteristics for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
 ---
 
 Allies are NPC characters who fight monsters alongside Shiren.<br/>

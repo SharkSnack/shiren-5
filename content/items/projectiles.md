@@ -1,7 +1,7 @@
 ---
 title: "Projectiles"
-metaTitle: "Projectiles - Shiren the Wanderer 2: Oni Invasion! Wiki"
-metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invasion!"
+metaTitle: "Projectiles - Shiren the Wanderer: Tower of Fortune Wiki"
+metaDescription: "Complete arrow and rock details for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
 ---
 
 # Projectile List

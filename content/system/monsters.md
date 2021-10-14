@@ -1,7 +1,7 @@
 ---
 title: "Monsters"
-metaTitle: "Monsters - Shiren the Wanderer 2: Oni Invasion! Wiki"
-metaDescription: "Complete list of monsters for Shiren the Wanderer 2: Oni Invasion!"
+metaTitle: "Monsters - Shiren the Wanderer: Tower of Fortune Wiki"
+metaDescription: "Complete list of monsters and bosses for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
 ---
 
 ## Monster List

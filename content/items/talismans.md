@@ -1,7 +1,7 @@
 ---
 title: "Talismans"
-metaTitle: "Talismans - Shiren the Wanderer 2: Oni Invasion! Wiki"
-metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invasion!"
+metaTitle: "Talismans - Shiren the Wanderer: Tower of Fortune Wiki"
+metaDescription: "Complete talisman details for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
 ---
 
 # Talisman List

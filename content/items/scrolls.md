@@ -1,7 +1,7 @@
 ---
 title: "Scrolls"
-metaTitle: "Scrolls - Shiren the Wanderer 2: Oni Invasion! Wiki"
-metaDescription: "Complete scroll details for Shiren the Wanderer 2: Oni Invasion!"
+metaTitle: "Scrolls - Shiren the Wanderer: Tower of Fortune Wiki"
+metaDescription: "Complete scroll details for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
 ---
 
 # Scroll List

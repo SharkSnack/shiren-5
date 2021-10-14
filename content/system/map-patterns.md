@@ -1,7 +1,7 @@
 ---
 title: "Map Patterns"
-metaTitle: "Map Patterns - Shiren the Wanderer 2: Oni Invasion! Wiki"
-metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invasion!"
+metaTitle: "Map Patterns - Shiren the Wanderer: Tower of Fortune Wiki"
+metaDescription: "List of map patterns used in Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
 ---
 
 ## Overview

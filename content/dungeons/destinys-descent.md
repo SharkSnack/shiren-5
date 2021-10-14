@@ -1,5 +1,5 @@
 ---
 title: "Destiny's Descent"
-metaTitle: "Bracelets - Shiren the Wanderer 2: Oni Invasion! Wiki"
-metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invasion!"
+metaTitle: "Destiny's Descent - Shiren the Wanderer: Tower of Fortune Wiki"
+metaDescription: "Destiny's Descent guide for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
 ---

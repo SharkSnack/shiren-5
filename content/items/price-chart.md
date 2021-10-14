@@ -1,7 +1,7 @@
 ---
 title: "Price Chart"
-metaTitle: "Price Chart - Shiren the Wanderer 2: Oni Invasion! Wiki"
-metaDescription: "Item price chart for Shiren the Wanderer 2: Oni Invasion!"
+metaTitle: "Price Chart - Shiren the Wanderer: Tower of Fortune Wiki"
+metaDescription: "Item price chart for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
 ---
 
 # Categories

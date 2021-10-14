@@ -1,5 +1,5 @@
 ---
 title: "Storm Forest"
-metaTitle: "Bracelets - Shiren the Wanderer 2: Oni Invasion! Wiki"
-metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invasion!"
+metaTitle: "Storm Forest - Shiren the Wanderer: Tower of Fortune Wiki"
+metaDescription: "Storm Forest guide for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
 ---

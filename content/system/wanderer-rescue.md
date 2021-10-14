@@ -1,5 +1,5 @@
 ---
 title: "Wanderer Rescue"
-metaTitle: "Bracelets - Shiren the Wanderer 2: Oni Invasion! Wiki"
-metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invasion!"
+metaTitle: "Wanderer Rescue - Shiren the Wanderer: Tower of Fortune Wiki"
+metaDescription: "Wanderer rescue guide for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
 ---

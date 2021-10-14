@@ -1,7 +1,7 @@
 ---
 title: "Runes"
-metaTitle: "Synthesis Runes - Shiren the Wanderer 2: Oni Invasion! Wiki"
-metaDescription: "Complete list of seals for Shiren the Wanderer 2: Oni Invasion!"
+metaTitle: "Synthesis Runes - Shiren the Wanderer: Tower of Fortune Wiki"
+metaDescription: "Complete list of synthesis runes for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
 ---
 
 <div class="pageTopImage screenshot">

@@ -1,7 +1,7 @@
 ---
 title: "Ponta's Lottery"
-metaTitle: "Bracelets - Shiren the Wanderer 2: Oni Invasion! Wiki"
-metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invasion!"
+metaTitle: "Ponta's Lottery - Shiren the Wanderer: Tower of Fortune Wiki"
+metaDescription: "List of Ponta's Lottery rewards for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
 ---
 
 Talk to Ponta at the Lot Shop inside the basement of Hotel Nekomaneki to play.<br/>
