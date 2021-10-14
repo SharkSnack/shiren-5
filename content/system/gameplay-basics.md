@@ -657,11 +657,18 @@ Aura effects vary by color:
 
 ### Monster Spawns
 
+It varies by dungeon, but for the most part 1 monster is generated every 30 turns or so.
 
+- Monsters won't spawn if you're in the same room.
+- Monsters won't spawn inside a shop.
+
+Up to 20 characters can be present on a floor, including Shiren, allies, and NPCs.
+
+- N'mach will vanish when it tries to reveal itself if there are 20 characters present.
 
 ## Facilities
 
-See Villages for a complete list of available facilities.
+See <a href="/system/villages">Villages</a> for a complete list of available facilities.
 
 ### Storehouse
 

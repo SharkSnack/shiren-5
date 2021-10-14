@@ -842,6 +842,18 @@ export const baseStyles = css`
   .statusTable td {
     padding: 1px;
   }
+  .trophyTable th {
+    padding: 3px;
+  }
+  .trophyTable td {
+    padding: 3px;
+  }
+  .trophyTable img {
+    position: relative !important;
+  }
+  .trophyImageTd {
+    padding: 0px !important;
+  }
   .centeredTd {
     text-align: center;
   }
@@ -1000,6 +1012,18 @@ export const baseStyles = css`
   .highlightNight {
     background-color: #ebf8ff !important;
   }
+  .highlightPlatinum {
+    background-color: #e4f8ff !important;
+  }
+  .highlightGold {
+    background-color: #fff3b4 !important;
+  }
+  .highlightSilver {
+    background-color: #e8e8e8 !important;
+  }
+  .highlightBronze {
+    background-color: #ffd4bf !important;
+  }
   .itemPageImage {
     background-color: #555;
   }
@@ -1056,7 +1080,13 @@ export const baseStyles = css`
   .leftText {
     text-align: left !important;
   }
-
+  .facility {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-bottom: 8px;
+    margin-top: 12px;
+  }
   /* Image styling */
   img {
     max-width: 100%;
@@ -1190,6 +1220,11 @@ export const baseStyles = css`
   .smallScreenshot {
     width: 240px;
     height: auto;
+  }
+  .overworldMap {
+    width: 340px;
+    height: auto;
+    margin-top: 6px;
   }
   .flower {
     height: 70px !important;

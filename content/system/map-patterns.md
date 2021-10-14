@@ -172,7 +172,9 @@ The "F" pattern can occasionally look like this:
 
 #### Spring Rooms
 
-
+<div class="relativeImage mapImage">
+  <img src="../images/maps/spring.png"/>
+</div>
 
 #### Large Maze
 
