@@ -228,7 +228,7 @@ Source: [攻撃の命中率 - 組長式(アーカイブ)](http://web.archive.org
 </div>
 
 Step on Point Switches while carrying a Point Card to accumulate points,<br/>which can then be exchanged at the Point Shop for various items.<br/>
-→ Point Shop Items
+→ <a href="/system/villages#point-shop">Point Shop Items</a>
 
 Point Switch:
 
