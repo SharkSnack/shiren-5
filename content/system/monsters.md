@@ -79,7 +79,7 @@ Monster Book Order
     <td class="highlightYellow"><a href="#shopkeeper">Shopkeeper</a></td>
   </tr>
   <tr>
-    <td class="highlightYellow"><a href="#grass-boy">Grass Boy</a></td>
+    <td class="highlightYellow"><a href="#grass-kid">Grass Kid</a></td>
     <td class="highlightGray"><a href="#tiger-tosser">Tiger Tosser</a></td>
     <td class="highlightYellow"><a href="#mixer">Mixer</a></td>
     <td class="highlightGray"><a href="#metalhead">Metalhead</a></td>
@@ -127,7 +127,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">Rust</td>
-    <td><a href="#grass-boy">Grass Boy</a> | <a href="#pin-kid">Pin Kid</a> | <a href="#sweet-nut">Sweet Nut</a> | <a href="#karakuroid">Karakuroid</a> | <a href="#swordsman">Swordsman</a> | <a href="#flamebird">Flamebird</a> | <a href="#scoopie">Scoopie</a><br/><a href="#zapdon">Zapdon</a> | <a href="#boy-cart">Boy Cart</a> | <a href="#pop-tank">Pop Tank</a> | <a href="#absorbiphant">Absorbiphant</a> | <a href="#punisher">Punisher</a> | <a href="#fo-ub">FO-Uβ</a> | <a href="#shagga">Shagga</a></td>
+    <td><a href="#grass-kid">Grass Kid</a> | <a href="#pin-kid">Pin Kid</a> | <a href="#sweet-nut">Sweet Nut</a> | <a href="#karakuroid">Karakuroid</a> | <a href="#swordsman">Swordsman</a> | <a href="#flamebird">Flamebird</a> | <a href="#scoopie">Scoopie</a><br/><a href="#zapdon">Zapdon</a> | <a href="#boy-cart">Boy Cart</a> | <a href="#pop-tank">Pop Tank</a> | <a href="#absorbiphant">Absorbiphant</a> | <a href="#punisher">Punisher</a> | <a href="#fo-ub">FO-Uβ</a> | <a href="#shagga">Shagga</a></td>
     <td>Splash water from a <a href="#">Water Pot</a><br/>to apply a negative effect.</td>
   </tr>
   <tr>
@@ -162,7 +162,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">Plant</td>
-    <td><a href="#sproutant">Sproutant</a> | <a href="#seedie">Seedie</a> | <a href="#grass-boy">Grass Boy</a> | <a href="#pin-kid">Pin Kid</a> | <a href="#sweet-nut">Sweet Nut</a> | <a href="#pumphantasm">Pumphantasm</a> | <a href="#mutaikon">Mutaikon</a></td>
+    <td><a href="#sproutant">Sproutant</a> | <a href="#seedie">Seedie</a> | <a href="#grass-kid">Grass Kid</a> | <a href="#pin-kid">Pin Kid</a> | <a href="#sweet-nut">Sweet Nut</a> | <a href="#pumphantasm">Pumphantasm</a> | <a href="#mutaikon">Mutaikon</a></td>
     <td>Weak to Anti-Plant rune</td>
   </tr>
   <tr>
@@ -192,7 +192,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">Projectile</td>
-    <td><a href="#grass-boy">Grass Boy</a> | <a href="#tiger-tosser">Tiger Tosser</a> | <a href="#floaty">Floaty</a> | <a href="#mutaikon">Mutaikon</a> | <a href="#bored-kappa">Bored Kappa</a> | <a href="#scoopie">Scoopie</a> | <a href="#porky">Porky</a><br/><a href="#boy-cart">Boy Cart</a> | <a href="#field-knave">Field Knave</a></td>
+    <td><a href="#grass-kid">Grass Kid</a> | <a href="#tiger-tosser">Tiger Tosser</a> | <a href="#floaty">Floaty</a> | <a href="#mutaikon">Mutaikon</a> | <a href="#bored-kappa">Bored Kappa</a> | <a href="#scoopie">Scoopie</a> | <a href="#porky">Porky</a><br/><a href="#boy-cart">Boy Cart</a> | <a href="#field-knave">Field Knave</a></td>
     <td>Appears in projectile houses</td>
   </tr>
   <tr>
@@ -7521,8 +7521,6 @@ Element Order
   </tr>
 </table>
 
-### Boss Group
-
 ### Jack Wand
 
 <div class="relativeImage bossImage">
@@ -7630,6 +7628,8 @@ Element Order
     </ul>
   </li>
 </ul>
+
+### Boss Group
 
 ### Reeva Statue
 

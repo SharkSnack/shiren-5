@@ -417,10 +417,10 @@ If nothing happens when you punch the wall after Shiren stops, take 1 step forwa
 ### Maze Room
 
 Room shaped like a maze.<br/>
-It's treated as a room despite consisting of hallways, meaning items can be found.<br/>However, traps and stairs are never generated in mazes.<br/>
+It's treated as a room despite consisting of hallways, meaning items can be found.<br/>However, traps and stairs are never generated in non-floor-wide mazes.<br/>
 It's also possible for the entire floor to be a maze.
 
-<div class="relativeImage">
+<div class="relativeImage smallScreenshot">
   <img src="../images/maps/maze.png"/>
 </div>
 

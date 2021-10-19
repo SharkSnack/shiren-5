@@ -691,6 +691,27 @@ export const baseStyles = css`
     padding: 2px;
     font-size: 13px;
   }
+  .dungeonMonsters th {
+    background-color: #f3f3f3;
+    font-weight: normal;
+    text-align: center;
+    padding: 2px;
+  }
+  .dungeonMonsters td {
+    font-size: 12.65px;
+    text-align: center;
+    padding: 2px;
+  }
+  .dungeonMonsterList th {
+    background-color: #f3f3f3;
+    font-weight: normal;
+    text-align: center;
+    padding: 2px;
+  }
+  .dungeonMonsterList td {
+    font-size: 13px;
+    padding: 2px;
+  }
   .monsterPageTable th {
     font-weight: normal;
     text-align: center;
@@ -716,12 +737,31 @@ export const baseStyles = css`
   #monsterList td {
     text-align: center;
   }
+  .dungeonItemTable th {
+    font-weight: normal;
+    background-color: #ececec;
+    text-align: center;
+    padding: 3.5px;
+  }
+  .dungeonItemTable td {
+    text-align: center;
+    padding: 3.5px;
+  }
   .itemTable th {
     text-align: center;
     padding: 3px;
   }
   .itemTable td {
     padding: 3px;
+  }
+  .trainingTable th {
+    font-weight: normal;
+    font-size: 13.5px;
+    padding: 2.5px;
+  }
+  .trainingTable td {
+    font-size: 13.5px;
+    padding: 2.5px;
   }
   .itemListTable th {
     text-align: center;
@@ -784,6 +824,23 @@ export const baseStyles = css`
   }
   .itemDetailsTable img {
     position: relative !important;
+  }
+  .dungeonOverview {
+    padding-bottom: 8px;
+  }
+  .dungeonOverview th {
+    background-color: #dfb9ff;
+    font-weight: normal;
+  }
+  .dungeonTable img {
+    width: 32px !important;
+    position: relative !important;
+  }
+  .dungeonTable th {
+    font-weight: normal;
+  }
+  .clearIcon {
+    padding: 0px;
   }
   .npcTable th {
     font-weight: normal;
@@ -1000,17 +1057,32 @@ export const baseStyles = css`
     background-color: #7700cc !important;
     color: white;
   }
+  .highlightPurple3 {
+    background-color: #dfb9ff !important;
+  }
   .highlightRed {
     background-color: #ffb3b3 !important;
   }
   .highlightOrange {
     background-color: #fff4e6 !important;
   }
+  .highlightOrange2 {
+    background-color: #ffe3b9;
+  }
+  .highlightOrange3 {
+    background-color: #ffb23e;
+  }
   .highlightLightblue {
     background-color: #eef6ff !important;
   }
   .highlightNight {
     background-color: #ebf8ff !important;
+  }
+  .highlightNight2 {
+    background-color: #d3cfff;
+  }
+  .highlightNight3 {
+    background-color: #ecb8ff;
   }
   .highlightPlatinum {
     background-color: #e4f8ff !important;
@@ -1053,8 +1125,14 @@ export const baseStyles = css`
   /* end list styling */
 
   /* Paragraph styling */
+  .emphasis {
+    font-weight: bold;
+  }
   .orangeText {
     color: #f9a100;
+  }
+  .orangeText2 {
+    color: #fd8200;
   }
   .blueText {
     color: #66f;
@@ -1064,6 +1142,9 @@ export const baseStyles = css`
   }
   .redText {
     color: #f66;
+  }
+  .redText2 {
+    color: red;
   }
   .greenText {
     color: #009e25;
