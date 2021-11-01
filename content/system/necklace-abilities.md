@@ -185,7 +185,7 @@ Most abilities deal 2 damage to shopkeepers, but status effects still work on th
     <td class="highlightYellow">HP Divider</td>
     <td>-</td>
     <td>Apprentice</td>
-    <td>Halves the HP of all targets in the room.<br/>The target will be defeats if they were at 1 HP.</td>
+    <td>Halves the HP of all targets in the room.<br/>The target will be defeated if they were at 1 HP.</td>
   </tr>
   <tr>
     <td class="highlightYellow">Room Healing Flash</td>
