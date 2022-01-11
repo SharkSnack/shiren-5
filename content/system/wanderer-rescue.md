@@ -47,13 +47,13 @@ Switch / Steam versions have cross-platform rescues, and aren't region-locked.<b
 Most of the rescue process is performed through the main menu.
 
 <ol>
-  <li><span class="highlightBlue">Requesting Side</span> : Select "Yes" after collapsing → Get Rescued → Send Rescue Request → Internet or Password</li>
-  <li><span class="highlightPink">Rescuing Side</span> : Wanderer Rescue → Rescue → Receive Rescue Request</li>
-  <li><span class="highlightPink">Rescuing Side</span> : Play Game → Talk to the Rescuer inside Hotel Nekomaneki and go on the rescue.</li>
-  <li><span class="highlightPink">Rescuing Side</span> : Send the revival spell. Wanderer Rescue → Rescue → Send Revival Spell</li>
-  <li><span class="highlightBlue">Requesting Side</span> : Receive the revival spell. Get Rescued → Receive/check revival spell</li>
-  <li><span class="highlightBlue">Requesting Side</span> : Send a thank you letter. Wanderer Rescue → Get Rescued → Send Thank You Letter</li>
-  <li><span class="highlightPink">Rescuing Side</span> : Receive the thank you letter. Wanderer Rescue → Rescue → Receive Thank You Letter</li>
+  <li><span class="highlightBlue">Request Side</span> : Select "Yes" after collapsing → Get Rescued → Send Rescue Request → Internet or Password</li>
+  <li><span class="highlightPink">Rescue Side</span> : Wanderer Rescue → Rescue → Receive Rescue Request</li>
+  <li><span class="highlightPink">Rescue Side</span> : Play Game → Talk to the Rescuer inside Hotel Nekomaneki and go on the rescue.</li>
+  <li><span class="highlightPink">Rescue Side</span> : Send the revival spell. Wanderer Rescue → Rescue → Send Revival Spell</li>
+  <li><span class="highlightBlue">Request Side</span> : Receive the revival spell. Get Rescued → Receive/check revival spell</li>
+  <li><span class="highlightBlue">Request Side</span> : Send a thank you letter. Wanderer Rescue → Get Rescued → Send Thank You Letter</li>
+  <li><span class="highlightPink">Rescue Side</span> : Receive the thank you letter. Wanderer Rescue → Rescue → Receive Thank You Letter</li>
 </ol>
 
 # Requesting
@@ -83,7 +83,7 @@ Share a rescue request in the form of a 54 character password.<br/>
 Less convenient, but the password never expires and works offline.
 
 Often used to share dungeon seeds that have rare items, since it doesn't expire after a successful rescue.<br/>
-(See <a href="/guides/rescue-passwords">Rescue Passwords</a>)
+(See [Rescue Passwords](/guides/rescue-passwords))
 
 ### Wanderer Awaiting Rescue
 

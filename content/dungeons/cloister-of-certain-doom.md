@@ -1,5 +1,5 @@
 ---
-title: "Cloister of Doom"
+title: "Cloister of Certain Doom"
 metaTitle: "Cloister of Certain Doom - Shiren the Wanderer: Tower of Fortune Wiki"
 metaDescription: "Cloister of Certain Doom guide for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
 ---

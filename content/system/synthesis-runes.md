@@ -1,5 +1,5 @@
 ---
-title: "Runes"
+title: "Synthesis Runes"
 metaTitle: "Synthesis Runes - Shiren the Wanderer: Tower of Fortune Wiki"
 metaDescription: "Complete list of synthesis runes for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
 ---
@@ -1371,11 +1371,11 @@ Priority: <span class="highlightPink">High</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/weapons#baffle-axe">Baffle Axe</a><br/><a href="/shiren5/item/grass#confusion-grass">Confusion Grass</a></td>
-    <td><a href="/shiren5/item/weapons#sturdy-hammer">Fine Hammer</a> 5<br/><a href="/shiren5/item/weapons#old-mallet">Fine Mallet</a> 5<br/><a href="/shiren5/item/weapons#bright-blade">Flash Sword</a> 5</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#baffle-axe">Baffle Axe</a><br/><a href="/shiren-5/items/grass#confusion-grass">Confusion Grass</a></td>
+    <td><a href="/shiren-5/items/weapons#sturdy-hammer">Fine Hammer</a> 5<br/><a href="/shiren-5/items/weapons#old-mallet">Fine Mallet</a> 5<br/><a href="/shiren-5/items/weapons#bright-blade">Flash Sword</a> 5</td>
     <td>1000</td>
     <td>350</td>
-    <td>12% chance to inflict <a href="/shiren5/system/status-conditions#confused">Confused</a> status for 20 turns</td>
+    <td>12% chance to inflict <a href="/shiren-5/system/status-conditions#confused">Confused</a> status for 20 turns</td>
   </tr>
 </table>
 
@@ -1395,11 +1395,11 @@ Priority: <span class="highlightRed">Top</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/weapons#shockuto">Shockuto</a><br/><a href="/shiren5/item/staves#paralysis-staff">Paralysis Staff</a></td>
-    <td><a href="/shiren5/item/weapons#hatchet">War God's Axe</a> 8<br/><a href="/shiren5/item/weapons#dull-gold-edge">Pure Gold Blade</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#shockuto">Shockuto</a><br/><a href="/shiren-5/items/staves#paralysis-staff">Paralysis Staff</a></td>
+    <td><a href="/shiren-5/items/weapons#hatchet">War God's Axe</a> 8<br/><a href="/shiren-5/items/weapons#dull-gold-edge">Pure Gold Blade</a> 8</td>
     <td>1000</td>
     <td>350</td>
-    <td>12% chance to inflict <a href="/shiren5/system/status-conditions#paralyzed">Paralyzed</a> status</td>
+    <td>12% chance to inflict <a href="/shiren-5/system/status-conditions#paralyzed">Paralyzed</a> status</td>
   </tr>
 </table>
 
@@ -1418,11 +1418,11 @@ Priority: <span class="highlightBlue">Low</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/weapons#sealing-keisaku">Sealing Keisaku</a><br/><a href="/shiren5/item/staves#seal-staff">Seal Staff</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#sealing-keisaku">Sealing Keisaku</a><br/><a href="/shiren-5/items/staves#seal-staff">Seal Staff</a></td>
     <td>-</td>
     <td>1000</td>
     <td>350</td>
-    <td>12% chance to inflict <a href="/shiren5/system/status-conditions#sealed">Sealed</a> status</td>
+    <td>12% chance to inflict <a href="/shiren-5/system/status-conditions#sealed">Sealed</a> status</td>
   </tr>
 </table>
 
@@ -1441,11 +1441,11 @@ Priority: <span class="highlightRed">Top</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/weapons#nap-rattle">Nap Rattle</a><br/><a href="/shiren5/item/grass#sleepy-grass">Sleepy Grass</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#nap-rattle">Nap Rattle</a><br/><a href="/shiren-5/items/grass#sleepy-grass">Sleepy Grass</a></td>
     <td>-</td>
     <td>1000</td>
     <td>350</td>
-    <td>12% chance to inflict <a href="/shiren5/system/status-conditions#asleep">Asleep</a> status for 6 turns</td>
+    <td>12% chance to inflict <a href="/shiren-5/system/status-conditions#asleep">Asleep</a> status for 6 turns</td>
   </tr>
 </table>
 
@@ -1464,11 +1464,11 @@ Priority: <span class="highlightPink">High</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/weapons#blurry-stick">Blurry Stick</a><br/><a href="/shiren5/item/grass#blinding-grass">Blinding Grass</a></td>
-    <td><a href="/shiren5/item/weapons#wonder-pick">Wonder Basher</a> 5<br/><a href="/shiren5/item/weapons#rusty-pickaxe">Sturdy Pickaxe</a> 5<br/><a href="/shiren5/item/weapons#violent-blade">Muramasa</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#blurry-stick">Blurry Stick</a><br/><a href="/shiren-5/items/grass#blinding-grass">Blinding Grass</a></td>
+    <td><a href="/shiren-5/items/weapons#wonder-pick">Wonder Basher</a> 5<br/><a href="/shiren-5/items/weapons#rusty-pickaxe">Sturdy Pickaxe</a> 5<br/><a href="/shiren-5/items/weapons#violent-blade">Muramasa</a> 8</td>
     <td>1000</td>
     <td>350</td>
-    <td>12% chance to inflict <a href="/shiren5/system/status-conditions#blind">Blind</a> status for 10 turns</td>
+    <td>12% chance to inflict <a href="/shiren-5/system/status-conditions#blind">Blind</a> status for 10 turns</td>
   </tr>
 </table>
 
@@ -1487,11 +1487,11 @@ Priority: <span class="highlightRed">Top</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/scrolls#lost-scroll">Lost Scroll</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/scrolls#lost-scroll">Lost Scroll</a></td>
     <td>-</td>
     <td>1000</td>
     <td>350</td>
-    <td>12% chance to inflict <a href="/shiren5/system/status-conditions#apathetic">Apathetic</a> status for 6 turns</td>
+    <td>12% chance to inflict <a href="/shiren-5/system/status-conditions#apathetic">Apathetic</a> status for 6 turns</td>
   </tr>
 </table>
 
@@ -1510,8 +1510,8 @@ Priority: <span class="highlightBlue">Low</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/weapons#crescent-katana">Crescent Katana</a></td>
-    <td><a href="/shiren5/item/weapons#burning-blade">Hellfire Katana</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#crescent-katana">Crescent Katana</a></td>
+    <td><a href="/shiren-5/items/weapons#burning-blade">Hellfire Katana</a> 8</td>
     <td>500</td>
     <td>175</td>
     <td>Deal x1.35 damage to Exploding types<br/><br/>Families: Pop Tank, Explochin, Sweet Nut</td>
@@ -1533,7 +1533,7 @@ Priority: <span class="highlightRed">Top</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/weapons#water-cutter">Water Cutter</a><br/><a href="/shiren5/item/scrolls#desert-scroll">Desert Scroll</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#water-cutter">Water Cutter</a><br/><a href="/shiren-5/items/scrolls#desert-scroll">Desert Scroll</a></td>
     <td>-</td>
     <td>500</td>
     <td>175</td>
@@ -1557,7 +1557,7 @@ Priority: <span class="highlightRed">Top</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/weapons#sky-splitter">Sky Splitter</a><br/><a href="/shiren5/item/grass#warp-grass">Warp Grass</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#sky-splitter">Sky Splitter</a><br/><a href="/shiren-5/items/grass#warp-grass">Warp Grass</a></td>
     <td>-</td>
     <td>500</td>
     <td>175</td>
@@ -1581,8 +1581,8 @@ Priority: <span class="highlightBlue">Low</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/weapons#myopic-masher">Myopic Masher</a><br/><a href="/shiren5/item/grass#perception-grass">Perception Grass</a></td>
-    <td><a href="/shiren5/item/weapons#violent-blade">Evil Blade</a> 6</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#myopic-masher">Myopic Masher</a><br/><a href="/shiren-5/items/grass#perception-grass">Perception Grass</a></td>
+    <td><a href="/shiren-5/items/weapons#violent-blade">Evil Blade</a> 6</td>
     <td>500</td>
     <td>175</td>
     <td>Deal x1.35 damage to Cyclopean types<br/><br/>Families: Explochin, Metalhead, Gazer, Foly</td>
@@ -1604,7 +1604,7 @@ Priority: <span class="highlightPink">High</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/weapons#drain-dagger">Drain Dagger</a><br/><a href="/shiren5/item/grass#antidote-grass">Antidote Grass</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#drain-dagger">Drain Dagger</a><br/><a href="/shiren-5/items/grass#antidote-grass">Antidote Grass</a></td>
     <td>-</td>
     <td>500</td>
     <td>175</td>
@@ -1627,7 +1627,7 @@ Priority: <span class="highlightYellow">Mid</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/weapons#lizard-lasher">Lizard Lasher</a><br/><a href="/shiren5/item/grass#dragon-grass">Dragon Grass</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#lizard-lasher">Lizard Lasher</a><br/><a href="/shiren-5/items/grass#dragon-grass">Dragon Grass</a></td>
     <td>-</td>
     <td>500</td>
     <td>175</td>
@@ -1650,7 +1650,7 @@ Priority: <span class="highlightYellow">Mid</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/weapons#copper-cleaver">Copper Cleaver</a><br/><a href="/shiren5/item/projectiles#iron-arrow">Iron Arrow</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#copper-cleaver">Copper Cleaver</a><br/><a href="/shiren-5/items/projectiles#iron-arrow">Iron Arrow</a></td>
     <td>-</td>
     <td>500</td>
     <td>175</td>
@@ -1673,7 +1673,7 @@ Priority: <span class="highlightPink">High</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/weapons#scythe">Scythe</a><br/><a href="/shiren5/item/grass#weeds">Weeds</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#scythe">Scythe</a><br/><a href="/shiren-5/items/grass#weeds">Weeds</a></td>
     <td>-</td>
     <td>500</td>
     <td>175</td>
@@ -1696,7 +1696,7 @@ Priority: <span class="highlightBlue">Low</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/weapons#magic-masher">Magic Masher</a><br/><a href="/shiren5/item/staves#ordinary-staff">Ordinary Staff</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#magic-masher">Magic Masher</a><br/><a href="/shiren-5/items/staves#ordinary-staff">Ordinary Staff</a></td>
     <td>-</td>
     <td>500</td>
     <td>175</td>
@@ -1719,7 +1719,7 @@ Priority: <span class="highlightRed">Top</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/weapons#breeze-blade">Breeze Blade</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#breeze-blade">Breeze Blade</a></td>
     <td>-</td>
     <td>3000</td>
     <td>1050</td>
@@ -1742,8 +1742,8 @@ Priority: <span class="highlightPink">High</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/weapons#hatchet">Hatchet</a></td>
-    <td><a href="/shiren5/item/weapons#kaburagi">Kaburasutegi</a> 8<br/><a href="/shiren5/item/weapons#true-knife">True Striker-X</a> 8<br/><a href="/shiren5/item/weapons#shoddy-dirk">Worthy Sword</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#hatchet">Hatchet</a></td>
+    <td><a href="/shiren-5/items/weapons#kaburagi">Kaburasutegi</a> 8<br/><a href="/shiren-5/items/weapons#true-knife">True Striker-X</a> 8<br/><a href="/shiren-5/items/weapons#shoddy-dirk">Worthy Sword</a> 8</td>
     <td>1000</td>
     <td>350</td>
     <td>22% chance to deal a critical hit</td>
@@ -1765,8 +1765,8 @@ Priority: <span class="highlightBlue">Low</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/weapons#bright-blade">Bright Blade</a></td>
-    <td><a href="/shiren5/item/weapons#ordinary-stick">Ogre's Club</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#bright-blade">Bright Blade</a></td>
+    <td><a href="/shiren-5/items/weapons#ordinary-stick">Ogre's Club</a> 8</td>
     <td>500</td>
     <td>175</td>
     <td>Deal a charge attack after missing twice<br/>(100% accuracy + critical hit)</td>
@@ -1788,8 +1788,8 @@ Priority: <span class="highlightBlue">Low</span> (Early game: <span class="highl
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/weapons#burning-blade">Burning Blade</a></td>
-    <td><a href="/shiren5/item/weapons#fuuma-sword">Fiery Fuuma</a> 7<br/><a href="/shiren5/item/weapons#red-blade">Shugouseki</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#burning-blade">Burning Blade</a></td>
+    <td><a href="/shiren-5/items/weapons#fuuma-sword">Fiery Fuuma</a> 7<br/><a href="/shiren-5/items/weapons#red-blade">Shugouseki</a> 8</td>
     <td>2000</td>
     <td>700</td>
     <td>Shoot a fireball that deals 8 damage when HP is full</td>
@@ -1815,8 +1815,8 @@ Priority: <span class="highlightPink">High</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue">Choose 2 from:<br/><a href="/shiren5/item/grass#swift-grass">Swift Grass</a><br/><a href="/shiren5/item/talismans#swift-talisman">Swift Talisman</a><br/><a href="/shiren5/item/staves#swift-staff">Swift Staff</a></td>
-    <td><a href="/shiren5/item/weapons#kaburagi">Kaburasutegi</a> 8<br/><a href="/shiren5/item/weapons#kabura-katana">S-Class Kabura</a> 8<br/><a href="/shiren5/item/weapons#shoddy-dirk">Worthy Sword</a> 8</td>
+    <td class="highlightLightblue">Choose 2 from:<br/><a href="/shiren-5/items/grass#swift-grass">Swift Grass</a><br/><a href="/shiren-5/items/talismans#swift-talisman">Swift Talisman</a><br/><a href="/shiren-5/items/staves#swift-staff">Swift Staff</a></td>
+    <td><a href="/shiren-5/items/weapons#kaburagi">Kaburasutegi</a> 8<br/><a href="/shiren-5/items/weapons#kabura-katana">S-Class Kabura</a> 8<br/><a href="/shiren-5/items/weapons#shoddy-dirk">Worthy Sword</a> 8</td>
     <td>1000</td>
     <td>350</td>
     <td>12% chance to attack twice</td>
@@ -1838,7 +1838,7 @@ Priority: <span class="highlightRed">Top</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/weapons#dirk-of-debts">Dirk of Debts</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#dirk-of-debts">Dirk of Debts</a></td>
     <td>-</td>
     <td>1000</td>
     <td>350</td>
@@ -1861,7 +1861,7 @@ Priority: <span class="highlightYellow">Mid</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/scrolls#oil-scroll">Oil Scroll</a><br/>+ <a href="/shiren5/item/grass#upgrade-seed">Upgrade Seed</a><br/>+ <a href="/shiren5/item/bracelets#explosion-bracelet">Explosion Bracelet</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/scrolls#oil-scroll">Oil Scroll</a><br/>+ <a href="/shiren-5/items/grass#upgrade-seed">Upgrade Seed</a><br/>+ <a href="/shiren-5/items/bracelets#explosion-bracelet">Explosion Bracelet</a></td>
     <td>-</td>
     <td>1000</td>
     <td>350</td>
@@ -1884,7 +1884,7 @@ Priority: <span class="highlightYellow">Mid</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/staves#sharing-staff">Sharing Staff</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/staves#sharing-staff">Sharing Staff</a></td>
     <td>-</td>
     <td>1000</td>
     <td>350</td>
@@ -1907,7 +1907,7 @@ Priority: <span class="highlightGray">Avoid</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/weapons#extreme-sword">Extreme Sword</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#extreme-sword">Extreme Sword</a></td>
     <td>-</td>
     <td>1000</td>
     <td>350</td>
@@ -1930,25 +1930,25 @@ Priority: <span class="highlightBlue">Low</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/grass#herb">Herb</a></td>
-    <td><a href="/shiren5/item/weapons#hatchet">Tomahawk</a> 5<br/><a href="/shiren5/item/weapons#bright-blade">Spark Sword</a> 5</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/grass#herb">Herb</a></td>
+    <td><a href="/shiren-5/items/weapons#hatchet">Tomahawk</a> 5<br/><a href="/shiren-5/items/weapons#bright-blade">Spark Sword</a> 5</td>
     <td rowspan="4">500</td>
     <td rowspan="4">175</td>
     <td>Increase max HP by 5</td>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/grass#otogiriso">Otogiriso</a></td>
-    <td><a href="/shiren5/item/weapons#red-blade">Red Dagger</a> 3<br/><a href="/shiren5/item/weapons#bladite">Fine Swordite</a> 4<br/><a href="/shiren5/item/weapons#burning-blade">Fire Sword</a> 5</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/grass#otogiriso">Otogiriso</a></td>
+    <td><a href="/shiren-5/items/weapons#red-blade">Red Dagger</a> 3<br/><a href="/shiren-5/items/weapons#bladite">Fine Swordite</a> 4<br/><a href="/shiren-5/items/weapons#burning-blade">Fire Sword</a> 5</td>
     <td>Increase max HP by 10</td>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/grass#heal-grass">Heal Grass</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/grass#heal-grass">Heal Grass</a></td>
     <td>-</td>
     <td>Increase max HP by 15</td>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/grass#life-grass">Life Grass</a></td>
-    <td><a href="/shiren5/item/weapons#fox-kodachi">Fox Katana</a> 2<br/><a href="/shiren5/item/weapons#breeze-blade">Deathwind</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/grass#life-grass">Life Grass</a></td>
+    <td><a href="/shiren-5/items/weapons#fox-kodachi">Fox Katana</a> 2<br/><a href="/shiren-5/items/weapons#breeze-blade">Deathwind</a> 8</td>
     <td>Increase max HP by 20</td>
   </tr>
 </table>
@@ -1972,8 +1972,8 @@ Priority: <span class="highlightBlue">Low</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/grass#cheery-grass">Cheery Grass</a></td>
-    <td><a href="/shiren5/item/weapons#dotanuki">Epic Dotanuki</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/grass#cheery-grass">Cheery Grass</a></td>
+    <td><a href="/shiren-5/items/weapons#dotanuki">Epic Dotanuki</a> 8</td>
     <td>1000</td>
     <td>350</td>
     <td>Increase weapon base attack by 3</td>
@@ -1995,7 +1995,7 @@ Priority: <span class="highlightYellow">Mid</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/grass#angel-seed">Angel Seed</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/grass#angel-seed">Angel Seed</a></td>
     <td>-</td>
     <td>1000</td>
     <td>350</td>
@@ -2018,7 +2018,7 @@ Priority: <span class="highlightBlack">N/A</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/weapons#wonder-pick">Wonder Pick</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#wonder-pick">Wonder Pick</a></td>
     <td>-</td>
     <td>5000</td>
     <td>1750</td>
@@ -2041,7 +2041,7 @@ Priority: <span class="highlightGray">Avoid</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/weapons#rusty-pickaxe">Rusty Pickaxe</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#rusty-pickaxe">Rusty Pickaxe</a></td>
     <td>-</td>
     <td>500</td>
     <td>175</td>
@@ -2064,7 +2064,7 @@ Priority: <span class="highlightBlue">Low</span> (If your shield doesn't have Ru
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/weapons#dull-gold-edge">Dull Gold Edge</a><br/><a href="/shiren5/item/scrolls#plating-scroll">Plating Scroll</a> (read)</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#dull-gold-edge">Dull Gold Edge</a><br/><a href="/shiren-5/items/scrolls#plating-scroll">Plating Scroll</a> (read)</td>
     <td>Many weapons</td>
     <td>500</td>
     <td>175</td>
@@ -2091,8 +2091,8 @@ Priority: <span class="highlightGray">Avoid</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/grass#unlucky-seed">Unlucky Seed</a></td>
-    <td><a href="/shiren5/item/weapons#glass-dirk">Frangible Edge</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/grass#unlucky-seed">Unlucky Seed</a></td>
+    <td><a href="/shiren-5/items/weapons#glass-dirk">Frangible Edge</a> 8</td>
     <td>8000</td>
     <td>2800</td>
     <td>12% chance to decrease target's level by 1</td>
@@ -2114,7 +2114,7 @@ Priority: <span class="highlightBlue">Low</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/grass#superunlucky-seed">SuperUnlucky Seed</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/grass#superunlucky-seed">SuperUnlucky Seed</a></td>
     <td>-</td>
     <td>-</td>
     <td>-</td>
@@ -2137,7 +2137,7 @@ Priority: <span class="highlightGray">Avoid</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/weapons#shoddy-dirk">Shoddy Dirk</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#shoddy-dirk">Shoddy Dirk</a></td>
     <td>-</td>
     <td>100</td>
     <td>35</td>
@@ -2160,7 +2160,7 @@ Priority: <span class="highlightGray">Avoid</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/weapons#glass-dirk">Glass Dirk</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#glass-dirk">Glass Dirk</a></td>
     <td>-</td>
     <td>1000</td>
     <td>350</td>
@@ -2183,7 +2183,7 @@ Priority: <span class="highlightGray">Avoid</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/weapons#violent-blade">Violent Blade</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#violent-blade">Violent Blade</a></td>
     <td>-</td>
     <td>1000</td>
     <td>350</td>
@@ -2206,7 +2206,7 @@ Priority: <span class="highlightBlue">Low</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/pots#upgrade-pot">Upgrade Pot</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/pots#upgrade-pot">Upgrade Pot</a></td>
     <td>-</td>
     <td>1000</td>
     <td>350</td>
@@ -2229,7 +2229,7 @@ Priority: <span class="highlightRed">High</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/bracelets#heal-bracelet">Heal Bracelet</a><br/>+ <a href="/shiren5/item/pots#heal-pot">Heal Pot</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/bracelets#heal-bracelet">Heal Bracelet</a><br/>+ <a href="/shiren-5/items/pots#heal-pot">Heal Pot</a></td>
     <td>-</td>
     <td>1000</td>
     <td>350</td>
@@ -2252,7 +2252,7 @@ Priority: <span class="highlightGray">Avoid</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/weapons#old-mallet">Old Mallet</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#old-mallet">Old Mallet</a></td>
     <td>-</td>
     <td>500</td>
     <td>175</td>
@@ -2277,8 +2277,8 @@ Priority: <span class="highlightRed">Top</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/shields#snake-shield">Snake Shield</a><br/><a href="/shiren5/item/grass#dragon-grass">Dragon Grass</a></td>
-    <td><a href="/shiren5/item/shields#red-shield">Shugouseki</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#snake-shield">Snake Shield</a><br/><a href="/shiren-5/items/grass#dragon-grass">Dragon Grass</a></td>
+    <td><a href="/shiren-5/items/shields#red-shield">Shugouseki</a> 8</td>
     <td>5000</td>
     <td>1750</td>
     <td>Reduces fire damage by 50%</td>
@@ -2300,8 +2300,8 @@ Priority: <span class="highlightRed">Top</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlight_blue"><a href="/shiren5/item/shields#blast-shield">Blast Shield</a></td>
-    <td><a href="/shiren5/item/shields#lock-shield">Retina Scan</a> 8<br/><a href="/shiren5/item/shields#safe-shield">Fort Knox</a> 8</td>
+    <td class="highlight_blue"><a href="/shiren-5/items/shields#blast-shield">Blast Shield</a></td>
+    <td><a href="/shiren-5/items/shields#lock-shield">Retina Scan</a> 8<br/><a href="/shiren-5/items/shields#safe-shield">Fort Knox</a> 8</td>
     <td>100</td>
     <td>35</td>
     <td>Reduces explosive damage by 50%</td>
@@ -2323,7 +2323,7 @@ Priority: <span class="highlightRed">Top</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/shields#day-shield">Day Shield</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#day-shield">Day Shield</a></td>
     <td>-</td>
     <td>3000</td>
     <td>1050</td>
@@ -2346,7 +2346,7 @@ Priority: <span class="highlightGray">Avoid</span> (Shield for night: <span clas
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/shields#midnight-shield">Midnight Shield</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#midnight-shield">Midnight Shield</a></td>
     <td>-</td>
     <td>3000</td>
     <td>1050</td>
@@ -2369,7 +2369,7 @@ Priority: <span class="highlightPink">High</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/shields#paupers-plank">Pauper's Plank</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#paupers-plank">Pauper's Plank</a></td>
     <td>-</td>
     <td>2000</td>
     <td>700</td>
@@ -2393,7 +2393,7 @@ Priority: <span class="highlightRed">Top</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/shields#binary-shield">Binary Shield</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#binary-shield">Binary Shield</a></td>
     <td>-</td>
     <td>5000</td>
     <td>1750</td>
@@ -2416,7 +2416,7 @@ Priority: <span class="highlightRed">Top</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/bracelets#explosion-bracelet">Explosion Bracelet</a><br/>+ <a href="/shiren5/item/staves#fort-staff">Fort. Staff</a><br/>+ <a href="/shiren5/item/scrolls#immunity-scroll">Immunity Scroll</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/bracelets#explosion-bracelet">Explosion Bracelet</a><br/>+ <a href="/shiren-5/items/staves#fort-staff">Fort. Staff</a><br/>+ <a href="/shiren-5/items/scrolls#immunity-scroll">Immunity Scroll</a></td>
     <td>-</td>
     <td>1000</td>
     <td>350</td>
@@ -2439,8 +2439,8 @@ Priority: <span class="highlightRed">Top</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/shields#spry-shield">Spry Shield</a><br/><a href="/shiren5/item/grass#perception-grass">Perception Grass</a> x2</td>
-    <td><a href="/shiren5/item/shields#gyadon-blocker">Gyad-NON!</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#spry-shield">Spry Shield</a><br/><a href="/shiren-5/items/grass#perception-grass">Perception Grass</a> x2</td>
+    <td><a href="/shiren-5/items/shields#gyadon-blocker">Gyad-NON!</a> 8</td>
     <td>3000</td>
     <td>1050</td>
     <td>Increases evasion from 12% → 22%</td>
@@ -2462,7 +2462,7 @@ Priority: <span class="highlightPurple2">Situational</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/shields#parry-shield">Parry Shield</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#parry-shield">Parry Shield</a></td>
     <td>-</td>
     <td>1000</td>
     <td>350</td>
@@ -2485,7 +2485,7 @@ Priority: <span class="highlightPink">High</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/shields#gold-shield">Gold Shield</a><br/><a href="/shiren5/item/scrolls#plating-scroll">Plating Scroll</a> (read)</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#gold-shield">Gold Shield</a><br/><a href="/shiren-5/items/scrolls#plating-scroll">Plating Scroll</a> (read)</td>
     <td>Many shields</td>
     <td>500</td>
     <td>175</td>
@@ -2513,8 +2513,8 @@ Priority: <span class="highlightPurple2">Situational</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/shields#steady-shield">Steady Shield</a></td>
-    <td><a href="/shiren5/item/shields#parry-shield">Untouchable</a> 8<br/><a href="/shiren5/item/shields#heavy-shield">Ultimate Aegis</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#steady-shield">Steady Shield</a></td>
+    <td><a href="/shiren-5/items/shields#parry-shield">Untouchable</a> 8<br/><a href="/shiren-5/items/shields#heavy-shield">Ultimate Aegis</a> 8</td>
     <td>500</td>
     <td>175</td>
     <td>Nullifies movement effects</td>
@@ -2537,8 +2537,8 @@ Priority: <span class="highlightPink">High</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/shields#anti-gaze-trge">Anti-Gaze Trge</a></td>
-    <td><a href="/shiren5/item/shields#helix-shield">Infinautilus</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#anti-gaze-trge">Anti-Gaze Trge</a></td>
+    <td><a href="/shiren-5/items/shields#helix-shield">Infinautilus</a> 8</td>
     <td>5000</td>
     <td>1750</td>
     <td>Grants immunity to hypnosis</td>
@@ -2560,8 +2560,8 @@ Priority: <span class="highlightRed">Top</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/shields#swap-shield">Swap Shield</a></td>
-    <td><a href="/shiren5/item/shields#binary-shield">Grt. 0/1 Shield</a> 6</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#swap-shield">Swap Shield</a></td>
+    <td><a href="/shiren-5/items/shields#binary-shield">Grt. 0/1 Shield</a> 6</td>
     <td>500</td>
     <td>175</td>
     <td>Converts magic bullet effects into 10 damage</td>
@@ -2585,8 +2585,8 @@ Priority: <span class="highlightPink">High</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/shields#lock-shield">Lock Shield</a></td>
-    <td><a href="/shiren5/item/shields#targite">Galaxy Guard</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#lock-shield">Lock Shield</a></td>
+    <td><a href="/shiren-5/items/shields#targite">Galaxy Guard</a> 8</td>
     <td>1000</td>
     <td>350</td>
     <td>Your items will never be stolen by Zaloklefts</td>
@@ -2609,8 +2609,8 @@ Priority: <span class="highlightBlue">Low</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/shields#safe-shield">Safe Shield</a></td>
-    <td><a href="/shiren5/item/shields#blast-shield">Bomb Shelter</a> 8<br/><a href="/shiren5/item/shields#heavy-shield">Ultimate Aegis</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#safe-shield">Safe Shield</a></td>
+    <td><a href="/shiren-5/items/shields#blast-shield">Bomb Shelter</a> 8<br/><a href="/shiren-5/items/shields#heavy-shield">Ultimate Aegis</a> 8</td>
     <td>1000</td>
     <td>350</td>
     <td>Your Gitan will never be stolen by Froggos</td>
@@ -2632,8 +2632,8 @@ Priority: <span class="highlightYellow">Mid</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/shields#gyadon-blocker">Gyadon Blocker</a></td>
-    <td><a href="/shiren5/item/shields#red-shield">Shugouseki</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#gyadon-blocker">Gyadon Blocker</a></td>
+    <td><a href="/shiren-5/items/shields#red-shield">Shugouseki</a> 8</td>
     <td>500</td>
     <td>175</td>
     <td>Your items will never be pecked by Gyadons</td>
@@ -2657,7 +2657,7 @@ Priority: <span class="highlightYellow">Mid</span> (PS Vita dungeons: <span clas
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/shields#onigiri-shield">Onigiri Shield</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#onigiri-shield">Onigiri Shield</a></td>
     <td>-</td>
     <td>8000</td>
     <td>2800</td>
@@ -2682,7 +2682,7 @@ Priority: <span class="highlightBlack">N/A</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/bracelets#trapper-bracelet">Trapper Bracelet</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/bracelets#trapper-bracelet">Trapper Bracelet</a></td>
     <td>-</td>
     <td>1000</td>
     <td>350</td>
@@ -2705,8 +2705,8 @@ Priority: <span class="highlightBlue">Low</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/shields#counter-shield">Counter Shield</a></td>
-    <td><a href="/shiren5/item/shields#parry-shield">Untouchable</a> 8<br/><a href="/shiren5/item/shields#steady-shield">Stalwart Shield</a> 8<br/><a href="/shiren5/item/shields#snake-shield">Dragonkeeper</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#counter-shield">Counter Shield</a></td>
+    <td><a href="/shiren-5/items/shields#parry-shield">Untouchable</a> 8<br/><a href="/shiren-5/items/shields#steady-shield">Stalwart Shield</a> 8<br/><a href="/shiren-5/items/shields#snake-shield">Dragonkeeper</a> 8</td>
     <td>5000</td>
     <td>1750</td>
     <td>Reflects ~28% damage back at enemy</td>
@@ -2730,8 +2730,8 @@ Priority: <span class="highlightBlue">Low</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/grass#unlucky-seed">Unlucky Seed</a></td>
-    <td><a href="/shiren5/item/shields#glass-buckler">Frangible Shld</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/grass#unlucky-seed">Unlucky Seed</a></td>
+    <td><a href="/shiren-5/items/shields#glass-buckler">Frangible Shld</a> 8</td>
     <td>1000</td>
     <td>350</td>
     <td>12% chance to reduce attacker's level by 1</td>
@@ -2753,7 +2753,7 @@ Priority: <span class="highlightBlue">Low</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/grass#superunlucky-seed">SuperUnlucky Seed</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/grass#superunlucky-seed">SuperUnlucky Seed</a></td>
     <td>-</td>
     <td>3000</td>
     <td>1050</td>
@@ -2776,25 +2776,25 @@ Priority: <span class="highlightBlue">Low</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/grass#herb">Herb</a></td>
-    <td><a href="/shiren5/item/shields#wolfshead">Rare Wolfshead</a> 4<br/><a href="/shiren5/item/shields#tin-shield">Fine Tin Shield</a> 4<br/><a href="/shiren5/item/shields#plain-targe">Nice Wd. Targe</a> 4<br/><a href="/shiren5/item/shields#student-shield">3.5 GPA Shield</a> 5</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/grass#herb">Herb</a></td>
+    <td><a href="/shiren-5/items/shields#wolfshead">Rare Wolfshead</a> 4<br/><a href="/shiren-5/items/shields#tin-shield">Fine Tin Shield</a> 4<br/><a href="/shiren-5/items/shields#plain-targe">Nice Wd. Targe</a> 4<br/><a href="/shiren-5/items/shields#student-shield">3.5 GPA Shield</a> 5</td>
     <td rowspan="4">500</td>
     <td rowspan="4">175</td>
     <td>Increase max HP by 5</td>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/grass#otogiriso">Otogiriso</a></td>
-    <td><a href="/shiren5/item/shields#red-shield">Rare Red Shield</a> 3<br/><a href="/shiren5/item/shields#targite">Good Shieldite</a> 4<br/><a href="/shiren5/item/shields#beast-shield">Beast King Shld</a> 4<br/><a href="/shiren5/item/shields#iron-targe">Iron Aspis</a> 4<br/><a href="/shiren5/item/shields#swap-shield">Mega Prismagic</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/grass#otogiriso">Otogiriso</a></td>
+    <td><a href="/shiren-5/items/shields#red-shield">Rare Red Shield</a> 3<br/><a href="/shiren-5/items/shields#targite">Good Shieldite</a> 4<br/><a href="/shiren-5/items/shields#beast-shield">Beast King Shld</a> 4<br/><a href="/shiren-5/items/shields#iron-targe">Iron Aspis</a> 4<br/><a href="/shiren-5/items/shields#swap-shield">Mega Prismagic</a> 8</td>
     <td>Increase max HP by 10</td>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/grass#heal-grass">Heal Grass</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/grass#heal-grass">Heal Grass</a></td>
     <td>-</td>
     <td>Increase max HP by 15</td>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/grass#life-grass">Life Grass</a></td>
-    <td><a href="/shiren5/item/shields#fox-shield">Good Fox Shield</a> 2<br/><a href="/shiren5/item/shields#diet-shield">Surfeit Shield</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/grass#life-grass">Life Grass</a></td>
+    <td><a href="/shiren-5/items/shields#fox-shield">Good Fox Shield</a> 2<br/><a href="/shiren-5/items/shields#diet-shield">Surfeit Shield</a> 8</td>
     <td>Increase max HP by 20</td>
   </tr>
 </table>
@@ -2818,8 +2818,8 @@ Priority: <span class="highlightYellow">Mid</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/grass#cheery-grass">Cheery Grass</a></td>
-    <td><a href="/shiren5/item/shields#swap-shield">Mega Prismagic</a> 8<br/><a href="/shiren5/item/shields#student-shield">Valedictorian</a> 8<br/><a href="/shiren5/item/shields#beast-shield">Beastmaster</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/grass#cheery-grass">Cheery Grass</a></td>
+    <td><a href="/shiren-5/items/shields#swap-shield">Mega Prismagic</a> 8<br/><a href="/shiren-5/items/shields#student-shield">Valedictorian</a> 8<br/><a href="/shiren-5/items/shields#beast-shield">Beastmaster</a> 8</td>
     <td>500</td>
     <td>175</td>
     <td>Increase shield base defense by 3</td>
@@ -2841,7 +2841,7 @@ Priority: <span class="highlightPink">High</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/grass#angel-seed">Angel Seed</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/grass#angel-seed">Angel Seed</a></td>
     <td>-</td>
     <td>1000</td>
     <td>350</td>
@@ -2864,8 +2864,8 @@ Priority: <span class="highlightRed">Top</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/shields#diet-shield">Diet Shield</a></td>
-    <td><a href="/shiren5/item/shields#onigiri-shield">Ume Onigiri</a> 6<br/><a href="/shiren5/item/shields#plain-targe">Demon's Guard</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#diet-shield">Diet Shield</a></td>
+    <td><a href="/shiren-5/items/shields#onigiri-shield">Ume Onigiri</a> 6<br/><a href="/shiren-5/items/shields#plain-targe">Demon's Guard</a> 8</td>
     <td>500</td>
     <td>175</td>
     <td>Reduces hunger rate by 50% (20 turns / 1 fullness)</td>
@@ -2887,7 +2887,7 @@ Priority: <span class="highlightGray">Avoid</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/shields#heavy-shield">Heavy Shield</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#heavy-shield">Heavy Shield</a></td>
     <td>-</td>
     <td>1000</td>
     <td>350</td>
@@ -2910,7 +2910,7 @@ Priority: <span class="highlightBlack">N/A</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/shields#nirvana-board">Nirvana Board</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#nirvana-board">Nirvana Board</a></td>
     <td>-</td>
     <td>2000</td>
     <td>700</td>
@@ -2933,8 +2933,8 @@ Priority: <span class="highlightBlue">Low</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/shields#student-shield">Student Shield</a></td>
-    <td><a href="/shiren5/item/shields#helix-shield">Infinautilus</a> 8<br/><a href="/shiren5/item/shields#fuuma-shield">Fuuma Legend</a> 8<br/><a href="/shiren5/item/shields#nirvana-board">Nirvana Tower</a> 8<br/><a href="/shiren5/item/shields#counter-shield">Killer Counter</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#student-shield">Student Shield</a></td>
+    <td><a href="/shiren-5/items/shields#helix-shield">Infinautilus</a> 8<br/><a href="/shiren-5/items/shields#fuuma-shield">Fuuma Legend</a> 8<br/><a href="/shiren-5/items/shields#nirvana-board">Nirvana Tower</a> 8<br/><a href="/shiren-5/items/shields#counter-shield">Killer Counter</a> 8</td>
     <td>1000</td>
     <td>350</td>
     <td>Gain experience points equal to damage received</td>
@@ -2956,8 +2956,8 @@ Priority: <span class="highlightBlue">Low</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/shields#bowl-shield">Bowl Shield</a></td>
-    <td><a href="/shiren5/item/shields#gold-shield">24K Gold Shield</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#bowl-shield">Bowl Shield</a></td>
+    <td><a href="/shiren-5/items/shields#gold-shield">24K Gold Shield</a> 8</td>
     <td>1000</td>
     <td>350</td>
     <td>6% chance to restore 1 fullness when hit</td>
@@ -2979,7 +2979,7 @@ Priority: <span class="highlightGray">Avoid</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/shields#shoddy-plank">Shoddy Plank</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#shoddy-plank">Shoddy Plank</a></td>
     <td>-</td>
     <td>1000</td>
     <td>350</td>
@@ -3002,7 +3002,7 @@ Priority: <span class="highlightGray">Avoid</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/shields#glass-buckler">Glass Buckler</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#glass-buckler">Glass Buckler</a></td>
     <td>-</td>
     <td>1000</td>
     <td>350</td>
@@ -3025,7 +3025,7 @@ Priority: <span class="highlightBlue">Low</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/pots#upgrade-pot">Upgrade Pot</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/pots#upgrade-pot">Upgrade Pot</a></td>
     <td>-</td>
     <td>1000</td>
     <td>350</td>
@@ -3049,7 +3049,7 @@ Priority: <span class="highlightPurple2">Situational</span>
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/shields#rush-shield">Rush Shield</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#rush-shield">Rush Shield</a></td>
     <td>-</td>
     <td>1500</td>
     <td>525</td>
@@ -3072,8 +3072,8 @@ Priority: <span class="highlightBlue">Low</span> (If you use Onigiri Bonanza: <s
     <th>Effect</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="/shiren5/item/scrolls#replenish-scroll">Replenish Scroll</a></td>
-    <td><a href="/shiren5/item/shields#fox-shield">Shy Shield</a> 5</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/scrolls#replenish-scroll">Replenish Scroll</a></td>
+    <td><a href="/shiren-5/items/shields#fox-shield">Shy Shield</a> 5</td>
     <td>1000</td>
     <td>350</td>
     <td>12% chance to refresh 3 abilities when hit</td>

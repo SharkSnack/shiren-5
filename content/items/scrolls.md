@@ -132,7 +132,7 @@ metaDescription: "Complete scroll details for Shiren the Wanderer: The Tower of 
     <tr>
       <td class="highlightYellow"><a href="#oil-scroll">Oil Scroll</a></td>
       <td>Blue Flame*</td>
-      <td class="leftText">No effect if read, and sticks to the ground when placed.<br/>Inflicts <a href="/shiren5/system/status-conditions#tottering">Tottering</a> status to the enemy who walks on it. (6 turns)<br/>Flames up and deals 50 damage if the enemy is a Floating type.</td>
+      <td class="leftText">No effect if read, and sticks to the ground when placed.<br/>Inflicts <a href="/shiren-5/system//status-conditions#tottering">Tottering</a> status to the enemy who walks on it. (6 turns)<br/>Flames up and deals 50 damage if the enemy is a Floating type.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#light-scroll">Light Scroll</a></td>
@@ -147,7 +147,7 @@ metaDescription: "Complete scroll details for Shiren the Wanderer: The Tower of 
     <tr>
       <td class="highlightYellow"><a href="#commend-letter">Commend. Letter</a></td>
       <td>-</td>
-      <td class="leftText">Read it or show it to an elite store Shopkeeper to buy a <a href="/shiren5/item/food#large-onigiri">Large Onigiri</a>.<br/>However, you'll lose all of your Gitan.</td>
+      <td class="leftText">Read it or show it to an elite store Shopkeeper to buy a <a href="/shiren-5/items/food#large-onigiri">Large Onigiri</a>.<br/>However, you'll lose all of your Gitan.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#identify-scroll">Identify Scroll</a></td>
@@ -178,7 +178,7 @@ metaDescription: "Complete scroll details for Shiren the Wanderer: The Tower of 
       <td rowspan="15">500</td>
       <td rowspan="15">175</td>
       <td>-</td>
-      <td class="leftText">Remove a curse or seal from a selected item.<br/>Small chance to remove curses or seals from all items not inside pots.<br/>Deals 100 damage if thrown at <a href="/shiren5/system/monsters#curse-girl">Curse Girls</a>.</td>
+      <td class="leftText">Remove a curse or seal from a selected item.<br/>Small chance to remove curses or seals from all items not inside pots.<br/>Deals 100 damage if thrown at <a href="/shiren-5/system//monsters#curse-girl">Curse Girls</a>.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#fate-scroll">Fate Scroll</a></td>
@@ -193,7 +193,7 @@ metaDescription: "Complete scroll details for Shiren the Wanderer: The Tower of 
     <tr>
       <td class="highlightYellow"><a href="#plating-scroll">Plating Scroll</a></td>
       <td>-</td>
-      <td class="leftText">Adds the <a href="/shiren5/system/runes#rustproof">Rustproof</a> rune to the selected weapon or shield.<br/>Removes any curse or seal from the selected weapon or shield.</td>
+      <td class="leftText">Adds the <a href="/shiren-5/system//runes#rustproof">Rustproof</a> rune to the selected weapon or shield.<br/>Removes any curse or seal from the selected weapon or shield.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#tag-scroll">Tag Scroll</a></td>
@@ -208,7 +208,7 @@ metaDescription: "Complete scroll details for Shiren the Wanderer: The Tower of 
     <tr>
       <td class="highlightYellow"><a href="#onigiri-scroll">Onigiri Scroll</a></td>
       <td>-</td>
-      <td class="leftText">Transforms the selected item into a <a href="/shiren5/item/food#large-onigiri">Large Onigiri</a>.</td>
+      <td class="leftText">Transforms the selected item into a <a href="/shiren-5/items/food#large-onigiri">Large Onigiri</a>.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#pot-god-scroll">Pot God Scroll</a></td>
@@ -248,14 +248,14 @@ metaDescription: "Complete scroll details for Shiren the Wanderer: The Tower of 
     <tr>
       <td class="highlightYellow"><a href="#pot-dog-scroll">Pot Dog Scroll</a></td>
       <td>-</td>
-      <td class="leftText">Summons 4 <a href="/shiren5/system/monsters#absorbiphant">Absorbiphants</a> around the player.</td>
+      <td class="leftText">Summons 4 <a href="/shiren-5/system//monsters#absorbiphant">Absorbiphants</a> around the player.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#fear-scroll">Fear Scroll</a></td>
       <td rowspan="7">800</td>
       <td rowspan="7">280</td>
       <td>-</td>
-      <td class="leftText">Inflicts <a href="/shiren5/system/status-conditions#afraid">Afraid</a> status on monsters within a 1 tile radius. (15 turns)</td>
+      <td class="leftText">Inflicts <a href="/shiren-5/system//status-conditions#afraid">Afraid</a> status on monsters within a 1 tile radius. (15 turns)</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#trap-deletion-scrl">Trap Deletion Scrl</a></td>
@@ -275,12 +275,12 @@ metaDescription: "Complete scroll details for Shiren the Wanderer: The Tower of 
     <tr>
       <td class="highlightYellow"><a href="#muzzled-scroll">Muzzled Scroll</a></td>
       <td>-</td>
-      <td class="leftText">Inflicts <a href="/shiren5/system/status-conditions#muzzled">Muzzled</a> status on the player.</td>
+      <td class="leftText">Inflicts <a href="/shiren-5/system//status-conditions#muzzled">Muzzled</a> status on the player.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#grounded-scroll">Grounded Scroll</a></td>
       <td>-</td>
-      <td class="leftText">Inflicts <a href="/shiren5/system/status-conditions#grounded">Grounded</a> status on the player.</td>
+      <td class="leftText">Inflicts <a href="/shiren-5/system//status-conditions#grounded">Grounded</a> status on the player.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#attraction-scroll">Attraction Scroll</a></td>
@@ -292,12 +292,12 @@ metaDescription: "Complete scroll details for Shiren the Wanderer: The Tower of 
       <td rowspan="13">1000</td>
       <td rowspan="13">350</td>
       <td>-</td>
-      <td class="leftText">Inflicts <a href="/shiren5/system/status-conditions#confused">Confused</a> status on monsters in the room. (20 turns)</td>
+      <td class="leftText">Inflicts <a href="/shiren-5/system//status-conditions#confused">Confused</a> status on monsters in the room. (20 turns)</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#slumber-scroll">Slumber Scroll</a></td>
       <td>-</td>
-      <td class="leftText">Inflicts <a href="/shiren5/system/status-conditions#sound-asleep">Sound Asleep</a> status on monsters in the room. (12 turns)</td>
+      <td class="leftText">Inflicts <a href="/shiren-5/system//status-conditions#sound-asleep">Sound Asleep</a> status on monsters in the room. (12 turns)</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#vacuum-slash-scrl">Vacuum Slash Scrl</a></td>
@@ -322,12 +322,12 @@ metaDescription: "Complete scroll details for Shiren the Wanderer: The Tower of 
     <tr>
       <td class="highlightYellow"><a href="#mnster-house-scrl">Mnster House Scrl</a></td>
       <td>-</td>
-      <td class="leftText">Turns the current room into a <a href="/shiren5/system/monster-house">Monster House</a>.<br/>If read in a hallway, you'll be warped to a random room first.<br/>If one is already present, the next floor will be a Monster House.</td>
+      <td class="leftText">Turns the current room into a <a href="/shiren-5/system//monster-house">Monster House</a>.<br/>If read in a hallway, you'll be warped to a random room first.<br/>If one is already present, the next floor will be a Monster House.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#immunity-scroll">Immunity Scroll</a></td>
       <td>Anti-Blast※*</td>
-      <td class="leftText">Grants <a href="/shiren5/system/status-conditions#immune">Immune</a> status, making you and allies immune to ailments.<br/>Also cures any existing ailments when read.</td>
+      <td class="leftText">Grants <a href="/shiren-5/system//status-conditions#immune">Immune</a> status, making you and allies immune to ailments.<br/>Also cures any existing ailments when read.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#replenish-scroll">Replenish Scroll</a></td>
@@ -388,7 +388,7 @@ metaDescription: "Complete scroll details for Shiren the Wanderer: The Tower of 
       <td>10000</td>
       <td>3500</td>
       <td>-</td>
-      <td class="leftText">Throw at a monster to make that monster family vanish from the adventure.<br/>If another scroll is thrown, the first family will begin to appear again.<br/><a href="/shiren5/system/monsters#shopkeeper">Shopkeepers</a> and <a href="/shiren5/system/monsters#maneater">Maneaters</a> will still appear after being hit by this scroll.<br/>The scroll will land on the ground if it misses. (Unlike Shiren 4)</td>
+      <td class="leftText">Throw at a monster to make that monster family vanish from the adventure.<br/>If another scroll is thrown, the first family will begin to appear again.<br/><a href="/shiren-5/system//monsters#shopkeeper">Shopkeepers</a> and <a href="/shiren-5/system//monsters#maneater">Maneaters</a> will still appear after being hit by this scroll.<br/>The scroll will land on the ground if it misses. (Unlike Shiren 4)</td>
     </tr>
   </tbody>
 </table>
@@ -1569,7 +1569,7 @@ Can be used with blessed Extraction Scrolls to quickly upgrade weapons. (post-ga
 
 Locations:
 
-- <a href="/shiren5/system/npcs#madam-ateska">Madam Ateska</a>: Decent fortune
+- <a href="/shiren-5/system//npcs#madam-ateska">Madam Ateska</a>: Decent fortune
 
 <br/>
 
@@ -1657,7 +1657,7 @@ Can be used with blessed Extraction Scrolls to quickly upgrade shields. (post-ga
 
 Locations:
 
-- <a href="/shiren5/system/npcs#madam-ateska">Madam Ateska</a>: Decent fortune
+- <a href="/shiren-5/system//npcs#madam-ateska">Madam Ateska</a>: Decent fortune
 
 <br/>
 
@@ -4148,7 +4148,7 @@ The exorcism effect will remove a curse from the staff you've set as well.
   </tr>
   <tr>
     <td>2 or more adjacent enemies</td>
-    <td>Inflicts <a href="/shiren5/system/status-conditions#paralyzed">Paralyzed</a> status in a 1 tile radius.</td>
+    <td>Inflicts <a href="/shiren-5/system//status-conditions#paralyzed">Paralyzed</a> status in a 1 tile radius.</td>
   </tr>
   <tr>
     <td>Equipped items are cursed</td>
@@ -4156,7 +4156,7 @@ The exorcism effect will remove a curse from the staff you've set as well.
   </tr>
   <tr>
     <td>Negative status condition</td>
-    <td>Cures ailments, including <a href="/shiren5/system/status-conditions#grounded">Grounded</a> status.</td>
+    <td>Cures ailments, including <a href="/shiren-5/system//status-conditions#grounded">Grounded</a> status.</td>
   </tr>
   <tr>
     <td>Significantly lost strength</td>

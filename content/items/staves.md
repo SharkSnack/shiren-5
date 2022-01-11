@@ -111,7 +111,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer: The Tower of F
       <td class="highlightYellow"><a href="#mage-staff">Mage Staff</a></td>
       <td>5~7</td>
       <td>-</td>
-      <td class="leftText">Inflicts <a href="/shiren5/system/status-conditions#asleep">Asleep</a>, <a href="/shiren5/system/status-conditions#confused">Confused</a>, <a href="/shiren5/system/status-conditions#slow">Slow</a>, or warps the target to a different location.</td>
+      <td class="leftText">Inflicts <a href="/shiren-5/system/status-conditions#asleep">Asleep</a>, <a href="/shiren-5/system/status-conditions#confused">Confused</a>, <a href="/shiren-5/system/status-conditions#slow">Slow</a>, or warps the target to a different location.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#transient-staff">Transient Staff</a></td>
@@ -121,18 +121,18 @@ metaDescription: "Complete staff details for Shiren the Wanderer: The Tower of F
       <td rowspan="8">15.75</td>
       <td rowspan="2">4~6</td>
       <td>-</td>
-      <td class="leftText">Warps a target to the stairs and inflicts <a href="/shiren5/system/status-conditions#paralyzed">Paralyzed</a> status.</td>
+      <td class="leftText">Warps a target to the stairs and inflicts <a href="/shiren-5/system/status-conditions#paralyzed">Paralyzed</a> status.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#paralysis-staff">Paralysis Staff</a></td>
       <td>Paralyzing</td>
-      <td class="leftText">Inflicts the target with <a href="/shiren5/system/status-conditions#paralyzed">Paralyzed</a> status.</td>
+      <td class="leftText">Inflicts the target with <a href="/shiren-5/system/status-conditions#paralyzed">Paralyzed</a> status.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#empathy-staff">Empathy Staff</a></td>
       <td rowspan="4">5~7</td>
       <td>-</td>
-      <td class="leftText">Inflicts the target with <a href="/shiren5/system/status-conditions#empathetic">Empathetic</a> status.</td>
+      <td class="leftText">Inflicts the target with <a href="/shiren-5/system/status-conditions#empathetic">Empathetic</a> status.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#trap-del-staff">Trap Del. Staff</a></td>
@@ -142,7 +142,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer: The Tower of F
     <tr>
       <td class="highlightYellow"><a href="#balance-staff">Balance Staff</a></td>
       <td>-</td>
-      <td class="leftText">Prevents tripping on <a href="/shiren5/system/traps#trip-trap">Trip Traps</a>, but no effect if it's inside a pot.<br/>-1 use every time it activates, and no effect once it reaches 0.</td>
+      <td class="leftText">Prevents tripping on <a href="/shiren-5/system/traps#trip-trap">Trip Traps</a>, but no effect if it's inside a pot.<br/>-1 use every time it activates, and no effect once it reaches 0.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#ordinary-staff">Ordinary Staff</a></td>
@@ -153,12 +153,12 @@ metaDescription: "Complete staff details for Shiren the Wanderer: The Tower of F
       <td class="highlightYellow"><a href="#drama-staff">Drama Staff</a></td>
       <td rowspan="12">4~6</td>
       <td>-</td>
-      <td class="leftText">Enjoy a short play when swung.<br/>Inflicts the target with <a href="/shiren5/system/status-conditions#blind">Blind</a> status if thrown.</td>
+      <td class="leftText">Enjoy a short play when swung.<br/>Inflicts the target with <a href="/shiren-5/system/status-conditions#blind">Blind</a> status if thrown.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#nagging-staff">Nagging Staff</a></td>
       <td>-</td>
-      <td class="leftText">Receive a lecture when you trip on a <a href="/shiren5/system/traps#trip-trap">Trip Trap</a>.</td>
+      <td class="leftText">Receive a lecture when you trip on a <a href="/shiren-5/system/traps#trip-trap">Trip Trap</a>.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#electric-staff">Electric Staff</a></td>
@@ -181,12 +181,12 @@ metaDescription: "Complete staff details for Shiren the Wanderer: The Tower of F
       <td rowspan="3">525</td>
       <td rowspan="3">26.25</td>
       <td>Sealing</td>
-      <td class="leftText">Inflicts the target with <a href="/shiren5/system/status-conditions#sealed">Sealed</a> status.</td>
+      <td class="leftText">Inflicts the target with <a href="/shiren-5/system/status-conditions#sealed">Sealed</a> status.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#clone-staff">Clone Staff</a></td>
       <td>-</td>
-      <td class="leftText">Inflicts the target with <a href="/shiren5/system/status-conditions#cloned">Cloned</a> status.</td>
+      <td class="leftText">Inflicts the target with <a href="/shiren-5/system/status-conditions#cloned">Cloned</a> status.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#staff-of-sacrifice">Staff of Sacrifice</a></td>
@@ -220,7 +220,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer: The Tower of F
     <tr>
       <td class="highlightYellow"><a href="#sharing-staff">Sharing Staff</a></td>
       <td>Dispersing</td>
-      <td class="leftText">Inflicts yourself with <a href="/shiren5/system/status-conditions#empathetic">Empathetic</a> status toward the target.</td>
+      <td class="leftText">Inflicts yourself with <a href="/shiren-5/system/status-conditions#empathetic">Empathetic</a> status toward the target.</td>
     </tr>
   </tbody>
 </table>
@@ -799,7 +799,7 @@ but you'll be paralyzed unless you have the Chakra Cleanse ability at night.
       <th>Rune</th>
       <td>-</td>
       <th>Blessed</th>
-      <td><a href="/shiren5/system/status-conditions#s-paralyzed">S-Paralyzed</a></td>
+      <td><a href="/shiren-5/system/status-conditions#s-paralyzed">S-Paralyzed</a></td>
     </tr>
   </tbody>
 </table>
@@ -886,7 +886,7 @@ Synthesize with a weapon to create the Paralyzing rune.
       <th>Rune</th>
       <td>Paralyzing</td>
       <th>Blessed</th>
-      <td><a href="/shiren5/system/status-conditions#s-paralyzed">S-Paralyzed</a></td>
+      <td><a href="/shiren-5/system/status-conditions#s-paralyzed">S-Paralyzed</a></td>
     </tr>
   </tbody>
 </table>
@@ -974,7 +974,7 @@ Use with a Juicy Peach and blessed Gitan to deal 999 damage to the final boss.<b
       <th>Rune</th>
       <td>-</td>
       <th>Blessed</th>
-      <td><a href="/shiren5/system/status-conditions#s-empathetic">S-Empathetic</a></td>
+      <td><a href="/shiren-5/system/status-conditions#s-empathetic">S-Empathetic</a></td>
     </tr>
   </tbody>
 </table>
@@ -2255,7 +2255,7 @@ Synthesize with a weapon to create the Dispersing rune.
       <th>Rune</th>
       <td>Dispersing</td>
       <th>Blessed</th>
-      <td><a href="/shiren5/system/status-conditions#s-empathetic">S-Empathetic</a></td>
+      <td><a href="/shiren-5/system/status-conditions#s-empathetic">S-Empathetic</a></td>
     </tr>
   </tbody>
 </table>

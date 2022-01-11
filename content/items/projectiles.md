@@ -33,7 +33,7 @@ metaDescription: "Complete arrow and rock details for Shiren the Wanderer: The T
   <tr>
     <td class="highlightLightblue"><a href="#critical-arrow">Critical Arrow</a></td>
     <td class="highlightLightblue"><a href="#suicide-arrow">Suicide Arrow</a></td>
-    <td class="highlightOrange"><a href="#davids-bullet">David's Bullet</a></td>
+    <td class="highlightOrange"><a href="#david's-bullet">David's Bullet</a></td>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="#poison-arrow">Poison Arrow</a></td>
@@ -104,7 +104,7 @@ metaDescription: "Complete arrow and rock details for Shiren the Wanderer: The T
       <td>70</td>
       <td>-</td>
       <td>10</td>
-      <td class="leftText">Inflicts <a href="/shiren5/system/status-conditions#weakened">Weakened</a> to lower the target's attack power.<br/>However, <a href="/shiren5/system/monsters#scorpion">Scorpions</a> and <a href="/shiren5/system/monsters#mutaikon">Mutaikons</a> get stronger instead.</td>
+      <td class="leftText">Inflicts <a href="/shiren-5/system/status-conditions#weakened">Weakened</a> to lower the target's attack power.<br/>However, <a href="/shiren-5/system/monsters#scorpion">Scorpions</a> and <a href="/shiren-5/system/monsters#mutaikon">Mutaikons</a> get stronger instead.</td>
     </tr>
     <tr>
       <td scope="row" class="highlightYellow"><a href="#knockback-arrow">Knockback Arrow</a></td>
@@ -179,7 +179,7 @@ metaDescription: "Complete arrow and rock details for Shiren the Wanderer: The T
       <td class="leftText">Arcs toward a target to the right up to 3 tiles away.<br/>Always deals 12 damage.</td>
     </tr>
     <tr>
-      <td scope="row" class="highlightYellow"><a href="#davids-bullet">David's Bullet</a></td>
+      <td scope="row" class="highlightYellow"><a href="#david's-bullet">David's Bullet</a></td>
       <td>200</td>
       <td>70</td>
       <td>-</td>

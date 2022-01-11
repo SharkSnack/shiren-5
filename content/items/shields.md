@@ -102,7 +102,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer: The Tower of 
       <td>-</td>
       <td>Lively (Lv4)<br/>CR Diet (Lv8)</td>
       <td>28,410</td>
-      <td><a href="/shiren5/item/weapons#ordinary-stick">Ordinary Stick</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren-5/items/weapons#ordinary-stick">Ordinary Stick</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#tin-shield">Tin Shield</a></td>
@@ -113,7 +113,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer: The Tower of 
       <td>-</td>
       <td>Lively (Lv4)<br/>Rustproof (Lv8)</td>
       <td>34,725</td>
-      <td><a href="/shiren5/item/weapons#tin-blade">Tin Blade</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren-5/items/weapons#tin-blade">Tin Blade</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#iron-targe">Iron Targe</a></td>
@@ -124,7 +124,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer: The Tower of 
       <td>-</td>
       <td>Uplifting (Lv4)</td>
       <td>41,070</td>
-      <td><a href="/shiren5/item/weapons#katana">Katana</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren-5/items/weapons#katana">Katana</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#wolfshead">Wolfshead</a></td>
@@ -135,7 +135,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer: The Tower of 
       <td>-</td>
       <td>Lively (Lv4)<br/>Rustproof (Lv5)</td>
       <td>44,250</td>
-      <td><a href="/shiren5/item/weapons#dotanuki">Dotanuki</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren-5/items/weapons#dotanuki">Dotanuki</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#beast-shield">Beast Shield</a></td>
@@ -146,7 +146,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer: The Tower of 
       <td>-</td>
       <td>Uplifting (Lv4)<br/>Enhancing (Lv8)</td>
       <td>50,600</td>
-      <td><a href="/shiren5/item/weapons#beast-fang">Beast Fang</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren-5/items/weapons#beast-fang">Beast Fang</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#targite">Targite</a></td>
@@ -157,7 +157,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer: The Tower of 
       <td>-</td>
       <td>Uplifting (Lv4)<br/>Rustproof (Lv5)<br/>Anti-Theft (Lv8)</td>
       <td>57,000</td>
-      <td><a href="/shiren5/item/weapons#bladite">Bladite</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren-5/items/weapons#bladite">Bladite</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#red-shield">Red Shield</a></td>
@@ -168,7 +168,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer: The Tower of 
       <td>-</td>
       <td>Uplifting (Lv3)<br/>Anti-Fire (Lv8)<br/>Anti-Peck (Lv8)</td>
       <td>63,350</td>
-      <td><a href="/shiren5/item/weapons#red-blade">Red Blade</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren-5/items/weapons#red-blade">Red Blade</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#fuuma-shield">Fuuma Shield</a></td>
@@ -179,7 +179,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer: The Tower of 
       <td>-</td>
       <td>Tiger Mom (Lv8)</td>
       <td>107,700</td>
-      <td><a href="/shiren5/item/weapons#kabura-katana">Kabura Katana</a><br/>(Attack damage +5)<br/><a href="/shiren5/item/weapons#fuuma-sword">Fuuma Sword</a><br/>(Attack damage +5)</td>
+      <td><a href="/shiren-5/items/weapons#kabura-katana">Kabura Katana</a><br/>(Attack damage +5)<br/><a href="/shiren-5/items/weapons#fuuma-sword">Fuuma Sword</a><br/>(Attack damage +5)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#gold-shield">Gold Shield</a></td>
@@ -190,7 +190,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer: The Tower of 
       <td>Rustproof</td>
       <td>Pain Fueled (Lv8)</td>
       <td>31,600</td>
-      <td><a href="/shiren5/item/weapons#dull-gold-edge">Dull Gold Edge</a><br/>(Max strength +3)</td>
+      <td><a href="/shiren-5/items/weapons#dull-gold-edge">Dull Gold Edge</a><br/>(Max strength +3)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#diet-shield">Diet Shield</a></td>
@@ -223,7 +223,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer: The Tower of 
       <td>Nocturnal</td>
       <td>Rustproof (Lv6)</td>
       <td>54,500</td>
-      <td><a href="/shiren5/item/weapons#breeze-blade">Breeze Blade</a><br/>(Equipped items won't rust)<br/><a href="/shiren5/item/weapons#torch">Torches</a><br/>(Night enemies miss more)</td>
+      <td><a href="/shiren-5/items/weapons#breeze-blade">Breeze Blade</a><br/>(Equipped items won't rust)<br/><a href="/shiren-5/items/weapons#torch">Torches</a><br/>(Night enemies miss more)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#day-shield">Day Shield</a>※</td>
@@ -234,7 +234,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer: The Tower of 
       <td>Diurnal</td>
       <td>Rustproof (Lv6)</td>
       <td>54,500</td>
-      <td><a href="/shiren5/item/weapons#bright-blade">Bright Blade</a><br/>(Read scrolls in the dark)</td>
+      <td><a href="/shiren-5/items/weapons#bright-blade">Bright Blade</a><br/>(Read scrolls in the dark)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#binary-shield">Binary Shield</a></td>
@@ -256,7 +256,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer: The Tower of 
       <td>Retribution</td>
       <td>Tiger Mom (Lv8)</td>
       <td>50,800</td>
-      <td><a href="/shiren5/item/bracelets#strength-bracelet">Strength Bracelet</a><br/>(Counter damage doubled)</td>
+      <td><a href="/shiren-5/items/bracelets#strength-bracelet">Strength Bracelet</a><br/>(Counter damage doubled)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#student-shield">Student Shield</a></td>
@@ -267,7 +267,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer: The Tower of 
       <td>Tiger Mom</td>
       <td>Lively (Lv5)<br/>Enhancing (Lv8)</td>
       <td>63,000</td>
-      <td><a href="/shiren5/item/bracelets#growth-bracelet">Growth Bracelet</a><br/>(Bracelet exp gain doubled)</td>
+      <td><a href="/shiren-5/items/bracelets#growth-bracelet">Growth Bracelet</a><br/>(Bracelet exp gain doubled)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#bowl-shield">Bowl Shield</a></td>
@@ -289,7 +289,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer: The Tower of 
       <td>Agile</td>
       <td>Rustproof (Lv5)</td>
       <td>88,800</td>
-      <td><a href="/shiren5/item/weapons#myopic-masher">Myopic Masher</a><br/>(Attack and Defense +3)</td>
+      <td><a href="/shiren-5/items/weapons#myopic-masher">Myopic Masher</a><br/>(Attack and Defense +3)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#blast-shield">Blast Shield</a></td>
@@ -300,7 +300,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer: The Tower of 
       <td>Anti-Blast</td>
       <td>Rustproof (Lv8)<br/>Anti-Burgle (Lv8)</td>
       <td>77,700</td>
-      <td><a href="/shiren5/item/weapons#crescent-katana">Crescent Katana</a><br/>(Attack and Defense +3)</td>
+      <td><a href="/shiren-5/items/weapons#crescent-katana">Crescent Katana</a><br/>(Attack and Defense +3)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#lock-shield">Lock Shield</a></td>
@@ -344,7 +344,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer: The Tower of 
       <td>Anti-Fire</td>
       <td>Retribution (Lv8)</td>
       <td>84,000</td>
-      <td><a href="/shiren5/item/weapons#lizard-lasher">Lizard Lasher</a><br/>(Attack and Defense +3)</td>
+      <td><a href="/shiren-5/items/weapons#lizard-lasher">Lizard Lasher</a><br/>(Attack and Defense +3)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#steady-shield">Steady Shield</a>※</td>
@@ -377,7 +377,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer: The Tower of 
       <td>Magi-Twister</td>
       <td>Uplifting (Lv8)<br/>Enhancing (Lv8)</td>
       <td>77,000</td>
-      <td><a href="/shiren5/item/weapons#burning-blade">Burning Blade</a><br/>(Boost Flame Shot damage)</td>
+      <td><a href="/shiren-5/items/weapons#burning-blade">Burning Blade</a><br/>(Boost Flame Shot damage)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#shoddy-plank">Shoddy Plank</a>※</td>
@@ -388,7 +388,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer: The Tower of 
       <td>Expendable</td>
       <td>-</td>
       <td>112,000</td>
-      <td><a href="/shiren5/item/weapons#shoddy-dirk">Shoddy Dirk</a><br/>(Equipped items won't rust)</td>
+      <td><a href="/shiren-5/items/weapons#shoddy-dirk">Shoddy Dirk</a><br/>(Equipped items won't rust)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#glass-buckler">Glass Buckler</a>※</td>
@@ -399,7 +399,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer: The Tower of 
       <td>Unsound</td>
       <td>Stupefying (Lv8)</td>
       <td>103,000</td>
-      <td><a href="/shiren5/item/weapons#glass-dirk">Glass Dirk</a><br/>(Nullifies magic bullets)</td>
+      <td><a href="/shiren-5/items/weapons#glass-dirk">Glass Dirk</a><br/>(Nullifies magic bullets)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#paupers-plank">Pauper's Plank</a>※</td>
@@ -410,7 +410,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer: The Tower of 
       <td>Costly</td>
       <td>-</td>
       <td>54,500</td>
-      <td><a href="/shiren5/item/weapons#dirk-of-debts">Dirk of Debts</a><br/>(Enemies drop Gitan often)</td>
+      <td><a href="/shiren-5/items/weapons#dirk-of-debts">Dirk of Debts</a><br/>(Enemies drop Gitan often)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#rush-shield">Rush Shield</a>※</td>
@@ -421,7 +421,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer: The Tower of 
       <td>Offensive</td>
       <td>-</td>
       <td>127,000</td>
-      <td><a href="/shiren5/item/weapons#extreme-sword">Extreme Sword</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren-5/items/weapons#extreme-sword">Extreme Sword</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#blazing-shield">Blazing Shield</a></td>
@@ -432,7 +432,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer: The Tower of 
       <td>-</td>
       <td>-</td>
       <td>57,000</td>
-      <td><a href="/shiren5/item/weapons#torch">Torches</a><br/>(Light up screen at night)</td>
+      <td><a href="/shiren-5/items/weapons#torch">Torches</a><br/>(Light up screen at night)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#onigiri-shield">Onigiri Shield</a></td>
@@ -465,7 +465,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer: The Tower of 
       <td>Unfamished</td>
       <td>Rustproof (Lv8)<br/>Tiger Mom (Lv8)</td>
       <td>127,000</td>
-      <td><a href="/shiren5/item/weapons#wonder-pick">Wonder Pick</a><br/>(Max HP +30)</td>
+      <td><a href="/shiren-5/items/weapons#wonder-pick">Wonder Pick</a><br/>(Max HP +30)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#pathetic-shield">Pathetic Shield</a></td>
@@ -476,7 +476,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer: The Tower of 
       <td>-</td>
       <td>-</td>
       <td>127,000</td>
-      <td><a href="/shiren5/item/weapons#pathetic-blade">Pathetic Blade</a><br/>(Lv1-7: Equip 2 bracelets)<br/>(Lv8: Foes may step back)</td>
+      <td><a href="/shiren-5/items/weapons#pathetic-blade">Pathetic Blade</a><br/>(Lv1-7: Equip 2 bracelets)<br/>(Lv8: Foes may step back)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#fox-shield">Fox Shield</a></td>
@@ -498,7 +498,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer: The Tower of 
       <td>-</td>
       <td>Anti-Hypno (Lv8)<br/>Tiger Mom (Lv8)</td>
       <td>305,535</td>
-      <td><a href="/shiren5/item/weapons#fuuma-sword">Fuuma Sword</a><br/>(Attack damage +10)<br/><a href="/shiren5/item/weapons#kaburagi">Kaburagi</a><br/>(Attack damage +10)</td>
+      <td><a href="/shiren-5/items/weapons#fuuma-sword">Fuuma Sword</a><br/>(Attack damage +10)<br/><a href="/shiren-5/items/weapons#kaburagi">Kaburagi</a><br/>(Attack damage +10)</td>
     </tr>
   </tbody>
 </table>
@@ -570,7 +570,7 @@ in dungeons like Gen's Turf where you can obtain lots of Blank Scrolls.<br/>
       <td>-</td>
       <td>360</td>
       <td>126</td>
-      <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#ordinary-stick">Ordinary Stick</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/shiren-5/items/weapons#ordinary-stick">Ordinary Stick</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -741,7 +741,7 @@ Basic weak shield.<br/>A person has to love the design to bother using it.
       <td>-</td>
       <td>740</td>
       <td>259</td>
-      <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#tin-blade">Tin Blade</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/shiren-5/items/weapons#tin-blade">Tin Blade</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -913,7 +913,7 @@ There are better options for 2 bracelet resonance.
       <td>-</td>
       <td>1300</td>
       <td>455</td>
-      <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#katana">Katana</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/shiren-5/items/weapons#katana">Katana</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1086,7 +1086,7 @@ since <span class="greenText">Lively</span> and <span class="greenText">Rustproo
       <td>-</td>
       <td>1800</td>
       <td>630</td>
-      <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#dotanuki">Dotanuki</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/shiren-5/items/weapons#dotanuki">Dotanuki</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1258,7 +1258,7 @@ Doesn't gain any noteworthy runes from leveling up.
       <td>-</td>
       <td>2400</td>
       <td>840</td>
-      <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#beast-fang">Beast Fang</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/shiren-5/items/weapons#beast-fang">Beast Fang</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1430,7 +1430,7 @@ Defense reaches 16 at Lv2, making it very reliable for early game.<br/>
       <td>-</td>
       <td>3200</td>
       <td>1120</td>
-      <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#bladite">Bladite</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/shiren-5/items/weapons#bladite">Bladite</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1603,7 +1603,7 @@ The best part of this shield is that it gains <span class="greenText">Anti-Fire<
       <td>-</td>
       <td>4800</td>
       <td>1680</td>
-      <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#red-blade">Red Blade</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/shiren-5/items/weapons#red-blade">Red Blade</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1776,7 +1776,7 @@ which might help you be able to one-shot some monsters.
       <td>-</td>
       <td>8500</td>
       <td>2975</td>
-      <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#kabura-katana">Kabura Katana</a><br/>(Attack damage +5)<br/><br/>Resonance: <a href="/shiren5/item/weapons#fuuma-sword">Fuuma Sword</a><br/>(Attack damage +5)</td>
+      <td rowspan="8">Resonance: <a href="/shiren-5/items/weapons#kabura-katana">Kabura Katana</a><br/>(Attack damage +5)<br/><br/>Resonance: <a href="/shiren-5/items/weapons#fuuma-sword">Fuuma Sword</a><br/>(Attack damage +5)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1949,7 +1949,7 @@ Its resonance effect is nice for digging up blue Shiny Objects.
       <td>-</td>
       <td>1500</td>
       <td>525</td>
-      <td rowspan="8">This shield won't rust.<br/><br/>Resonance: <a href="/shiren5/item/weapons#dull-gold-edge">Dull Gold Edge</a><br/>(Max strength +3)</td>
+      <td rowspan="8">This shield won't rust.<br/><br/>Resonance: <a href="/shiren-5/items/weapons#dull-gold-edge">Dull Gold Edge</a><br/>(Max strength +3)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -2460,7 +2460,7 @@ Tricky to level up, since daytime monsters deal more damage to you.<br/>Often sy
       <td>-</td>
       <td>4200</td>
       <td>1470</td>
-      <td rowspan="8">Increase damage from day monsters,<br/>reduce damage from night monsters.<br/>(Day: 50%, +10% per level up | Lv8: 120%)<br/>(Night: 25%, +5% per level up | Lv8: 60%)<br/><br/>Resonance: <a href="/shiren5/item/weapons#breeze-blade">Breeze Blade</a><br/>(Equipped items won't rust)<br/><br/>Resonance: <a href="/shiren5/item/weapons#torch">Torches</a><br/>(Night monsters miss more often)</td>
+      <td rowspan="8">Increase damage from day monsters,<br/>reduce damage from night monsters.<br/>(Day: 50%, +10% per level up | Lv8: 120%)<br/>(Night: 25%, +5% per level up | Lv8: 60%)<br/><br/>Resonance: <a href="/shiren-5/items/weapons#breeze-blade">Breeze Blade</a><br/>(Equipped items won't rust)<br/><br/>Resonance: <a href="/shiren-5/items/weapons#torch">Torches</a><br/>(Night monsters miss more often)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -2634,7 +2634,7 @@ Strongest shield in the game by a wide margin.<br/>Reduces damage from day monst
       <td>-</td>
       <td>4200</td>
       <td>1470</td>
-      <td rowspan="8">Reduce damage from day monsters,<br/>increase damage from night monsters.<br/>(Day: 25%, +5% per level up | Lv8: 60%)<br/>(Night: 50%, +10% per level up | Lv8: 120%)<br/><br/>Resonance: <a href="/shiren5/item/weapons#bright-blade">Bright Blade</a><br/>(Read scrolls in the dark)</td>
+      <td rowspan="8">Reduce damage from day monsters,<br/>increase damage from night monsters.<br/>(Day: 25%, +5% per level up | Lv8: 60%)<br/>(Night: 50%, +10% per level up | Lv8: 120%)<br/><br/>Resonance: <a href="/shiren-5/items/weapons#bright-blade">Bright Blade</a><br/>(Read scrolls in the dark)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -2981,7 +2981,7 @@ It was used to counter Gyazas in Shiren 4, but it doesn't see much use in this g
       <td>-</td>
       <td>3000</td>
       <td>1050</td>
-      <td rowspan="8">Reflects a portion of damage<br/>received back at an enemy.<br/>(28, 31, 34, 37, 40, 43, 46, 51%)<br/><br/>Resonance: <a href="/shiren5/item/bracelets#strength-bracelet">Strength Bracelet</a><br/>(Counter damage doubled)</td>
+      <td rowspan="8">Reflects a portion of damage<br/>received back at an enemy.<br/>(28, 31, 34, 37, 40, 43, 46, 51%)<br/><br/>Resonance: <a href="/shiren-5/items/bracelets#strength-bracelet">Strength Bracelet</a><br/>(Counter damage doubled)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -3152,7 +3152,7 @@ but not worth using as a main shield or rune. Sells for a decent amount.
       <td>-</td>
       <td>8000</td>
       <td>2800</td>
-      <td rowspan="8">Gain experience points<br/>equal to damage received.<br/><br/>Resonance: <a href="/shiren5/item/bracelets#growth-bracelet">Growth Bracelet</a><br/>(Bracelet exp gain doubled)</td>
+      <td rowspan="8">Gain experience points<br/>equal to damage received.<br/><br/>Resonance: <a href="/shiren-5/items/bracelets#growth-bracelet">Growth Bracelet</a><br/>(Bracelet exp gain doubled)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -3496,7 +3496,7 @@ However, it has low base defense and is very slow to level up,<br/>so it's usual
       <td>-</td>
       <td>8000</td>
       <td>2800</td>
-      <td rowspan="8">Increases evasion against<br/>monster direct attacks.<br/>(22%, +3% per level up | Lv8: 43%)<br/><br/>Resonance: <a href="/shiren5/item/weapons#myopic-masher">Myopic Masher</a><br/>(Attack and Defense +3)</td>
+      <td rowspan="8">Increases evasion against<br/>monster direct attacks.<br/>(22%, +3% per level up | Lv8: 43%)<br/><br/>Resonance: <a href="/shiren-5/items/weapons#myopic-masher">Myopic Masher</a><br/>(Attack and Defense +3)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -3668,7 +3668,7 @@ The <span class="greenText">Anti-Blast</span> rune reduces explosion damage by 5
       <td>-</td>
       <td>6000</td>
       <td>2100</td>
-      <td rowspan="8">Reduces explosion damage.<br/>(50%, +5% per level up | Lv8: 85%)<br/><br/>Resonance: <a href="/shiren5/item/weapons#crescent-katana">Crescent Katana</a><br/>(Attack and Defense +3)</td>
+      <td rowspan="8">Reduces explosion damage.<br/>(50%, +5% per level up | Lv8: 85%)<br/><br/>Resonance: <a href="/shiren-5/items/weapons#crescent-katana">Crescent Katana</a><br/>(Attack and Defense +3)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -4354,7 +4354,7 @@ However, it's very slow to level up, and its defense only increases by 1 per lev
       <td>-</td>
       <td>10000</td>
       <td>3500</td>
-      <td rowspan="8">Reduces fire damage.<br/>(50%, +5% per level up | Lv8: 85%)<br/><br/>Resonance: <a href="/shiren5/item/weapons#lizard-lasher">Lizard Lasher</a><br/>(Attack and Defense +3)</td>
+      <td rowspan="8">Reduces fire damage.<br/>(50%, +5% per level up | Lv8: 85%)<br/><br/>Resonance: <a href="/shiren-5/items/weapons#lizard-lasher">Lizard Lasher</a><br/>(Attack and Defense +3)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -4867,7 +4867,7 @@ There's no reason to use it as a main shield unless you're using Burning Blade.<
       <td>-</td>
       <td>6000</td>
       <td>2100</td>
-      <td rowspan="8">Receive fixed damage instead of the<br/>effect when hit by a magic bullet.<br/>(10 damage, -1 per level up | Lv8: 3)<br/><br/>Resonance: <a href="/shiren5/item/weapons#burning-blade">Burning Blade</a><br/>(Raise flame damage by 1 level)<br/>(30 damage at Lv8 / with Blue Flame rune)</td>
+      <td rowspan="8">Receive fixed damage instead of the<br/>effect when hit by a magic bullet.<br/>(10 damage, -1 per level up | Lv8: 3)<br/><br/>Resonance: <a href="/shiren-5/items/weapons#burning-blade">Burning Blade</a><br/>(Raise flame damage by 1 level)<br/>(30 damage at Lv8 / with Blue Flame rune)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -5038,7 +5038,7 @@ Keep in mind that sealed equipment won't gain skill points, so you can't level i
       <td>-</td>
       <td>4000</td>
       <td>1400</td>
-      <td rowspan="8">Decrease shield upgrade value<br/>by 1 every time you get hit.<br/><br/>Resonance: <a href="/shiren5/item/weapons#shoddy-dirk">Shoddy Dirk</a><br/>(Equipped items won't rust)</td>
+      <td rowspan="8">Decrease shield upgrade value<br/>by 1 every time you get hit.<br/><br/>Resonance: <a href="/shiren-5/items/weapons#shoddy-dirk">Shoddy Dirk</a><br/>(Equipped items won't rust)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -5208,7 +5208,7 @@ Keep in mind that sealed equipment won't gain skill points, so you can't level i
       <td>-</td>
       <td>6000</td>
       <td>2100</td>
-      <td rowspan="8">Chance for the shield to<br/>break when hit by an attack.<br/>(50%, -2% per level up | Lv8: 36%)<br/><br/>Resonance: <a href="/shiren5/item/weapons#glass-dirk">Glass Dirk</a><br/>(Nullifies magic bullets received)</td>
+      <td rowspan="8">Chance for the shield to<br/>break when hit by an attack.<br/>(50%, -2% per level up | Lv8: 36%)<br/><br/>Resonance: <a href="/shiren-5/items/weapons#glass-dirk">Glass Dirk</a><br/>(Nullifies magic bullets received)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -5382,7 +5382,7 @@ It rivals Daytime Queen (60% reduction) at Lv8, but is strictly worse in day-onl
       <td>-</td>
       <td>2500</td>
       <td>875</td>
-      <td rowspan="8">Pay Gitan per hit to reduce damage.<br/>0 defense if you don't have enough Gitan.<br/>(15% and 30G, +5% and ~30G per level up)<br/>(Lv8: 50% and 250G)<br/><br/>Resonance: <a href="/shiren5/item/weapons#dirk-of-debts">Dirk of Debts</a><br/>(20% chance for foes to drop 200-399 Gitan)</td>
+      <td rowspan="8">Pay Gitan per hit to reduce damage.<br/>0 defense if you don't have enough Gitan.<br/>(15% and 30G, +5% and ~30G per level up)<br/>(Lv8: 50% and 250G)<br/><br/>Resonance: <a href="/shiren-5/items/weapons#dirk-of-debts">Dirk of Debts</a><br/>(20% chance for foes to drop 200-399 Gitan)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -5555,7 +5555,7 @@ Shield strength is added to attack instead of defense.<br/>Its resonance effect 
       <td>-</td>
       <td>3000</td>
       <td>1050</td>
-      <td rowspan="8">Shield strength is added<br/>to attack instead of defense.<br/><br/>Resonance: <a href="/shiren5/item/weapons#extreme-sword">Extreme Sword</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Shield strength is added<br/>to attack instead of defense.<br/><br/>Resonance: <a href="/shiren-5/items/weapons#extreme-sword">Extreme Sword</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -5729,7 +5729,7 @@ Its resonance effect illuminates everything on-screen, and activates with any to
       <td>-</td>
       <td>1500</td>
       <td>525</td>
-      <td rowspan="8">Burn items to create light in a 1 tile radius.<br/>(This ability cannot be synthesized)<br/><br/>Resonance: <a href="/shiren5/item/weapons#torch">Torches</a><br/>(Light up everything on-screen at night)</td>
+      <td rowspan="8">Burn items to create light in a 1 tile radius.<br/>(This ability cannot be synthesized)<br/><br/>Resonance: <a href="/shiren-5/items/weapons#torch">Torches</a><br/>(Light up everything on-screen at night)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -6249,7 +6249,7 @@ Powerful ability, but losing the shield due to a Swordsman or Gazer can end your
       <td>-</td>
       <td>14000</td>
       <td>4900</td>
-      <td rowspan="8">Decreases max fullness to 1,<br/>but also stops fullness depletion.<br/><br/>Resonance: <a href="/shiren5/item/weapons#wonder-pick">Wonder Pick</a><br/>(Max HP +30)</td>
+      <td rowspan="8">Decreases max fullness to 1,<br/>but also stops fullness depletion.<br/><br/>Resonance: <a href="/shiren-5/items/weapons#wonder-pick">Wonder Pick</a><br/>(Max HP +30)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -6426,7 +6426,7 @@ It's only used in dungeons that allow carry-in items by enthusiasts who like the
       <td>-</td>
       <td>360</td>
       <td>126</td>
-      <td rowspan="7">Resonance: <a href="/shiren5/item/weapons#pathetic-blade">Pathetic Blade</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="7">Resonance: <a href="/shiren-5/items/weapons#pathetic-blade">Pathetic Blade</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -6497,7 +6497,7 @@ It's only used in dungeons that allow carry-in items by enthusiasts who like the
       <td>64000</td>
       <td>25000</td>
       <td>8750</td>
-      <td>Resonance: <a href="/shiren5/item/weapons#pathetic-blade">Rising Sun</a><br/>(Foes may step back)</td>
+      <td>Resonance: <a href="/shiren-5/items/weapons#pathetic-blade">Rising Sun</a><br/>(Foes may step back)</td>
     </tr>
   </tbody>
 </table>
@@ -6778,7 +6778,7 @@ Its resonance effect lets you deal slightly meaningful damage to night monsters,
       <td>-</td>
       <td>12000</td>
       <td>4200</td>
-      <td rowspan="8">Clear Inori Cave with<br/>7 catstones and wish for<br/>an invincible shield.<br/><br/>Resonance: <a href="/shiren5/item/weapons#fuuma-sword">Fuuma Sword</a><br/>(Attack damage +10)<br/><br/>Resonance: <a href="/shiren5/item/weapons#kaburagi">Kaburagi</a><br/>(Attack damage +10)</td>
+      <td rowspan="8">Clear Inori Cave with<br/>7 catstones and wish for<br/>an invincible shield.<br/><br/>Resonance: <a href="/shiren-5/items/weapons#fuuma-sword">Fuuma Sword</a><br/>(Attack damage +10)<br/><br/>Resonance: <a href="/shiren-5/items/weapons#kaburagi">Kaburagi</a><br/>(Attack damage +10)</td>
     </tr>
     <tr>
       <td>2</td>

@@ -1,5 +1,5 @@
 ---
-title: "Abilities"
+title: "Necklace Abilities"
 metaTitle: "Necklace Abilities - Shiren the Wanderer: Tower of Fortune Wiki"
 metaDescription: "Details about abilities / techniques and unlock conditions for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
 ---

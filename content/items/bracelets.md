@@ -19,13 +19,13 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer: The Tower o
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="#cleansing-bracelet">Cleansing Bracelet</a></td>
-    <td class="highlightLightblue"><a href="#inacc-bracelet">Inacc. Bracelet</a></td>
+    <td class="highlightLightblue"><a href="#inacc.-bracelet">Inacc. Bracelet</a></td>
     <td class="highlightLightblue"><a href="#critical-bracelet">Critical Bracelet</a></td>
     <td class="highlightLightblue"><a href="#trap-bracelet">Trap Bracelet</a></td>
     <td class="highlightLightblue"><a href="#monsterphobic">Monsterphobic</a></td>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="#anti-cnf-bracelet">Anti-Cnf. Bracelet</a></td>
+    <td class="highlightLightblue"><a href="#anti-cnf.-bracelet">Anti-Cnf. Bracelet</a></td>
     <td class="highlightLightblue"><a href="#strength-bracelet">Strength Bracelet</a></td>
     <td class="highlightLightblue"><a href="#monster-detector">Monster Detector</a></td>
     <td class="highlightLightblue"><a href="#monster-summoner">Monster Summoner</a></td>
@@ -39,14 +39,14 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer: The Tower o
     <td class="highlightLightblue"><a href="#dozer-bracelet">Dozer Bracelet</a></td>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="#anti-crs-bracelet">Anti-Crs. Bracelet</a></td>
+    <td class="highlightLightblue"><a href="#anti-crs.-bracelet">Anti-Crs. Bracelet</a></td>
     <td class="highlightLightblue"><a href="#heal-bracelet">Heal Bracelet</a></td>
     <td class="highlightLightblue"><a href="#alleyway-bracelet">Alleyway Bracelet</a></td>
     <td class="highlightLightblue"><a href="#waterwalk-bracelet">Waterwalk Bracelet</a></td>
     <td class="highlightLightblue"><a href="#trapper-bracelet">Trapper Bracelet</a></td>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="#anti-parry-brce">Anti-Parry Brce.</a></td>
+    <td class="highlightLightblue"><a href="#anti-parry-brce.">Anti-Parry Brce.</a></td>
     <td class="highlightLightblue"><a href="#bunch-bracelet">Bunch Bracelet</a></td>
     <td class="highlightLightblue"><a href="#scout-bracelet">Scout Bracelet</a></td>
     <td class="highlightLightblue"><a href="#wall-clip-bracelet">Wall Clip Bracelet</a></td>
@@ -89,7 +89,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer: The Tower o
       <td class="leftText">Arrows and thrown items pierce through walls and creatures.</td>
     </tr>
     <tr>
-      <td class="highlightYellow"><a href="#inacc-bracelet">Inacc. Bracelet</a></td>
+      <td class="highlightYellow"><a href="#inacc.-bracelet">Inacc. Bracelet</a></td>
       <td>×</td>
       <td class="leftText">Arrows and thrown items will always miss.</td>
     </tr>
@@ -111,7 +111,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer: The Tower o
       <td class="leftText">Protects against strength loss.</td>
     </tr>
     <tr>
-      <td class="highlightYellow"><a href="#anti-cnf-bracelet">Anti-Cnf. Bracelet</a></td>
+      <td class="highlightYellow"><a href="#anti-cnf.-bracelet">Anti-Cnf. Bracelet</a></td>
       <td>×</td>
       <td class="leftText">Protects against confusion.</td>
     </tr>
@@ -121,7 +121,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer: The Tower o
       <td class="leftText">Protects against sleep.</td>
     </tr>
     <tr>
-      <td class="highlightYellow"><a href="#anti-crs-bracelet">Anti-Crs. Bracelet</a></td>
+      <td class="highlightYellow"><a href="#anti-crs.-bracelet">Anti-Crs. Bracelet</a></td>
       <td>×</td>
       <td class="leftText">Protects items from curses and seals.</td>
     </tr>
@@ -213,7 +213,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer: The Tower o
       <td class="leftText">Reveals the location of items on the floor.<br/>Receive 10 damage every time you pick up an item.</td>
     </tr>
     <tr>
-      <td class="highlightYellow"><a href="#anti-parry-brce">Anti-Parry Brce.</a></td>
+      <td class="highlightYellow"><a href="#anti-parry-brce.">Anti-Parry Brce.</a></td>
       <td rowspan="4">10000</td>
       <td rowspan="4">3500</td>
       <td>×</td>
@@ -261,7 +261,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer: The Tower o
       <td>50000</td>
       <td>17500</td>
       <td>×</td>
-      <td class="leftText">Enter elite stores without a <a href="/shiren5/item/scrolls#recommend-letter">Recommend. Letter</a></td>
+      <td class="leftText">Enter elite stores without a <a href="/shiren-5/items/scrolls#recommend-letter">Recommend. Letter</a></td>
     </tr>
   </tbody>
 </table>

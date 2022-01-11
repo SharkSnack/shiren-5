@@ -88,7 +88,7 @@ metaDescription: "Complete grass and seed details for Shiren the Wanderer: The T
       <td>3</td>
       <td>Anti-Plant</td>
       <td>-</td>
-      <td class="leftText">No effect.<br/>Hastens <a href="/shiren5/system/monsters#field-knave">Field Knaves</a> by 1 stage if thrown at them.</td>
+      <td class="leftText">No effect.<br/>Hastens <a href="/shiren-5/system/monsters#field-knave">Field Knaves</a> by 1 stage if thrown at them.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#herb">Herb</a></td>
@@ -110,25 +110,25 @@ metaDescription: "Complete grass and seed details for Shiren the Wanderer: The T
       <td rowspan="4">35</td>
       <td>Uplifting</td>
       <td>Uplifting</td>
-      <td class="leftText">Restores 100 HP, and cures <a href="/shiren5/system/status-conditions#confused">Confused</a> status.<br/>Increases max HP by 2 if already at max.</td>
+      <td class="leftText">Restores 100 HP, and cures <a href="/shiren-5/system/status-conditions#confused">Confused</a> status.<br/>Increases max HP by 2 if already at max.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#antidote-grass">Antidote Grass</a></td>
       <td>Anti-Drain</td>
       <td>-</td>
-      <td class="leftText">Restores lost strength to max.<br/>Deals 50 damage to <a href="/shiren5/system/monsters#scorpion">Scorpions</a> and <a href="/shiren5/system/monsters#mutaikon">Mutaikons</a>.</td>
+      <td class="leftText">Restores lost strength to max.<br/>Deals 50 damage to <a href="/shiren-5/system/monsters#scorpion">Scorpions</a> and <a href="/shiren-5/system/monsters#mutaikon">Mutaikons</a>.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#poison-grass">Poison Grass</a></td>
       <td>-</td>
       <td>-</td>
-      <td class="leftText">Inflicts 5 damage, lowers strength by 1, and slows movement.<br/>Effects can be nullified by <a href="/shiren5/item/bracelets#cleansing-bracelet">Cleansing Bracelet</a>.<br/>If thrown, inflicts <a href="/shiren5/system/status-conditions#weakened">Weakened</a> and slows movement by 1 stage.<br/>Applies <a href="/shiren5/system/status-conditions#buffed">Buffed</a> status if thrown at <a href="/shiren5/system/monsters#scorpions">Scorpions</a> or <a href="/shiren5/system/monsters#mutaikon">Mutaikons</a>.</td>
+      <td class="leftText">Inflicts 5 damage, lowers strength by 1, and slows movement.<br/>Effects can be nullified by <a href="/shiren-5/items/bracelets#cleansing-bracelet">Cleansing Bracelet</a>.<br/>If thrown, inflicts <a href="/shiren-5/system/status-conditions#weakened">Weakened</a> and slows movement by 1 stage.<br/>Applies <a href="/shiren-5/system/status-conditions#buffed">Buffed</a> status if thrown at <a href="/shiren-5/system/monsters#scorpions">Scorpions</a> or <a href="/shiren-5/system/monsters#mutaikon">Mutaikons</a>.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#warp-grass">Warp Grass</a></td>
       <td>Anti-Floating</td>
       <td>-</td>
-      <td class="leftText">Warps you to a different room on the current floor.<br/>Effect can be nullified by <a href="/shiren5/item/shields#steady-shield">Steady Shield</a>.</td>
+      <td class="leftText">Warps you to a different room on the current floor.<br/>Effect can be nullified by <a href="/shiren-5/items/shields#steady-shield">Steady Shield</a>.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#heal-grass">Heal Grass</a></td>
@@ -136,7 +136,7 @@ metaDescription: "Complete grass and seed details for Shiren the Wanderer: The T
       <td>70</td>
       <td>Vitalizing</td>
       <td>Vitalizing</td>
-      <td class="leftText">Restores 200 HP, and cures <a href="/shiren5/system/status-conditions#confused">Confused</a>, <a href="/shiren5/system/status-conditions#blind">Blind</a>, and <a href="/shiren5/system/status-conditions#slow">Slow</a>.<br/>Increases max HP by 3 if already at max.</td>
+      <td class="leftText">Restores 200 HP, and cures <a href="/shiren-5/system/status-conditions#confused">Confused</a>, <a href="/shiren-5/system/status-conditions#blind">Blind</a>, and <a href="/shiren-5/system/status-conditions#slow">Slow</a>.<br/>Increases max HP by 3 if already at max.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#power-up-grass">Power Up Grass</a></td>
@@ -144,19 +144,19 @@ metaDescription: "Complete grass and seed details for Shiren the Wanderer: The T
       <td rowspan="9">105</td>
       <td>-</td>
       <td>-</td>
-      <td class="leftText">Applies <a href="/shiren5/system/status-conditions#buffed">Buffed</a> status for 20 turns if eaten or thrown.</td>
+      <td class="leftText">Applies <a href="/shiren-5/system/status-conditions#buffed">Buffed</a> status for 20 turns if eaten or thrown.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#upgrade-seed">Upgrade Seed</a></td>
       <td>Blue Flame*</td>
       <td>-</td>
-      <td class="leftText">Applies <a href="/shiren5/system/status-conditions#tinkerer">Tinkerer</a> status for 100 turns.<br/>Effect lasts for the duration of the floor if blessed.</td>
+      <td class="leftText">Applies <a href="/shiren-5/system/status-conditions#tinkerer">Tinkerer</a> status for 100 turns.<br/>Effect lasts for the duration of the floor if blessed.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#perception-grass">Perception Grass</a></td>
       <td>Anti-Cyclops</td>
       <td>Agile*</td>
-      <td class="leftText">Applies <a href="/shiren5/system/status-conditions#farseeing">Farseeing</a> status for the duration of the floor.<br/>Lets you read scrolls at night without light.</td>
+      <td class="leftText">Applies <a href="/shiren-5/system/status-conditions#farseeing">Farseeing</a> status for the duration of the floor.<br/>Lets you read scrolls at night without light.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#swift-grass">Swift Grass</a></td>
@@ -168,25 +168,25 @@ metaDescription: "Complete grass and seed details for Shiren the Wanderer: The T
       <td class="highlightYellow"><a href="#stomach-expander">Stomach Expander</a></td>
       <td>-</td>
       <td>-</td>
-      <td class="leftText">Increases max fullness by 5.<br/>Increase the number of items <a href="/shiren5/system/monsters#mixer">Mixers</a> can eat by 1. (Max: 8)</td>
+      <td class="leftText">Increases max fullness by 5.<br/>Increase the number of items <a href="/shiren-5/system/monsters#mixer">Mixers</a> can eat by 1. (Max: 8)</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#stomach-shrinker">Stomach Shrinker</a></td>
       <td>-</td>
       <td>-</td>
-      <td class="leftText">Decrease max fullness by 5.<br/>Effect can be nullified by <a href="/shiren5/item/bracelets#staunch-bracelet">Staunch Bracelet</a>.<br/>Decrease the number of items <a href="/shiren5/system/monsters#mixer">Mixers</a> can eat by 1.</td>
+      <td class="leftText">Decrease max fullness by 5.<br/>Effect can be nullified by <a href="/shiren-5/items/bracelets#staunch-bracelet">Staunch Bracelet</a>.<br/>Decrease the number of items <a href="/shiren-5/system/monsters#mixer">Mixers</a> can eat by 1.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#confusion-grass">Confusion Grass</a></td>
       <td>Confusing</td>
       <td>-</td>
-      <td class="leftText">Inflicts <a href="/shiren5/system/status-conditions#confused">Confused</a> status for 12 turns. (20 if thrown)<br/>Effect can be nullified by <a href="/shiren5/item/bracelets#anti-cnf-bracelet">Anti-Cnf. Bracelet</a>.</td>
+      <td class="leftText">Inflicts <a href="/shiren-5/system/status-conditions#confused">Confused</a> status for 12 turns. (20 if thrown)<br/>Effect can be nullified by <a href="/shiren-5/items/bracelets#anti-cnf-bracelet">Anti-Cnf. Bracelet</a>.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#blinding-grass">Blinding Grass</a></td>
       <td>Blinding</td>
       <td>-</td>
-      <td class="leftText">Inflicts <a href="/shiren5/system/status-conditions#blind">Blind</a> status for 10 turns.</td>
+      <td class="leftText">Inflicts <a href="/shiren-5/system/status-conditions#blind">Blind</a> status for 10 turns.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#nymph-grass">Nymph Grass</a></td>
@@ -206,7 +206,7 @@ metaDescription: "Complete grass and seed details for Shiren the Wanderer: The T
       <td class="highlightYellow"><a href="#strength-grass">Strength Grass</a></td>
       <td>-</td>
       <td>-</td>
-      <td class="leftText">Restores 1 strength.<br/>Increases max strength by 1 if already at max.<br/>Applies <a href="/shiren5/system/status-conditions#buffed">Buffed</a> status if thrown at a creature.</td>
+      <td class="leftText">Restores 1 strength.<br/>Increases max strength by 1 if already at max.<br/>Applies <a href="/shiren-5/system/status-conditions#buffed">Buffed</a> status if thrown at a creature.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#dragon-grass">Dragon Grass</a></td>
@@ -218,19 +218,19 @@ metaDescription: "Complete grass and seed details for Shiren the Wanderer: The T
       <td class="highlightYellow"><a href="#sleepy-grass">Sleepy Grass</a></td>
       <td>Sedating</td>
       <td>-</td>
-      <td class="leftText">Inflicts <a href="/shiren5/system/status-conditions#asleep">Asleep</a> status for 6 turns.<br/>Effect can be nullified by <a href="/shiren5/item/bracelets#alert-bracelet">Alert Bracelet</a>.</td>
+      <td class="leftText">Inflicts <a href="/shiren-5/system/status-conditions#asleep">Asleep</a> status for 6 turns.<br/>Effect can be nullified by <a href="/shiren-5/items/bracelets#alert-bracelet">Alert Bracelet</a>.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#rage-grass">Rage Grass</a></td>
       <td>-</td>
       <td>-</td>
-      <td class="leftText">Inflicts <a href="/shiren5/system/status-conditions#berserk">Berserk</a> status for 30 turns.</td>
+      <td class="leftText">Inflicts <a href="/shiren-5/system/status-conditions#berserk">Berserk</a> status for 30 turns.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#dracon-grass">Dracon Grass</a></td>
       <td>-</td>
       <td>-</td>
-      <td class="leftText">Applies <a href="/shiren5/system/status-conditions#cannon-arm">Cannon Arm</a> status for the duration of the floor.<br/>Deals 2 damage if thrown at a creature.</td>
+      <td class="leftText">Applies <a href="/shiren-5/system/status-conditions#cannon-arm">Cannon Arm</a> status for the duration of the floor.<br/>Deals 2 damage if thrown at a creature.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#revival-grass">Revival Grass</a></td>
@@ -266,7 +266,7 @@ metaDescription: "Complete grass and seed details for Shiren the Wanderer: The T
       <td rowspan="5">700</td>
       <td>-</td>
       <td>-</td>
-      <td class="leftText">Applies <a href="/shiren5/system/status-conditions#invincible">Invincible</a> status for 20 turns.</td>
+      <td class="leftText">Applies <a href="/shiren-5/system/status-conditions#invincible">Invincible</a> status for 20 turns.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#cheery-grass">Cheery Grass</a></td>
@@ -284,13 +284,13 @@ metaDescription: "Complete grass and seed details for Shiren the Wanderer: The T
       <td class="highlightYellow"><a href="#amnesia-grass">Amnesia Grass</a></td>
       <td>-</td>
       <td>-</td>
-      <td class="leftText">All identified items return to being unidentified.<br/>If thrown, inflict <a href="/shiren5/system/status-conditions#apathetic">Apathetic</a> status for 6 turns.</td>
+      <td class="leftText">All identified items return to being unidentified.<br/>If thrown, inflict <a href="/shiren-5/system/status-conditions#apathetic">Apathetic</a> status for 6 turns.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#imabikiso">Imabikiso</a></td>
       <td>-</td>
       <td>-</td>
-      <td class="leftText">All inventory items not in pots become either cursed or sealed.<br/>Inflicts <a href="/shiren5/system/status-conditions#sealed">Sealed</a> status if thrown at an enemy.<br/>Levels up <a href="/shiren5/system/monsters#curse-girl">Curse Girls</a> if thrown at them.</td>
+      <td class="leftText">All inventory items not in pots become either cursed or sealed.<br/>Inflicts <a href="/shiren-5/system/status-conditions#sealed">Sealed</a> status if thrown at an enemy.<br/>Levels up <a href="/shiren-5/system/monsters#curse-girl">Curse Girls</a> if thrown at them.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#angel-seed">Angel Seed</a></td>

@@ -50,7 +50,7 @@ There are 4 villages in the game, each with their own NPCs and facilities.<br/>
     </ul>
   </li>
   <li>
-    <a href="#sparrows-inn">Sparrow's Inn</a>
+    <a href="#sparrow's-inn">Sparrow's Inn</a>
     <ul>
       <li><a href="#sparrow-inn">Inn</a></li>
       <li><a href="#sparrow-shop">Item Shop</a></li>
@@ -114,8 +114,8 @@ There are 4 villages in the game, each with their own NPCs and facilities.<br/>
 
 <br/>
 
-- Become <a href="/shiren5/system/allies#kojirouta">Kojirouta</a>'s servant to set the flag for him to join you as an ally.
-- Dungeons: <a href="/shiren5/dungeon/ouma-shrine">Ouma Shrine</a>, <a href="/shiren5/dungeon/inori-cave">Inori Cave</a>, <a href="/shiren5/dungeon/pitfall-of-life">Pitfall of Life</a>, <a href="/shiren5/dungeon/onigiri-hollow">Onigiri Hollow</a>, <a href="/shiren5/dungeon/old-road">Old Road</a>
+- Become <a href="/shiren-5/system/allies#kojirouta">Kojirouta</a>'s servant to set the flag for him to join you as an ally.
+- Dungeons: <a href="/shiren-5/dungeons/ouma-shrine">Ouma Shrine</a>, <a href="/shiren-5/dungeons/inori-cave">Inori Cave</a>, <a href="/shiren-5/dungeons/pitfall-of-life">Pitfall of Life</a>, <a href="/shiren-5/dungeons/onigiri-hollow">Onigiri Hollow</a>, <a href="/shiren-5/dungeons/old-road">Old Road</a>
 
 <div id="field" class="facility">Field</div>
 
@@ -132,7 +132,7 @@ There are 4 villages in the game, each with their own NPCs and facilities.<br/>
 </div>
 
 - Offers training facilities to help you learn how to play the game.
-    - <a href="/shiren5/dungeon/training-facility">Training Facility</a>, <a href="/shiren5/dungeon/night-training-facility">Night Training Facility</a>
+    - <a href="/shiren-5/dungeons/training-facility">Training Facility</a>, <a href="/shiren-5/dungeons/night-training-facility">Night Training Facility</a>
 
 <br/>
 
@@ -192,9 +192,9 @@ There are 4 villages in the game, each with their own NPCs and facilities.<br/>
 <br/>
 
 - Main village of the game, and you'll be returned here if you collapse.
-- Give catnip juice to <a href="/shiren5/system/allies#gen">Gen</a> to have him join you as an ally.
+- Give catnip juice to <a href="/shiren-5/system/allies#gen">Gen</a> to have him join you as an ally.
     - Catnip Juice is obtained in Inori Village after reaching Hermit's Hermitage.
-- Dungeons: <a href="/shiren5/dungeon/destiny-trail">Destiny Trail</a>, <a href="/shiren5/dungeon/gens-turf">Gen's Turf</a>, <a href="/shiren5/dungeon/heavenly-lake">Heavenly Lake</a>
+- Dungeons: <a href="/shiren-5/dungeons/destiny-trail">Destiny Trail</a>, <a href="/shiren-5/dungeons/gens-turf">Gen's Turf</a>, <a href="/shiren-5/dungeons/heavenly-lake">Heavenly Lake</a>
 
 <div id="nekomaneki-shop" class="facility relativeImage">
   Item Shop <img src="../images/overworld/icon_shop.png"/>
@@ -352,31 +352,31 @@ There are 4 villages in the game, each with their own NPCs and facilities.<br/>
   Lot Shop <img src="../images/overworld/icon_tanuki.png"/>
 </div>
 
-- See <a href="/shiren5/system/lottery">Ponta's Lottery</a>.
+- See <a href="/shiren-5/system/lottery">Ponta's Lottery</a>.
 
 <div id="secret-pots" class="facility relativeImage">
   Secret Pots <img src="../images/overworld/icon_tanuki.png"/>
 </div>
 
-- See <a href="/shiren5/item/new-items">New Items</a>.
+- See <a href="/shiren-5/items/new-items">New Items</a>.
 
 <div id="tanuki-passwords" class="facility relativeImage">
   Tanuki Passwords <img src="../images/overworld/icon_tanuki.png"/>
 </div>
 
-- See <a href="/shiren5/system/tanuki-passwords">Tanuki Passwords</a>.
+- See <a href="/shiren-5/system/tanuki-passwords">Tanuki Passwords</a>.
 
 <div id="ability-library" class="facility relativeImage">
   Ability Library <img src="../images/overworld/icon_ability_library.png"/>
 </div>
 
-- Organize <a href="/shiren5/system/abilities">Necklace Abilities</a>.
+- Organize <a href="/shiren-5/system/necklace-abilities">Necklace Abilities</a>.
 
 <div id="rescue-branch" class="facility relativeImage">
   Rescue Branch <img src="../images/overworld/icon_rescue.png"/>
 </div>
 
-- See <a href="/shiren5/system/wanderer-rescue">Wanderer Rescue</a>.
+- See <a href="/shiren-5/system/wanderer-rescue">Wanderer Rescue</a>.
 
 <div id="point-shop" class="facility relativeImage">
   Point Shop <img src="../images/overworld/icon_point_shop.png"/>
@@ -435,7 +435,7 @@ There are 4 villages in the game, each with their own NPCs and facilities.<br/>
   License Shop <img src="../images/overworld/icon_license_shop.png"/>
 </div>
 
-- Purchase <a href="/shiren5/item/other-items#friendship-license">Friendship Licenses</a>.
+- Purchase <a href="/shiren-5/items/other-items#friendship-license">Friendship Licenses</a>.
 
 <div id="curse-breaker" class="facility relativeImage">
   Curse Breaker <img src="../images/overworld/icon_curse_breaker.png"/>
@@ -448,14 +448,14 @@ There are 4 villages in the game, each with their own NPCs and facilities.<br/>
 </div>
 
 - Talk to NPCs to access a variety of dungeons.
-    - <a href="/shiren5/dungeon/explosion-rocks">Explosion Rocks</a>, <a href="/shiren5/dungeon/statue-cave">Statue Cave</a>, <a href="/shiren5/dungeon/underground-manor">Underground Manor</a>, PS Vita/Switch/Steam
+    - <a href="/shiren-5/dungeons/explosion-rocks">Explosion Rocks</a>, <a href="/shiren-5/dungeons/statue-cave">Statue Cave</a>, <a href="/shiren-5/dungeons/underground-manor">Underground Manor</a>, PS Vita/Switch/Steam
 
 <div id="sparrow's-shuttle" class="facility relativeImage">
   Sparrow's Shuttle <img src="../images/overworld/icon_shuttle.png"/>
 </div>
 
 - Lets you instantly travel to places you've been to before.
-    - Unlocked when you reach <a href="#sparrows-inn">Sparrow's Inn</a>.
+    - Unlocked when you reach <a href="#sparrow's-inn">Sparrow's Inn</a>.
 
 <br/>
 
@@ -502,7 +502,7 @@ There are 4 villages in the game, each with their own NPCs and facilities.<br/>
 </div>
 
 - NPC side quest that rewards you with items and unlocks a post-game dungeon.
-    - See <a href="/shiren5/dungeon/onigiri-hollow">Onigiri Hollow</a> for details.
+    - See <a href="/shiren-5/dungeons/onigiri-hollow">Onigiri Hollow</a> for details.
 
 <div id="superspy-daisaku" class="facility relativeImage">
   Superspy Daisaku
@@ -513,9 +513,9 @@ There are 4 villages in the game, each with their own NPCs and facilities.<br/>
 　<span class="highlightPurple">Secret Tips</span>
 
 - Koji-what's-his-name wants to climb the Tower of Fortune.
-    - Bring <a href="/shiren5/system/allies#kojirouta">Kojirouta</a> to the top of Tower of Miracles to unlock <a href="/shiren5/dungeon/pitfall-of-life">Pitfall of Life</a>.
+    - Bring <a href="/shiren-5/system/allies#kojirouta">Kojirouta</a> to the top of Tower of Miracles to unlock <a href="/shiren-5/dungeons/pitfall-of-life">Pitfall of Life</a>.
 - The girl with the panda hat wants to get to the top of the Tower of Fortune.
-    - Bring <a href="/shiren5/system/allies#tao">Tao</a> to the top of Tower of Miracles to unlock <a href="/shiren5/dungeon/bizarre-tower">Bizarre Tower</a>.
+    - Bring <a href="/shiren-5/system/allies#tao">Tao</a> to the top of Tower of Miracles to unlock <a href="/shiren-5/dungeons/bizarre-tower">Bizarre Tower</a>.
 - Throw Antidote Grass at Scorpions to deal damage.
 - Throw Antidote Grass at Mutaikons to deal damage.
 - Throw Exorcism Scroll at Curse Girls to deal damage.
@@ -530,7 +530,7 @@ There are 4 villages in the game, each with their own NPCs and facilities.<br/>
 - Synthesize a weapon, Heal Pot, and Heal Bracelet to create the Healing rune.
 - Hit 5 monsters lined up in a straight line with an ability to heal HP.
 - There are 2 people hiding amazing treasure in Nekomaneki Village.
-    - David's Bullet and Shrine Maid. Pot - wish for them inside <a href="/shiren5/dungeon/inori-cave">Inori Cave</a>.
+    - David's Bullet and Shrine Maid. Pot - wish for them inside <a href="/shiren-5/dungeons/inori-cave">Inori Cave</a>.
 - Expert badges increase the score for rankings.
 
 <br/>
@@ -590,9 +590,9 @@ There are 4 villages in the game, each with their own NPCs and facilities.<br/>
 
 <br/>
 
-- Small overworld area where you can optionally hire <a href="/shiren5/system/allies#tao">Tao</a> to join you as an ally.
+- Small overworld area where you can optionally hire <a href="/shiren-5/system/allies#tao">Tao</a> to join you as an ally.
     - 1500 Gitan, or 2000 Gitan if you declined the first time.
-- Dungeons: <a href="/shiren5/dungeon/tower-of-the-past">Tower of the Past</a>, <a href="/shiren5/dungeon/tower-of-the-present">Tower of the Present</a>, <a href="/shiren5/dungeon/tower-of-the-future">Tower of the Future</a>, <a href="/shiren5/dungeon/bizarre-tower">Bizarre Tower</a>, <a href="/shiren5/dungeon/destinys-descent">Destiny's Descent</a>
+- Dungeons: <a href="/shiren-5/dungeons/tower-of-the-past">Tower of the Past</a>, <a href="/shiren-5/dungeons/tower-of-the-present">Tower of the Present</a>, <a href="/shiren-5/dungeons/tower-of-the-future">Tower of the Future</a>, <a href="/shiren-5/dungeons/bizarre-tower">Bizarre Tower</a>, <a href="/shiren-5/dungeons/destinys-descent">Destiny's Descent</a>
 
 <br/>
 
@@ -641,8 +641,8 @@ There are 4 villages in the game, each with their own NPCs and facilities.<br/>
 
 <br/>
 
-- First visit unlocks <a href="/shiren5/system/abilities">necklace abilities</a> and <a href="/shiren5/dungeon/night-training-facility">Night Training Facility</a>.
-- Dungeons: <a href="/shiren5/dungeon/tower-of-fortune">Tower of Fortune</a>, <a href="/shiren5/dungeon/primordial-chasm">Primordial Chasm</a>
+- First visit unlocks <a href="/shiren-5/system/necklace-abilities">necklace abilities</a> and <a href="/shiren-5/dungeons/night-training-facility">Night Training Facility</a>.
+- Dungeons: <a href="/shiren-5/dungeons/tower-of-fortune">Tower of Fortune</a>, <a href="/shiren-5/dungeons/primordial-chasm">Primordial Chasm</a>
 
 <div id="hermit-inn" class="facility relativeImage">
   Inn <img src="../images/overworld/icon_inn.png"/>
@@ -747,7 +747,7 @@ There are 4 villages in the game, each with their own NPCs and facilities.<br/>
   Blacksmith <img src="../images/overworld/icon_blacksmith.png"/>
 </div>
 
-- Give the Blacksmith a <a href="/shiren5/item/food#juicy-peach">Juicy Peach</a> to unlock his services.
+- Give the Blacksmith a <a href="/shiren-5/items/food#juicy-peach">Juicy Peach</a> to unlock his services.
     - Each service can only be performed once per adventure.
 - Upgrade: 1000 Gitan.
     - Increase weapon or shield upgrade value by 1.
@@ -778,9 +778,9 @@ There are 4 villages in the game, each with their own NPCs and facilities.<br/>
   Training Hermit's House
 </div>
 
-- Side quest where you defeat night monsters to unlock the Staccato Wave <a href="/shiren5/system/abilities">ability</a>.
+- Side quest where you defeat night monsters to unlock the Staccato Wave <a href="/shiren-5/system/necklace-abilities">ability</a>.
     - Dungeon you defeat the monsters in doesn't matter.
-    - Guide a <a href="/shiren5/system/npcs#sage-1">wandering Sage</a> to Hermit's Hermitage or clear the main story to unlock this side quest.
+    - Guide a <a href="/shiren-5/system/npcs#sage-1">wandering Sage</a> to Hermit's Hermitage or clear the main story to unlock this side quest.
 
 　<span class="highlightPurple">Target Monsters</span>
 
@@ -836,7 +836,7 @@ There are 4 villages in the game, each with their own NPCs and facilities.<br/>
 
 <br/>
 
-- Dungeons: <a href="/shiren5/dungeon/tower-of-miracles">Tower of Miracles</a>, <a href="/shiren5/dungeon/lost-well">Lost Well</a>
+- Dungeons: <a href="/shiren-5/dungeons/tower-of-miracles">Tower of Miracles</a>, <a href="/shiren-5/dungeons/lost-well">Lost Well</a>
 
 <div id="sparrow-inn" class="facility relativeImage">
   Inn <img src="../images/overworld/icon_inn.png"/>

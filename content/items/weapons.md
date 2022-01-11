@@ -102,7 +102,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
       <td>-</td>
       <td>Redeeming (Lv8)</td>
       <td>25,250</td>
-      <td><a href="/items/shields#plain-targe">Plain Targe</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren-5/items/shields#plain-targe">Plain Targe</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#tin-blade">Tin Blade</a></td>
@@ -113,7 +113,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
       <td>-</td>
       <td>Rustproof (Lv8)</td>
       <td>31,570</td>
-      <td><a href="/items/shields#tin-shield">Tin Shield</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren-5/items/shields#tin-shield">Tin Shield</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#katana">Katana</a></td>
@@ -124,7 +124,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
       <td>-</td>
       <td>Rustproof (Lv8)</td>
       <td>49,300</td>
-      <td><a href="/items/shields#iron-targe">Iron Targe</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren-5/items/shields#iron-targe">Iron Targe</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#beast-fang">Beast Fang</a></td>
@@ -135,7 +135,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
       <td>-</td>
       <td>Rustproof (Lv5)</td>
       <td>37,900</td>
-      <td><a href="/items/shields#beast-shield">Beast Shield</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren-5/items/shields#beast-shield">Beast Shield</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#dotanuki">Dotanuki</a></td>
@@ -146,7 +146,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
       <td>-</td>
       <td>Enhancing (Lv8)</td>
       <td>44,250</td>
-      <td><a href="/items/shields#wolfshead">Wolfshead</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren-5/items/shields#wolfshead">Wolfshead</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#bladite">Bladite</a></td>
@@ -157,7 +157,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
       <td>-</td>
       <td>Uplifting (Lv4)<br/>Rustproof (Lv8)</td>
       <td>50,600</td>
-      <td><a href="/items/shields#targite">Targite</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren-5/items/shields#targite">Targite</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#red-blade">Red Blade</a></td>
@@ -168,7 +168,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
       <td>-</td>
       <td>Uplifting (Lv3)<br/>Flame Shot (Lv8)</td>
       <td>56,950</td>
-      <td><a href="/items/shields#red-shield">Red Shield</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren-5/items/shields#red-shield">Red Shield</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#kabura-katana">Kabura Katana</a></td>
@@ -179,7 +179,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
       <td>-</td>
       <td>Quick Hitting (Lv8)</td>
       <td>95,000</td>
-      <td><a href="/items/shields#fuuma-shield">Fuuma Shield</a><br/>(Attack damage +5)</td>
+      <td><a href="/shiren-5/items/shields#fuuma-shield">Fuuma Shield</a><br/>(Attack damage +5)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#fuuma-sword">Fuuma Sword</a></td>
@@ -190,7 +190,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
       <td>-</td>
       <td>Flame Shot (Lv7)</td>
       <td>175,000</td>
-      <td><a href="/items/shields#fuuma-shield">Fuuma Shield</a><br/>(Attack damage +5)<br/><a href="/items/shields#helix-shield">Helix Shield</a><br/>(Attack damage +10)</td>
+      <td><a href="/shiren-5/items/shields#fuuma-shield">Fuuma Shield</a><br/>(Attack damage +5)<br/><a href="/shiren-5/items/shields#helix-shield">Helix Shield</a><br/>(Attack damage +10)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#dull-gold-edge">Dull Gold Edge</a></td>
@@ -201,7 +201,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
       <td>Rustproof</td>
       <td>Paralyzing (Lv8)</td>
       <td>18,950</td>
-      <td><a href="/items/shields#gold-shield">Gold Shield</a><br/>(Max strength +3)</td>
+      <td><a href="/shiren-5/items/shields#gold-shield">Gold Shield</a><br/>(Max strength +3)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#bright-blade">Bright Blade</a></td>
@@ -212,7 +212,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
       <td>Redeeming</td>
       <td>Lively (Lv5)<br/>Confusing (Lv8)</td>
       <td>25,300</td>
-      <td><a href="/items/shields#day-shield">Day Shield</a><br/>(Read scrolls in the dark)</td>
+      <td><a href="/shiren-5/items/shields#day-shield">Day Shield</a><br/>(Read scrolls in the dark)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#rusty-pickaxe">Rusty Pickaxe</a>※</td>
@@ -278,7 +278,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
       <td>Anti-Cyclops</td>
       <td>Rustproof (Lv8)</td>
       <td>31,750</td>
-      <td><a href="/items/shields#spry-shield">Spry Shield</a><br/>(Attack and Defense +3)</td>
+      <td><a href="/shiren-5/items/shields#spry-shield">Spry Shield</a><br/>(Attack and Defense +3)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#magic-masher">Magic Masher</a></td>
@@ -322,7 +322,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
       <td>Anti-Explode</td>
       <td>Rustproof (Lv8)</td>
       <td>50,800</td>
-      <td><a href="/items/shields#blast-shield">Blast Shield</a><br/>(Attack and Defense +3)</td>
+      <td><a href="/shiren-5/items/shields#blast-shield">Blast Shield</a><br/>(Attack and Defense +3)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#lizard-lasher">Lizard Lasher</a></td>
@@ -333,7 +333,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
       <td>Anti-Dragon</td>
       <td>Rustproof (Lv8)</td>
       <td>63,500</td>
-      <td><a href="/items/shields#snake-shield">Snake Shield</a><br/>(Attack and Defense +3)</td>
+      <td><a href="/shiren-5/items/shields#snake-shield">Snake Shield</a><br/>(Attack and Defense +3)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#nap-rattle">Nap Rattle</a></td>
@@ -344,7 +344,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
       <td>Sedating</td>
       <td>Rustproof (Lv8)</td>
       <td>50,700</td>
-      <td><a href="/items/bracelets#alert-bracelet">Alert Bracelet</a><br/>(Sleep chance +2%)</td>
+      <td><a href="/shiren-5/items/bracelets#alert-bracelet">Alert Bracelet</a><br/>(Sleep chance +2%)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#shockuto">Shockuto</a></td>
@@ -388,7 +388,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
       <td>Confusing</td>
       <td>Rustproof (Lv8)</td>
       <td>38,000</td>
-      <td><a href="/items/bracelets#anti-cnf-bracelet">Anti-Cnf. Bracelet</a><br/>(Confusion chance +2%)</td>
+      <td><a href="/shiren-5/items/bracelets#anti-cnf-bracelet">Anti-Cnf. Bracelet</a><br/>(Confusion chance +2%)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#hatchet">Hatchet</a></td>
@@ -410,7 +410,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
       <td>Expendable</td>
       <td>Critical (Lv8)<br/>Quick Hitting (Lv8)</td>
       <td>103,000</td>
-      <td><a href="/items/shields#shoddy-plank">Shoddy Plank</a><br/>(Equipped items won't rust)</td>
+      <td><a href="/shiren-5/items/shields#shoddy-plank">Shoddy Plank</a><br/>(Equipped items won't rust)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#glass-dirk">Glass Dirk</a>※</td>
@@ -421,7 +421,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
       <td>Unsound</td>
       <td>Stupefying (Lv8)</td>
       <td>103,000</td>
-      <td><a href="/items/shields#glass-buckler">Glass Buckler</a><br/>(Nullifies magic bullets)</td>
+      <td><a href="/shiren-5/items/shields#glass-buckler">Glass Buckler</a><br/>(Nullifies magic bullets)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#dirk-of-debts">Dirk of Debts</a>※</td>
@@ -432,7 +432,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
       <td>Costly</td>
       <td>-</td>
       <td>38,100</td>
-      <td><a href="/items/shields#paupers-plank">Pauper's Plank</a><br/>(Enemies drop Gitan often)</td>
+      <td><a href="/shiren-5/items/shields#paupers-plank">Pauper's Plank</a><br/>(Enemies drop Gitan often)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#extreme-sword">Extreme Sword</a>※</td>
@@ -443,7 +443,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
       <td>Focusing</td>
       <td>-</td>
       <td>63,000</td>
-      <td><a href="/items/shields#rush-shield">Rush Shield</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren-5/items/shields#rush-shield">Rush Shield</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#violent-blade">Violent Blade</a>※</td>
@@ -454,7 +454,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
       <td>Obsessive</td>
       <td>Anti-Cyclops (Lv6)<br/>Blinding (Lv8)</td>
       <td>50,700</td>
-      <td><a href="/items/bracelets#mojo-bracelet">Mojo Bracelet</a><br/>(Chance to slow target)</td>
+      <td><a href="/shiren-5/items/bracelets#mojo-bracelet">Mojo Bracelet</a><br/>(Chance to slow target)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#breeze-blade">Breeze Blade</a></td>
@@ -465,7 +465,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
       <td>Tri-direction</td>
       <td>Energizing (Lv8)</td>
       <td>50,800</td>
-      <td><a href="/items/shields#midnight-shield">Midnight Shield</a><br/>(Equipped items won't rust)</td>
+      <td><a href="/shiren-5/items/shields#midnight-shield">Midnight Shield</a><br/>(Equipped items won't rust)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#burning-blade">Burning Blade</a></td>
@@ -476,7 +476,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
       <td>Flame Shot</td>
       <td>Uplifting (Lv5)<br/>Anti-Explode (Lv8)</td>
       <td>63,000</td>
-      <td><a href="/items/shields#swap-shield">Swap Shield</a><br/>(Boost Flame Shot damage)</td>
+      <td><a href="/shiren-5/items/shields#swap-shield">Swap Shield</a><br/>(Boost Flame Shot damage)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#wonder-pick">Wonder Pick</a></td>
@@ -487,7 +487,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
       <td>Max Wall Dig</td>
       <td>Blinding (Lv5)</td>
       <td>127,000</td>
-      <td><a href="/items/shields#nirvana-board">Nirvana Board</a><br/>(Max HP +30)</td>
+      <td><a href="/shiren-5/items/shields#nirvana-board">Nirvana Board</a><br/>(Max HP +30)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#sturdy-hammer">Sturdy Hammer</a></td>
@@ -509,7 +509,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
       <td>Accurate</td>
       <td>Critical (Lv8)</td>
       <td>127,000</td>
-      <td><a href="/items/bracelets#anti-parry-brce">Anti-Parry Brce.</a><br/>(Projectiles always hit)</td>
+      <td><a href="/shiren-5/items/bracelets#anti-parry-brce">Anti-Parry Brce.</a><br/>(Projectiles always hit)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#pathetic-blade">Pathetic Blade</a></td>
@@ -520,7 +520,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
       <td>-</td>
       <td>-</td>
       <td>127,000</td>
-      <td><a href="/items/shields#pathetic-shield">Pathetic Shield</a><br/>(Lv1-7: Equip 2 bracelets)<br/>(Lv8: Foes may step back)</td>
+      <td><a href="/shiren-5/items/shields#pathetic-shield">Pathetic Shield</a><br/>(Lv1-7: Equip 2 bracelets)<br/>(Lv8: Foes may step back)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#fox-kodachi">Fox Kodachi</a></td>
@@ -542,7 +542,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
       <td>-</td>
       <td>Critical (Lv8)<br/>Quick Hitting (Lv8)</td>
       <td>305,535</td>
-      <td><a href="/items/shields#helix-shield">Helix Shield</a><br/>(Attack damage +10)</td>
+      <td><a href="/shiren-5/items/shields#helix-shield">Helix Shield</a><br/>(Attack damage +10)</td>
     </tr>
   </tbody>
 </table>
@@ -611,7 +611,7 @@ It's weak, but levels up quickly.<br/>Has the highest starting upgrade limit amo
       <td>-</td>
       <td>300</td>
       <td>105</td>
-      <td rowspan="8">Resonance: <a href="/items/shields#plain-targe">Plain Targe</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/shiren-5/items/shields#plain-targe">Plain Targe</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -781,7 +781,7 @@ Basic weak weapon.<br/>It doesn't really have any redeeming qualities.
       <td>-</td>
       <td>700</td>
       <td>245</td>
-      <td rowspan="8">Resonance: <a href="/items/shields#tin-shield">Tin Shield</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/shiren-5/items/shields#tin-shield">Tin Shield</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -951,7 +951,7 @@ It has more rune slots than in Shiren 4, but it's still quite weak.<br/>Use it o
       <td>-</td>
       <td>1100</td>
       <td>385</td>
-      <td rowspan="8">Resonance: <a href="/items/shields#iron-targe">Iron Targe</a><br/>(Equip 2 bracelets)<br/><br/>Hone a Storied Katana+99 at the<br/>Hermit's Hermitage Blacksmith to<br/>transform it into a Fuuma Sword.</td>
+      <td rowspan="8">Resonance: <a href="/shiren-5/items/shields#iron-targe">Iron Targe</a><br/>(Equip 2 bracelets)<br/><br/>Hone a Storied Katana+99 at the<br/>Hermit's Hermitage Blacksmith to<br/>transform it into a Fuuma Sword.</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1121,7 +1121,7 @@ Decent interim weapon that gains the Rustproof rune at Lv5.<br/>It doesn't have 
       <td>-</td>
       <td>1600</td>
       <td>560</td>
-      <td rowspan="8">Resonance: <a href="/items/shields#beast-shield">Beast Shield</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/shiren-5/items/shields#beast-shield">Beast Shield</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1291,7 +1291,7 @@ Pretty fast growth, and has more starting rune slots than Bladite and Red Blade.
       <td>-</td>
       <td>2200</td>
       <td>770</td>
-      <td rowspan="8">Resonance: <a href="/items/shields#wolfshead">Wolfshead</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/shiren-5/items/shields#wolfshead">Wolfshead</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1461,7 +1461,7 @@ Faster growth than Red Blade.<br/>Targite is a strong shield, so the set is exce
       <td>-</td>
       <td>3000</td>
       <td>1050</td>
-      <td rowspan="8">Resonance: <a href="/items/shields#targite">Targite</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/shiren-5/items/shields#targite">Targite</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1632,7 +1632,7 @@ High attack, but low rune count for early ~ mid game.<br/>Slow growth, and the U
       <td>-</td>
       <td>4200</td>
       <td>1470</td>
-      <td rowspan="8">Resonance: <a href="/items/shields#red-shield">Red Shield</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/shiren-5/items/shields#red-shield">Red Shield</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1803,7 +1803,7 @@ High base attack, and the Quick Hitting rune is a solid addition.<br/>However, t
       <td>-</td>
       <td>7400</td>
       <td>2590</td>
-      <td rowspan="8">Resonance: <a href="/items/shields#fuuma-shield">Fuuma Shield</a><br/>(Attack damage +5)</td>
+      <td rowspan="8">Resonance: <a href="/shiren-5/items/shields#fuuma-shield">Fuuma Shield</a><br/>(Attack damage +5)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1947,7 +1947,7 @@ Locations:
   </tr>
 </table>
 
-Basically a better Kabura Katana, but only usable in dungeons that allow carry-in items.<br/>Its resonance with Helix Shield lets you deal slightly meaningful damage to night monsters,<br/>which can be boosted further by equipping a <a href="/items/bracelets#night-ward">Night Ward</a>.
+Basically a better Kabura Katana, but only usable in dungeons that allow carry-in items.<br/>Its resonance with Helix Shield lets you deal slightly meaningful damage to night monsters,<br/>which can be boosted further by equipping a <a href="/shiren-5/items/bracelets#night-ward">Night Ward</a>.
 
 <table class="itemDetailsTable">
   <tbody>
@@ -1973,7 +1973,7 @@ Basically a better Kabura Katana, but only usable in dungeons that allow carry-i
       <td>-</td>
       <td>10000</td>
       <td>3500</td>
-      <td rowspan="8">Resonance: <a href="/items/shields#fuuma-shield">Fuuma Shield</a><br/>(Attack damage +5)<br/><br/>Resonance: <a href="/items/shields#helix-shield">Helix Shield</a><br/>(Attack damage +10)<br/><br/>Hone a Storied Katana+99 at the<br/>Hermit's Hermitage Blacksmith to<br/>transform it into a Fuuma Sword.</td>
+      <td rowspan="8">Resonance: <a href="/shiren-5/items/shields#fuuma-shield">Fuuma Shield</a><br/>(Attack damage +5)<br/><br/>Resonance: <a href="/shiren-5/items/shields#helix-shield">Helix Shield</a><br/>(Attack damage +10)<br/><br/>Hone a Storied Katana+99 at the<br/>Hermit's Hermitage Blacksmith to<br/>transform it into a Fuuma Sword.</td>
     </tr>
     <tr>
       <td>2</td>
@@ -2147,7 +2147,7 @@ Decent starting rune count, and levels up quickly.<br/>However, its base attack 
       <td>-</td>
       <td>1000</td>
       <td>350</td>
-      <td rowspan="8">This weapon won't rust.<br/><br/>Resonance: <a href="/items/shields#gold-shield">Gold Shield</a><br/>(Max strength +3)</td>
+      <td rowspan="8">This weapon won't rust.<br/><br/>Resonance: <a href="/shiren-5/items/shields#gold-shield">Gold Shield</a><br/>(Max strength +3)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -2317,7 +2317,7 @@ Decent rune count, and levels up pretty quickly.<br/>Its innate Redeeming rune c
       <td>-</td>
       <td>3000</td>
       <td>1050</td>
-      <td rowspan="8">Deal a critical hit after<br/>2 missed attacks.<br/><br/>Resonance: <a href="/items/shields#day-shield">Day Shield</a><br/>(Read scrolls in the dark)</td>
+      <td rowspan="8">Deal a critical hit after<br/>2 missed attacks.<br/><br/>Resonance: <a href="/shiren-5/items/shields#day-shield">Day Shield</a><br/>(Read scrolls in the dark)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -3342,7 +3342,7 @@ Fast to level up and high rune count.<br/>However, the range of effectiveness is
       <td>-</td>
       <td>5500</td>
       <td>1925</td>
-      <td rowspan="8">Deal more damage to Cyclopean types.<br/>(135%, +25% per level up | Lv8: 310%)<br/><br/>Resonance: <a href="/items/shields#spry-shield">Spry Shield</a><br/>(Attack and Defense +3)<br/><br/>Families: Explochin, Metalhead,<br/>Gazer, Foly</td>
+      <td rowspan="8">Deal more damage to Cyclopean types.<br/>(135%, +25% per level up | Lv8: 310%)<br/><br/>Resonance: <a href="/shiren-5/items/shields#spry-shield">Spry Shield</a><br/>(Attack and Defense +3)<br/><br/>Families: Explochin, Metalhead,<br/>Gazer, Foly</td>
     </tr>
     <tr>
       <td>2</td>
@@ -4022,7 +4022,7 @@ Its growth rate and range of effectiveness leave a lot to be desired.<br/>Its ru
       <td>-</td>
       <td>2500</td>
       <td>875</td>
-      <td rowspan="8">Deal more damage to Exploding types.<br/>(135%, +25% per level up | Lv8: 310%)<br/><br/>Resonance: <a href="/items/shields#blast-shield">Blast Shield</a><br/>(Attack and Defense +3)<br/><br/>Families: Pop Tank, Explochin,<br/>Sweet Nut</td>
+      <td rowspan="8">Deal more damage to Exploding types.<br/>(135%, +25% per level up | Lv8: 310%)<br/><br/>Resonance: <a href="/shiren-5/items/shields#blast-shield">Blast Shield</a><br/>(Attack and Defense +3)<br/><br/>Families: Pop Tank, Explochin,<br/>Sweet Nut</td>
     </tr>
     <tr>
       <td>2</td>
@@ -4192,7 +4192,7 @@ Very slow to level up and low starting rune count, but high base attack at Lv1.<
       <td>-</td>
       <td>3500</td>
       <td>1225</td>
-      <td rowspan="8">Deal more damage to Dragon types.<br/>(135%, +25% per level up | Lv8: 310%)<br/><br/>Resonance: <a href="/items/shields#snake-shield">Snake Shield</a><br/>(Attack and Defense +3)<br/><br/>Families: Dragon, Flamepuff,<br/>Shagga, Hopodile</td>
+      <td rowspan="8">Deal more damage to Dragon types.<br/>(135%, +25% per level up | Lv8: 310%)<br/><br/>Resonance: <a href="/shiren-5/items/shields#snake-shield">Snake Shield</a><br/>(Attack and Defense +3)<br/><br/>Families: Dragon, Flamepuff,<br/>Shagga, Hopodile</td>
     </tr>
     <tr>
       <td>2</td>
@@ -4362,7 +4362,7 @@ Slow to level up and has very low starting base attack, but can inflict Asleep s
       <td>-</td>
       <td>7000</td>
       <td>2450</td>
-      <td rowspan="8">Chance to inflict <a href="/system/status-conditions#asleep">Asleep</a>.<br/>(12%, +2% per level up | Lv8: 26%)<br/><br/>Resonance: <a href="/items/bracelets#alert-bracelet">Alert Bracelet</a><br/>(Sleep chance +2%)</td>
+      <td rowspan="8">Chance to inflict <a href="/system/status-conditions#asleep">Asleep</a>.<br/>(12%, +2% per level up | Lv8: 26%)<br/><br/>Resonance: <a href="/shiren-5/items/bracelets#alert-bracelet">Alert Bracelet</a><br/>(Sleep chance +2%)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -5042,7 +5042,7 @@ Pretty fast to level up, okay base attack, high rune count, and can inflict Conf
       <td>-</td>
       <td>2000</td>
       <td>700</td>
-      <td rowspan="8">Chance to inflict <a href="/system/status-conditions#confused">Confused</a>.<br/>(12%→16%, then +2% per level up)<br/>(Lv8: 28%)<br/><br/>Resonance: <a href="/items/bracelets#anti-cnf-bracelet">Anti-Cnf. Bracelet</a><br/>(Confusion chance +2%)</td>
+      <td rowspan="8">Chance to inflict <a href="/system/status-conditions#confused">Confused</a>.<br/>(12%→16%, then +2% per level up)<br/>(Lv8: 28%)<br/><br/>Resonance: <a href="/shiren-5/items/bracelets#anti-cnf-bracelet">Anti-Cnf. Bracelet</a><br/>(Confusion chance +2%)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -5383,7 +5383,7 @@ Very high base attack, but quickly degrades if used normally.<br/>It's best to s
       <td>-</td>
       <td>3000</td>
       <td>1050</td>
-      <td rowspan="8">Decrease weapon upgrade value<br/>by 1 every time you hit an enemy.<br/><br/>Resonance: <a href="/items/shields#shoddy-plank">Shoddy Plank</a><br/>(Equipped items won't rust)</td>
+      <td rowspan="8">Decrease weapon upgrade value<br/>by 1 every time you hit an enemy.<br/><br/>Resonance: <a href="/shiren-5/items/shields#shoddy-plank">Shoddy Plank</a><br/>(Equipped items won't rust)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -5553,7 +5553,7 @@ Very high base attack, but quickly breaks if used normally.<br/>It's best to sea
       <td>-</td>
       <td>5000</td>
       <td>1750</td>
-      <td rowspan="8">Chance for the weapon to break<br/>when attacking.<br/>(50%, -2% per level up | Lv8: 36%)<br/><br/>Resonance: <a href="/items/shields#glass-buckler">Glass Buckler</a><br/>(Nullifies magic bullets received)</td>
+      <td rowspan="8">Chance for the weapon to break<br/>when attacking.<br/>(50%, -2% per level up | Lv8: 36%)<br/><br/>Resonance: <a href="/shiren-5/items/shields#glass-buckler">Glass Buckler</a><br/>(Nullifies magic bullets received)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -5725,7 +5725,7 @@ It levels up pretty quickly and gains 2 rune slots per level up, so synthesis is
       <td>-</td>
       <td>3000</td>
       <td>1050</td>
-      <td rowspan="8">Pay Gitan per attack to boost damage.<br/>0 attack if you don't have enough Gitan.<br/>(130% and 30G, +10% and ~30G per level up)<br/>(Lv8: 200% and 250G)<br/><br/>Resonance: <a href="/items/shields#paupers-plank">Pauper's Plank</a><br/>(20% chance for foes to drop 200-399 Gitan)</td>
+      <td rowspan="8">Pay Gitan per attack to boost damage.<br/>0 attack if you don't have enough Gitan.<br/>(130% and 30G, +10% and ~30G per level up)<br/>(Lv8: 200% and 250G)<br/><br/>Resonance: <a href="/shiren-5/items/shields#paupers-plank">Pauper's Plank</a><br/>(20% chance for foes to drop 200-399 Gitan)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -5898,7 +5898,7 @@ Direct attacks have lower accuracy, but always deal a critical hit. (50% at Lv1,
       <td>-</td>
       <td>2000</td>
       <td>700</td>
-      <td rowspan="8">Attacks always deal a critical hit, but you<br/>also have lower accuracy.<br/>(50% accuracy, +3% per level up | Lv8: 71%)<br/><br/>Resonance: <a href="/items/shields#rush-shield">Rush Shield</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Attacks always deal a critical hit, but you<br/>also have lower accuracy.<br/>(50% accuracy, +3% per level up | Lv8: 71%)<br/><br/>Resonance: <a href="/shiren-5/items/shields#rush-shield">Rush Shield</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -6071,7 +6071,7 @@ Having this equipped makes you unable to move when you're next to a monster.<br/
       <td>-</td>
       <td>2500</td>
       <td>875</td>
-      <td rowspan="8">Prevents movement when<br/>next to a monster.<br/><br/>Resonance: <a href="/items/bracelets#mojo-bracelet">Mojo Bracelet</a><br/>(Chance to slow foes you hit)</td>
+      <td rowspan="8">Prevents movement when<br/>next to a monster.<br/><br/>Resonance: <a href="/shiren-5/items/bracelets#mojo-bracelet">Mojo Bracelet</a><br/>(Chance to slow foes you hit)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -6246,7 +6246,7 @@ Very low base attack, and slow to level up.<br/>It doesn't gain any notable rune
       <td>-</td>
       <td>8000</td>
       <td>2800</td>
-      <td rowspan="8">Attacks in 3 forward directions.<br/><br/>Resonance: <a href="/items/shields#midnight-shield">Midnight Shield</a><br/>(Equipped items won't rust)</td>
+      <td rowspan="8">Attacks in 3 forward directions.<br/><br/>Resonance: <a href="/shiren-5/items/shields#midnight-shield">Midnight Shield</a><br/>(Equipped items won't rust)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -6418,7 +6418,7 @@ Despite its powerful ability, it does have some drawbacks.<br/>It's easy to acci
       <td>-</td>
       <td>10000</td>
       <td>3500</td>
-      <td rowspan="8">Shoot a flame when your HP is full.<br/>(Damage: 8, 10, 12, 14, 16, 18, 21, 25)<br/><br/>Resonance: <a href="/items/shields#swap-shield">Swap Shield</a><br/>(Raise flame damage by 1 level)<br/>(30 damage at Lv8 / with Blue Flame rune)</td>
+      <td rowspan="8">Shoot a flame when your HP is full.<br/>(Damage: 8, 10, 12, 14, 16, 18, 21, 25)<br/><br/>Resonance: <a href="/shiren-5/items/shields#swap-shield">Swap Shield</a><br/>(Raise flame damage by 1 level)<br/>(30 damage at Lv8 / with Blue Flame rune)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -6591,7 +6591,7 @@ However, you'll need to use its resonance effect to attain 630 HP for <a href="/
       <td>-</td>
       <td>10000</td>
       <td>3500</td>
-      <td rowspan="8">Can dig holes in walls,<br/>and will never break.<br/><br/>Resonance: <a href="/items/shields#nirvana-board">Nirvana Board</a><br/>(Max HP +30)</td>
+      <td rowspan="8">Can dig holes in walls,<br/>and will never break.<br/><br/>Resonance: <a href="/shiren-5/items/shields#nirvana-board">Nirvana Board</a><br/>(Max HP +30)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -6939,7 +6939,7 @@ Obtained by clearing <a href="/dungeons/pitfall-of-life">Pitfall of Life</a>.<br
       <td>-</td>
       <td>20000</td>
       <td>7000</td>
-      <td rowspan="8">Attacks always hit.<br/><br/>Resonance: <a href="/items/bracelets#anti-parry-brce">Anti-Parry Brce.</a><br/>(Projectiles always hit)</td>
+      <td rowspan="8">Attacks always hit.<br/><br/>Resonance: <a href="/shiren-5/items/bracelets#anti-parry-brce">Anti-Parry Brce.</a><br/>(Projectiles always hit)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -7113,7 +7113,7 @@ Extremely slow to level up, and is nearly worthless before Lv8.<br/>It unfortuna
       <td>-</td>
       <td>300</td>
       <td>105</td>
-      <td rowspan="7">Resonance: <a href="/items/shields#pathetic-shield">Pathetic Shield</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="7">Resonance: <a href="/shiren-5/items/shields#pathetic-shield">Pathetic Shield</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -7184,7 +7184,7 @@ Extremely slow to level up, and is nearly worthless before Lv8.<br/>It unfortuna
       <td>64000</td>
       <td>23000</td>
       <td>8050</td>
-      <td>Resonance: <a href="/items/shields#pathetic-shield">Rising Sun Shld</a><br/>(Adjacent foes may step back)</td>
+      <td>Resonance: <a href="/shiren-5/items/shields#pathetic-shield">Rising Sun Shld</a><br/>(Adjacent foes may step back)</td>
     </tr>
   </tbody>
 </table>
@@ -7435,7 +7435,7 @@ Locations:
   </tr>
 </table>
 
-Obtained by wishing for an unstoppable weapon in <a href="/dungeons/inori-cave">Inori Cave</a>.<br/>Strongest regular weapon, and its resonance effect lets you deal slightly meaningful<br/>damage to night monsters, which can be boosted further by equipping a <a href="/items/bracelets#night-ward">Night Ward</a>.
+Obtained by wishing for an unstoppable weapon in <a href="/dungeons/inori-cave">Inori Cave</a>.<br/>Strongest regular weapon, and its resonance effect lets you deal slightly meaningful<br/>damage to night monsters, which can be boosted further by equipping a <a href="/shiren-5/items/bracelets#night-ward">Night Ward</a>.
 
 Shugoseki Swd vs. Kaburasutegi as a main weapon for dungeons that allow carry-in items<br/>comes down to whether or not you want to equip 2 bracelets.
 
@@ -7463,7 +7463,7 @@ Shugoseki Swd vs. Kaburasutegi as a main weapon for dungeons that allow carry-in
       <td>-</td>
       <td>15000</td>
       <td>5250</td>
-      <td rowspan="8">Clear <a href="/dungeons/inori-cave">Inori Cave</a> with 7<br/>Catstones and wish for<br/>an unstoppable weapon.<br/><br/>Resonance: <a href="/items/shields#helix-shield">Helix Shield</a><br/>(Attack damage +10)</td>
+      <td rowspan="8">Clear <a href="/dungeons/inori-cave">Inori Cave</a> with 7<br/>Catstones and wish for<br/>an unstoppable weapon.<br/><br/>Resonance: <a href="/shiren-5/items/shields#helix-shield">Helix Shield</a><br/>(Attack damage +10)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -7625,7 +7625,7 @@ Technically not a weapon, but it's equipped in the same slot as a sword.<br/>Tor
       <td>100</td>
       <td>35</td>
       <td>1 tile</td>
-      <td rowspan="3">Lights up your surroundings at night.<br/>Dims by 1 stage every 250 turns. (500 if blessed)<br/><br/>Resonance: <a href="/items/shields#blazing-shield">Blazing Shield</a><br/>(Light up an entire room at night)<br/><br/>Resonance: <a href="/items/shields#midnight-shield">Midnight Shield</a><br/>(Night enemies miss more often)</td>
+      <td rowspan="3">Lights up your surroundings at night.<br/>Dims by 1 stage every 250 turns. (500 if blessed)<br/><br/>Resonance: <a href="/shiren-5/items/shields#blazing-shield">Blazing Shield</a><br/>(Light up an entire room at night)<br/><br/>Resonance: <a href="/shiren-5/items/shields#midnight-shield">Midnight Shield</a><br/>(Night enemies miss more often)</td>
     </tr>
     <tr>
       <td>Fine Torch</td>

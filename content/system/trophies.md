@@ -4,7 +4,7 @@ metaTitle: "Trophies - Shiren the Wanderer: Tower of Fortune Wiki"
 metaDescription: "Trophies for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
 ---
 
-Trophies are another form of achievements besides <a href="/system/adventure-footprints">Adventure Footprints</a>.<br/>
+Trophies are another form of achievements besides [Adventure Footprints](/system/adventure-footprints).<br/>
 → <a href="https://steamcommunity.com/stats/1178790/achievements">Steam Achievements Page</a>
 
 ## Steam / PS Vita

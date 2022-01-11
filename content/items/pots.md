@@ -102,11 +102,11 @@ metaDescription: "Complete pot details for Shiren the Wanderer: The Tower of For
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#hide-pot">Hide Pot</a></td>
-      <td class="leftText">Select insert to <a href="/shiren5/system/status-conditions#hiding">hide</a> inside the pot for 20 turns.<br/>Can be thrown to trap an enemy inside the pot.<br/>The pot only shatters if it's hit by an effect or attack.<br/><span class="orangeText">You'll collapse if you hide while on a water or air tile.</span></td>
+      <td class="leftText">Select insert to <a href="/shiren-5/system/status-conditions#hiding">hide</a> inside the pot for 20 turns.<br/>Can be thrown to trap an enemy inside the pot.<br/>The pot only shatters if it's hit by an effect or attack.<br/><span class="orangeText">You'll collapse if you hide while on a water or air tile.</span></td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#4-2-8-pot">4-2-8 Pot</a></td>
-      <td class="leftText">Explodes when it shatters, and any items inside will be lost.<br/>Other 4-2-8 Pots will be identified after one explodes.<br/>Use an <a href="/shiren5/item/scrolls#extraction-scroll">Extraction Scroll</a> or seal the pot to retrieve contents safely.<br/>However, note that blessed 4-2-8 pots can't be sealed later.</td>
+      <td class="leftText">Explodes when it shatters, and any items inside will be lost.<br/>Other 4-2-8 Pots will be identified after one explodes.<br/>Use an <a href="/shiren-5/items/scrolls#extraction-scroll">Extraction Scroll</a> or seal the pot to retrieve contents safely.<br/>However, note that blessed 4-2-8 pots can't be sealed later.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#sale-pot">Sale Pot</a></td>
@@ -115,7 +115,7 @@ metaDescription: "Complete pot details for Shiren the Wanderer: The Tower of For
       <td rowspan="7">50</td>
       <td rowspan="7">350</td>
       <td rowspan="7">17.5</td>
-      <td class="leftText">Transforms inserted items into Gitan equal to their selling price.<br/>Dirt inserted by <a href="/shiren5/system/monsters#scoopie">Scoopies</a> will turn into grass items like normal.</td>
+      <td class="leftText">Transforms inserted items into Gitan equal to their selling price.<br/>Dirt inserted by <a href="/shiren-5/system/monsters#scoopie">Scoopies</a> will turn into grass items like normal.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#presto-pot">Presto Pot</a></td>
@@ -123,11 +123,11 @@ metaDescription: "Complete pot details for Shiren the Wanderer: The Tower of For
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#sticky-pot">Sticky Pot</a></td>
-      <td class="leftText">Your hand gets <a href="/shiren5/system/status-conditions#potted">stuck</a> inside the pot when you try to insert an item.<br/>If that happens, shatter the pot by attacking or getting hit by enemies.<br/><a href="/shiren5/system/traps#strip-trap">Strip Trap</a>, <a href="/shiren5/system/monsters#absorbiphant">Absorbiphants</a>, and changing floors will also free your hand.</td>
+      <td class="leftText">Your hand gets <a href="/shiren-5/system/status-conditions#potted">stuck</a> inside the pot when you try to insert an item.<br/>If that happens, shatter the pot by attacking or getting hit by enemies.<br/><a href="/shiren-5/system/traps#strip-trap">Strip Trap</a>, <a href="/shiren-5/system/monsters#absorbiphant">Absorbiphants</a>, and changing floors will also free your hand.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#unbreakable-pot">Unbreakable Pot</a></td>
-      <td class="leftText">Pot that can't shatter, <span class="orangeText">even when sealed</span>.<br/>The only way to take items out is to use an <a href="/shiren5/item/scrolls#extraction-scroll">Extraction Scroll</a>.<br/>The pot and all items inside vanish when thrown at a creature.<br/>Can be used as a container for <a href="/shiren5/item/grass#revival-grass">Revival Grass</a> or <a href="/shiren5/item/grass#undo-grass">Undo Grass</a>.</td>
+      <td class="leftText">Pot that can't shatter, <span class="orangeText">even when sealed</span>.<br/>The only way to take items out is to use an <a href="/shiren-5/items/scrolls#extraction-scroll">Extraction Scroll</a>.<br/>The pot and all items inside vanish when thrown at a creature.<br/>Can be used as a container for <a href="/shiren-5/items/grass#revival-grass">Revival Grass</a> or <a href="/shiren-5/items/grass#undo-grass">Undo Grass</a>.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#floramorph-pot">Floramorph Pot</a></td>
@@ -136,7 +136,7 @@ metaDescription: "Complete pot details for Shiren the Wanderer: The Tower of For
     <tr>
       <td class="highlightYellow"><a href="#black-hole-pot">Black Hole Pot</a></td>
       <td>2~4</td>
-      <td class="leftText">Inserted items vanish.<br/>If shattered, a number of <a href="/shiren5/system/traps#pit-trap">Pit Traps</a> equal to the size of the pot appear.<br/>Pit Traps appear even if it's sealed, so seal it to counter <a href="/shiren5/system/monsters#gazer">Gazer</a> hypnosis.</td>
+      <td class="leftText">Inserted items vanish.<br/>If shattered, a number of <a href="/shiren-5/system/traps#pit-trap">Pit Traps</a> equal to the size of the pot appear.<br/>Pit Traps appear even if it's sealed, so seal it to counter <a href="/shiren-5/system/monsters#gazer">Gazer</a> hypnosis.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#fever-pot">Fever Pot</a></td>
@@ -181,19 +181,19 @@ metaDescription: "Complete pot details for Shiren the Wanderer: The Tower of For
       <td rowspan="4">125</td>
       <td rowspan="4">875</td>
       <td rowspan="4">43.75</td>
-      <td class="leftText">Insert an item to apply <a href="/shiren5/system/status-conditions#zen">Zen</a> status to all creatures on the current floor.<br/>Zen status nullifies all damage from explosions and fire.<br/><span class="orangeText">The inserted item for any of the 4 pots in this price range will vanish.</span></td>
+      <td class="leftText">Insert an item to apply <a href="/shiren-5/system/status-conditions#zen">Zen</a> status to all creatures on the current floor.<br/>Zen status nullifies all damage from explosions and fire.<br/><span class="orangeText">The inserted item for any of the 4 pots in this price range will vanish.</span></td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#dodger-pot">Dodger Pot</a></td>
-      <td class="leftText">Insert an item to apply <a href="/shiren5/system/status-conditions#dodger">Dodger</a> status to all creatures on the current floor.<br/>Dodger status causes all arrows and thrown items to miss.<br/>Note that <a href="/shiren5/system/monsters#mixer">Mixers</a> will still swallow thrown items.</td>
+      <td class="leftText">Insert an item to apply <a href="/shiren-5/system/status-conditions#dodger">Dodger</a> status to all creatures on the current floor.<br/>Dodger status causes all arrows and thrown items to miss.<br/>Note that <a href="/shiren-5/system/monsters#mixer">Mixers</a> will still swallow thrown items.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#perceptive-pot">Perceptive Pot</a></td>
-      <td class="leftText">Insert an item to apply <a href="/shiren5/system/status-conditions#cautious">Cautious</a> status to all creatures on the current floor.<br/>Cautious status prevents dropping items, and protects you from theft.<br/>(<a href="/shiren5/system/monsters#zalokleft">Zalokleft</a>, <a href="/shiren5/system/monsters#froggo">Froggo</a>, <a href="/shiren5/system/monsters#gyadon">Gyadon</a>, <a href="/shiren5/system/monsters#swordsman">Swordsman</a>, <a href="/shiren5/system/monsters#field-knave">Field Knave</a>, <a href="/shiren5/system/traps#trip-trap">Trip Trap</a>)<br/>Enemies can still drop items when defeated.</td>
+      <td class="leftText">Insert an item to apply <a href="/shiren-5/system/status-conditions#cautious">Cautious</a> status to all creatures on the current floor.<br/>Cautious status prevents dropping items, and protects you from theft.<br/>(<a href="/shiren-5/system/monsters#zalokleft">Zalokleft</a>, <a href="/shiren-5/system/monsters#froggo">Froggo</a>, <a href="/shiren-5/system/monsters#gyadon">Gyadon</a>, <a href="/shiren-5/system/monsters#swordsman">Swordsman</a>, <a href="/shiren-5/system/monsters#field-knave">Field Knave</a>, <a href="/shiren-5/system/traps#trip-trap">Trip Trap</a>)<br/>Enemies can still drop items when defeated.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#reflection-pot">Reflection Pot</a></td>
-      <td class="leftText">Insert an item to apply <a href="/shiren5/system/status-conditions#reflective">Reflective</a> status to all creatures on the current floor.<br/>Reflective status causes all magic to be reflected.</td>
+      <td class="leftText">Insert an item to apply <a href="/shiren-5/system/status-conditions#reflective">Reflective</a> status to all creatures on the current floor.<br/>Reflective status causes all magic to be reflected.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#heal-pot">Heal Pot</a></td>
@@ -206,7 +206,7 @@ metaDescription: "Complete pot details for Shiren the Wanderer: The Tower of For
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#zalokleft-pot">Zalokleft Pot</a></td>
-      <td class="leftText">Releases a Zalokleft that retreives an item up to 10 tiles ahead.<br/>The Zalokleft can't pick up pots, and can't cross wall or air tiles.<br/>Shatter the pot to retrieve the items the Zalokleft picked up.<br/>If shattered while capacity is above 0, confused <a href="/shiren5/system/monsters#zalokleft">Zaloklefts</a> will appear.</td>
+      <td class="leftText">Releases a Zalokleft that retreives an item up to 10 tiles ahead.<br/>The Zalokleft can't pick up pots, and can't cross wall or air tiles.<br/>Shatter the pot to retrieve the items the Zalokleft picked up.<br/>If shattered while capacity is above 0, confused <a href="/shiren-5/system/monsters#zalokleft">Zaloklefts</a> will appear.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#monster-pot">Monster Pot</a></td>
@@ -215,17 +215,17 @@ metaDescription: "Complete pot details for Shiren the Wanderer: The Tower of For
     <tr>
       <td class="highlightYellow"><a href="#hilarious-pot">Hilarious Pot</a></td>
       <td>2~4</td>
-      <td class="leftText">Inflicts <a href="/shiren5/system/status-conditions#laughing">Laughing</a> status on a target in front of you for 6 turns.<br/>Laughing status prevents the creature from performing any actions,<br/>and the laughter travels to other nearby creatures.<br/>Can be thrown at a creature for the same effect if capacity is above 0.</td>
+      <td class="leftText">Inflicts <a href="/shiren-5/system/status-conditions#laughing">Laughing</a> status on a target in front of you for 6 turns.<br/>Laughing status prevents the creature from performing any actions,<br/>and the laughter travels to other nearby creatures.<br/>Can be thrown at a creature for the same effect if capacity is above 0.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#klein-pot">Klein Pot</a></td>
       <td>3~5</td>
-      <td class="leftText">Applies <a href="/shiren5/system/status-conditions#klein">Klein</a> status for 20 turns, swapping your attack and defense.<br/>Can be thrown at a creature for the same effect if capacity is above 0.</td>
+      <td class="leftText">Applies <a href="/shiren-5/system/status-conditions#klein">Klein</a> status for 20 turns, swapping your attack and defense.<br/>Can be thrown at a creature for the same effect if capacity is above 0.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#shrine-maid-pot">Shrine Maid. Pot</a></td>
       <td>3</td>
-      <td class="leftText">Fully restores HP, strength, fullness, and cures all status ailments.<br/>Also grants <a href="/shiren5/system/status-conditions#swift">Swift</a> status for 15 turns, and <a href="/shiren5/system/status-conditions#invincible">Invincible</a> status for 20 turns.</td>
+      <td class="leftText">Fully restores HP, strength, fullness, and cures all status ailments.<br/>Also grants <a href="/shiren-5/system/status-conditions#swift">Swift</a> status for 15 turns, and <a href="/shiren-5/system/status-conditions#invincible">Invincible</a> status for 20 turns.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#synthesis-pot">Synthesis Pot</a></td>
@@ -265,7 +265,7 @@ metaDescription: "Complete pot details for Shiren the Wanderer: The Tower of For
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#grilling-pot">Grilling Pot</a></td>
-      <td class="leftText">Inserted onigiri turn into <a href="/shiren5/item/food#grilled-onigiri">Grilled Onigiri</a>.</td>
+      <td class="leftText">Inserted onigiri turn into <a href="/shiren-5/items/food#grilled-onigiri">Grilled Onigiri</a>.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#aksys-pot">Aksys Pot</a></td>
@@ -661,7 +661,7 @@ The name is a reference to 428: Shibuya Scramble.
 
 Locations:
 
-- Starting item in <a href="/shiren5/dungeon/explosion-rocks">Explosion Rocks</a>
+- Starting item in <a href="/shiren-5/dungeons/explosion-rocks">Explosion Rocks</a>
 
 <br/>
 
@@ -1587,18 +1587,18 @@ Always found identified, even in dungeons where pots are unidentified.
   </tr>
   <tr>
     <td>Becomes a Rotten Onigiri</td>
-    <td>All onigiri excluding Silver Onigiri and Gold Onigiri,<br/>Monsters afflicted with <a href="/shiren5/system/status-conditions#onigiri">Onigiri</a> status</td>
+    <td>All onigiri excluding Silver Onigiri and Gold Onigiri,<br/>Monsters afflicted with <a href="/shiren-5/system/status-conditions#onigiri">Onigiri</a> status</td>
   </tr>
   <tr>
-    <td><a href="/shiren5/system/status-conditions#weakened">Weakened</a> by 8 stages</td>
+    <td><a href="/shiren-5/system/status-conditions#weakened">Weakened</a> by 8 stages</td>
     <td>Swordsman, Shagga, Punisher, Scoopie, Grass Boy, Pin Kid families</td>
   </tr>
   <tr>
-    <td>Inflicts <a href="/shiren5/system/status-conditions#sealed">Sealed</a> status</td>
+    <td>Inflicts <a href="/shiren-5/system/status-conditions#sealed">Sealed</a> status</td>
     <td>Zapdon, Sweet Nut families</td>
   </tr>
   <tr>
-    <td>Inflicts <a href="/shiren5/system/status-conditions#slow">Slow</a> + <a href="/shiren5/system/status-conditions#sealed">Sealed</a></td>
+    <td>Inflicts <a href="/shiren-5/system/status-conditions#slow">Slow</a> + <a href="/shiren-5/system/status-conditions#sealed">Sealed</a></td>
     <td>Boy Cart, Pop Tank, Karakuroid, FO-Uβ families</td>
   </tr>
   <tr>

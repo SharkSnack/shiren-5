@@ -68,12 +68,12 @@ This page provides information for Shiren 5's various gameplay systems and mecha
 ### Experience Points
 
 The amount of experience points needed to level up.<br/>
-→ <a href="/other/experience-points">Experience Points Table</a>
+→ [Experience Points Table](/other/experience-points)
 
 ### Necklace Abilities
 
 Special attacks that can only be used at night.<br/>
-→ <a href="/system/necklace-abilities">Abilities</a>
+→ [Abilities](/system/necklace-abilities)
 
 <div class="relativeImage smallScreenshot">
   <img src="../images/other/abilities_zoom.jpg"/>
@@ -91,7 +91,7 @@ Fullness decreases by 1 every 10 turns, so periodically eat food to replenish fu
 ### Status Conditions
 
 States that affect a character's behavior in various ways.<br/>
-→ <a href="/system/status-conditions">Status Conditions</a>
+→ [Status Conditions](/system/status-conditions)
 
 <div class="relativeImage">
   <img src="../images/other/shiren_confused.png"/>
@@ -228,7 +228,7 @@ Source: [攻撃の命中率 - 組長式(アーカイブ)](http://web.archive.org
 </div>
 
 Step on Point Switches while carrying a Point Card to accumulate points,<br/>which can then be exchanged at the Point Shop for various items.<br/>
-→ <a href="/system/villages#point-shop">Point Shop Items</a>
+→ [Point Shop Items](/system/villages#point-shop)
 
 Point Switch:
 
@@ -254,7 +254,7 @@ Notes:
 ### Resonance
 
 Certain weapons, shields, and bracelets activate special effects when equipped at the same time.<br/>
-→ <a href="/system/resonance">Resonance</a>
+→ [Resonance](/system/resonance)
 
 <div id="resonanceImage" class="relativeImage">
   <img src="../images/other/resonance.png"/>
@@ -527,7 +527,7 @@ If you have a Sproutant Lic. in your inventory (not inside a pot), all Sproutant
 
 ### Allies
 
-Allies are mostly optional NPCs who fight alongside Shiren.<br/>(Jirokichi is a mandatory ally during the main story)<br/>→ <a href="/system/allies">Allies</a>
+Allies are mostly optional NPCs who fight alongside Shiren.<br/>(Jirokichi is a mandatory ally during the main story)<br/>→ [Allies](/system/allies)
 
 <div class="relativeImage">
   <img src="../images/other/jirokichi.png"/><img src="../images/other/tao.png"/>
@@ -536,7 +536,7 @@ Allies are mostly optional NPCs who fight alongside Shiren.<br/>(Jirokichi is a 
 ### NPCs
 
 Characters who wander around inside dungeons and help Shiren out in various ways.<br/>
-→ <a href="/system/npcs">Wandering NPCs</a>
+→ [Wandering NPCs](/system/npcs)
 
 <div class="relativeImage">
   <img src="../images/other/npc.png"/>
@@ -545,7 +545,7 @@ Characters who wander around inside dungeons and help Shiren out in various ways
 ### Dungeon Features
 
 Details for things like shops, hidden hallways, shiny objects, item islands, lava, etc.<br/>
-→ <a href="/system/dungeon-features">Dungeon Features</a>
+→ [Dungeon Features](/system/dungeon-features)
 
 <div class="relativeImage smallScreenshot">
   <img src="../images/other/iron_door.png"/>
@@ -554,7 +554,7 @@ Details for things like shops, hidden hallways, shiny objects, item islands, lav
 ### Map Patterns
 
 List of map patterns used in the game.<br/>
-→ <a href="/system/map-patterns">Map Patterns</a>
+→ [Map Patterns](/system/map-patterns)
 
 <div class="relativeImage mapImage">
   <img src="../images/maps/8_room.png"/>
@@ -563,7 +563,7 @@ List of map patterns used in the game.<br/>
 ### Monster House
 
 Information about Monster Houses.<br/>
-→ <a href="/system/dungeon-features#monster-house">Monster House</a>
+→ [Monster House](/system/dungeon-features#monster-house)
 
 <div class="relativeImage screenshot">
   <img src="../images/other/monster_house.jpg"/>
@@ -572,7 +572,7 @@ Information about Monster Houses.<br/>
 ### Traps
 
 List of traps and their effects.<br/>
-→ <a href="/system/traps">Traps</a>
+→ [Traps](/system/traps)
 
 <div class="relativeImage">
   <img src="../images/traps/wood_arrow.png"/> <img src="../images/traps/sleep.png"/> <img src="../images/traps/gauge_blind.png"/>
@@ -616,7 +616,7 @@ Day:
 ### Monsters
 
 Details for enemies that appear inside dungeons.<br/>
-→ <a href="/system/monsters">Monsters</a>
+→ [Monsters](/system/monsters)
 
 <div class="relativeImage">
   <img src="../images/other/mamel.png"/> <img src="../images/other/sproutant.png"/> <img src="../images/other/seedie.png"/>
@@ -668,7 +668,7 @@ Up to 20 characters can be present on a floor, including Shiren, allies, and NPC
 
 ## Facilities
 
-See <a href="/system/villages">Villages</a> for a complete list of available facilities.
+See [Villages](/system/villages) for a complete list of available facilities.
 
 ### Storehouse
 
@@ -681,7 +681,7 @@ Store up to 80 items, or 5 x 80 = 400 items if you fill it with Preservation Pot
 ### Tanuki Passwords
 
 Input passwords to receive items.<br/>
-→ <a href="/system/tanuki-passwords">Tanuki Passwords</a>
+→ [Tanuki Passwords](/system/tanuki-passwords)
 
 <div class="relativeImage screenshot">
   <img src="../images/other/tanuki_password.png"/>
@@ -690,7 +690,7 @@ Input passwords to receive items.<br/>
 ### Sparrow's Shuttle
 
 Fast travel to places you've been to before.<br/>
-→ <a href="/system/villages#sparrow's-shuttle">Sparrow's Shuttle</a>
+→ [Sparrow's Shuttle](/system/villages#sparrow's-shuttle)
 
 <div class="relativeImage">
   <img src="../images/other/sparrows_shuttle.png"/>
@@ -701,7 +701,7 @@ Fast travel to places you've been to before.<br/>
 ### Adventure Footprints
 
 Basically a form of in-game achievements.<br/>
-→ <a href="/system/adventure-footprints">Adventure Footprints</a>
+→ [Adventure Footprints](/system/adventure-footprints)
 
 <div class="relativeImage screenshot">
   <img src="../images/other/adventure_footprint.jpg"/>
@@ -710,7 +710,7 @@ Basically a form of in-game achievements.<br/>
 ### Expert Badges
 
 In-game achievements that challenge you to clear dungeons under special restrictions.<br/>
-→ <a href="/system/expert-badges">Expert Badges</a>
+→ [Expert Badges](/system/expert-badges)
 
 <div class="relativeImage screenshot">
   <img src="../images/other/expert_badges.jpg"/>
@@ -726,7 +726,7 @@ Features that are exclusive to certain versions of the game.
 
 #### Switch / Steam
 
-→ <a href="/system/music-collection">Music Collection</a>
+→ [Music Collection](/system/music-collection)
 
 #### Steam
 
@@ -735,9 +735,9 @@ Features that are exclusive to certain versions of the game.
 
 #### Steam / Vita
 
-→ <a href="/system/trophies">Trophies</a>
+→ [Trophies](/system/trophies)
 
 #### DS
 
-→ <a href="/system/streetpass">Streetpass</a><br/>
-→ <a href="/system/wanderer-erasers">Wanderer Erasers</a>
+→ [Streetpass](/system/streetpass)<br/>
+→ [Wanderer Erasers](/system/wanderer-erasers)

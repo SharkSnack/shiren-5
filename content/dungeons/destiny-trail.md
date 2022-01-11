@@ -89,17 +89,17 @@ However, there's still some risk of collapsing if you overextend or have excepti
 Using a direct attack against a Blade Bee when your HP is low, throwing an item at an adjacent Sweet Nut, etc.<br/>
 There's also a high chance of losing items if you throw them in the direction of water tiles or at the exit.
 
-Trip Stones can appear from 3F, so don't forget to bring a Balance Staff if you're bringing items.<br/>
+Trip Traps can appear from 3F, so don't forget to bring a Balance Staff if you're bringing items.<br/>
 It'd be a shame if a valuable pot shattered from tripping.
 
 Mixers appear on 1-3F of Tower of the Present, and 4-5F of Tower of the Future, so don't discard synthesis materials<br/>
 like grass items and weapons or shields with positive upgrade values.<br/>
-The remainder of your adventure becomes easier if you synthesis goes well.
+The remainder of your adventure becomes easier if synthesis goes well.
 
 ### Farming
 
 You can collect Wood Arrows if you find a Wood Arrow Trap, and can hunt Grass Kids on 4-5F to collect grass items.<br/>
-Strength Grass is particularly good, since it increases the amount of damage you deal with direct attacks and projectiles.<br/>
+Strength Grass is particularly good, since it increases the amount of damage you deal with direct attacks and arrows.<br/>
 If you brought a Growth Bracelet, you can linger on each floor until wind blows to get a head start on leveling up.<br/>
 Level up a Pit Mamel into a Cave Mamel using a Fear Scroll and use items like Swift Grass and Upgrade Seed<br/>
 to get an early start on leveling up your weapon and shield, etc. (See level up monsters for other ideas)<br/>
@@ -176,7 +176,7 @@ Lastly, be careful of your remaining fullness and food when performing any of th
     <td>5</td>
     <td>4</td>
     <td><span class="greenText">Anti-Floating</span><br/><span class="blueText">Anti-Cnf. Bracelet</span></td>
-    <td>It can move over water tiles, and sometimes retreats 1 tile after attacking.<br/>Its special attack has double the attack power and inflicts <a href="/shiren5/system/status-conditions#confused">Confused</a> status.<br/>The Blade Bee collapses after using its special attack.</td>
+    <td>It can move over water tiles, and sometimes retreats 1 tile after attacking.<br/>Its special attack has double the attack power and inflicts <a href="/shiren-5/system/status-conditions#confused">Confused</a> status.<br/>The Blade Bee collapses after using its special attack.</td>
   </tr>
   <tr>
     <td>3-5</td>
@@ -1435,7 +1435,7 @@ The values like "3-5" in columns represent the floor range where the item can ap
 
 # NPCs
 
-See <a href="/shiren5/system/npcs">Wandering NPCs</a> for details.
+See <a href="/shiren-5/system/npcs">Wandering NPCs</a> for details.
 
 <table class="dungeonItemTable">
   <tr>

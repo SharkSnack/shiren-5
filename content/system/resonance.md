@@ -114,13 +114,13 @@ When a resonance effect activates, a message is displayed in the scrolling messa
   </tr>
   <tr>
     <td class="highlightYellow"><a href="/shiren-5/items/weapons#dirk-of-debts">Dirk of Debts</a></td>
-    <td class="highlightGray"><a href="/shiren-5/items/shields#paupers-plank">Pauper's Plank</a></td>
+    <td class="highlightGray"><a href="/shiren-5/items/shields#pauper's-plank">Pauper's Plank</a></td>
     <td>Enemies drop Gitan more often<br/>・Defeated enemies drop 200-399 Gitan about 20% of the time.<br/>・Also applies when you defeat enemies using Flame Shot.<br/>※ Generally negative, since it replaces normal item drops.</td>
   </tr>
   <tr>
     <td class="highlightYellow"><a href="/shiren-5/items/weapons#violent-blade">Violent Blade</a></td>
     <td class="highlightGray"><a href="/shiren-5/items/shields#mojo-bracelet">Mojo Bracelet</a></td>
-    <td>Chance to inflict <a href="/shiren5/system/status-conditions#slow">Slow</a> status</td>
+    <td>Chance to inflict <a href="/shiren-5/system/status-conditions#slow">Slow</a> status</td>
   </tr>
   <tr>
     <td class="highlightYellow"><a href="/shiren-5/items/weapons#burning-blade">Burning Blade</a></td>
@@ -155,16 +155,16 @@ When a resonance effect activates, a message is displayed in the scrolling messa
   <tr>
     <td class="highlightYellow"><a href="/shiren-5/items/weapons#nap-rattle">Nap Rattle</a></td>
     <td class="highlightGray"><a href="/shiren-5/items/bracelets#alert-bracelet">Alert Bracelet</a></td>
-    <td>Increases chance to inflict <a href="/shiren5/system/status-conditions#asleep">Asleep</a> status (+2%)</td>
+    <td>Increases chance to inflict <a href="/shiren-5/system/status-conditions#asleep">Asleep</a> status (+2%)</td>
   </tr>
   <tr>
     <td class="highlightYellow"><a href="/shiren-5/items/weapons#baffle-axe">Baffle Axe</a></td>
-    <td class="highlightGray"><a href="/shiren-5/items/bracelets#anti-cnf-bracelet">Anti-Cnf. Bracelet</a></td>
-    <td>Increases chance to inflict <a href="/shiren5/system/status-conditions#confused">Confused</a> status (+2%)</td>
+    <td class="highlightGray"><a href="/shiren-5/items/bracelets#anti-cnf.-bracelet">Anti-Cnf. Bracelet</a></td>
+    <td>Increases chance to inflict <a href="/shiren-5/system/status-conditions#confused">Confused</a> status (+2%)</td>
   </tr>
   <tr>
     <td class="highlightYellow"><a href="/shiren-5/items/weapons#true-knife">True Knife</a></td>
-    <td class="highlightGray"><a href="/shiren-5/items/bracelets#anti-parry-brce">Anti-Parry Brce.</a></td>
+    <td class="highlightGray"><a href="/shiren-5/items/bracelets#anti-parry-brce.">Anti-Parry Brce.</a></td>
     <td>Thrown items always hit</td>
   </tr>
 </table>

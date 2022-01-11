@@ -434,7 +434,7 @@ Element Order
     <td>4%</td>
     <td rowspan="4">Plant<br/>Power</td>
     <td rowspan="4">Same as daytime abilities.</td>
-    <td rowspan="4">Be careful using Crawling Confusion<br/>and Pot Party <a href="/shiren5/system/abilities">abilities</a>.</td>
+    <td rowspan="4">Be careful using Crawling Confusion<br/>and Pot Party <a href="/shiren-5/system/necklace-abilities">abilities</a>.</td>
   </tr>
   <tr>
     <td class="highlightNight">2</td>
@@ -511,7 +511,7 @@ Element Order
     <td>16</td>
     <td>4%</td>
     <td>-</td>
-    <td>Hated on 1F of <a href="/shiren5/dungeon/rousing-paradise">Rousing Paradise</a>.</td>
+    <td>Hated on 1F of <a href="/shiren-5/dungeons/rousing-paradise">Rousing Paradise</a>.</td>
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
@@ -629,7 +629,7 @@ Element Order
     <td>4%</td>
     <td rowspan="4">Plant</td>
     <td rowspan="4">None.</td>
-    <td>Deals 6~8 damage without a shield.<br/>Loop attack → retreat to heal HP → attack to defeat it safely.<br/>Keeps the <a href="/shiren5/system/npcs#sparrow">Sparrow</a> NPC in business.</td>
+    <td>Deals 6~8 damage without a shield.<br/>Loop attack → retreat to heal HP → attack to defeat it safely.<br/>Keeps the <a href="/shiren-5/system/npcs#sparrow">Sparrow</a> NPC in business.</td>
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
@@ -898,7 +898,7 @@ Element Order
     <td>40</td>
     <td>-</td>
     <td>Same as Grass Kid. Becomes<br/>Pin Dude after using grass, and<br/>carries up to 2 grass items.</td>
-    <td>Dracon Grass + Fencer combo<br/>can cause equipment loss in<br/><a href="/shiren5/dungeon/pitfall-of-life">Pitfall of Life</a>.</td>
+    <td>Dracon Grass + Fencer combo<br/>can cause equipment loss in<br/><a href="/shiren-5/dungeons/pitfall-of-life">Pitfall of Life</a>.</td>
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
@@ -910,7 +910,7 @@ Element Order
     <td>210</td>
     <td>-</td>
     <td>Same as Grass Kid. Becomes<br/>Pin Poppa after using grass,<br/>and carries up to 3 grass items.</td>
-    <td>Ideal monster to <a href="/shiren5/guide/tips-and-tricks#grass-factory">farm grass</a>.<br/>It has high attack so don't let<br/>your guard down.</td>
+    <td>Ideal monster to <a href="/shiren-5/guides/tips-and-tricks#grass-factory">farm grass</a>.<br/>It has high attack so don't let<br/>your guard down.</td>
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
@@ -1039,7 +1039,7 @@ Element Order
     <td>80</td>
     <td>-</td>
     <td>Same as Pin Kid, but becomes<br/>Grass Poppa and can generate<br/>grass on its own.</td>
-    <td>Similar attack as Grass Poppa.<br/>Generates its own grass after<br/>a number of turns pass, so it's<br/>excellent for <a href="/shiren5/guide/tips-and-tricks#grass-factory">farming grass</a>.</td>
+    <td>Similar attack as Grass Poppa.<br/>Generates its own grass after<br/>a number of turns pass, so it's<br/>excellent for <a href="/shiren-5/guides/tips-and-tricks#grass-factory">farming grass</a>.</td>
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
@@ -1301,7 +1301,7 @@ Element Order
     <td>1200</td>
     <td>250</td>
     <td>-</td>
-    <td>Don't get stung by Zanbeeto2 in<br/><a href="/shiren5/dungeon/storm-forest">Storm Forest</a> at all costs.</td>
+    <td>Don't get stung by Zanbeeto2 in<br/><a href="/shiren-5/dungeons/storm-forest">Storm Forest</a> at all costs.</td>
   </tr>
   <tr>
     <th>Lv</th>
@@ -1408,7 +1408,7 @@ Element Order
     <td>4%</td>
     <td>-</td>
     <td>Turns an item into a Large Onigiri when<br/>adjacent, excluding equipped items.<br/>Collapses if hit by onigiri. (Non-sealed)<br/>Nullifies <span class="green_text">Onigiri</span> status, heals HP instead.<br/>Only drops Onigiri.</td>
-    <td>Blessed pots are protected.<br/>Higher attack, so get creative<br/>for <a href="/shiren5/guide/tips-and-tricks#nigiri-morph-factory">Nigiri Morph Factory</a>.</td>
+    <td>Blessed pots are protected.<br/>Higher attack, so get creative<br/>for <a href="/shiren-5/guides/tips-and-tricks#nigiri-morph-factory">Nigiri Morph Factory</a>.</td>
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
@@ -1485,7 +1485,7 @@ Element Order
     <td>45</td>
     <td>16%</td>
     <td>-</td>
-    <td rowspan="2">You can't use <a href="/shiren5/system/abilities">abilities</a> if you<br/>have <span class="green_text">Onigiri</span> status, and any<br/>torch you had equipped is lost.</td>
+    <td rowspan="2">You can't use <a href="/shiren-5/system/necklace-abilities">abilities</a> if you<br/>have <span class="green_text">Onigiri</span> status, and any<br/>torch you had equipped is lost.</td>
   </tr>
   <tr>
     <td class="highlightNight">4</td>
@@ -1687,7 +1687,7 @@ Element Order
     <td>3950</td>
     <td>300</td>
     <td>4%</td>
-    <td>High stats, double speed. Use a<br/><a href="/shiren5/item/pots#water-pot">Water Pot</a> or hit it after it sets a trap.</td>
+    <td>High stats, double speed. Use a<br/><a href="/shiren-5/items/pots#water-pot">Water Pot</a> or hit it after it sets a trap.</td>
   </tr>
   <tr>
     <th>Lv</th>
@@ -2219,7 +2219,7 @@ Element Order
     <td>4%</td>
     <td rowspan="4">Aquatic</td>
     <td rowspan="4">Converts effects other than<br/>direct attacks to 2 damage.<br/>Talismans still affect nearby<br/>monsters.<br/>Status runes, explosions, and<br/>Expulsion Scroll work, along<br/>with abilities.</td>
-    <td rowspan="4">Basically only <a href="/shiren5/system/abilities">abilities</a> are effective.<br/><a href="/shiren5/system/allies#gen">Gen</a>'s shots deal 2 damage.</td>
+    <td rowspan="4">Basically only <a href="/shiren-5/system/necklace-abilities">abilities</a> are effective.<br/><a href="/shiren-5/system/allies#gen">Gen</a>'s shots deal 2 damage.</td>
   </tr>
   <tr>
     <td class="highlightNight">2</td>
@@ -2284,7 +2284,7 @@ Element Order
     <td>-</td>
     <td rowspan="4">Plant<br/>Floating</td>
     <td rowspan="4">Can pass through walls.<br/>Unpredictable movement,<br/>sometimes doesn't attack.<br/>Items that pierce, rocks,<br/>talismans, Electric Staff<br/>are still effective.<br/>Equip a Wall Clip Bracelet<br/>to land direct attacks.</td>
-    <td rowspan="2">Likely to attack when adjacent.<br/>Erratic movement, but slowly<br/>approaches you.<br/>Easily picks off <a href="/shiren5/system/allies">allies</a> in hallways.</td>
+    <td rowspan="2">Likely to attack when adjacent.<br/>Erratic movement, but slowly<br/>approaches you.<br/>Easily picks off <a href="/shiren-5/system/allies">allies</a> in hallways.</td>
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
@@ -2529,7 +2529,7 @@ Element Order
     <td>-</td>
     <td rowspan="4">Metal</td>
     <td>Disguised as item, attacks if you<br/>try to pick it up. Can be picked up<br/>if you go on it with Swap Staff, etc.<br/>Reveals itself and attacks if you<br/>try to use or insert it.<br/>Identified when changing floors.<br/>Remains when time of day changes,<br/>but vanishes if revealed. Can be sold.<br/>Revealed if merchandise is identified.<br/>Initially <span class="green_text">Napping</span> if in a Gitan room.</td>
-    <td>Strong threat in <a href="/shiren5/dungeon/pitfall-of-life">Pitfall of Life</a>.<br/>Metal, but not weak to water.</td>
+    <td>Strong threat in <a href="/shiren-5/dungeons/pitfall-of-life">Pitfall of Life</a>.<br/>Metal, but not weak to water.</td>
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
@@ -2680,7 +2680,7 @@ Element Order
     <td>50</td>
     <td>-</td>
     <td>Same as Mixer, but eats 4 items.</td>
-    <td>Higher attack, and basically<br/>immune to projectiles. Appears<br/>as early as 1F in <a href="/shiren5/dungeon/lost-well">Lost Well</a>.</td>
+    <td>Higher attack, and basically<br/>immune to projectiles. Appears<br/>as early as 1F in <a href="/shiren-5/dungeons/lost-well">Lost Well</a>.</td>
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
@@ -2786,7 +2786,7 @@ Element Order
     <td>2%</td>
     <td rowspan="4">Drain<br/>Power</td>
     <td>Lowers strength by 1 if adjacent.<br/>Antidote Grass deals 50 damage.<br/>Poison Grass and Poison Arrows<br/>grant <span class="green_text">Buffed</span> status.</td>
-    <td>Troublesome monster with<br/>high attack on early floors of<br/><a href="/shiren5/dungeon/pitfall-of-life">Pitfall of Life</a>.</td>
+    <td>Troublesome monster with<br/>high attack on early floors of<br/><a href="/shiren-5/dungeons/pitfall-of-life">Pitfall of Life</a>.</td>
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
@@ -3300,7 +3300,7 @@ Element Order
     <td>-</td>
     <td rowspan="4">Aquatic</td>
     <td>Lowers upgrade value of equipped<br/>weapon or shield by 1, and can<br/>remove an item's tag.<br/>Chance to duplicate itself when hit.<br/>Doesn't use direct attacks.</td>
-    <td>Hard to deal with in <a href="/shiren5/dungeon/pitfall-of-life">Pitfall of Life</a><br/>since you don't want to unequip<br/>your weapon and shield.<br/>Plate items before 9F if possible.</td>
+    <td>Hard to deal with in <a href="/shiren-5/dungeons/pitfall-of-life">Pitfall of Life</a><br/>since you don't want to unequip<br/>your weapon and shield.<br/>Plate items before 9F if possible.</td>
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
@@ -3430,7 +3430,7 @@ Element Order
     <td>2%</td>
     <td rowspan="4">Drain<br/>Magic<br/>Harass</td>
     <td>Lowers max fullness by 3 or max<br/>HP by 1 when adjacent.<br/>Warps in front of you in rooms.<br/>Hunger Traps grant <span class="green_text">Buffed</span> status.</td>
-    <td rowspan="4">Losing max HP is bad in<br/><a href="/shiren5/dungeon/pitfall-of-life">Pitfall of Life</a>.<br/>Repeatedly step away to<br/>recover HP while fighting.<br/>Dangerous in single room<br/>Monster Houses since you'll<br/>be immediately surrounded.</td>
+    <td rowspan="4">Losing max HP is bad in<br/><a href="/shiren-5/dungeons/pitfall-of-life">Pitfall of Life</a>.<br/>Repeatedly step away to<br/>recover HP while fighting.<br/>Dangerous in single room<br/>Monster Houses since you'll<br/>be immediately surrounded.</td>
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
@@ -3815,7 +3815,7 @@ Element Order
     <td>45</td>
     <td>4%</td>
     <td>Same as Kid Squid, but its ink<br/>blinds targets in a 1 tile radius.</td>
-    <td>Only appears in <a href="/shiren5/dungeon/destinys-descent">Destiny's Descent</a><br/>in the base game.</td>
+    <td>Only appears in <a href="/shiren-5/dungeons/destinys-descent">Destiny's Descent</a><br/>in the base game.</td>
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
@@ -3940,7 +3940,7 @@ Element Order
     <td>8</td>
     <td>19</td>
     <td>-</td>
-    <td>Found in <a href="/shiren5/dungeon/inori-cave">Inori Cave</a>. (13-14F)<br/>Lightning deals 1 damage to<br/>other night monsters, so it<br/>doesn't limit break as often as<br/>its day counterpart.</td>
+    <td>Found in <a href="/shiren-5/dungeons/inori-cave">Inori Cave</a>. (13-14F)<br/>Lightning deals 1 damage to<br/>other night monsters, so it<br/>doesn't limit break as often as<br/>its day counterpart.</td>
   </tr>
 </table>
 
@@ -4892,7 +4892,7 @@ Element Order
     <td>80</td>
     <td>4%</td>
     <td>Reduces a pot's capacity to 0.<br/>All items in the pot vanish.</td>
-    <td>Bad if it pecks Preservation Pots.<br/>Used for <a href="/shiren5/guide/tips-and-tricks#fever-pots">2 item Fever Pots</a>.</td>
+    <td>Bad if it pecks Preservation Pots.<br/>Used for <a href="/shiren-5/guides/tips-and-tricks#fever-pots">2 item Fever Pots</a>.</td>
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
@@ -5055,7 +5055,7 @@ Element Order
     <td>2%</td>
     <td rowspan="4">Cyclops<br/>Magic<br/>Harass</td>
     <td rowspan="4">Same as daytime abilities.</td>
-    <td rowspan="3">Often appears on floors with water<br/>or air tiles in <a href="/shiren5/dungeon/destinys-descent">Destiny's Descent</a>,<br/>leading to item loss.</td>
+    <td rowspan="3">Often appears on floors with water<br/>or air tiles in <a href="/shiren-5/dungeons/destinys-descent">Destiny's Descent</a>,<br/>leading to item loss.</td>
   </tr>
   <tr>
     <td class="highlightNight">2</td>
@@ -5640,7 +5640,7 @@ Element Order
     <td>2</td>
     <td>6%</td>
     <td rowspan="4">Swift 1<br/>Rust<br/>Projectile</td>
-    <td>Double speed, 1 attack.<br/>Shoots <a href="/shiren5/item/projectiles#wood-arrow">Wood Arrows</a>.<br/>Moves away if you get close.<br/>Shoots even if another enemy<br/>is in-between.<br/>Doesn't attack in hallways.<br/>Only drops Wood Arrows.</td>
+    <td>Double speed, 1 attack.<br/>Shoots <a href="/shiren-5/items/projectiles#wood-arrow">Wood Arrows</a>.<br/>Moves away if you get close.<br/>Shoots even if another enemy<br/>is in-between.<br/>Doesn't attack in hallways.<br/>Only drops Wood Arrows.</td>
     <td rowspan="2">Higher stats than in Shiren 4.<br/>Fight it in a hallway for safety.</td>
   </tr>
   <tr>
@@ -5652,7 +5652,7 @@ Element Order
     <td>180</td>
     <td>7</td>
     <td>6%</td>
-    <td>Same as Boy Cart, but shoots<br/>and drops <a href="/shiren5/item/projectiles#iron-arrow">Iron Arrows</a>.</td>
+    <td>Same as Boy Cart, but shoots<br/>and drops <a href="/shiren-5/items/projectiles#iron-arrow">Iron Arrows</a>.</td>
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
@@ -5663,8 +5663,8 @@ Element Order
     <td>600</td>
     <td>9</td>
     <td>6%</td>
-    <td>Same as Boy Cart, but shoots<br/>and drops <a href="/shiren5/item/projectiles#knockback-arrow">Knockback Arrows</a>.</td>
-    <td>Knockback Arrows can be<br/>collected using a <a href="/shiren5/item/pots#dodger-pot">Dodger Pot</a>.<br/>Level up a Lv1-2 Boy Cart, or<br/>level down a Pierce Cart or<br/><a href="#pop-tank">Pop Tank</a> to create one on<br/>floors where it doesn't spawn.</td>
+    <td>Same as Boy Cart, but shoots<br/>and drops <a href="/shiren-5/items/projectiles#knockback-arrow">Knockback Arrows</a>.</td>
+    <td>Knockback Arrows can be<br/>collected using a <a href="/shiren-5/items/pots#dodger-pot">Dodger Pot</a>.<br/>Level up a Lv1-2 Boy Cart, or<br/>level down a Pierce Cart or<br/><a href="#pop-tank">Pop Tank</a> to create one on<br/>floors where it doesn't spawn.</td>
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
@@ -5675,7 +5675,7 @@ Element Order
     <td>1100</td>
     <td>15</td>
     <td>6%</td>
-    <td>Same as Boy Cart, but shoots<br/>and drops <a href="/shiren5/item/projectiles#silver-arrow">Silver Arrows</a>.<br/>Turns into <a href="#pop-tank">Pop Tank</a> if it gains<br/>a level.</td>
+    <td>Same as Boy Cart, but shoots<br/>and drops <a href="/shiren-5/items/projectiles#silver-arrow">Silver Arrows</a>.<br/>Turns into <a href="#pop-tank">Pop Tank</a> if it gains<br/>a level.</td>
     <td>Silver Arrows pierce through<br/>walls and creatures, so they<br/>can't be collected.<br/>If an Extinction Scroll was<br/>thrown at a Pop Tank, the<br/>Pierce Cart will limit break<br/>instead of leveling up.</td>
   </tr>
   <tr>
@@ -5701,7 +5701,7 @@ Element Order
     <td>8</td>
     <td>6%</td>
     <td rowspan="4">Swift 1<br/>Rust<br/>Projectile</td>
-    <td>Double speed, 1 attack.<br/>Shoots <a href="/shiren5/item/projectiles#wood-arrow">Wood Arrows</a>.<br/>Moves away if you get close.<br/>Uses direct attacks, and<br/>attacks in hallways.<br/>Arrows that miss vanish.<br/>Only drops Wood Arrows.</td>
+    <td>Double speed, 1 attack.<br/>Shoots <a href="/shiren-5/items/projectiles#wood-arrow">Wood Arrows</a>.<br/>Moves away if you get close.<br/>Uses direct attacks, and<br/>attacks in hallways.<br/>Arrows that miss vanish.<br/>Only drops Wood Arrows.</td>
     <td rowspan="4">Unlike Shiren 4, Dark Boy Cart<br/>has unpredictable movement<br/>in this game, meaning it can<br/>slay other monsters and limit<br/>break, greatly raising attack.<br/>It usually tries to move away,<br/>but it can also approach and<br/>use direct attacks.<br/>Its arrows deal 1 damage to<br/>other enemies.</td>
   </tr>
   <tr>
@@ -5713,7 +5713,7 @@ Element Order
     <td>43</td>
     <td>18</td>
     <td>8%</td>
-    <td>Same as Dark Boy Cart, but<br/>shoots and drops <a href="/shiren5/item/projectiles#iron-arrow">Iron Arrows</a>.</td>
+    <td>Same as Dark Boy Cart, but<br/>shoots and drops <a href="/shiren-5/items/projectiles#iron-arrow">Iron Arrows</a>.</td>
   </tr>
   <tr>
     <td class="highlightNight">3</td>
@@ -5724,7 +5724,7 @@ Element Order
     <td>86</td>
     <td>35</td>
     <td>16%</td>
-    <td>Same as Dark Boy Cart, but<br/>shoots and drops <a href="/shiren5/item/projectiles#knockback-arrow">Knockback<br/>Arrows</a>.</td>
+    <td>Same as Dark Boy Cart, but<br/>shoots and drops <a href="/shiren-5/items/projectiles#knockback-arrow">Knockback<br/>Arrows</a>.</td>
   </tr>
   <tr>
     <td class="highlightNight">4</td>
@@ -5735,7 +5735,7 @@ Element Order
     <td>150</td>
     <td>80</td>
     <td>20%</td>
-    <td>Same as Dark Boy Cart, but<br/>shoots and drops <a href="/shiren5/item/projectiles#silver-arrow">Silver Arrows</a>.</td>
+    <td>Same as Dark Boy Cart, but<br/>shoots and drops <a href="/shiren-5/items/projectiles#silver-arrow">Silver Arrows</a>.</td>
   </tr>
 </table>
 
@@ -5907,7 +5907,7 @@ Element Order
     <td>12</td>
     <td>4%</td>
     <td rowspan="4">Rust<br/>Drain<br/>Power<br/>Harass</td>
-    <td>Absorbs status conditions inflicted<br/>on itself, or from a creature within<br/>a 1 tile radius.<br/>Its turn ends if it absorbs from<br/>another creature, but not when it<br/>absorbs its own status condition.<br/>Immune to ailments, even <span class="green_text">Sealed</span>.<br/>Absorbing a status condition fully<br/>restores its HP, and it also gains<br/><span class="green_text">Buffed</span> status. (1 stage)<br/>It can absorb all positive status<br/>conditions except <span class="green_text">Super</span> status<br/>and <a href="/shiren5/item/food#special-onigiri">Special Onigiri</a> effects.</td>
+    <td>Absorbs status conditions inflicted<br/>on itself, or from a creature within<br/>a 1 tile radius.<br/>Its turn ends if it absorbs from<br/>another creature, but not when it<br/>absorbs its own status condition.<br/>Immune to ailments, even <span class="green_text">Sealed</span>.<br/>Absorbing a status condition fully<br/>restores its HP, and it also gains<br/><span class="green_text">Buffed</span> status. (1 stage)<br/>It can absorb all positive status<br/>conditions except <span class="green_text">Super</span> status<br/>and <a href="/shiren-5/items/food#special-onigiri">Special Onigiri</a> effects.</td>
     <td>Powers up by absorbing<br/>status conditions. The<br/>Anti-Drain rune is usually<br/>enough to one-shot it.</td>
   </tr>
   <tr>
@@ -6035,7 +6035,7 @@ Element Order
     <td>4%</td>
     <td rowspan="4">Rust</td>
     <td rowspan="4">Occasionally lands a critical hit<br/>that deals double damage.</td>
-    <td rowspan="4">Powerful and lacks a weakness<br/>other than water from a <a href="/shiren5/item/pots#water-pot">Water Pot</a>.<br/>Its critical hit rate isn't too high, but<br/>it's best to plan for the critical hit.<br/>Surprisingly low HP, so projectiles<br/>are effective.</td>
+    <td rowspan="4">Powerful and lacks a weakness<br/>other than water from a <a href="/shiren-5/items/pots#water-pot">Water Pot</a>.<br/>Its critical hit rate isn't too high, but<br/>it's best to plan for the critical hit.<br/>Surprisingly low HP, so projectiles<br/>are effective.</td>
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
@@ -6536,7 +6536,7 @@ Element Order
     <td>4%</td>
     <td rowspan="4">Drain<br/>Harass</td>
     <td>Inflicts <span class="green_text">Grassnesia</span> if adjacent.</td>
-    <td rowspan="4">Item amnesia prevents you from<br/>using or throwing items of the<br/>affected category for 100 turns.<br/>It's possible to encounter Trillmans<br/>during the main story, but it requires<br/>a setup you're extremely unlikely to<br/>encounter while playing normally.<br/>(See <a href="/shiren5/dungeon/tower-of-miracles">Tower of Miracles</a> for details)</td>
+    <td rowspan="4">Item amnesia prevents you from<br/>using or throwing items of the<br/>affected category for 100 turns.<br/>It's possible to encounter Trillmans<br/>during the main story, but it requires<br/>a setup you're extremely unlikely to<br/>encounter while playing normally.<br/>(See <a href="/shiren-5/dungeons/tower-of-miracles">Tower of Miracles</a> for details)</td>
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
@@ -6787,7 +6787,7 @@ Element Order
     <td>18</td>
     <td>4%</td>
     <td>-</td>
-    <td rowspan="4">Only drops <a href="/shiren5/item/food#onigiri">Onigiri</a>.</td>
+    <td rowspan="4">Only drops <a href="/shiren-5/items/food#onigiri">Onigiri</a>.</td>
     <td>No abilities besides only dropping Onigiri.</td>
   </tr>
   <tr>
@@ -6848,7 +6848,7 @@ Element Order
     <td>20</td>
     <td>4%</td>
     <td>-</td>
-    <td rowspan="4">Only drops <a href="/shiren5/item/food#onigiri">Onigiri</a>.</td>
+    <td rowspan="4">Only drops <a href="/shiren-5/items/food#onigiri">Onigiri</a>.</td>
     <td rowspan="4">The Onigiri it drops is always blessed.</td>
   </tr>
   <tr>
@@ -7105,7 +7105,7 @@ Element Order
     <td>-</td>
     <td rowspan="4">Cyclops<br/>Explode<br/>Aquatic<br/>Explosive<br/>Harass</td>
     <td rowspan="4">Explodes after losing a<br/>certain amount of HP.</td>
-    <td rowspan="4">Explodes from enemy attacks.<br/>Items caught in the blast vanish.<br/>Explodes even if you use <a href="/shiren5/system/abilities">abilities</a><br/>like Pot Party if condition is met.</td>
+    <td rowspan="4">Explodes from enemy attacks.<br/>Items caught in the blast vanish.<br/>Explodes even if you use <a href="/shiren-5/system/necklace-abilities">abilities</a><br/>like Pot Party if condition is met.</td>
   </tr>
   <tr>
     <td class="highlightNight">2</td>
@@ -7319,7 +7319,7 @@ Element Order
     <td>40</td>
     <td>2%</td>
     <td>Same as Field Knave, but the<br/>Weeds it throws knocks an<br/>inventory item away and takes<br/>that item's place.</td>
-    <td>Pots often break if knocked<br/>away by Weeds, so use a<br/><a href="/shiren5/item/pots#perceptive-pot">Perceptive Pot</a> or <a href="/shiren5/item/bracelets#anti-parry-brce">Anti-Parry<br/>Brce.</a> to protect your items.</td>
+    <td>Pots often break if knocked<br/>away by Weeds, so use a<br/><a href="/shiren-5/items/pots#perceptive-pot">Perceptive Pot</a> or <a href="/shiren-5/items/bracelets#anti-parry-brce">Anti-Parry<br/>Brce.</a> to protect your items.</td>
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
@@ -7368,7 +7368,7 @@ Element Order
     <td>120</td>
     <td>45</td>
     <td>2%</td>
-    <td>Rare outside <a href="/shiren5/dungeon/destinys-descent">Destiny's Descent</a>.<br/>Don't let it ruin important pots.</td>
+    <td>Rare outside <a href="/shiren-5/dungeons/destinys-descent">Destiny's Descent</a>.<br/>Don't let it ruin important pots.</td>
   </tr>
   <tr>
     <td class="highlightNight">3</td>
@@ -7423,7 +7423,7 @@ Element Order
     <td>400</td>
     <td>31%</td>
     <td>-</td>
-    <td rowspan="4">Regular speed, but changes<br/>to double speed (1 attack)<br/>when it sees Shiren.<br/>Can roar if in same room.<br/>Roars can inflict <span class="green_text">Paralyzed</span>.<br/>Ignores <a href="/shiren5/item/scrolls#sanctuary-scroll">Sanctuary Scrolls</a>,<br/>and only takes 10 damage<br/>from thrown Gitan.<br/>High item drop rate.<br/>(Shop table item)</td>
+    <td rowspan="4">Regular speed, but changes<br/>to double speed (1 attack)<br/>when it sees Shiren.<br/>Can roar if in same room.<br/>Roars can inflict <span class="green_text">Paralyzed</span>.<br/>Ignores <a href="/shiren-5/items/scrolls#sanctuary-scroll">Sanctuary Scrolls</a>,<br/>and only takes 10 damage<br/>from thrown Gitan.<br/>High item drop rate.<br/>(Shop table item)</td>
     <td rowspan="4">Attack, defense, and<br/>exp increase based on<br/>current floor depth.</td>
   </tr>
   <tr>
@@ -7659,8 +7659,8 @@ Element Order
     <td>0</td>
     <td>-</td>
     <td>-</td>
-    <td>Immune to select statuses.<br/>(Cloned, Laughing, etc.)<br/>Cures ailments after 1 turn.<br/>Converts explosions to 50 damage.<br/>(Example: <a href="/shiren5/item/pots#4-2-8-pot">4-2-8 Pot</a>)<br/>Nullifies <a href="/shiren5/item/scrolls#sanctuary-scroll">Sanctuary Scroll</a>.<br/>Moves:<br/>・Direct attack<br/>・Light Bullet - Ranged, inflicts ailment<br/>・Beam - Ranged, pierces<br/>・Shockwave - 15 damage + knockback<br/>・Warp to a new spot in the room<br/>・Summon - Shaggas and Death Gyazas</td>
-    <td>Boss of <a href="/shiren5/dungeon/tower-of-fortune">Tower of Fortune</a>.</td>
+    <td>Immune to select statuses.<br/>(Cloned, Laughing, etc.)<br/>Cures ailments after 1 turn.<br/>Converts explosions to 50 damage.<br/>(Example: <a href="/shiren-5/items/pots#4-2-8-pot">4-2-8 Pot</a>)<br/>Nullifies <a href="/shiren-5/items/scrolls#sanctuary-scroll">Sanctuary Scroll</a>.<br/>Moves:<br/>・Direct attack<br/>・Light Bullet - Ranged, inflicts ailment<br/>・Beam - Ranged, pierces<br/>・Shockwave - 15 damage + knockback<br/>・Warp to a new spot in the room<br/>・Summon - Shaggas and Death Gyazas</td>
+    <td>Boss of <a href="/shiren-5/dungeons/tower-of-fortune">Tower of Fortune</a>.</td>
   </tr>
 </table>
 
@@ -7692,8 +7692,8 @@ Element Order
     <td>0</td>
     <td>-</td>
     <td>-</td>
-    <td>Immune to select statuses.<br/>Cures ailments after 1 turn.<br/>Converts explosions to 50 damage.<br/>(Example: <a href="/shiren5/item/pots#4-2-8-pot">4-2-8 Pot</a>)<br/>Nullifies <a href="/shiren5/item/scrolls#sanctuary-scroll">Sanctuary Scroll</a>.<br/>Reflects projectiles and thrown items.<br/>Only takes 2 damage from Gitan.<br/>Moves:<br/>・Direct attack<br/>・Shockwave - 15 damage + knockback<br/>・Lightning - Damage to all creatures<br/>・Earthquake - Unequips your items<br/>・Gust - Knockback<br/>・Stray Missile - 40 damage cannonball<br/>・Monsters - Summons Sky Dragons</td>
-    <td>Boss of <a href="/shiren5/dungeon/tower-of-miracles">Tower of Miracles</a>.</td>
+    <td>Immune to select statuses.<br/>Cures ailments after 1 turn.<br/>Converts explosions to 50 damage.<br/>(Example: <a href="/shiren-5/items/pots#4-2-8-pot">4-2-8 Pot</a>)<br/>Nullifies <a href="/shiren-5/items/scrolls#sanctuary-scroll">Sanctuary Scroll</a>.<br/>Reflects projectiles and thrown items.<br/>Only takes 2 damage from Gitan.<br/>Moves:<br/>・Direct attack<br/>・Shockwave - 15 damage + knockback<br/>・Lightning - Damage to all creatures<br/>・Earthquake - Unequips your items<br/>・Gust - Knockback<br/>・Stray Missile - 40 damage cannonball<br/>・Monsters - Summons Sky Dragons</td>
+    <td>Boss of <a href="/shiren-5/dungeons/tower-of-miracles">Tower of Miracles</a>.</td>
   </tr>
 </table>
 
@@ -7733,8 +7733,8 @@ Element Order
     <td>0</td>
     <td>-</td>
     <td>-</td>
-    <td>Immune to select statuses.<br/>Cures ailments after 1 turn.<br/>Converts explosions to 50 damage.<br/>(Example: <a href="/shiren5/item/pots#4-2-8-pot">4-2-8 Pot</a>)<br/>Summons monsters.<br/>Moves away to keep a set distance.<br/>Uses a piercing attack that deals 40<br/>damage and makes you trip if lined up.<br/>Uses an attack that deals knockback<br/>when you're adjacent.<br/>Nullifies <a href="/shiren5/item/scrolls#sanctuary-scroll">Sanctuary Scroll</a>.<br/>Only takes 2 damage from Gitan.</td>
-    <td>Boss of <a href="/shiren5/dungeon/old-road">Old Road</a>.</td>
+    <td>Immune to select statuses.<br/>Cures ailments after 1 turn.<br/>Converts explosions to 50 damage.<br/>(Example: <a href="/shiren-5/items/pots#4-2-8-pot">4-2-8 Pot</a>)<br/>Summons monsters.<br/>Moves away to keep a set distance.<br/>Uses a piercing attack that deals 40<br/>damage and makes you trip if lined up.<br/>Uses an attack that deals knockback<br/>when you're adjacent.<br/>Nullifies <a href="/shiren-5/items/scrolls#sanctuary-scroll">Sanctuary Scroll</a>.<br/>Only takes 2 damage from Gitan.</td>
+    <td>Boss of <a href="/shiren-5/dungeons/old-road">Old Road</a>.</td>
   </tr>
 </table>
 
@@ -7768,7 +7768,7 @@ Element Order
     <td>0</td>
     <td>-</td>
     <td>-</td>
-    <td rowspan="3">Only takes 2 damage from abilities.<br/>Immune to Three Screams and<br/>Transmogrification.<br/>Ignores <a href="/shiren5/item/scrolls#sanctuary-scroll">Sanctuary Scrolls</a>.<br/>Thrown Gitan is effective.</td>
+    <td rowspan="3">Only takes 2 damage from abilities.<br/>Immune to Three Screams and<br/>Transmogrification.<br/>Ignores <a href="/shiren-5/items/scrolls#sanctuary-scroll">Sanctuary Scrolls</a>.<br/>Thrown Gitan is effective.</td>
     <td>Found in regular shops.<br/>Shopkeepers don't vanish<br/>when time of day changes.</td>
   </tr>
   <tr>

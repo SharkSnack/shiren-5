@@ -573,6 +573,7 @@ export const baseStyles = css`
   table {
     padding: 0;
     font-size: 14px;
+    border-collapse: collapse;
   }
 
   table tr {
@@ -587,7 +588,7 @@ export const baseStyles = css`
 
   table tr th {
     font-weight: bold;
-    border: 1px solid #bbb;
+    border: 1px solid #919191;
     text-align: left;
     margin: 0;
     padding: 3px 8px;
@@ -595,7 +596,7 @@ export const baseStyles = css`
   }
 
   table tr td {
-    border: 1px solid #bbb;
+    border: 1px solid #919191;
     text-align: left;
     margin: 0;
     padding: 3px 8px;
@@ -826,11 +827,13 @@ export const baseStyles = css`
     position: relative !important;
   }
   .dungeonOverview {
-    padding-bottom: 8px;
+    margin-bottom: 8px;
   }
   .dungeonOverview th {
     background-color: #dfb9ff;
     font-weight: normal;
+  }
+  .dungeonOverview td {
   }
   .dungeonTable img {
     width: 32px !important;
