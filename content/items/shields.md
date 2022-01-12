@@ -23,7 +23,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer: The Tower of 
     <td class="highlightLightblue"><a href="#fuuma-shield">Fuuma Shield</a></td>
     <td class="highlightOrange"><a href="#counter-shield">Counter Shield</a></td>
     <td class="highlightOrange"><a href="#gyadon-blocker">Gyadon Blocker</a></td>
-    <td class="highlightOrange"><a href="#paupers-plank">Pauper's Plank</a></td>
+    <td class="highlightOrange"><a href="#pauper's-plank">Pauper's Plank</a></td>
     <td class="highlightLightblue"><a href="#fox-shield">Fox Shield</a></td>
   </tr>
   <tr>
@@ -402,7 +402,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer: The Tower of 
       <td><a href="/shiren-5/items/weapons#glass-dirk">Glass Dirk</a><br/>(Nullifies magic bullets)</td>
     </tr>
     <tr>
-      <td class="highlightOrange"><a href="#paupers-plank">Pauper's Plank</a>※</td>
+      <td class="highlightOrange"><a href="#pauper's-plank">Pauper's Plank</a>※</td>
       <td class="highlightYellow">Gitan Ravager</td>
       <td>17</td>
       <td>99</td>

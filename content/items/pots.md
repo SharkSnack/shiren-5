@@ -29,7 +29,7 @@ metaDescription: "Complete pot details for Shiren the Wanderer: The Tower of For
     <td class="highlightLightblue"><a href="#curse-pot">Curse Pot</a></td>
     <td class="highlightLightblue"><a href="#hilarious-pot">Hilarious Pot</a></td>
     <td class="highlightLightblue"><a href="#unlucky-pot">Unlucky Pot</a></td>
-    <td class="highlightLightblue"><a href="#modders-pot">Modder's Pot</a></td>
+    <td class="highlightLightblue"><a href="#modder's-pot">Modder's Pot</a></td>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="#synthesis-pot">Synthesis Pot</a></td>
@@ -50,7 +50,7 @@ metaDescription: "Complete pot details for Shiren the Wanderer: The Tower of For
     <td class="highlightLightblue"><a href="#sticky-pot">Sticky Pot</a></td>
     <td class="highlightLightblue"><a href="#monster-pot">Monster Pot</a></td>
     <td class="highlightLightblue"><a href="#dodger-pot">Dodger Pot</a></td>
-    <td class="highlightLightblue"><a href="#shrine-maid-pot">Shrine Maid. Pot</a></td>
+    <td class="highlightLightblue"><a href="#shrine-maid.-pot">Shrine Maid. Pot</a></td>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="#identify-pot">Identify Pot</a></td>
@@ -223,7 +223,7 @@ metaDescription: "Complete pot details for Shiren the Wanderer: The Tower of For
       <td class="leftText">Applies <a href="/shiren-5/system/status-conditions#klein">Klein</a> status for 20 turns, swapping your attack and defense.<br/>Can be thrown at a creature for the same effect if capacity is above 0.</td>
     </tr>
     <tr>
-      <td class="highlightYellow"><a href="#shrine-maid-pot">Shrine Maid. Pot</a></td>
+      <td class="highlightYellow"><a href="#shrine-maid.-pot">Shrine Maid. Pot</a></td>
       <td>3</td>
       <td class="leftText">Fully restores HP, strength, fullness, and cures all status ailments.<br/>Also grants <a href="/shiren-5/system/status-conditions#swift">Swift</a> status for 15 turns, and <a href="/shiren-5/system/status-conditions#invincible">Invincible</a> status for 20 turns.</td>
     </tr>
@@ -237,7 +237,7 @@ metaDescription: "Complete pot details for Shiren the Wanderer: The Tower of For
       <td class="leftText">Insert same category items to combine them into a single item.<br/>The first item acts as the base, and items afterward are consumed.<br/>Weapons and shields transfer abilities (runes) and upgrade value,<br/>and staves have their use counts added together.<br/><span class="orangeText">Items with a price tag in stores can't be synthesized.</span></td>
     </tr>
     <tr>
-      <td class="highlightYellow"><a href="#modders-pot">Modder's Pot</a></td>
+      <td class="highlightYellow"><a href="#modder's-pot">Modder's Pot</a></td>
       <td>3~5</td>
       <td class="leftText">Same as Synthesis Pot, but <span class="orangeText">the pot can't shatter.</span><br/>It won't break even if sealed, and the pot will vanish if thrown at a creature.</td>
     </tr>

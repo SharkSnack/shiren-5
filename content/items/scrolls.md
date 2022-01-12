@@ -28,7 +28,7 @@ metaDescription: "Complete scroll details for Shiren the Wanderer: The Tower of 
     <td class="highlightLightblue"><a href="#muzzled-scroll">Muzzled Scroll</a></td>
     <td class="highlightLightblue"><a href="#light-scroll">Light Scroll</a></td>
     <td class="highlightLightblue"><a href="#blank-scroll">Blank Scroll</a></td>
-    <td class="highlightLightblue"><a href="#commend-letter">Commend. Letter</a></td>
+    <td class="highlightLightblue"><a href="#commend.-letter">Commend. Letter</a></td>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="#slumber-scroll">Slumber Scroll</a></td>
@@ -36,7 +36,7 @@ metaDescription: "Complete scroll details for Shiren the Wanderer: The Tower of 
     <td class="highlightLightblue"><a href="#exorcism-scroll">Exorcism Scroll</a></td>
     <td class="highlightLightblue"><a href="#pot-god-scroll">Pot God Scroll</a></td>
     <td class="highlightLightblue"><a href="#grounded-scroll">Grounded Scroll</a></td>
-    <td class="highlightLightblue"><a href="#recommend-letter">Recommend. Letter</a></td>
+    <td class="highlightLightblue"><a href="#recommend.-letter">Recommend. Letter</a></td>
     <td class="highlightLightblue"><a href="#coupon-scroll">Coupon Scroll</a></td>
     <td class="highlightLightblue"><a href="#bankruptcy-scroll">Bankruptcy Scroll</a></td>
   </tr>
@@ -66,7 +66,7 @@ metaDescription: "Complete scroll details for Shiren the Wanderer: The Tower of 
     <td class="highlightLightblue"><a href="#plating-scroll">Plating Scroll</a></td>
     <td class="highlightLightblue"><a href="#curse-scroll">Curse Scroll</a></td>
     <td class="highlightLightblue"><a href="#collection-scroll">Collection Scroll</a></td>
-    <td class="highlightLightblue"><a href="#gamblers-scroll">Gambler's Scroll</a></td>
+    <td class="highlightLightblue"><a href="#gambler's-scroll">Gambler's Scroll</a></td>
     <td class="highlightLightblue"><a href="#darth-scroll">Darth Scroll</a></td>
     <td></td>
   </tr>
@@ -140,12 +140,12 @@ metaDescription: "Complete scroll details for Shiren the Wanderer: The Tower of 
       <td class="leftText">No effect if read, and sticks to the ground when placed.<br/>Lights up the room at night when placed in a room.</td>
     </tr>
     <tr>
-      <td class="highlightYellow"><a href="#recommend-letter">Recommend. Letter</a></td>
+      <td class="highlightYellow"><a href="#recommend.-letter">Recommend. Letter</a></td>
       <td>-</td>
       <td class="leftText">Show it to an elite store Shopkeeper to enter the store.<br/>No effect if read.</td>
     </tr>
     <tr>
-      <td class="highlightYellow"><a href="#commend-letter">Commend. Letter</a></td>
+      <td class="highlightYellow"><a href="#commend.-letter">Commend. Letter</a></td>
       <td>-</td>
       <td class="leftText">Read it or show it to an elite store Shopkeeper to buy a <a href="/shiren-5/items/food#large-onigiri">Large Onigiri</a>.<br/>However, you'll lose all of your Gitan.</td>
     </tr>
@@ -340,7 +340,7 @@ metaDescription: "Complete scroll details for Shiren the Wanderer: The Tower of 
       <td class="leftText">Fully restores HP, and grants an additional effect based on situation.<br/>Can be read at night without light.</td>
     </tr>
     <tr>
-      <td class="highlightYellow"><a href="#gamblers-scroll">Gambler's Scroll</a></td>
+      <td class="highlightYellow"><a href="#gambler's-scroll">Gambler's Scroll</a></td>
       <td>-</td>
       <td class="leftText">One of the following random effects occur:<br/>Increase level by 10, warp 5 floors, exterminate a random monster,<br/>Hasten all monsters by 2 stages, level up all equipment by 1 stage,<br/>lose all of your Gitan, or the player explodes.</td>
     </tr>

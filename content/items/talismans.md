@@ -15,11 +15,11 @@ metaDescription: "Complete talisman details for Shiren the Wanderer: The Tower o
     <th>2</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="#shadow-bind-tal">Shadow Bind Tal.</a></td>
+    <td class="highlightLightblue"><a href="#shadow-bind-tal.">Shadow Bind Tal.</a></td>
     <td class="highlightLightblue"><a href="#slumber-talisman">Slumber Talisman</a></td>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="#conf-talisman">Conf. Talisman</a></td>
+    <td class="highlightLightblue"><a href="#conf.-talisman">Conf. Talisman</a></td>
     <td class="highlightLightblue"><a href="#slow-talisman">Slow Talisman</a></td>
   </tr>
   <tr>
@@ -31,7 +31,7 @@ metaDescription: "Complete talisman details for Shiren the Wanderer: The Tower o
     <td class="highlightLightblue"><a href="#enraged-talisman">Enraged Talisman</a></td>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="#berserker-tal">Berserker Tal.</a></td>
+    <td class="highlightLightblue"><a href="#berserker-tal.">Berserker Tal.</a></td>
     <td class="highlightLightblue"><a href="#furious-talisman">Furious Talisman</a></td>
   </tr>
   <tr>
@@ -58,14 +58,14 @@ metaDescription: "Complete talisman details for Shiren the Wanderer: The Tower o
   </thead>
   <tbody>
     <tr>
-      <td class="highlightYellow"><a href="#shadow-bind-tal">Shadow Bind Tal.</a></td>
+      <td class="highlightYellow"><a href="#shadow-bind-tal.">Shadow Bind Tal.</a></td>
       <td rowspan="13">600</td>
       <td rowspan="13">210</td>
       <td>10</td>
       <td class="leftText">Throw to inflict <a href="/shiren-5/system/status-conditions#shadow-bound">Shadow Bound</a> status to the target and nearby creatures.</td>
     </tr>
     <tr>
-      <td class="highlightYellow"><a href="#conf-talisman">Conf. Talisman</a></td>
+      <td class="highlightYellow"><a href="#conf.-talisman">Conf. Talisman</a></td>
       <td>20</td>
       <td class="leftText">Throw to inflict <a href="/shiren-5/system/status-conditions#confused">Confused</a> status to the target and nearby creatures.</td>
     </tr>
@@ -80,7 +80,7 @@ metaDescription: "Complete talisman details for Shiren the Wanderer: The Tower o
       <td class="leftText">Throw to inflict <a href="/shiren-5/system/status-conditions#afraid">Afraid</a> status to the target and nearby creatures.</td>
     </tr>
     <tr>
-      <td class="highlightYellow"><a href="#berserker-tal">Berserker Tal.</a></td>
+      <td class="highlightYellow"><a href="#berserker-tal.">Berserker Tal.</a></td>
       <td>30</td>
       <td class="leftText">Throw to inflict <a href="/shiren-5/system/status-conditions#berserk">Berserk</a> status to the target and nearby creatures.</td>
     </tr>

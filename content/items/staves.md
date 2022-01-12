@@ -19,7 +19,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer: The Tower of F
   <tr>
     <td class="highlightLightblue"><a href="#swap-staff">Swap Staff</a></td>
     <td class="highlightLightblue"><a href="#empathy-staff">Empathy Staff</a></td>
-    <td class="highlightLightblue"><a href="#trap-del-staff">Trap Del. Staff</a></td>
+    <td class="highlightLightblue"><a href="#trap-del.-staff">Trap Del. Staff</a></td>
     <td class="highlightLightblue"><a href="#staff-of-sacrifice">Staff of Sacrifice</a></td>
   </tr>
   <tr>
@@ -37,7 +37,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer: The Tower of F
   <tr>
     <td class="highlightLightblue"><a href="#transient-staff">Transient Staff</a></td>
     <td class="highlightLightblue"><a href="#glorious-staff">Glorious Staff</a></td>
-    <td class="highlightLightblue"><a href="#fort-staff">Fort. Staff</a></td>
+    <td class="highlightLightblue"><a href="#fort.-staff">Fort. Staff</a></td>
     <td></td>
   </tr>
   <tr>
@@ -135,7 +135,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer: The Tower of F
       <td class="leftText">Inflicts the target with <a href="/shiren-5/system/status-conditions#empathetic">Empathetic</a> status.</td>
     </tr>
     <tr>
-      <td class="highlightYellow"><a href="#trap-del-staff">Trap Del. Staff</a></td>
+      <td class="highlightYellow"><a href="#trap-del.-staff">Trap Del. Staff</a></td>
       <td>-</td>
       <td class="leftText">Erases all traps the magic bullet travels over.<br/>Deals 2 damage if the magic bullet hits a creature.</td>
     </tr>
@@ -213,7 +213,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer: The Tower of F
       <td class="leftText">Digs a tunnel 10 tiles deep if the magic bullet hits a wall.<br/>Deals 10 damage if the magic bullet hits a creature.</td>
     </tr>
     <tr>
-      <td class="highlightYellow"><a href="#fort-staff">Fort. Staff</a></td>
+      <td class="highlightYellow"><a href="#fort.-staff">Fort. Staff</a></td>
       <td>Anti-Blast※*</td>
       <td class="leftText">Create a wall 1 tile in front of you.<br/>The wall can be destroyed by the player using a regular attack.<br/>Deals 2 damage if thrown at a creature.</td>
     </tr>

@@ -432,7 +432,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of 
       <td>Costly</td>
       <td>-</td>
       <td>38,100</td>
-      <td><a href="/shiren-5/items/shields#paupers-plank">Pauper's Plank</a><br/>(Enemies drop Gitan often)</td>
+      <td><a href="/shiren-5/items/shields#pauper's-plank">Pauper's Plank</a><br/>(Enemies drop Gitan often)</td>
     </tr>
     <tr>
       <td class="highlightOrange"><a href="#extreme-sword">Extreme Sword</a>※</td>
@@ -5725,7 +5725,7 @@ It levels up pretty quickly and gains 2 rune slots per level up, so synthesis is
       <td>-</td>
       <td>3000</td>
       <td>1050</td>
-      <td rowspan="8">Pay Gitan per attack to boost damage.<br/>0 attack if you don't have enough Gitan.<br/>(130% and 30G, +10% and ~30G per level up)<br/>(Lv8: 200% and 250G)<br/><br/>Resonance: <a href="/shiren-5/items/shields#paupers-plank">Pauper's Plank</a><br/>(20% chance for foes to drop 200-399 Gitan)</td>
+      <td rowspan="8">Pay Gitan per attack to boost damage.<br/>0 attack if you don't have enough Gitan.<br/>(130% and 30G, +10% and ~30G per level up)<br/>(Lv8: 200% and 250G)<br/><br/>Resonance: <a href="/shiren-5/items/shields#pauper's-plank">Pauper's Plank</a><br/>(20% chance for foes to drop 200-399 Gitan)</td>
     </tr>
     <tr>
       <td>2</td>
