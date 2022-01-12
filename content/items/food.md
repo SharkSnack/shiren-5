@@ -98,7 +98,7 @@ metaDescription: "Complete food details for Shiren the Wanderer: The Tower of Fo
       <td class="highlightYellow"><a href="#special_onigiri">Special Onigiri</a></td>
       <td>400</td>
       <td>140</td>
-      <td class="leftText">Restores 30 fullness, and grants one of the following special effects:<br/>Restore HP, Strength +1, <a href="/shiren5/system/status-conditions#unwavering">Unwavering</a>, <a href="/shiren5/system/status-conditions#satiated">Satiated</a>, <a href="/shiren5/system/status-conditions#ninja">Ninja</a>, <a href="/shiren5/system/status-conditions#insomnia">Insomnia</a>, <a href="/shiren5/system/status-conditions#knowledgeable">Knowledgeable</a><br/>Increases max fullness by 2 if already full.</td>
+      <td class="leftText">Restores 30 fullness, and grants one of the following special effects:<br/>Restore HP, Strength +1, <a href="/shiren-5/system/status-conditions#unwavering">Unwavering</a>, <a href="/shiren-5/system/status-conditions#satiated">Satiated</a>, <a href="/shiren-5/system/status-conditions#ninja">Ninja</a>, <a href="/shiren-5/system/status-conditions#insomnia">Insomnia</a>, <a href="/shiren-5/system/status-conditions#knowledgeable">Knowledgeable</a><br/>Increases max fullness by 2 if already full.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#dog_onigiri">Dog Onigiri</a></td>
@@ -122,25 +122,25 @@ metaDescription: "Complete food details for Shiren the Wanderer: The Tower of Fo
       <td class="highlightYellow"><a href="#hard_peach">Hard Peach</a></td>
       <td>200</td>
       <td>70</td>
-      <td class="leftText">Restores 30 fullness, and replenishes 3 used abilities.<br/>Grants <a href="/shiren5/system/status-conditions#bolstered">Bolstered</a> status, and increases max fullness by 1 if already full.</td>
+      <td class="leftText">Restores 30 fullness, and replenishes 3 used abilities.<br/>Grants <a href="/shiren-5/system/status-conditions#bolstered">Bolstered</a> status, and increases max fullness by 1 if already full.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#peach">Peach</a></td>
       <td>400</td>
       <td>140</td>
-      <td class="leftText">Restores 50 fullness, and replenishes 5 used abilities.<br/>Also restores strength, and cures status ailments.<br/>Grants <a href="/shiren5/system/status-conditions#immune">Immune</a> status if blessed, and increases max fullness by 2 if already full.</td>
+      <td class="leftText">Restores 50 fullness, and replenishes 5 used abilities.<br/>Also restores strength, and cures status ailments.<br/>Grants <a href="/shiren-5/system/status-conditions#immune">Immune</a> status if blessed, and increases max fullness by 2 if already full.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#juicy_peach">Juicy Peach</a></td>
       <td>600</td>
       <td>210</td>
-      <td class="leftText">Restores 100 fullness, and replenishes 8 used abilities.<br/>Grants <a href="/shiren5/system/status-conditions#enduring">Enduring</a> status, and increases max fullness by 3 if already full.</td>
+      <td class="leftText">Restores 100 fullness, and replenishes 8 used abilities.<br/>Grants <a href="/shiren-5/system/status-conditions#enduring">Enduring</a> status, and increases max fullness by 3 if already full.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#rotten_peach">Rotten Peach</a></td>
       <td>100</td>
       <td>35</td>
-      <td class="leftText">Restores 15 fullness, and replenishes 1 used ability.<br/>Inflicts <a href="/shiren5/system/status-conditions#weakened">Weakened</a> and <a href="/shiren5/system/status-conditions#wizened">Wizened</a> status when eaten or thrown at a creature.</td>
+      <td class="leftText">Restores 15 fullness, and replenishes 1 used ability.<br/>Inflicts <a href="/shiren-5/system/status-conditions#weakened">Weakened</a> and <a href="/shiren-5/system/status-conditions#wizened">Wizened</a> status when eaten or thrown at a creature.</td>
     </tr>
   </tbody>
 </table>

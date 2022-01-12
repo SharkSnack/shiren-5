@@ -4526,7 +4526,7 @@ That said, <span class="greenText">Unmoving</span> negates the effect of items l
       <td>-</td>
       <td>3000</td>
       <td>1050</td>
-      <td rowspan="8">Nullifies all movement effects.<br/>(<a href="/shiren5/system/monsters#fearabbit">Fearabbit</a> ability, etc.)</td>
+      <td rowspan="8">Nullifies all movement effects.<br/>(<a href="/shiren-5/system/monsters#fearabbit">Fearabbit</a> ability, etc.)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -6598,7 +6598,7 @@ The only sane way to level up this shield is to use the Gambler's Scroll techniq
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      <td rowspan="8">Ask <a href="/shiren5/system/allies#koharu">Koharu</a> to change<br/>into a shield.</td>
+      <td rowspan="8">Ask <a href="/shiren-5/system/allies#koharu">Koharu</a> to change<br/>into a shield.</td>
     </tr>
     <tr>
       <td>2</td>

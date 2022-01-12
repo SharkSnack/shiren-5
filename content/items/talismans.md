@@ -62,62 +62,62 @@ metaDescription: "Complete talisman details for Shiren the Wanderer: The Tower o
       <td rowspan="13">600</td>
       <td rowspan="13">210</td>
       <td>10</td>
-      <td class="leftText">Throw to inflict <a href="/shiren5/system/status-conditions#shadow-bound">Shadow Bound</a> status to the target and nearby creatures.</td>
+      <td class="leftText">Throw to inflict <a href="/shiren-5/system/status-conditions#shadow-bound">Shadow Bound</a> status to the target and nearby creatures.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#conf-talisman">Conf. Talisman</a></td>
       <td>20</td>
-      <td class="leftText">Throw to inflict <a href="/shiren5/system/status-conditions#confused">Confused</a> status to the target and nearby creatures.</td>
+      <td class="leftText">Throw to inflict <a href="/shiren-5/system/status-conditions#confused">Confused</a> status to the target and nearby creatures.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#seal-talisman">Seal Talisman</a></td>
       <td>∞</td>
-      <td class="leftText">Throw to inflict <a href="/shiren5/system/status-conditions#sealed">Sealed</a> status to the target and nearby creatures.</td>
+      <td class="leftText">Throw to inflict <a href="/shiren-5/system/status-conditions#sealed">Sealed</a> status to the target and nearby creatures.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#fear-talisman">Fear Talisman</a></td>
       <td>15</td>
-      <td class="leftText">Throw to inflict <a href="/shiren5/system/status-conditions#afraid">Afraid</a> status to the target and nearby creatures.</td>
+      <td class="leftText">Throw to inflict <a href="/shiren-5/system/status-conditions#afraid">Afraid</a> status to the target and nearby creatures.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#berserker-tal">Berserker Tal.</a></td>
       <td>30</td>
-      <td class="leftText">Throw to inflict <a href="/shiren5/system/status-conditions#berserk">Berserk</a> status to the target and nearby creatures.</td>
+      <td class="leftText">Throw to inflict <a href="/shiren-5/system/status-conditions#berserk">Berserk</a> status to the target and nearby creatures.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#inacc-talisman">Inacc. Talisman</a></td>
       <td>10</td>
-      <td class="leftText">Throw to inflict <a href="/shiren5/system/status-conditions#inaccurate">Inaccurate</a> status to the target and nearby creatures.</td>
+      <td class="leftText">Throw to inflict <a href="/shiren-5/system/status-conditions#inaccurate">Inaccurate</a> status to the target and nearby creatures.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#sleep-talisman">Sleep Talisman</a></td>
       <td>6</td>
-      <td class="leftText">Throw to inflict <a href="/shiren5/system/status-conditions#asleep">Asleep</a> status to the target and nearby creatures.</td>
+      <td class="leftText">Throw to inflict <a href="/shiren-5/system/status-conditions#asleep">Asleep</a> status to the target and nearby creatures.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#slumber-talisman">Slumber Talisman</a></td>
       <td>12</td>
-      <td class="leftText">Throw to inflict <a href="/shiren5/system/status-conditions#sound-asleep">Sound Asleep</a> status to the target and nearby creatures.</td>
+      <td class="leftText">Throw to inflict <a href="/shiren-5/system/status-conditions#sound-asleep">Sound Asleep</a> status to the target and nearby creatures.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#slow-talisman">Slow Talisman</a></td>
       <td>∞</td>
-      <td class="leftText">Throw to inflict <a href="/shiren5/system/status-conditions#slow">Slow</a> status to the target and nearby creatures.</td>
+      <td class="leftText">Throw to inflict <a href="/shiren-5/system/status-conditions#slow">Slow</a> status to the target and nearby creatures.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#swift-talisman">Swift Talisman</a></td>
       <td>∞</td>
-      <td class="leftText">Throw to inflict <a href="/shiren5/system/status-conditions#swift">Swift</a> status to the target and nearby creatures.</td>
+      <td class="leftText">Throw to inflict <a href="/shiren-5/system/status-conditions#swift">Swift</a> status to the target and nearby creatures.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#enraged-talisman">Enraged Talisman</a></td>
       <td>50</td>
-      <td class="leftText">Throw to inflict <a href="/shiren5/system/status-conditions#enraged">Enraged</a> status to the target and nearby creatures.</td>
+      <td class="leftText">Throw to inflict <a href="/shiren-5/system/status-conditions#enraged">Enraged</a> status to the target and nearby creatures.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#furious-talisman">Furious Talisman</a></td>
       <td>15</td>
-      <td class="leftText">Throw to inflict <a href="/shiren5/system/status-conditions#furious">Furious</a> status to the target and nearby creatures.</td>
+      <td class="leftText">Throw to inflict <a href="/shiren-5/system/status-conditions#furious">Furious</a> status to the target and nearby creatures.</td>
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#glorious-talisman">Glorious Talisman</a></td>
