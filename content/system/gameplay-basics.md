@@ -99,7 +99,8 @@ States that affect a character's behavior in various ways.<br/>
 
 ### Super Status
 
-Shiren's status will change as you defeat enemies during an adventure.
+Shiren's status will change as you defeat enemies during an adventure.<br/>
+※ The trigger condition for activating Super status appears to be random.
 
 - Regular → Awakened-ish → Super
 

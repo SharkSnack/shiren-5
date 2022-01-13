@@ -11,7 +11,7 @@ or where you sell all of your items and steal them back to obtain lots of Gitan.
 
 It's often a requirement when using equipment like [Dirk of Debts](/items/weapons#dirk-of-debts) and [Pauper's Plank](/items/shields#pauper's-plank).
 
-<ul id="quickLinksUL">
+<ul class="quickLinksUL">
   <li><a href="#basics">Basics</a>
     <ul>
       <li><a href="#risk-and-return">Risk and Return</a></li>

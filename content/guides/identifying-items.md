@@ -1,6 +1,6 @@
 ---
-title: "Identifying"
-metaTitle: "Identification Guide - Shiren the Wanderer: Tower of Fortune Wiki"
+title: "Identifying Items"
+metaTitle: "Identifying Items - Shiren the Wanderer: Tower of Fortune Wiki"
 metaDescription: "Item identification guide for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
 ---
 
@@ -10,9 +10,9 @@ metaDescription: "Item identification guide for Shiren the Wanderer: The Tower o
 
 # Overview
 
-Being able to successfully identify items is one of the keys to getting better as a player.
+Being able to successfully identify unidentified items is one of the keys to getting better as a player.
 
-<ul id="quickLinksUL">
+<ul class="quickLinksUL">
   <li><a href="#methods">Methods</a>
     <ul>
       <li><a href="#yolo">YOLO</a></li>
