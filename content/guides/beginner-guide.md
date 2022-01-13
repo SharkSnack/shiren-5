@@ -95,6 +95,7 @@ The game pushes you in the direction of growing as a player, rather than grindin
         - Use Preservation Pots to increase the number of items you can store.
     - The Bank lets you save money, and offers rewards based on your balance.
     - The Shop sells a variety of items, and the selection changes per adventure.
+    - The Warehouse (left of hotel) can be used as additional storage.
 5. Enter [Destiny Trail](/dungeons/destiny-trail) via the East exit of Nekomaneki Village.
 
 ### Destiny Trail ~ Tower of the Past
@@ -112,12 +113,13 @@ Details about [Destiny Trail](/dungeons/destiny-trail) and [Tower of the Past](/
     - Moving
     - Using an item
     - Talking to a NPC
+    - Stepping in place
 2. HP regenrates only when you move or step in place.
     - Step in place: Press B + A at the same time.
 3. The player gets hungry as he performs actions, depleting fullness. (FG gauge)
     - Fullness decreases by 1 every 10 turns.
     - Once fullness reaches 0, you'll take 1 damage per turn.
-    - Fullness can be replenished by eating onigiri, peach or grass items.
+    - Fullness can be replenished by eating onigiri, peach, or grass items.
 4. Diagonal movement is equal to 2 orthogonal movements.
     - Hold R to guarantee diagonal movement.
     - Diagonal movement is key to conserving fullness and fleeing from enemies.
@@ -243,6 +245,8 @@ See [Villages](/system/villages#hermit's-hermitage) for details about available 
 #### Night
 
 - From this point onward, time of day will begin to cycle.
+    - Optional: Talk to the NPC near the exit and play through [Night Training Facility](/dungeons/night-training-facility).
+        - Don't worry, you'll return to Hermit's Hermitage afterward.
     - Current monsters vanish, and new monsters spawn when time of day changes.
         - Day to night: Day monsters vanish, and night monsters are generated.
         - Night to day: Night monsters vanish, and day monsters are generated.
@@ -267,52 +271,179 @@ This section offers either text or links to other pages that explain gameplay me
 
 ## Basics
 
+### Suspending (Saving)
+
+When you want to quit the game, select the Suspend command from the menu,<br/>
+then return to the top menu before closing the game.
+
+If you close the game without suspending, you'll lose all items and money as if you collapsed,<br/>and will resume the game from Hotel Nekomaneki.
+
 ### Turns
+
+If you move, attack, use an item, talk to a NPC, or step in place, monsters will then take a step or attack.<br/>As long as you don't act, nothing else will, so stay calm and think things through.
 
 ### Map
 
+The areas you've traversed on the current floor will be recorded on the map.
+
+Dot color explanation:
+
+- White: The player
+- Red: Monsters
+- Blue: Items on the ground
+- Yellow: Allies, NPCs
+
 ### Terrain
+
+Normally, water, air, and wall tiles are not traversable.<br/>However, some monsters can walk on water, float in midair, or move inside walls.
 
 ### Fullness
 
+As turns pass, your fullness will deplete at the rate of 1 per 10 turns.<br/>When your fullness reaches 0, your HP will start to decrease by 1 each turn.<br/>Eat onigiri, peach, or grass items to replenish fullness.
+
 ### Collapsing
+
+If your HP goes to 0, you'll collapse.<br/>If you collapse, you'll lose all items and money, and will return to Hotel Nekomaneki.<br/>So if you're in a tough spot, don't be stingy - use your items!
 
 ### Wind of Kron
 
+If you spend too many turns on the same floor, [Wind of Kron](/system/dungeon-features#wind-of-kron) will blow.<br/>When the 4th gust blows, you'll be blown out of the dungeon as if you had collapsed.<br/>Revival Grass and Undo Grass cannot save you from the gust, so hurry to the next floor.
+
+Warnings:
+
+1. You feel the wind picking up.
+2. The wind blows harder.
+3. The wind gusts vigorously!
+
 ### Abilities
+
+As you continue your adventures, you'll reach a point where you can learn abilities.<br/>Abilities are effective for dealing damage to night monsters, but they can't be used during the day.
+
+See [Abilities](/system/necklace-abilities) for details.
 
 ### Night
 
+Some dungeons have a day and night cycle, which alternates based on elapsed turns.
+
+At night:
+
+- Field of view is reduced to a 1 tile radius, but can be expanded by equipping a torch.
+    - Night monsters deal more damage to you if you don't have a torch equipped.
+- Daytime monsters are replaced by night monsters.
+    - Night monsters only take 1 damage from attacks other than abilities.
+        - Up to 8 abilities can be assigned, and each ability can only be used 1 time per floor.
+        - You can refresh abilities by eating a peach item, or by reading a Replenish Scroll.
+
+See [Night](/system/gameplay-basics#night) for details.
+
 ### Speed and Status
+
+Normally, you will take 1 turn to perform 1 action, but traps and items can change that formula.
+
+- Slow: Act once every 2 turns.
+- Swift: Act 2 times per turn.
+
+Monsters can also have varying action speed.
+
+- Slow: Act once every 2 turns.
+- Swift 1: Act 2 times per turn, but attacking once ends its turn.
+- Swift 2: Act 2 times per turn, and can attack twice.
+
+Traps and items can give you or monsters different status conditions.<br/>For example, if you throw Sleepy Grass at a monster, it will be afflicted with Asleep status.
+
+See [Status Conditions](/system/status-conditions) for details.
 
 ## Item Related
 
 ### Sorting
 
+The player can hold up to 24 items, which can be sorted by pressing Y in the inventory menu.<br/>Keep your inventory organized so you can readily assess the strategic options you have available.
+
 ### Pot and Staff Numbers
+
+Staves and pots have a number showing how many uses they have left.
+
+The number on staves represent how many more times they can be swung.<br/>A staff can be thrown to get one last use out of it once its remaining uses reaches 0.
+
+
+The number on a pot represents how many more items you can insert into it.<br/>Some pots are opened instead, and the number represents how many more times it can be opened.
 
 ### Onigiri & Preservation Pots
 
+Onigiri and peaches are important items that replenish your fullness.<br/>That said, if you step on a Decay Trap, all onigiri and peaches in your inventory will become rotten.<br/>If you have a Preservation Pot, insert onigiri and peaches to protect them from that trap.
+
 ### Storehouse & Warehouse
+
+Some villages have storage that can house your items.<br/>Items kept inside a storehouse or warehouse won't be lost if you collapse in a dungeon.
 
 ### Point Card
 
+Item that lets you collect points from Point Switches.<br/>Points can be exchanged for valuable items such as Undo Grass, which lets you revive or escape.
+
+See [Point Card](/system/gameplay-basics#point-card) for details.
+
 ### Equipment
+
+Weapons increase the damage you deal to monsters, and shields reduce damage inflicted by monsters.<br/>Both have to be equipped using the Equip command to receive their effects.
 
 ### Upgrading Equipment
 
+Weapons and shields can be upgraded by certain scrolls or by blacksmiths.<br/>A number representing upgrade value such as "+1" is displayed if an item has been upgraded.
+
 ### Leveling Up Equipment
+
+Weapons and shields that are equipped gain skill points as you defeat monsters with direct attacks.<br/>Once the bar is full, the piece of equipment will level up and become stronger.<br/>Attack or defense might increase, upgrade limit increases, and rune slots might increase.
+
+See [Equipment Growth](/system/gameplay-basics#equipment-growth) for details.
 
 ### Synthesizing Equipment
 
+You can synthesize weapons with weapons or shields with shields using a Synthesis Pot.<br/>Once synthesized, the base item will have the items' abilities, and their upgrade value will be combined.
+
+There's also a monster called Mixer which can synthesize items you throw at it.<br/>This monster lets you synthesize different category items together, such as a weapon and grass item.
+
+See [Synthesis](/system/gameplay-basics#synthesis) for details.
+
 ### Equipment Tags
+
+You can add tags to your weapons or shields at a shop, or by reading a Tag Scroll.<br/>If you lose a tagged item, it'll be delivered to the Sentry in Hermit's Hermitage.
+
+However, there are some cases where a tagged item won't be delivered.
+
+- Item was turned into an onigiri or Weeds due to a monster's special attack.
+- Item was inserted into a Presto or Sale pot.
+- Quit the game without suspending properly / game froze.
+
+See [Equipment Tags](/system/gameplay-basics#equipment-tags) for details.
 
 ### Blessed, Cursed, Sealed
 
+Items can be blessed, cursed, or sealed.
+
+- Blessed items have stronger effects.
+- Cursed equipment can't be unequipped.
+- Sealed items can't be used.
+- Curses and seals can be removed using items like Exorcism Scroll, Exorcism Pot, etc.
+- Curses and seals can also be removed by the Curse Breaker in Nekomaneki Village.
+
+See [Blessing / Curse / Seal](/system/gameplay-basics#blessing-/-curse-/-seal) for details.
+
 ### Unidentified Items
+
+Items with yellow names are unidentified items.<br/>Use an Identify Scroll or Identify Pot to learn their true names and abilities.
 
 ## Dungeon Related
 
 ### Dungeon Shops
 
+Shops can appear in dungeons at times.
+
+If you want to buy something, pick it up and talk to the Shopkeeper to pay for it.<br/>If you want to sell something, place the item on the ground and talk to the Shopkeeper.
+
+See [Shop](/system/dungeon-features#shop) for details.
+
 ### Gimmicks
+
+As you progress through dungeons, you'll encounter contraptions like doors, moving floors, and more.<br/>Some doors can be opened and closed using the A button, while others open when monsters aren't nearby.
+
+See [Dungeon Features](/system/dungeon-features) for details.
