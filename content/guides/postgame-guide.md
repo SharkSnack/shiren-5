@@ -223,6 +223,10 @@ Some dungeons expect you to bring powerful equipment and items, so this section 
 
 ### Obtain Key Items
 
+<div class="relativeImage smallScreenshot">
+  <img src="../images/other/rescue_password.jpg"/>
+</div>
+
 Important items include:
 
 - Red Blade & Red Shield --- Strongest set that grants 2 bracelet resonance.
@@ -248,6 +252,10 @@ Input rescue passwords to quickly obtain some of the above items.<br/>Bring an E
 See [Rescue Passwords](/guides/rescue-passwords) for details.
 
 ### Collect Points
+
+<div class="relativeImage smallScreenshot">
+  <img src="../images/other/point_card.png"/>
+</div>
 
 Lots of points are needed in order to quickly level up and upgrade equipment.
 
@@ -295,6 +303,10 @@ Steps:
 
 ### Level Up Equipment
 
+<div class="relativeImage smallScreenshot">
+  <img src="../images/other/equipment_level.png"/>
+</div>
+
 Once you have lots of points, you can start exchanging them to help with leveling up equipment.<br/>Blank Scrolls cost 200 points each, and can be turned into Gambler's Scrolls, Extraction Scrolls, etc.<br/>The idea is to read lots of Gambler's Scrolls in Destiny Trail for the weapon and shield level up effect.
 
 Needed Items:
@@ -318,6 +330,10 @@ Steps:
 
 ### Upgrade Equipment
 
+<div class="relativeImage monsterImage">
+  <img src="../images/other/equipment_growth.jpg"/>
+</div>
+
 Once your equipment is Lv8, it's time to read Fate and Earth scrolls to increase upgrade value.<br/>This can be done inside the Nekomaneki Village warehouse, provided there's enough space on the ground.
 
 Needed Items:
@@ -337,11 +353,17 @@ Steps:
 
 ### Synthesize Powerful Runes
 
+<div class="relativeImage smallScreenshot">
+  <img src="../images/other/runes.png"/>
+</div>
+
 It's time to finalize your main weapon and shield by synthesizing the best runes.<br/>Some of the ingredients can be tricky to find on your own, so check [Rescue Passwords](/guides/rescue-passwords).
 
 ※ If you're using Shugoseki Swd as a main weapon, it's recommended to erase Flame Shot.
 
-See [Runes](/system/synthesis-runes) for a complete list.
+Mixergons can be found between 1-2F of Lost Well, and can eat up to 4 items.<br/>If your equipment isn't strong enough yet, you can go to Tower of the Future or Inori Cave instead.
+
+See [Runes](/system/synthesis-runes) for details.
 
 #### Weapon
 
@@ -403,27 +425,31 @@ If you want to take things a step further than the above, you can get into New I
 
 See [New Items](/system/new-items) for details.
 
+<div class="relativeImage smallScreenshot">
+  <img src="../images/other/secret_pot.png"/>
+</div>
+
 ## Learn Abilities
 
 There are 30 abilities total, and some are pretty much mandatory to have a smooth time at night.
 
-See [Abilities](/system/necklace-abilities) for a complete list.
+See [Abilities](/system/necklace-abilities) for a complete list, and [NPCs](/system/npcs) for locations where Master, Tradesman, and Apprentice appear.
 
 |Ability|How to Learn|Notes|
 |-|-|-|
-|Stairlight|[Master](/system/npcs#master)|Reveals the location of the stairs on the map.|
-|Pot Party|[Master](/system/npcs#master)|Damages all targets in the room, and then inflicts Hiding.|
+|Stairlight|Master|Reveals the location of the stairs on the map.|
+|Pot Party|Master|Damages all targets in the room, and then inflicts Hiding.|
 |Kaboom Bullet|Derived from<br/>Sticky Shot|Shoot a damaging bullet in a straight line.<br/>Defeats most monsters in a single hit.|
-|Sticky Shot|[Apprentice](/system/npcs#apprentice)|Shoot a damaging bullet in a straight line, then paralyzes.|
-|Crawling Confusion|[Tradesman](/system/npcs#tradesman)|Warps monsters on the floor to you, and then inflicts Confused.|
+|Sticky Shot|Apprentice|Shoot a damaging bullet in a straight line, then paralyzes.|
+|Crawling Confusion|Tradesman|Warps monsters on the floor to you, and then inflicts Confused.|
 |Electrocute|Level 16|Electric damage to a target in front and all adjacent targets.|
 |Chakra Cleanse|Level 29|Any ailment you become afflicted with at night is instantly cured.|
-|Room Healing Flash|[Tradesman](/system/npcs#tradesman)|Fully restores HP of you and any allies in the room.|
+|Room Healing Flash|Tradesman|Fully restores HP of you and any allies in the room.|
 |Transmogrification|Inori Cave (wish)|One-shot a target in front of you by turning them into an item.|
 |Three Screams|Level 99|Instantly defeats targets in front of you in 3 forward directions.|
 |Self-Help|Level 24|Grants Fast Regen. (+1 HP recovered per turn)|
 
-## Obtain Explusion Scroll
+## Obtain Expulsion Scroll
 
 Expulsion Scroll is a rare scroll that instantly defeats all monsters in a room.<br/>The main method to obtaining it is to read all other scrolls, and then give a Blank Scroll to the calligrapher NPC.<br/>※ The calligrapher can also be utilized to obtain other scrolls you haven't read yet.
 
@@ -463,6 +489,10 @@ Steps:
 
 ## Clear Icons
 
+<div class="relativeImage screenshot">
+  <img src="../images/other/clear_icons.jpg"/>
+</div>
+
 Some dungeons grant a clear icon for your save file when you clear them.<br/>It might be fun to see if you can obtain them all.
 
 - Story dungeons
@@ -482,11 +512,19 @@ Some dungeons grant a clear icon for your save file when you clear them.<br/>It 
 
 ## Book Completion
 
+<div class="relativeImage smallScreenshot">
+  <img src="../images/other/book_item.png"/>
+</div>
+
 If you're up to the task of 100% completion, you'll need to tackle the encyclopedia.
 
 See [Book Completion](/guides/book-completion) for details.
 
 ## Expert Badges
+
+<div class="relativeImage smallScreenshot">
+  <img src="../images/other/expert_badges.jpg"/>
+</div>
 
 In-game achievements that are obtained by clearing dungeons with self-imposed restrictions.
 
@@ -494,6 +532,10 @@ See [Expert Badges](/system/expert-badges) for details.
 
 ## Speedrunning
 
-Interested in competing for world records? Check out the [Shiren 5 page on speedrun.com](https://www.speedrun.com/shiren5)
+<div class="relativeImage smallScreenshot">
+  <img src="../images/other/speedrun.png"/>
+</div>
+
+Interested in competing for world records? Check out the [Shiren 5 page](https://www.speedrun.com/shiren5) on speedrun.com.
 
 See [Speedrunning](/guides/speedrunning) for rules and routes.

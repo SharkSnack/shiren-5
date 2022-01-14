@@ -1226,6 +1226,14 @@ export const baseStyles = css`
     height: auto !important;
     width: 590px;
   }
+  .dungeonPageImage2 {
+    display: flex;
+    width: 680px !important;
+    height: auto;
+  }
+  .dungeonPageImage2 img {
+    position: relative !important;
+  }
   .allyImage span {
     margin-left: 0px !important;
     background-image: none !important;

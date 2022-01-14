@@ -1,6 +1,6 @@
 ---
 title: "Book Completion"
-metaTitle: "Book Completion Guide --- Shiren the Wanderer: Tower of Fortune Wiki"
+metaTitle: "Book Completion Guide - Shiren the Wanderer: Tower of Fortune Wiki"
 metaDescription: "Item and monster book completion guide for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
 ---
 
@@ -15,6 +15,10 @@ The encyclopedia keeps a record of items you've obtained and monsters you've def
 There are a total of 900 items, 468 monsters, and 79 music tracks.<br/>As you can imagine, this is going to take serious effort to reach 100% completion.
 
 # Item Book
+
+<div class="relativeImage smallScreenshot">
+  <img src="../images/other/book_item.png"/>
+</div>
 
 ### Preparations
 
@@ -582,6 +586,14 @@ The Floramorph Pot in Statue Cave (<span class="orangeText">What you need is...?
 
 # Monster Book
 
+<div class="relativeImage smallScreenshot">
+  <img src="../images/other/book_monster.png"/>
+</div>
+
 # Music Collection
+
+<div class="relativeImage smallScreenshot">
+  <img src="../images/other/music_collection.jpg"/>
+</div>
 
 See [Music Collection](/system/music-collection) for track names and locations.
