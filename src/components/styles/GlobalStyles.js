@@ -699,7 +699,7 @@ export const baseStyles = css`
     padding: 2px;
   }
   .dungeonMonsters td {
-    font-size: 12.65px;
+    font-size: 12px;
     text-align: center;
     padding: 2px;
   }

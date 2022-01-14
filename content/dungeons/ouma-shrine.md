@@ -45,18 +45,18 @@ Once cleared, you can never return to this dungeon.
 <table>
   <tr>
     <th>1</th>
-    <td class="highlightYellow">Mamel</td>
+    <td>Mamel</td>
     <td></td>
   </tr>
   <tr>
     <th>2</th>
-    <td class="highlightYellow">Mamel</td>
-    <td class="highlightYellow">Sproutant</td>
+    <td>Mamel</td>
+    <td>Sproutant</td>
   </tr>
   <tr>
     <th>3</th>
-    <td class="highlightYellow">Mamel</td>
-    <td class="highlightYellow">Sproutant</td>
+    <td>Mamel</td>
+    <td>Sproutant</td>
   </tr>
 </table>
 
