@@ -325,7 +325,7 @@ Needed Items:
 - Preservation Pot[5] --- blessed Fate or Earth Scroll x 5
 - Preservation Pot[5] --- Extraction Scroll x 5 (Bring lots of these pots)
 - Blessing Pot x 1
-- Weapons and shields --- Whichever one you want to upgrade.
+- Weapons and shields --- Whichever ones you want to upgrade.
 
 Steps:
 
@@ -405,15 +405,95 @@ See [New Items](/system/new-items) for details.
 
 ## Learn Abilities
 
+There are 30 abilities total, and some are pretty much mandatory to have a smooth time at night.
 
+See [Abilities](/system/necklace-abilities) for a complete list.
 
-## Obtain Unread Scrolls
+|Ability|How to Learn|Notes|
+|-|-|-|
+|Stairlight|[Master](/system/npcs#master)|Reveals the location of the stairs on the map.|
+|Pot Party|[Master](/system/npcs#master)|Damages all targets in the room, and then inflicts Hiding.|
+|Kaboom Bullet|Derived from<br/>Sticky Shot|Shoot a damaging bullet in a straight line.<br/>Defeats most monsters in a single hit.|
+|Sticky Shot|[Apprentice](/system/npcs#apprentice)|Shoot a damaging bullet in a straight line, then paralyzes.|
+|Crawling Confusion|[Tradesman](/system/npcs#tradesman)|Warps monsters on the floor to you, and then inflicts Confused.|
+|Electrocute|Level 16|Electric damage to a target in front and all adjacent targets.|
+|Chakra Cleanse|Level 29|Any ailment you become afflicted with at night is instantly cured.|
+|Room Healing Flash|[Tradesman](/system/npcs#tradesman)|Fully restores HP of you and any allies in the room.|
+|Transmogrification|Inori Cave (wish)|One-shot a target in front of you by turning them into an item.|
+|Three Screams|Level 99|Instantly defeats targets in front of you in 3 forward directions.|
+|Self-Help|Level 24|Grants Fast Regen. (+1 HP recovered per turn)|
 
+## Obtain Explusion Scroll
 
+Expulsion Scroll is a rare scroll that instantly defeats all monsters in a room.<br/>The main method to obtaining it is to read all other scrolls, and then give a Blank Scroll to the calligrapher NPC.<br/>※ The calligrapher can also be utilized to obtain other scrolls you haven't read yet.
+
+The calligrapher can be found in the following dungeons:
+
+- Tower of the Past: 1-7F
+- Tower of the Present: 1-7F
+- Tower of the Future: 1-7F
+- Tower of Fortune: 1-3F
+- Lost Well: 1-14F
+- Inori Cave: 70-83F
 
 ## Level Up Allies
 
+Angel Seeds can be thrown at allies to quickly level them up.
 
+Needed Items:
+
+- Angel Seed --- At least 2~3 to get started.
+- Blessing Pot x 1
+- Extraction Scrolls
+- Dracon Grass x 1 or Can. Arm Bracelet x 1
+- Fever Pots --- see [Rescue Passwords](/guides/rescue-passwords)
+- Escape Scroll or Undo Grass
+
+Steps:
+
+1. Obtain Angel Seeds from [Madam Ateska](/system/npcs#madam-ateska)'s fortune.
+2. Duplicate the Angel Seeds using Fever Pots.
+    - Use Pot God Scrolls to increase their capacity if desired.
+3. Bless the Angel Seeds using a Blessing Pot + Extraction Scroll.
+4. Optional: Equip a True Knife + Anti-Parry Brce. to ensure thrown items hit.
+5. Bring Dracon Grass or Can. Arm Bracelet (if you're not using resonance).
+6. Go to Destiny Trail with 3 allies you want to level up, and line them up in a hallway.
+7. Eat the Dracon Grass, and throw the blessed Angel Seeds to increase level by 6 per throw.
+8. Read the Escape Scroll or use the Undo Grass to return to Nekomaneki Village.
+
+## Clear Icons
+
+Some dungeons grant a clear icon for your save file when you clear them.<br/>It might be fun to see if you can obtain them all.
+
+- Story dungeons
+- Inori Cave
+- Lost Well
+- Gen's Turf
+- Pitfall of Life
+- Heavenly Lake
+- Old Road
+- Bizarre Tower
+- Onigiri Hollow
+- Primordial Chasm
+- Destiny's Descent
+- Underground Manor (General District)
+- Explosion Rocks
+- Statue Cave
 
 ## Book Completion
 
+If you're up to the task of 100% completion, you'll need to tackle the encyclopedia.
+
+See [Book Completion](/guides/book-completion) for details.
+
+## Expert Badges
+
+In-game achievements that are obtained by clearing dungeons with self-imposed restrictions.
+
+See [Expert Badges](/system/expert-badges) for details.
+
+## Speedrunning
+
+Interested in competing for world records? Check out the [Shiren 5 page on speedrun.com](https://www.speedrun.com/shiren5)
+
+See [Speedrunning](/guides/speedrunning) for rules and routes.
