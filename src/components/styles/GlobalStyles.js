@@ -704,14 +704,12 @@ export const baseStyles = css`
     padding: 2px;
   }
   .dungeonMonsterList th {
-    background-color: #f3f3f3;
     font-weight: normal;
     text-align: center;
-    padding: 2px;
+    padding: 3px;
   }
   .dungeonMonsterList td {
-    font-size: 13px;
-    padding: 2px;
+    padding: 3px;
   }
   .monsterPageTable th {
     font-weight: normal;

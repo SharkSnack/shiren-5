@@ -15,7 +15,12 @@ The first two floors only have point switches for traps, so it's a popular spot 
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
-  <li><a href="#strategy">Strategy</a></li>
+  <li><a href="#strategy">Strategy</a>
+    <ul>
+      <li><a href="#general">General</a></li>
+      <li><a href="#farming">Farming</a></li>
+    </ul>
+  </li>
   <li><a href="#monsters">Monsters</a></li>
   <li><a href="#monster-table">Monster Table</a></li>
   <li><a href="#items">Items</a></li>
@@ -363,7 +368,7 @@ The values like "3-5" in columns represent the floor range where the item can ap
 - F = Floor, Daytime monster drop
 - S = Shiny Object (yellow), Peddler
 - P = Presto Pot
-- E = Shiny Object (yellow, blue)
+- E = Shiny Object (blue)
 
 <br/>
 
@@ -1400,6 +1405,8 @@ The values like "3-5" in columns represent the floor range where the item can ap
 
 # Traps
 
+See [Traps](/system/traps) for details.
+
 <table class="dungeonItemTable">
   <tr>
     <th>Trap</th>
@@ -1435,7 +1442,7 @@ The values like "3-5" in columns represent the floor range where the item can ap
 
 # NPCs
 
-See <a href="/shiren-5/system/npcs">Wandering NPCs</a> for details.
+See [NPCs](/system/npcs) for details.
 
 <table class="dungeonItemTable">
   <tr>

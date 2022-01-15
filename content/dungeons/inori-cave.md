@@ -23,6 +23,31 @@ which is otherwise only obtainable in Primordial Chasm or select PS Vita / Switc
 
 See Tips and Tricks for Catstone collection tips.
 
+<ul class="quickLinksUL">
+  <li><a href="#overview">Overview</a>
+    <ul>
+      <li><a href="#list-of-wishes">List of Wishes</a></li>
+    </ul>
+  </li>
+  <li><a href="#strategy">Strategy</a>
+    <ul>
+      <li><a href="#general">General</a></li>
+      <li><a href="#identifying-items">Identifying Items</a></li>
+      <li><a href="#equipment">Equipment</a></li>
+      <li><a href="#floor-guide">Floor Guide</a></li>
+    </ul>
+  </li>
+  <li><a href="#monsters">Monsters</a>
+    <ul>
+      <li><a href="#day-monsters">Day Monsters</a></li>
+      <li><a href="#night-monsters">Night Monsters</a></li>
+    </ul>
+  </li>
+  <li><a href="#items">Items</a></li>
+  <li><a href="#traps">Traps</a></li>
+  <li><a href="#npcs">NPCs</a></li>
+</ul>
+
 # Overview
 
 <table class="dungeonOverview">
@@ -87,7 +112,9 @@ See Tips and Tricks for Catstone collection tips.
   </tr>
 </table>
 
-List of wishes (requires 7 Catstones each time):
+#### List of Wishes
+
+Making a wish requires all 7 colors of catstones each time.
 
 <table class="dungeonTable">
   <thead>
@@ -153,6 +180,13 @@ List of wishes (requires 7 Catstones each time):
 </table>
 
 # Strategy
+
+<ul class="quickLinksUL">
+  <li><a href="#general">General</a></li>
+  <li><a href="#identifying-items">Identifying Items</a></li>
+  <li><a href="#equipment">Equipment</a></li>
+  <li><a href="#floor-guide">Floor Guide</a></li>
+</ul>
 
 ### General
 
@@ -226,7 +260,9 @@ provided you create an environment where they can be defeated safely.
 
 New items can be found in this dungeon, so you could use those items instead of playing the intended balance too.
 
-### Early Game (1-20F)
+### Floor Guide
+
+#### Early Game (1-20F)
 
 This floor range shouldn't give you trouble.<br/>
 The only noteworthy monster combination is Curse Girl + Fearabbit. (8-9F)
@@ -239,7 +275,7 @@ No Carry-In Items:
 
 - It's possible to perform Nigiri Morph Factory on floors where Nigiri Baby (6-8F) appears,<br/>but again, ominous auras usually put a stop to extended item collection techniques.
 
-### Mid Game (21-50F)
+#### Mid Game (21-50F)
 
 Nigiri Morphs appear between 30-32F, so be careful if you don't have the Anti-Onigiri shield rune.<br/>
 Worst case scenario, a Catstone gets transformed into a Large Onigiri and you have to start over from 1F.
@@ -256,7 +292,7 @@ No Carry-In Items:
 
 - Enemies begin to hit harder from around 30F, and Maneater floors remain an on-and-off threat.<br/>That said, there are some floors where you can safely hunt monsters for drops. (check monster table)
 
-### Late Game (51-99F)
+#### Late Game (51-99F)
 
 For some mysterious reason, wandering NPCs can appear between 70-83F.<br/>
 They don't behave any differently than in other dungeons, so don't bother chasing them down to talk to them.
@@ -301,7 +337,14 @@ No Carry-In Items:
 
 # Monsters
 
-#### Day Monster Table
+See [Monsters](/system/monsters) for individual monster details.
+
+<ul class="quickLinksUL">
+  <li><a href="#day-monsters">Day Monsters</a></li>
+  <li><a href="#night-monsters">Night Monsters</a></li>
+</ul>
+
+#### Day Monsters
 
 Enemy Colors: <span class="highlightBlue">Farming</span>, <span class="highlightGreen">Situational Farming</span>, <span class="highlightPurple3">Destroys Items</span>, <span class="highlightOrange2">Dangerous</span>, <span class="highlightRed">Very Dangerous</span>
 
@@ -1501,7 +1544,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span>, <span class="highlight
 
 <br/>
 
-#### Night Monster Table
+#### Night Monsters
 
 Enemy Colors: <span class="highlightBlue">Farming</span>, <span class="highlightGreen">Situational Farming</span>, <span class="highlightPurple3">Destroys Items</span>, <span class="highlightOrange2">Dangerous</span>, <span class="highlightRed">Very Dangerous</span>
 
@@ -2708,7 +2751,7 @@ The values like "1-11" or "3+" in columns represent the floor range where the it
 - P = Presto Pot
 - Z = Zalokleft drop
 - M = Mealy drop
-- E = Elite shop, Shiny Object (yellow, blue), Pick-A-Choice shop
+- E = Elite shop, Shiny Object (blue), Pick-A-Choice shop
 
 <br/>
 
@@ -4490,11 +4533,13 @@ The values like "1-11" or "3+" in columns represent the floor range where the it
 
 # Traps
 
+See [Traps](/system/traps) for details.
+
 <table class="dungeonItemTable">
   <tr>
     <th>Trap</th>
     <th>Floors</th>
-    <th rowspan="15"></th>
+    <td rowspan="15" class="tableDivider"></td>
     <th>Trap</th>
     <th>Floors</th>
   </tr>
@@ -4585,13 +4630,13 @@ The values like "1-11" or "3+" in columns represent the floor range where the it
 
 # NPCs
 
-See <a href="/shiren-5/system/npcs">Wandering NPCs</a> for details.
+See [NPCs](/system/npcs) for details.
 
 <table class="dungeonItemTable">
   <tr>
     <th>NPC</th>
     <th>Floors</th>
-    <th rowspan="11"></th>
+    <td rowspan="11" class="tableDivider"></td>
     <th>NPC</th>
     <th>Floors</th>
   </tr>

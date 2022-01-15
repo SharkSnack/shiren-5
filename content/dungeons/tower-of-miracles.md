@@ -19,17 +19,17 @@ It includes an inn, item shop, and warehouse, so be sure to take a moment to pre
 Staying at the inn occasionally increases max HP, max strength, or max fullness.
 
 <ul class="quickLinksUL">
-  <li><a href="#overview">Dungeon Overview</a></li>
+  <li><a href="#overview">Overview</a></li>
   <li><a href="#strategy">Strategy</a>
     <ul>
-      <li><a href="#night">Equipment</a></li>
-    </ul>
-  </li>
-  <li><a href="#floor-guide">Floor Guide</a>
-    <ul>
-      <li><a href="#tower-area-1-(1-3f)">Tower Area 1 (1-3F)</a></li>
-      <li><a href="#skywalk-(4-6f)">Tower Skywalk (4-6F)</a></li>
-      <li><a href="#tower-area-2-(7-9f)">Tower Area 2 (7-9F)</a></li>
+      <li><a href="#equipment">Equipment</a></li>
+      <li><a href="#floor-guide">Floor Guide</a>
+        <ul>
+          <li><a href="#tower-area-1-(1-3f)">Tower Area 1 (1-3F)</a></li>
+          <li><a href="#tower-skywalk-(4-6f)">Tower Skywalk (4-6F)</a></li>
+          <li><a href="#tower-area-2-(7-9f)">Tower Area 2 (7-9F)</a></li>
+        </ul>
+      </li>
       <li><a href="#boss">Boss</a></li>
     </ul>
   </li>
@@ -47,7 +47,6 @@ Staying at the inn occasionally increases max HP, max strength, or max fullness.
   </li>
   <li><a href="#items">Items</a></li>
   <li><a href="#traps">Traps</a></li>
-  <li><a href="#npcs">NPCs</a></li>
 </ul>
 
 # Overview
@@ -116,6 +115,18 @@ Staying at the inn occasionally increases max HP, max strength, or max fullness.
 
 # Strategy
 
+<ul class="quickLinksUL">
+  <li><a href="#equipment">Equipment</a></li>
+  <li><a href="#floor-guide">Floor Guide</a>
+    <ul>
+      <li><a href="#tower-area-1-(1-3f)">Tower Area 1 (1-3F)</a></li>
+      <li><a href="#tower-skywalk-(4-6f)">Tower Skywalk (4-6F)</a></li>
+      <li><a href="#tower-area-2-(7-9f)">Tower Area 2 (7-9F)</a></li>
+    </ul>
+  </li>
+  <li><a href="#boss">Boss</a></li>
+</ul>
+
 ### Equipment
 
 #### Important Runes
@@ -127,9 +138,9 @@ Staying at the inn occasionally increases max HP, max strength, or max fullness.
 - Anti-Fire
     - Mainly used to halve fire damage from Sky Dragons, but also helps against Flamepuffs.<br/>Synthesized by throwing a shield and Dragon Grass at a Mixer.
 
-# Floor Guide
+### Floor Guide
 
-### Tower Area 1 (1-3F)
+#### Tower Area 1 (1-3F)
 
 There are fewer starting enemies, and lots of items on the ground.<br/>
 Hidden hallways are common, and can leave unfamiliar players feeling like they got an unwinnable map.<br/>
@@ -154,7 +165,7 @@ Evil Sky Dragons appear between 1-3F at night, and can deal 50 fire damage from 
 Avoid them by hurrying through these 3 floors before it changes to night, skipping some items if needed.<br/>
 If you don't make it through before it changes to night, it's recommended to wait for daytime in a hallway.
 
-### Tower Skywalk (4-6F)
+#### Tower Skywalk (4-6F)
 
 Shuffle type map where you step on launch pads that send you flying to different sections of the map.<br/>
 It's easy to get separated from allies, so do your best to keep an eye on them so that they don't get defeated.<br/>
@@ -172,7 +183,7 @@ It's best to synthesize on 6F to avoid Bad Colocolum rolling into you when it's 
 Eat a Juicy Peach to ensure you don't get one-shot by a rolling Bad Colocolum if you're worried.<br/>
 Wicked Trowelies appear on 6F, but shouldn't be an issue if you keep Preservation Pots full.
 
-### Tower Area 2 (7-9F)
+#### Tower Area 2 (7-9F)
 
 The final stretch - Recommended to rush stairs instead of checking rooms for items.<br/>Special blue doors appear on these floors, which lock you in a room until all monsters are defeated.<br/>
 Use items like Zen Pot or Confusion Scroll if you get locked in a large room with Sky Dragons.
@@ -1743,6 +1754,8 @@ You can continue the story even if Jirokichi collapses during the boss fight, so
 
 # Traps
 
+See [Traps](/system/traps) for details.
+
 <table class="dungeonItemTable">
   <tr>
     <th>Trap</th>
@@ -1818,7 +1831,3 @@ You can continue the story even if Jirokichi collapses during the boss fight, so
     <th colspan="2" class="highlightGray"></th>
   </tr>
 </table>
-
-# NPCs
-
-No <a href="/shiren5/system/npcs">Wandering NPCs</a> in this dungeon.

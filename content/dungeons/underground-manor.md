@@ -15,6 +15,23 @@ Once the goal is reached, the player can exit with 4 items (excluding pots) from
 
 The general district (1-99F) is unlocked after all 10 individual districts are cleared.
 
+<ul class="quickLinksUL">
+  <li><a href="#overview-(d1-10)">Overview (D1-10)</a></li>
+  <li><a href="#strategy-(d1-10)">Strategy (D1-10)</a></li>
+  <li><a href="#items-(d1-10)">Items (D1-10)</a></li>
+  <li><a href="#traps-(d1-10)">Traps (D1-10)</a></li>
+  <li><a href="#overview-(gd)">Overview (GD)</a></li>
+  <li><a href="#strategy-(gd)">Strategy (GD)</a></li>
+  <li><a href="#items-(gd)">Items (GD)</a></li>
+  <li><a href="#traps-(gd)">Traps (GD)</a></li>
+  <li><a href="#monsters">Monsters</a>
+    <ul>
+      <li><a href="#day-monsters">Day Monsters</a></li>
+      <li><a href="#night-monsters">Night Monsters</a></li>
+    </ul>
+  </li>
+</ul>
+
 # Overview (D1-10)
 
 <table class="dungeonOverview">
@@ -79,6 +96,19 @@ Each district is only 10 floors, so run-away play is generally effective.<br/>
 Items are found unidentified except for the items you start with, so you'll likely rely on<br/>
 easy to identify item categories such as talismans and staves to defeat enemies.<br/>
 If you find a pot, insert a scroll or grass item to try and identify it.
+
+<ul class="quickLinksUL">
+  <li><a href="#district-1-(1-10f)">District 1 (1-10F)</a></li>
+  <li><a href="#district-2-(11-20f)">District 2 (11-20F)</a></li>
+  <li><a href="#district-3-(21-30f)">District 3 (21-30F)</a></li>
+  <li><a href="#district-4-(31-40f)">District 4 (31-40F)</a></li>
+  <li><a href="#district-5-(41-50f)">District 5 (41-50F)</a></li>
+  <li><a href="#district-6-(51-60f)">District 6 (51-60F)</a></li>
+  <li><a href="#district-7-(61-70f)">District 7 (61-70F)</a></li>
+  <li><a href="#district-8-(71-80f)">District 8 (71-80F)</a></li>
+  <li><a href="#district-9-(81-90f)">District 9 (81-90F)</a></li>
+  <li><a href="#district-10-(91-99f)">District 10 (91-99F)</a></li>
+</ul>
 
 #### District 1 (1-10F)
 
@@ -925,6 +955,8 @@ The values like "1-10" in columns represent the floor range where the item can a
 
 # Traps (D1-10)
 
+See [Traps](/system/traps) for details.
+
 <table class="dungeonItemTable">
   <tr>
     <th>Trap</th>
@@ -1075,6 +1107,13 @@ Shops are guaranteed to appear on 11F, 21F, 31F, 41F, 51F, 61F, 71F, 81F, and 91
 
 # Strategy (GD)
 
+<ul class="quickLinksUL">
+  <li><a href="#general">General</a></li>
+  <li><a href="#identifying-items">Identifying Items</a></li>
+  <li><a href="#equipment">Equipment</a></li>
+  <li><a href="#farming">Farming</a></li>
+</ul>
+
 ### General
 
 The item table is different from the individual districts, and shops can now be generated.<br/>
@@ -1206,7 +1245,7 @@ The values like "1-5" in columns represent the floor range where the item can ap
 - P = Presto Pot
 - Z = Zalokleft drop
 - M = Mealy drop
-- E = Elite shop, Shiny Object (yellow, blue)
+- E = Elite shop, Shiny Object (blue)
 
 <br/>
 
@@ -2739,6 +2778,8 @@ The values like "1-5" in columns represent the floor range where the item can ap
 
 # Traps (GD)
 
+See [Traps](/system/traps) for details.
+
 <table class="dungeonItemTable">
   <tr>
     <th>Trap</th>
@@ -2832,7 +2873,9 @@ The values like "1-5" in columns represent the floor range where the item can ap
   </tr>
 </table>
 
-# Monster Table
+# Monsters
+
+See [Monsters](/system/monsters) for individual monster details.
 
 Enemy Colors: <span class="highlightBlue">Farming</span>, <span class="highlightGreen">Situational Farming</span>, <span class="highlightPurple3">Destroys Items</span>, <span class="highlightOrange2">Dangerous</span>, <span class="highlightRed">Very Dangerous</span>
 

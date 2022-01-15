@@ -18,19 +18,19 @@ From this point forward, day and night will begin to switch as turns elapse.<br/
 ※ <span class="greenText">It's highly recommended to go through <a href="/shiren-5/dungeons/night-training-facility">Night Training Facility</a> from Hermit's Hermitage before proceeding.</span>
 
 <ul class="quickLinksUL">
-  <li><a href="#overview">Dungeon Overview</a></li>
+  <li><a href="#overview">Overview</a></li>
   <li><a href="#strategy">Strategy</a>
     <ul>
       <li><a href="#night">Night</a></li>
       <li><a href="#farming">Farming</a></li>
-    </ul>
-  </li>
-  <li><a href="#floor-guide">Floor Guide</a>
-    <ul>
-      <li><a href="#unexplored-area-(1-3f)">Unexplored Area (1-3F)</a></li>
-      <li><a href="#tower-area-1-(4-6f)">Tower Area 1 (4-6F)</a></li>
-      <li><a href="#tower-skywalk-(7-11f)">Tower Skywalk (7-11F)</a></li>
-      <li><a href="#tower-area-2-(12-14f)">Tower Area 2 (12-14F)</a></li>
+      <li><a href="#floor-guide">Floor Guide</a>
+        <ul>
+          <li><a href="#unexplored-area-(1-3f)">Unexplored Area (1-3F)</a></li>
+          <li><a href="#tower-area-1-(4-6f)">Tower Area 1 (4-6F)</a></li>
+          <li><a href="#tower-skywalk-(7-11f)">Tower Skywalk (7-11F)</a></li>
+          <li><a href="#tower-area-2-(12-14f)">Tower Area 2 (12-14F)</a></li>
+        </ul>
+      </li>
       <li><a href="#boss">Boss</a></li>
     </ul>
   </li>
@@ -117,6 +117,20 @@ From this point forward, day and night will begin to switch as turns elapse.<br/
 
 # Strategy
 
+<ul class="quickLinksUL">
+  <li><a href="#night">Night</a></li>
+  <li><a href="#farming">Farming</a></li>
+  <li><a href="#floor-guide">Floor Guide</a>
+    <ul>
+      <li><a href="#unexplored-area-(1-3f)">Unexplored Area (1-3F)</a></li>
+      <li><a href="#tower-area-1-(4-6f)">Tower Area 1 (4-6F)</a></li>
+      <li><a href="#tower-skywalk-(7-11f)">Tower Skywalk (7-11F)</a></li>
+      <li><a href="#tower-area-2-(12-14f)">Tower Area 2 (12-14F)</a></li>
+    </ul>
+  </li>
+  <li><a href="#boss">Boss</a></li>
+</ul>
+
 ### Night
 
 <div class="relativeImage screenshot">
@@ -165,9 +179,9 @@ The 12-14F range is a high risk but high return zone.
 
 - 14F - Mixermon, Bad G. Zalokleft.<br/>Poofy makes a return in place of MC Mage, Kappa Pest, and N'twyn.<br/>This is another good floor to use Upgrade Seed and Perception Grass if you have Super status.<br/>Dark VeniScorp has high attack and HP so it tends to limit break easily, and can survive weaker abilities.<br/>(Example: Electrocute)
 
-# Floor Guide
+### Floor Guide
 
-### Unexplored Area (1-3F)
+#### Unexplored Area (1-3F)
 
 Eligan hits hard, so you'll ideally want a shield with at least 15 defense.<br/>
 But the bigger problem is Yanpii, since getting knocked off the cliff and onto an air tile makes you warp.<br/>
@@ -186,7 +200,7 @@ so you'll ideally want to get through this area before it changes to night to mi
 The next area is safer at night, so it's recommended to change the time of day right before proceeding past 3F.<br/>
 However, the time of day will always be set to daytime the first time you reach 4F.
 
-### Tower Area 1 (4-6F)
+#### Tower Area 1 (4-6F)
 
 Nigiri Morphs appear between 4-5F, and can transform a non-equipped item in your inventory into a Large Onigiri.<br/>
 Have Jirokichi fight them, or use projectiles or inflict a status condition to prevent it from using its special attack.<br/>
@@ -200,7 +214,7 @@ Night is safe if you have a field of view of at least 2 tiles, but a Dark Hurler
 Bad Zaloklefts appear between 6-7F, and always drop a blessed item when they're defeated.<br/>
 Go ahead and linger to hunt some - but if they steal an item, the stolen item will become cursed or sealed.
 
-### Tower Skywalk (7-11F)
+#### Tower Skywalk (7-11F)
 
 Hipadile has high HP, mobility, and top notch attack for mid range floors.<br/>
 It might not look as intimidating as Ironhead or Punisher, but it's a much more serious threat.
@@ -225,7 +239,7 @@ It's quite rare, but there's a chance to receive a lot of damage from an item th
 Leave an open slot in a pot for a chance to catch the thrown item, but otherwise there isn't a sure way to avoid it<br/>
 other than wasting a Dodger Pot use, so it's likely best to wait for daytime in a hallway if you want to play it safe.
 
-### Tower Area 2 (12-14F)
+#### Tower Area 2 (12-14F)
 
 Scarabbit and MC Mage continue to appear, and 13F introduces multiple high power monsters.<br/>
 It depends on equipment strength, but it's common to lose more HP than you can recover from this point on.<br/>
@@ -1182,7 +1196,7 @@ You can continue the story even if Jirokichi collapses during the boss fight, so
     <td class="highlightOrange2">Eligan</td>
     <td class="highlightYellow">Beanie</td>
     <td class="highlightYellow">Yanpii</td>
-    <td class="highlightBlue">Grass Bro</td>
+    <td class="highlightBlue">Grass Dude</td>
     <td class="highlightYellow">Pin Dude</td>
     <td class="highlightYellow">Gyadon</td>
     <td></td>
@@ -1194,7 +1208,7 @@ You can continue the story even if Jirokichi collapses during the boss fight, so
     <td class="highlightOrange2">Eligan</td>
     <td class="highlightYellow">Sproutyrant</td>
     <td class="highlightYellow">Yanpii</td>
-    <td class="highlightBlue">Grass Bro</td>
+    <td class="highlightBlue">Grass Dude</td>
     <td class="highlightYellow">Pin Dude</td>
     <td class="highlightYellow">Gyadon</td>
     <td></td>
@@ -1206,7 +1220,7 @@ You can continue the story even if Jirokichi collapses during the boss fight, so
     <td class="highlightYellow">DJ Mage</td>
     <td class="highlightYellow">Sproutyrant</td>
     <td class="highlightYellow">Steamroid</td>
-    <td class="highlightBlue">Grass Bro</td>
+    <td class="highlightBlue">Grass Dude</td>
     <td class="highlightYellow">Pin Dude</td>
     <td class="highlightOrange2">Nigiri Morph</td>
     <td class="highlightYellow">Poofy</td>
@@ -1453,7 +1467,7 @@ You can continue the story even if Jirokichi collapses during the boss fight, so
   </tr>
   <tr>
     <th>12</th>
-    <td class="highlightBlue">Dark Grass Bro</td>
+    <td class="highlightBlue">Dark Grass Dude</td>
     <td class="highlightPurple">Foul Pin Dude</td>
     <td class="highlightNight2">Dark N'twyn</td>
     <td class="highlightPurple">Dark Pandanigiri</td>
@@ -1463,7 +1477,7 @@ You can continue the story even if Jirokichi collapses during the boss fight, so
   </tr>
   <tr>
     <th>13</th>
-    <td class="highlightBlue">Dark Grass Bro</td>
+    <td class="highlightBlue">Dark Grass Dude</td>
     <td class="highlightPurple">Foul Pin Dude</td>
     <td class="highlightNight2">Dark N'twyn</td>
     <td class="highlightNight3">Dark MC Wizard</td>
@@ -1489,7 +1503,7 @@ You can continue the story even if Jirokichi collapses during the boss fight, so
 - S = Shop, Shiny Object (yellow), Night monster drop
 - P = Presto Pot
 - Z = Zalokleft drop
-- E = Elite shop, Shiny Object (yellow, blue)
+- E = Elite shop, Shiny Object (blue)
 
 <br/>
 
@@ -2839,6 +2853,8 @@ You can continue the story even if Jirokichi collapses during the boss fight, so
 
 # Traps
 
+See [Traps](/system/traps) for details.
+
 <table class="dungeonItemTable">
   <tr>
     <th>Trap</th>
@@ -2898,7 +2914,7 @@ You can continue the story even if Jirokichi collapses during the boss fight, so
 
 # NPCs
 
-See <a href="/shiren5/system/npcs">Wandering NPCs</a> for details.
+See [NPCs](/system/npcs) for details.
 
 <table class="dungeonItemTable">
   <tr>

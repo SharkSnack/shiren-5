@@ -18,7 +18,12 @@ a few times to collect multiple paralysis staves to help you clear this dungeon.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
-  <li><a href="#strategy">Strategy</a></li>
+  <li><a href="#strategy">Strategy</a>
+    <ul>
+      <li><a href="#general">General</a></li>
+      <li><a href="#farming">Farming</a></li>
+    </ul>
+  </li>
   <li><a href="#monsters">Monsters</a></li>
   <li><a href="#monster-table">Monster Table</a></li>
   <li><a href="#items">Items</a></li>
@@ -481,7 +486,7 @@ Place important pots on the ground in hallways near the stairs room.<br/>(Zalokl
 - S = Shop, Shiny Object (yellow), Peddler
 - P = Presto Pot
 - Z = Zalokleft drop
-- E = Elite shop, Shiny Object (yellow, blue)
+- E = Elite shop, Shiny Object (blue)
 
 <br/>
 
@@ -1769,6 +1774,8 @@ Place important pots on the ground in hallways near the stairs room.<br/>(Zalokl
 
 # Traps
 
+See [Traps](/system/traps) for details.
+
 <table class="dungeonItemTable">
   <tr>
     <th>Trap</th>
@@ -1816,7 +1823,7 @@ Place important pots on the ground in hallways near the stairs room.<br/>(Zalokl
 
 # NPCs
 
-See <a href="/shiren5/system/npcs">Wandering NPCs</a> for details.
+See [NPCs](/system/npcs) for details.
 
 <table class="dungeonItemTable">
   <tr>

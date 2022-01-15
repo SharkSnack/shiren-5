@@ -14,7 +14,12 @@ Mixers appears right away, so it's a popular spot to synthesize items.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
-  <li><a href="#strategy">Strategy</a></li>
+  <li><a href="#strategy">Strategy</a>
+    <ul>
+      <li><a href="#general">General</a></li>
+      <li><a href="#farming">Farming</a></li>
+    </ul>
+  </li>
   <li><a href="#monsters">Monsters</a></li>
   <li><a href="#monster-table">Monster Table</a></li>
   <li><a href="#items">Items</a></li>
@@ -521,7 +526,7 @@ A regular Peach restores strength to max, so it's not that bad if you lose stren
 - F = Floor, Daytime monster drop
 - S = Shop, Shiny Object (yellow), Peddler
 - P = Presto Pot
-- E = Elite shop, Shiny Object (yellow, blue)
+- E = Elite shop, Shiny Object (blue)
 
 <br/>
 
@@ -1549,6 +1554,8 @@ A regular Peach restores strength to max, so it's not that bad if you lose stren
 
 # Traps
 
+See [Traps](/system/traps) for details.
+
 <table class="dungeonItemTable">
   <tr>
     <th>Trap</th>
@@ -1596,7 +1603,7 @@ A regular Peach restores strength to max, so it's not that bad if you lose stren
 
 # NPCs
 
-See <a href="/shiren5/system/npcs">Wandering NPCs</a> for details.
+See [NPCs](/system/npcs) for details.
 
 <table class="dungeonItemTable">
   <tr>

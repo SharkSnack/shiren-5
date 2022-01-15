@@ -28,7 +28,7 @@ You'll receive a random item each time you complete a topic for the first time.
 <table class="dungeonTable">
   <tr>
     <th>Topics</th>
-    <td>52</td>
+    <td>54</td>
   </tr>
   <tr>
     <th>Bring Items</th>
@@ -42,7 +42,7 @@ You'll receive a random item each time you complete a topic for the first time.
 
 # Topics
 
-There are a total of 52 topics.
+There are a total of 54 topics.
 
 <table class="trainingTable">
   <tr>
@@ -130,14 +130,19 @@ There are a total of 52 topics.
     <td>Hidden passageway</td>
     <td>Use the staves to flee</td>
     <td>Resorting to brute force</td>
-    <td rowspan="2" class="highlightGray"></td>
+    <td>Bright Shield tricks*</td>
   </tr>
   <tr>
     <td>Monsters level up, too</td>
     <td>Effects of water</td>
     <td>Suspicious behavior</td>
+    <td>Can't read in the dark*</td>
   </tr>
 </table>
+
+<div class="tableNotes">
+  <p>* Available after clearing Night Training Facility.</p>
+</div>
 
 # Items
 

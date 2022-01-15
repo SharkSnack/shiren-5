@@ -18,7 +18,12 @@ prefer to start with Tower of the Present so that they can synthesize items usin
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
-  <li><a href="#strategy">Strategy</a></li>
+  <li><a href="#strategy">Strategy</a>
+    <ul>
+      <li><a href="#general">General</a></li>
+      <li><a href="#farming">Farming</a></li>
+    </ul>
+  </li>
   <li><a href="#monsters">Monsters</a></li>
   <li><a href="#monster-table">Monster Table</a></li>
   <li><a href="#items">Items</a></li>
@@ -146,7 +151,7 @@ Save Stomach Expanders for Mixers to increase the number of items they can eat i
     <td>5</td>
     <td>3</td>
     <td><span class="greenText">Anti-Plant</span></td>
-    <td>Throws the grass item it's carrying from a distance with piercing properties,<br/>or spreads the effect to all creatures in a 1-tile radius if it's adjacent to you.<br/>Transforms into Pin Kid after using the grass item it was carrying.<br/>Always drops the grass item it's carrying when defeated.</td>
+    <td>Throws grass it's carrying from a distance with piercing properties,<br/>or spreads the effect to all creatures in a 1-tile radius if it's adjacent.<br/>Transforms into Pin Kid after using the grass item it was carrying.<br/>Always drops the grass item it's carrying when defeated.</td>
   </tr>
   <tr>
     <td>1</td>
@@ -157,7 +162,7 @@ Save Stomach Expanders for Mixers to increase the number of items they can eat i
     <td>5</td>
     <td>1</td>
     <td><span class="greenText">Anti-Plant</span></td>
-    <td>Moves at double speed, but only attacks once.<br/>Transforms into Grass Kid if it finds a grass item, or if you throw grass at it.<br/>It generally tries to run away from Shiren, but will attack if you're next to it.</td>
+    <td>Moves at double speed, but only attacks once.<br/>Transforms into Grass Kid if it finds grass, or if you throw grass at it.<br/>It tries to run away from Shiren, but will attack if you're next to it.</td>
   </tr>
   <tr>
     <td>1-2</td>
@@ -168,7 +173,7 @@ Save Stomach Expanders for Mixers to increase the number of items they can eat i
     <td>15</td>
     <td>4</td>
     <td><span class="greenText">Anti-Plant</span><br/><span class="greenText">Anti-Explode</span></td>
-    <td>Eats thrown items and multiplies the amount of exp it gives when slain.<br/>However, there's a chance it'll explode when it swallows an item.<br/>(about 1/3 chance to explode, x2→x4→x8→...→x1024 exp at max)</td>
+    <td>Eats thrown items and multiplies the exp it gives when slain.<br/>However, there's a chance it'll explode when it swallows an item.<br/>(about 1/3 chance to explode, x2→x4→x8→...→x1024 exp at max)</td>
   </tr>
   <tr>
     <td>1-2</td>
@@ -179,7 +184,7 @@ Save Stomach Expanders for Mixers to increase the number of items they can eat i
     <td>18</td>
     <td>1</td>
     <td><span class="greenText">Anti-Burgle</span></td>
-    <td>Steals Gitan, and doesn't attack unless <a href="/shiren5/system/status-conditions#sealed">Sealed</a>.<br/>If it finds Gitan on the ground, it'll move toward it and sit on top of the Gitan.</td>
+    <td>Steals Gitan, and doesn't attack unless <a href="/shiren5/system/status-conditions#sealed">Sealed</a>.<br/>If it finds Gitan on the ground, it'll move toward it and sit on top of it.</td>
   </tr>
   <tr>
     <td>1-3</td>
@@ -201,7 +206,7 @@ Save Stomach Expanders for Mixers to increase the number of items they can eat i
     <td>45</td>
     <td>9</td>
     <td><span class="greenText">Anti-Metal</span></td>
-    <td>Moves at double speed, but only attacks once.<br/>Always generated <a href="/shiren5/system/status-conditions#napping">Napping</a>, and wakes up when you enter the room.<br/>Creates traps (selected from that floor's trap table) inside rooms.<br/>Stops for 2 turns after creating a trap, and can create a trap when defeated.</td>
+    <td>Moves at double speed, but only attacks once.<br/>Always generated <a href="/shiren5/system/status-conditions#napping">Napping</a>, and wakes up when you enter the room.<br/>Creates traps (selected from that floor's trap table) inside rooms.<br/>Stops for 2 turns after creating a trap.<br/>Chance to create a trap when defeated.</td>
   </tr>
   <tr>
     <td>2-4</td>
@@ -234,7 +239,7 @@ Save Stomach Expanders for Mixers to increase the number of items they can eat i
     <td>24</td>
     <td>7</td>
     <td><span class="blueText">Anti-Crs. Bracelet</span></td>
-    <td><a href="/shiren5/system/gameplay-basics#blessing-curse-seal">Curses or seals</a> 1 item. Throwing an <a href="/shiren5/item/scrolls#exorcism-scroll">Exorcism Scroll</a> deals 100 damage.</td>
+    <td><a href="/shiren5/system/gameplay-basics#blessing-curse-seal">Curses or seals</a> 1 item. Thrown <a href="/shiren5/item/scrolls#exorcism-scroll">Exorcism Scroll</a> deals 100 damage.</td>
   </tr>
   <tr>
     <td>4-5</td>
@@ -245,7 +250,7 @@ Save Stomach Expanders for Mixers to increase the number of items they can eat i
     <td>45</td>
     <td>20</td>
     <td><span class="greenText">Anti-Aquatic</span></td>
-    <td>Converts most non-direct attacks / effects to 2 damage.<br/>Status condition inflicting runes still work, and explosions will one-shot it.</td>
+    <td>Converts most non-direct attacks / effects to 2 damage.<br/>Status inflicting runes still work, and explosions will one-shot it.</td>
   </tr>
   <tr>
     <td>4-6</td>
@@ -256,7 +261,7 @@ Save Stomach Expanders for Mixers to increase the number of items they can eat i
     <td>18</td>
     <td>6</td>
     <td>-</td>
-    <td>Moves at double speed, but only attacks once.<br/>They're always generated <a href="/shiren5/system/status-conditions#napping">Napping</a>, and wake up when you enter the room.<br/>If you get surrounded by 3 of them, they can warp you 1~3 floors.</td>
+    <td>Moves at double speed, but only attacks once.<br/>Always generated <a href="/shiren5/system/status-conditions#napping">Napping</a>, and wake up when you enter the room.<br/>If you get surrounded by 3 of them, they can warp you 1~3 floors.</td>
   </tr>
   <tr>
     <td>4-7</td>
@@ -289,7 +294,7 @@ Save Stomach Expanders for Mixers to increase the number of items they can eat i
     <td>46</td>
     <td>10</td>
     <td><span class="blueText">Alert Bracelet</span></td>
-    <td>Occasionally yawns, inflicting <a href="/shiren5/system/status-conditions#asleep">Asleep</a> status to characters in a 1-tile radius.<br/>Always generated <a href="/shiren5/system/status-conditions#napping">Napping</a>, and won't wake up when Shiren enters or exits<br/>the room or walks next to it.</td>
+    <td>Can yawn, inflicting <a href="/shiren5/system/status-conditions#asleep">Asleep</a> status to characters in a 1-tile radius.<br/>Always generated <a href="/shiren5/system/status-conditions#napping">Napping</a>, and won't wake up when Shiren enters<br/>or exits the room or walks next to it.</td>
   </tr>
   <tr>
     <td>6-7</td>
@@ -311,7 +316,7 @@ Save Stomach Expanders for Mixers to increase the number of items they can eat i
     <td>33</td>
     <td>7</td>
     <td><span class="greenText">Anti-Aquatic</span><br/><span class="greenText">Rustproof</span></td>
-    <td>Doesn't attack, but decreases weapon or shield upgrade value by 1 instead.<br/>Equipment tags can be lost when the equipment's upgrade value is lowered.<br/>Occasionally duplicates itself when hit by an attack.</td>
+    <td>Doesn't attack, but can lower weapon or shield upgrade value by 1.<br/>Equipment tags can be lost when upgrade value is lowered.<br/>Occasionally duplicates itself when hit by an attack.</td>
   </tr>
   <tr>
     <td>7</td>
@@ -333,7 +338,7 @@ Save Stomach Expanders for Mixers to increase the number of items they can eat i
     <td>41</td>
     <td>12</td>
     <td><span class="greenText">Anti-Drain</span><br/><span class="blueText">Cleansing Bracelet</span></td>
-    <td>Decreases strength by 1 when you're adjacent to it. (Ally: Inflicts <a href="/shiren5/system/status-conditions#weakened">Weakened</a>)<br/>Throwing an <a href="/shiren5/item/grass#antidote-grass">Antidote Grass</a> deals 50 damage.</td>
+    <td>Lowers strength by 1 when you're adjacent. (Ally: Inflicts <a href="/shiren5/system/status-conditions#weakened">Weakened</a>)<br/>Throwing an <a href="/shiren5/item/grass#antidote-grass">Antidote Grass</a> deals 50 damage.</td>
   </tr>
   <tr>
     <td>7</td>
@@ -502,7 +507,7 @@ Save Stomach Expanders for Mixers to increase the number of items they can eat i
 - F = Floor, Daytime monster drop
 - S = Shop, Shiny Object (yellow), Peddler
 - P = Presto Pot
-- E = Elite shop, Shiny Object (yellow, blue)
+- E = Elite shop, Shiny Object (blue)
 
 <br/>
 
@@ -1510,6 +1515,8 @@ Save Stomach Expanders for Mixers to increase the number of items they can eat i
 
 # Traps
 
+See [Traps](/system/traps) for details.
+
 <table class="dungeonItemTable">
   <tr>
     <th>Trap</th>
@@ -1557,7 +1564,7 @@ Save Stomach Expanders for Mixers to increase the number of items they can eat i
 
 # NPCs
 
-See <a href="/shiren5/system/npcs">Wandering NPCs</a> for details.
+See [NPCs](/system/npcs) for details.
 
 <table class="dungeonItemTable">
   <tr>
