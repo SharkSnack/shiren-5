@@ -184,7 +184,7 @@ Save Stomach Expanders for Mixers to increase the number of items they can eat i
     <td>18</td>
     <td>1</td>
     <td><span class="greenText">Anti-Burgle</span></td>
-    <td>Steals Gitan, and doesn't attack unless <a href="/shiren5/system/status-conditions#sealed">Sealed</a>.<br/>If it finds Gitan on the ground, it'll move toward it and sit on top of it.</td>
+    <td>Steals Gitan, and doesn't attack unless <a href="/shiren-5/system/status-conditions#sealed">Sealed</a>.<br/>If it finds Gitan on the ground, it'll move toward it and sit on top of it.</td>
   </tr>
   <tr>
     <td>1-3</td>
@@ -206,7 +206,7 @@ Save Stomach Expanders for Mixers to increase the number of items they can eat i
     <td>45</td>
     <td>9</td>
     <td><span class="greenText">Anti-Metal</span></td>
-    <td>Moves at double speed, but only attacks once.<br/>Always generated <a href="/shiren5/system/status-conditions#napping">Napping</a>, and wakes up when you enter the room.<br/>Creates traps (selected from that floor's trap table) inside rooms.<br/>Stops for 2 turns after creating a trap.<br/>Chance to create a trap when defeated.</td>
+    <td>Moves at double speed, but only attacks once.<br/>Always generated <a href="/shiren-5/system/status-conditions#napping">Napping</a>, and wakes up when you enter the room.<br/>Creates traps (selected from that floor's trap table) inside rooms.<br/>Stops for 2 turns after creating a trap.<br/>Chance to create a trap when defeated.</td>
   </tr>
   <tr>
     <td>2-4</td>
@@ -239,7 +239,7 @@ Save Stomach Expanders for Mixers to increase the number of items they can eat i
     <td>24</td>
     <td>7</td>
     <td><span class="blueText">Anti-Crs. Bracelet</span></td>
-    <td><a href="/shiren5/system/gameplay-basics#blessing-curse-seal">Curses or seals</a> 1 item. Thrown <a href="/shiren5/item/scrolls#exorcism-scroll">Exorcism Scroll</a> deals 100 damage.</td>
+    <td><a href="/shiren-5/system/gameplay-basics#blessing-curse-seal">Curses or seals</a> 1 item. Thrown <a href="/shiren-5/items/scrolls#exorcism-scroll">Exorcism Scroll</a> deals 100 damage.</td>
   </tr>
   <tr>
     <td>4-5</td>
@@ -261,7 +261,7 @@ Save Stomach Expanders for Mixers to increase the number of items they can eat i
     <td>18</td>
     <td>6</td>
     <td>-</td>
-    <td>Moves at double speed, but only attacks once.<br/>Always generated <a href="/shiren5/system/status-conditions#napping">Napping</a>, and wake up when you enter the room.<br/>If you get surrounded by 3 of them, they can warp you 1~3 floors.</td>
+    <td>Moves at double speed, but only attacks once.<br/>Always generated <a href="/shiren-5/system/status-conditions#napping">Napping</a>, and wake up when you enter the room.<br/>If you get surrounded by 3 of them, they can warp you 1~3 floors.</td>
   </tr>
   <tr>
     <td>4-7</td>
@@ -294,7 +294,7 @@ Save Stomach Expanders for Mixers to increase the number of items they can eat i
     <td>46</td>
     <td>10</td>
     <td><span class="blueText">Alert Bracelet</span></td>
-    <td>Can yawn, inflicting <a href="/shiren5/system/status-conditions#asleep">Asleep</a> status to characters in a 1-tile radius.<br/>Always generated <a href="/shiren5/system/status-conditions#napping">Napping</a>, and won't wake up when Shiren enters<br/>or exits the room or walks next to it.</td>
+    <td>Can yawn, inflicting <a href="/shiren-5/system/status-conditions#asleep">Asleep</a> status to characters in a 1-tile radius.<br/>Always generated <a href="/shiren-5/system/status-conditions#napping">Napping</a>, and won't wake up when Shiren enters<br/>or exits the room or walks next to it.</td>
   </tr>
   <tr>
     <td>6-7</td>
@@ -305,7 +305,7 @@ Save Stomach Expanders for Mixers to increase the number of items they can eat i
     <td>49</td>
     <td>8</td>
     <td><span class="greenText">Anti-Plant</span><br/><span class="blueText">Cleansing Bracelet</span></td>
-    <td>Throws <a href="/shiren5/item/grass#poison-grass">Poison Grass</a> at a target up to 2 tiles ahead.<br/>Throwing an <a href="/shiren5/item/grass#antidote-grass">Antidote Grass</a> deals 50 damage.<br/>It can never drop anything besides Poison Grass when defeated.</td>
+    <td>Throws <a href="/shiren-5/items/grass#poison-grass">Poison Grass</a> at a target up to 2 tiles ahead.<br/>Throwing an <a href="/shiren-5/items/grass#antidote-grass">Antidote Grass</a> deals 50 damage.<br/>It can never drop anything besides Poison Grass when defeated.</td>
   </tr>
   <tr>
     <td>7</td>
@@ -338,7 +338,7 @@ Save Stomach Expanders for Mixers to increase the number of items they can eat i
     <td>41</td>
     <td>12</td>
     <td><span class="greenText">Anti-Drain</span><br/><span class="blueText">Cleansing Bracelet</span></td>
-    <td>Lowers strength by 1 when you're adjacent. (Ally: Inflicts <a href="/shiren5/system/status-conditions#weakened">Weakened</a>)<br/>Throwing an <a href="/shiren5/item/grass#antidote-grass">Antidote Grass</a> deals 50 damage.</td>
+    <td>Lowers strength by 1 when you're adjacent. (Ally: Inflicts <a href="/shiren-5/system/status-conditions#weakened">Weakened</a>)<br/>Throwing an <a href="/shiren-5/items/grass#antidote-grass">Antidote Grass</a> deals 50 damage.</td>
   </tr>
   <tr>
     <td>7</td>

@@ -49,7 +49,7 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         items[8] = { items:[], label: 'food', title: 'Food', url: '/items/food'};
         items[9] = { items:[], label: 'talismans', title: 'Talismans', url: '/items/talismans'};
         items[10] = { items:[], label: 'projectiles', title: 'Projectiles', url: '/items/projectiles'};
-        items[11] = { items:[], label: 'other', title: 'Other', url: '/items/other'};
+        items[11] = { items:[], label: 'other-items', title: 'Other', url: '/items/other-items'};
         break;
       case 'adventure-footprints': // system
         items[0] = { items:[], label: 'gameplay-basics', title: 'Gameplay Basics', url: '/system/gameplay-basics'};

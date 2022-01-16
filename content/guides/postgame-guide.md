@@ -509,6 +509,8 @@ Some dungeons grant a clear icon for your save file when you clear them.<br/>It 
 - Underground Manor (General District)
 - Explosion Rocks
 - Statue Cave
+- Training Facility
+- Night Training Facility
 
 ## Book Completion
 

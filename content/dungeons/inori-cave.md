@@ -84,7 +84,7 @@ See Tips and Tricks for Catstone collection tips.
     <th>Shops</th>
     <td>Regular, Elite,<br/>Pick-A-Choice</td>
     <th>Monster Houses</th>
-    <td>Regular, Special, Sudden</td>
+    <td>Regular, Sudden</td>
   </tr>
   <tr>
     <th>Initial Enemies</th>
@@ -108,7 +108,7 @@ See Tips and Tricks for Catstone collection tips.
     <th>Clear Icon</th>
     <td class="clearIcon"><img src="../images/other/clear_inori.png"/></td>
     <th>Reward</th>
-    <td>None</td>
+    <td>Undo Grass (No catstones)<br/>Wish granted (Catstones)</td>
   </tr>
 </table>
 
@@ -349,1197 +349,1102 @@ See [Monsters](/system/monsters) for individual monster details.
 Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightGreen">Situational Farming</span> <span class="highlightPurple3">Destroys Items</span> <span class="highlightOrange2">Dangerous</span> <span class="highlightRed">Very Dangerous</span>
 
 <table class="dungeonMonsters">
-  <tr>
-    <th colspan="10">Day (Semi-Sorted)</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td class="highlightYellow">Mamel</td>
-    <td class="highlightYellow">Seedie</td>
-    <td class="highlightYellow">Sproutant</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td class="highlightYellow">Mamel</td>
-    <td class="highlightYellow">Seedie</td>
-    <td class="highlightYellow">Sproutant</td>
-    <td class="highlightYellow">Colum</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td class="highlightYellow">Blade Bee</td>
-    <td class="highlightGreen">Pit Mamel</td>
-    <td class="highlightYellow">Sproutant</td>
-    <td class="highlightYellow">Colum</td>
-    <td class="highlightYellow">Chintala</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td class="highlightYellow">Blade Bee</td>
-    <td class="highlightGreen">Pit Mamel</td>
-    <td class="highlightBlue">Grass Kid</td>
-    <td class="highlightYellow">Pin Kid</td>
-    <td class="highlightYellow">Chintala</td>
-    <td class="highlightYellow">Sweet Nut</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td></td>
-    <td class="highlightGreen">Pit Mamel</td>
-    <td class="highlightBlue">Grass Kid</td>
-    <td class="highlightYellow">Pin Kid</td>
-    <td class="highlightYellow">Chintala</td>
-    <td class="highlightYellow">Sweet Nut</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td class="highlightGreen">Froggo</td>
-    <td class="highlightYellow">Nigiri Baby</td>
-    <td class="highlightBlue">Grass Kid</td>
-    <td class="highlightYellow">Pin Kid</td>
-    <td class="highlightYellow">Karakuroid</td>
-    <td class="highlightYellow">Sweet Nut</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>7</td>
-    <td class="highlightGreen">Froggo</td>
-    <td class="highlightYellow">Nigiri Baby</td>
-    <td class="highlightYellow">Tiger Tosser</td>
-    <td></td>
-    <td class="highlightYellow">Karakuroid</td>
-    <td class="highlightYellow">Sweet Nut</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>8</td>
-    <td class="highlightPurple3">Curse Girl</td>
-    <td class="highlightYellow">Nigiri Baby</td>
-    <td class="highlightYellow">Tiger Tosser</td>
-    <td class="highlightYellow">Fearabbit</td>
-    <td class="highlightYellow">Karakuroid</td>
-    <td class="highlightYellow">Floaty</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>9</td>
-    <td class="highlightPurple3">Curse Girl</td>
-    <td class="highlightYellow">Pumphantasm</td>
-    <td class="highlightYellow">Tiger Tosser</td>
-    <td class="highlightYellow">Fearabbit</td>
-    <td class="highlightYellow">Gyaza</td>
-    <td class="highlightYellow">Floaty</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>10</td>
-    <td class="highlightYellow">N'dubba</td>
-    <td class="highlightYellow">Pumphantasm</td>
-    <td class="highlightYellow">Naptapir</td>
-    <td class="highlightYellow">Fearabbit</td>
-    <td class="highlightYellow">Gyaza</td>
-    <td class="highlightYellow">Floaty</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>11</td>
-    <td class="highlightYellow">N'dubba</td>
-    <td class="highlightYellow">Pumphantasm</td>
-    <td class="highlightYellow">Naptapir</td>
-    <td class="highlightYellow">Mutaikon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>12</td>
-    <td class="highlightYellow">Scorpion</td>
-    <td class="highlightYellow">Pumphantasm</td>
-    <td class="highlightYellow">Naptapir</td>
-    <td class="highlightYellow">Mutaikon</td>
-    <td class="highlightPurple3">Mudkin</td>
-    <td class="highlightYellow">Metalhead</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>13</td>
-    <td class="highlightPurple3">Curse Girl</td>
-    <td class="highlightYellow">Pumphantasm</td>
-    <td class="highlightYellow">Scorpion</td>
-    <td class="highlightYellow">Mutaikon</td>
-    <td class="highlightYellow">Gyaza</td>
-    <td class="highlightBlue">Mixer</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>14</td>
-    <td class="highlightPurple3">Curse Girl</td>
-    <td class="highlightYellow">Scorpion</td>
-    <td></td>
-    <td class="highlightYellow">Mutaikon</td>
-    <td class="highlightYellow">Gyaza</td>
-    <td class="highlightBlue">Mixer</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>15</td>
-    <td class="highlightPurple3">Curse Girl</td>
-    <td class="highlightYellow">Scorpion</td>
-    <td class="highlightYellow">Naptapir</td>
-    <td></td>
-    <td class="highlightYellow">Gyaza</td>
-    <td class="highlightBlue">Mixer</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>16</td>
-    <td class="highlightPurple3">Curse Girl</td>
-    <td class="highlightPurple3">Swordsman</td>
-    <td class="highlightYellow">Naptapir</td>
-    <td class="highlightYellow">Cololum</td>
-    <td class="highlightPurple3">Mudkin</td>
-    <td class="highlightYellow">Metalhead</td>
-    <td class="highlightYellow">Polygon Spinna</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>17</td>
-    <td class="highlightPurple3">Curse Girl</td>
-    <td class="highlightPurple3">Swordsman</td>
-    <td class="highlightYellow">Mid Chintala</td>
-    <td class="highlightYellow">Cololum</td>
-    <td class="highlightPurple3">Mudkin</td>
-    <td class="highlightYellow">Metalhead</td>
-    <td class="highlightYellow">Polygon Spinna</td>
-    <td class="highlightYellow">Cheer-Ham</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>18</td>
-    <td></td>
-    <td class="highlightPurple3">Swordsman</td>
-    <td class="highlightYellow">Mid Chintala</td>
-    <td class="highlightYellow">Cololum</td>
-    <td class="highlightPurple3">Mudkin</td>
-    <td class="highlightYellow">Metalhead</td>
-    <td></td>
-    <td class="highlightYellow">Cheer-Ham</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>19</td>
-    <td class="highlightYellow">Bored Kappa</td>
-    <td class="highlightYellow">Kid Squid</td>
-    <td class="highlightYellow">Mid Chintala</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td class="highlightYellow">Cheer-Ham</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>20</td>
-    <td class="highlightYellow">Cololum</td>
-    <td class="highlightYellow">Bored Kappa</td>
-    <td class="highlightYellow">Mid Chintala</td>
-    <td class="highlightYellow">Fearabbit</td>
-    <td class="highlightYellow">Kid Squid</td>
-    <td class="highlightYellow">Floaty</td>
-    <td class="highlightYellow">Polygon Spinna</td>
-    <td class="highlightYellow">Cheer-Ham</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>21</td>
-    <td class="highlightYellow">Bored Kappa</td>
-    <td class="highlightYellow">Kid Squid</td>
-    <td class="highlightYellow">Mid Chintala</td>
-    <td class="highlightYellow">Cololum</td>
-    <td class="highlightYellow">Acrid Nut</td>
-    <td class="highlightYellow">Floaty</td>
-    <td class="highlightYellow">Polygon Spinna</td>
-    <td class="highlightYellow">Cheer-Ham</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>22</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td class="highlightYellow">Cololum</td>
-    <td class="highlightYellow">Acrid Nut</td>
-    <td></td>
-    <td class="highlightYellow">Polygon Spinna</td>
-    <td class="highlightYellow">Cheer-Ham</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>23</td>
-    <td class="highlightOrange2">Foly</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td class="highlightYellow">Acrid Nut</td>
-    <td class="highlightBlue">Mixer</td>
-    <td class="highlightYellow">Polygon Spinna</td>
-    <td class="highlightYellow">Cheer-Ham</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>24</td>
-    <td class="highlightOrange2">Foly</td>
-    <td class="highlightYellow">Dagger Bee</td>
-    <td class="highlightYellow">Hopodile</td>
-    <td class="highlightYellow">Flamebird</td>
-    <td class="highlightYellow">Acrid Nut</td>
-    <td class="highlightBlue">Mixer</td>
-    <td class="highlightYellow">Polygon Spinna</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>25</td>
-    <td class="highlightOrange2">Foly</td>
-    <td class="highlightYellow">Dagger Bee</td>
-    <td class="highlightYellow">Hopodile</td>
-    <td class="highlightYellow">Flamebird</td>
-    <td class="highlightYellow">Acrid Nut</td>
-    <td class="highlightBlue">Zalokleft</td>
-    <td class="highlightYellow">Yanpii</td>
-    <td class="highlightPurple3">Scoopie</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>26</td>
-    <td></td>
-    <td class="highlightYellow">Dagger Bee</td>
-    <td class="highlightYellow">Hopodile</td>
-    <td class="highlightYellow">Flamebird</td>
-    <td class="highlightYellow">Acrid Nut</td>
-    <td class="highlightBlue">Zalokleft</td>
-    <td class="highlightYellow">Yanpii</td>
-    <td class="highlightPurple3">Scoopie</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>27</td>
-    <td class="highlightYellow">Beanie</td>
-    <td class="highlightYellow">Eligan</td>
-    <td></td>
-    <td class="highlightYellow">Flamebird</td>
-    <td></td>
-    <td></td>
-    <td class="highlightYellow">Yanpii</td>
-    <td class="highlightPurple3">Scoopie</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>28</td>
-    <td class="highlightYellow">Beanie</td>
-    <td class="highlightYellow">Eligan</td>
-    <td class="highlightPurple3">Gyadon</td>
-    <td class="highlightBlue">Grass Dude</td>
-    <td class="highlightYellow">Pin Dude</td>
-    <td></td>
-    <td class="highlightYellow">Yanpii</td>
-    <td class="highlightPurple3">Scoopie</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>29</td>
-    <td class="highlightYellow">Sproutyrant</td>
-    <td class="highlightYellow">Eligan</td>
-    <td class="highlightPurple3">Gyadon</td>
-    <td class="highlightBlue">Grass Dude</td>
-    <td class="highlightYellow">Pin Dude</td>
-    <td></td>
-    <td class="highlightYellow">Yanpii</td>
-    <td class="highlightPurple3">Scoopie</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>30</td>
-    <td class="highlightYellow">Sproutyrant</td>
-    <td class="highlightYellow">Steamroid</td>
-    <td class="highlightPurple3">Nigiri Morph</td>
-    <td class="highlightBlue">Grass Dude</td>
-    <td class="highlightYellow">Pin Dude</td>
-    <td class="highlightGreen">Froggucci</td>
-    <td class="highlightGreen">Boy Cart</td>
-    <td class="highlightYellow">DJ Mage</td>
-    <td class="highlightYellow">Poofy</td>
-  </tr>
-  <tr>
-    <td>31</td>
-    <td class="highlightYellow">Sproutyrant</td>
-    <td class="highlightYellow">Steamroid</td>
-    <td class="highlightPurple3">Nigiri Morph</td>
-    <td class="highlightYellow">Snooztapir</td>
-    <td class="highlightOrange2">Absorbiphant</td>
-    <td class="highlightGreen">Froggucci</td>
-    <td class="highlightGreen">Boy Cart</td>
-    <td class="highlightYellow">DJ Mage</td>
-    <td class="highlightYellow">Poofy</td>
-  </tr>
-  <tr>
-    <td>32</td>
-    <td class="highlightYellow">Ironhead</td>
-    <td></td>
-    <td class="highlightPurple3">Nigiri Morph</td>
-    <td class="highlightYellow">Snooztapir</td>
-    <td class="highlightOrange2">Absorbiphant</td>
-    <td class="highlightGreen">Froggucci</td>
-    <td class="highlightGreen">Boy Cart</td>
-    <td class="highlightYellow">DJ Mage</td>
-    <td class="highlightYellow">Poofy</td>
-  </tr>
-  <tr>
-    <td>33</td>
-    <td class="highlightYellow">Ironhead</td>
-    <td class="highlightPurple3">Cursister</td>
-    <td class="highlightOrange2">Hipadile</td>
-    <td class="highlightYellow">Punisher</td>
-    <td class="highlightOrange2">Absorbiphant</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>34</td>
-    <td class="highlightPurple3">Muddy</td>
-    <td class="highlightPurple3">Cursister</td>
-    <td class="highlightOrange2">Hipadile</td>
-    <td class="highlightYellow">Punisher</td>
-    <td class="highlightYellow">Crow Tengu</td>
-    <td class="highlightYellow">Firepuff</td>
-    <td class="highlightYellow">Sr. Yanpii</td>
-    <td class="highlightYellow">Spicy Nut</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>35</td>
-    <td class="highlightPurple3">Muddy</td>
-    <td></td>
-    <td class="highlightOrange2">Hipadile</td>
-    <td class="highlightYellow">Punisher</td>
-    <td class="highlightYellow">Crow Tengu</td>
-    <td class="highlightYellow">Firepuff</td>
-    <td class="highlightYellow">Sr. Yanpii</td>
-    <td class="highlightYellow">Spicy Nut</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>36</td>
-    <td class="highlightPurple3">Muddy</td>
-    <td class="highlightGreen">Cross Cart</td>
-    <td></td>
-    <td></td>
-    <td class="highlightYellow">Crow Tengu</td>
-    <td class="highlightYellow">Firepuff</td>
-    <td class="highlightYellow">Sr. Yanpii</td>
-    <td class="highlightYellow">Spicy Nut</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>37</td>
-    <td class="highlightYellow">Go-Ham!</td>
-    <td class="highlightGreen">Cross Cart</td>
-    <td class="highlightOrange2">Digestiphant</td>
-    <td class="highlightOrange2">Scarabbit</td>
-    <td class="highlightYellow">Zapdon</td>
-    <td class="highlightOrange2">Kappa Pest</td>
-    <td class="highlightOrange2">MC Mage</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>38</td>
-    <td class="highlightYellow">Go-Ham!</td>
-    <td class="highlightOrange2">N'twyn</td>
-    <td class="highlightOrange2">Digestiphant</td>
-    <td class="highlightOrange2">Scarabbit</td>
-    <td class="highlightYellow">Zapdon</td>
-    <td class="highlightOrange2">Kappa Pest</td>
-    <td class="highlightOrange2">MC Mage</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>39</td>
-    <td class="highlightYellow">Katana Bee</td>
-    <td class="highlightOrange2">N'twyn</td>
-    <td class="highlightYellow">Dragon</td>
-    <td class="highlightYellow">Death Gyaza</td>
-    <td class="highlightYellow">Shagga</td>
-    <td class="highlightOrange2">Kappa Pest</td>
-    <td class="highlightOrange2">MC Mage</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>40</td>
-    <td class="highlightYellow">Katana Bee</td>
-    <td class="highlightPurple3">Trowelie</td>
-    <td class="highlightYellow">Dragon</td>
-    <td class="highlightYellow">Death Gyaza</td>
-    <td class="highlightYellow">Shagga</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td class="highlightYellow">Poofy</td>
-  </tr>
-  <tr>
-    <td>41</td>
-    <td class="highlightBlue">Mixermon</td>
-    <td class="highlightPurple3">Trowelie</td>
-    <td></td>
-    <td class="highlightYellow">Death Gyaza</td>
-    <td class="highlightYellow">Shagga</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>42</td>
-    <td class="highlightBlue">Mixermon</td>
-    <td class="highlightPurple3">Trowelie</td>
-    <td class="highlightYellow">Pumphantom</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td class="highlightYellow">Poofy</td>
-  </tr>
-  <tr>
-    <td>43</td>
-    <td class="highlightYellow">Cave Mamel</td>
-    <td class="highlightYellow">Falcon Tengu</td>
-    <td class="highlightYellow">Pumphantom</td>
-    <td class="highlightYellow">Polygon Shaka</td>
-    <td class="highlightYellow">Flamepuff</td>
-    <td class="highlightYellow">Dazikon</td>
-    <td class="highlightYellow">VeniScorp</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>44</td>
-    <td class="highlightYellow">Cave Mamel</td>
-    <td class="highlightYellow">Falcon Tengu</td>
-    <td class="highlightYellow">Tiger Hurler</td>
-    <td class="highlightYellow">Polygon Shaka</td>
-    <td class="highlightYellow">Flamepuff</td>
-    <td class="highlightYellow">Dazikon</td>
-    <td class="highlightYellow">VeniScorp</td>
-    <td class="highlightBlue">Grass Poppa</td>
-    <td class="highlightYellow">Pin Poppa</td>
-  </tr>
-  <tr>
-    <td>45</td>
-    <td class="highlightRed">MC Wizard</td>
-    <td></td>
-    <td class="highlightYellow">Tiger Hurler</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td class="highlightYellow">VeniScorp</td>
-    <td class="highlightBlue">Grass Poppa</td>
-    <td class="highlightYellow">Pin Poppa</td>
-  </tr>
-  <tr>
-    <td>46</td>
-    <td class="highlightRed">MC Wizard</td>
-    <td class="highlightPurple3">Gyairas</td>
-    <td class="highlightYellow">Tiger Hurler</td>
-    <td class="highlightYellow">Eligagan</td>
-    <td class="highlightYellow">Huistdon</td>
-    <td></td>
-    <td></td>
-    <td class="highlightBlue">Grass Poppa</td>
-    <td class="highlightYellow">Pin Poppa</td>
-  </tr>
-  <tr>
-    <td>47</td>
-    <td class="highlightYellow">Sparkbird</td>
-    <td class="highlightPurple3">Gyairas</td>
-    <td></td>
-    <td class="highlightYellow">Eligagan</td>
-    <td class="highlightYellow">Huistdon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>48</td>
-    <td class="highlightYellow">Sparkbird</td>
-    <td class="highlightOrange2">Nashagga</td>
-    <td></td>
-    <td class="highlightYellow">Eligagan</td>
-    <td class="highlightYellow">Huistdon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>49</td>
-    <td class="highlightOrange2">Sky Dragon</td>
-    <td class="highlightOrange2">Nashagga</td>
-    <td class="highlightYellow">Steelhead</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>50</td>
-    <td class="highlightOrange2">Sky Dragon</td>
-    <td class="highlightOrange2">Nashagga</td>
-    <td class="highlightYellow">Steelhead</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>51</td>
-    <td class="highlightYellow">Doztapir</td>
-    <td class="highlightYellow">Sprouterror</td>
-    <td class="highlightYellow">Steelhead</td>
-    <td class="highlightRed">MC Sorceror</td>
-    <td class="highlightYellow">Debaser</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>52</td>
-    <td class="highlightYellow">Doztapir</td>
-    <td class="highlightYellow">Sprouterror</td>
-    <td class="highlightYellow">Steelhead</td>
-    <td class="highlightRed">MC Sorceror</td>
-    <td class="highlightYellow">Debaser</td>
-    <td class="highlightOrange2">Vexing Kappa</td>
-    <td class="highlightOrange2">Jouncy</td>
-    <td class="highlightPurple3">Mudster</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>53</td>
-    <td class="highlightOrange2">Trillman</td>
-    <td class="highlightYellow">Sprouterror</td>
-    <td class="highlightYellow">Steelhead</td>
-    <td class="highlightRed">MC Sorceror</td>
-    <td class="highlightYellow">Debaser</td>
-    <td class="highlightOrange2">Vexing Kappa</td>
-    <td class="highlightOrange2">Jouncy</td>
-    <td class="highlightPurple3">Mudster</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>54</td>
-    <td class="highlightYellow">StunScorp</td>
-    <td class="highlightYellow">Pyrepuff</td>
-    <td class="highlightOrange2">Pierce Cart</td>
-    <td class="highlightRed">MC Sorceror</td>
-    <td class="highlightYellow">Debaser</td>
-    <td></td>
-    <td class="highlightOrange2">Jouncy</td>
-    <td class="highlightPurple3">Mudster</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>55</td>
-    <td class="highlightYellow">StunScorp</td>
-    <td class="highlightYellow">Pyrepuff</td>
-    <td class="highlightOrange2">Pierce Cart</td>
-    <td class="highlightYellow">Tiger Chucker</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td class="highlightPurple3">Mudster</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>56</td>
-    <td class="highlightPurple3">Curspinster</td>
-    <td class="highlightYellow">Pumpanshee</td>
-    <td class="highlightOrange2">Pierce Cart</td>
-    <td class="highlightYellow">Tiger Chucker</td>
-    <td class="highlightRed">Horrabbit</td>
-    <td class="highlightYellow">Momomomoseal</td>
-    <td></td>
-    <td class="highlightPurple3">Mudster</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>57</td>
-    <td class="highlightPurple3">Curspinster</td>
-    <td class="highlightYellow">Pumpanshee</td>
-    <td class="highlightGreen">Froggon</td>
-    <td class="highlightYellow">Tiger Chucker</td>
-    <td class="highlightRed">Horrabbit</td>
-    <td class="highlightYellow">Momomomoseal</td>
-    <td class="highlightOrange2">Spongiderm</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>58</td>
-    <td class="highlightPurple3">Curspinster</td>
-    <td class="highlightYellow">Pumpanshee</td>
-    <td class="highlightGreen">Froggon</td>
-    <td class="highlightBlue">Iron Zalokleft</td>
-    <td class="highlightRed">Horrabbit</td>
-    <td class="highlightYellow">Momomomoseal</td>
-    <td class="highlightOrange2">Spongiderm</td>
-    <td class="highlightOrange2">Lashagga</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>59</td>
-    <td class="highlightPurple3">Item Knave</td>
-    <td class="highlightPurple3">Gyandora</td>
-    <td class="highlightGreen">Froggon</td>
-    <td class="highlightBlue">Iron Zalokleft</td>
-    <td class="highlightYellow">Lt. Yanpii</td>
-    <td></td>
-    <td class="highlightOrange2">Spongiderm</td>
-    <td class="highlightOrange2">Lashagga</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>60</td>
-    <td class="highlightPurple3">Item Knave</td>
-    <td class="highlightPurple3">Gyandora</td>
-    <td class="highlightYellow">Zanbeeto</td>
-    <td class="highlightBlue">Iron Zalokleft</td>
-    <td class="highlightYellow">Lt. Yanpii</td>
-    <td class="highlightYellow">Polygon Singa</td>
-    <td></td>
-    <td class="highlightOrange2">Lashagga</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>61</td>
-    <td class="highlightBlue">Grass Gramps</td>
-    <td class="highlightYellow">Pin Gramps</td>
-    <td class="highlightYellow">Zanbeeto</td>
-    <td class="highlightOrange2">Flarebird</td>
-    <td class="highlightYellow">Lt. Yanpii</td>
-    <td class="highlightYellow">Polygon Singa</td>
-    <td class="highlightYellow">Bunchukdon</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>62</td>
-    <td class="highlightBlue">Grass Gramps</td>
-    <td class="highlightYellow">Pin Gramps</td>
-    <td class="highlightPurple3">Sensei</td>
-    <td class="highlightOrange2">Flarebird</td>
-    <td></td>
-    <td class="highlightYellow">Polygon Singa</td>
-    <td class="highlightYellow">Bunchukdon</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>63</td>
-    <td class="highlightYellow">Spirit Ham</td>
-    <td class="highlightOrange2">Bouncy</td>
-    <td class="highlightPurple3">Sensei</td>
-    <td class="highlightOrange2">Flarebird</td>
-    <td class="highlightPurple3">Hyper Gazer</td>
-    <td class="highlightYellow">Polygon Singa</td>
-    <td class="highlightYellow">Bunchukdon</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>64</td>
-    <td class="highlightYellow">Spirit Ham</td>
-    <td class="highlightOrange2">Bouncy</td>
-    <td class="highlightPurple3">Sensei</td>
-    <td class="highlightYellow">Onigirizzly</td>
-    <td class="highlightPurple3">Hyper Gazer</td>
-    <td class="highlightYellow">Bitter Nut</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>65</td>
-    <td class="highlightYellow">Spirit Ham</td>
-    <td class="highlightOrange2">Bouncy</td>
-    <td class="highlightYellow">Fulminachin</td>
-    <td class="highlightYellow">Onigirizzly</td>
-    <td class="highlightPurple3">Hyper Gazer</td>
-    <td class="highlightYellow">Bitter Nut</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>66</td>
-    <td class="highlightYellow">Phoenix Tengu</td>
-    <td class="highlightOrange2">Bouncy</td>
-    <td class="highlightYellow">Fulminachin</td>
-    <td></td>
-    <td class="highlightPurple3">Hyper Gazer</td>
-    <td class="highlightYellow">Bitter Nut</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>67</td>
-    <td class="highlightYellow">Phoenix Tengu</td>
-    <td class="highlightRed">Dozikon</td>
-    <td></td>
-    <td></td>
-    <td class="highlightPurple3">Hyper Gazer</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>68</td>
-    <td class="highlightYellow">Phoenix Tengu</td>
-    <td class="highlightRed">Dozikon</td>
-    <td class="highlightYellow">Comatapir</td>
-    <td class="highlightYellow">Grainie</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>69</td>
-    <td class="highlightPurple3">Mudder</td>
-    <td></td>
-    <td class="highlightYellow">Comatapir</td>
-    <td class="highlightYellow">Grainie</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>70</td>
-    <td class="highlightPurple3">Mudder</td>
-    <td class="highlightBlue">Mixerdon</td>
-    <td class="highlightYellow">Huge Chintala</td>
-    <td class="highlightYellow">Grainie</td>
-    <td class="highlightYellow">Hell Gyaza</td>
-    <td class="highlightOrange2">N'dup</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>71</td>
-    <td class="highlightPurple3">Mudder</td>
-    <td class="highlightBlue">Mixerdon</td>
-    <td class="highlightYellow">Huge Chintala</td>
-    <td class="highlightYellow">Eligagon</td>
-    <td class="highlightYellow">Hell Gyaza</td>
-    <td class="highlightOrange2">N'dup</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>72</td>
-    <td class="highlightPurple3">Mudder</td>
-    <td class="highlightYellow">Cyberoid</td>
-    <td class="highlightYellow">Huge Chintala</td>
-    <td class="highlightYellow">Eligagon</td>
-    <td class="highlightYellow">Hell Gyaza</td>
-    <td class="highlightOrange2">N'dup</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>73</td>
-    <td class="highlightYellow">Detonachin</td>
-    <td class="highlightYellow">Cyberoid</td>
-    <td class="highlightPurple3">Cursenior</td>
-    <td class="highlightYellow">Eligagon</td>
-    <td class="highlightPurple3">Shovelie</td>
-    <td class="highlightOrange2">N'dup</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>74</td>
-    <td class="highlightYellow">Detonachin</td>
-    <td class="highlightYellow">Cyberoid</td>
-    <td class="highlightPurple3">Cursenior</td>
-    <td class="highlightYellow">Eligagon</td>
-    <td class="highlightPurple3">Shovelie</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>75</td>
-    <td class="highlightPurple3">Knave King</td>
-    <td class="highlightBlue">Mealy</td>
-    <td class="highlightPurple3">Cursenior</td>
-    <td class="highlightYellow">Eligagon</td>
-    <td class="highlightPurple3">Shovelie</td>
-    <td class="highlightYellow">Ruiner</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>76</td>
-    <td class="highlightPurple3">Knave King</td>
-    <td class="highlightBlue">Mealy</td>
-    <td class="highlightPurple3">Cursenior</td>
-    <td class="highlightRed">Terrabbit</td>
-    <td class="highlightPurple3">Shovelie</td>
-    <td class="highlightYellow">Ruiner</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>77</td>
-    <td class="highlightYellow">Pumptergeist</td>
-    <td class="highlightOrange2">Boingodile</td>
-    <td class="highlightYellow">Kodionigiri</td>
-    <td class="highlightRed">Terrabbit</td>
-    <td></td>
-    <td class="highlightYellow">Ruiner</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>78</td>
-    <td class="highlightYellow">Pumptergeist</td>
-    <td class="highlightOrange2">Boingodile</td>
-    <td class="highlightYellow">Kodionigiri</td>
-    <td class="highlightRed">Terrabbit</td>
-    <td class="highlightYellow">Squidperor</td>
-    <td class="highlightYellow">Ruiner</td>
-    <td class="highlightYellow">Colocolocolum</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>79</td>
-    <td class="highlightYellow">Pumptergeist</td>
-    <td class="highlightOrange2">Boingodile</td>
-    <td class="highlightYellow">Kodionigiri</td>
-    <td class="highlightRed">Terrabbit</td>
-    <td class="highlightYellow">Squidperor</td>
-    <td class="highlightYellow">Ruiner</td>
-    <td class="highlightYellow">Colocolocolum</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>80</td>
-    <td class="highlightOrange2">Gitan Mamel</td>
-    <td class="highlightGreen">Kleptoad</td>
-    <td class="highlightYellow">Kodionigiri</td>
-    <td class="highlightOrange2">Kappa Troll</td>
-    <td class="highlightOrange2">Osmammoth</td>
-    <td class="highlightRed">Archdragon</td>
-    <td class="highlightYellow">Colocolocolum</td>
-    <td class="highlightBlue">FO-Uβ</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>81</td>
-    <td class="highlightOrange2">Gitan Mamel</td>
-    <td class="highlightGreen">Kleptoad</td>
-    <td></td>
-    <td class="highlightOrange2">Kappa Troll</td>
-    <td class="highlightOrange2">Osmammoth</td>
-    <td class="highlightRed">Archdragon</td>
-    <td></td>
-    <td class="highlightBlue">FO-Uβ</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>82</td>
-    <td class="highlightOrange2">Gitan Mamel</td>
-    <td class="highlightGreen">Kleptoad</td>
-    <td></td>
-    <td class="highlightOrange2">Kappa Troll</td>
-    <td class="highlightOrange2">Osmammoth</td>
-    <td class="highlightRed">Archdragon</td>
-    <td></td>
-    <td class="highlightBlue">FO-Uβ</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>83</td>
-    <td class="highlightPurple3">Gyandoron</td>
-    <td></td>
-    <td></td>
-    <td class="highlightOrange2">Kappa Troll</td>
-    <td class="highlightOrange2">Osmammoth</td>
-    <td class="highlightRed">Archdragon</td>
-    <td></td>
-    <td class="highlightBlue">FO-Uβ</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>84</td>
-    <td class="highlightPurple3">Gyandoron</td>
-    <td class="highlightYellow">Polygon Stunna</td>
-    <td class="highlightOrange2">Blazebird</td>
-    <td class="highlightYellow">Tiger Ace</td>
-    <td></td>
-    <td class="highlightRed">Archdragon</td>
-    <td></td>
-    <td class="highlightBlue">FO-Uβ</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>85</td>
-    <td class="highlightPurple3">Gyandoron</td>
-    <td class="highlightYellow">Polygon Stunna</td>
-    <td class="highlightOrange2">Blazebird</td>
-    <td class="highlightYellow">Tiger Ace</td>
-    <td class="highlightRed">Porgon</td>
-    <td class="highlightRed">Archdragon</td>
-    <td class="highlightYellow">Zotdon</td>
-    <td class="highlightBlue">FO-Uβ</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>86</td>
-    <td class="highlightPurple3">Gyandoron</td>
-    <td class="highlightOrange2">Nigiri King</td>
-    <td class="highlightYellow">Boss Yanpii</td>
-    <td class="highlightYellow">Tiger Ace</td>
-    <td class="highlightRed">Porgon</td>
-    <td class="highlightBlue">FO-U</td>
-    <td class="highlightYellow">Zotdon</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>87</td>
-    <td class="highlightPurple3">Gyandoron</td>
-    <td class="highlightOrange2">Nigiri King</td>
-    <td class="highlightYellow">Boss Yanpii</td>
-    <td></td>
-    <td class="highlightRed">Porgon</td>
-    <td class="highlightBlue">FO-U</td>
-    <td class="highlightYellow">Zotdon</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>88</td>
-    <td class="highlightPurple3">Gyandoron</td>
-    <td class="highlightOrange2">Nigiri King</td>
-    <td class="highlightYellow">Boss Yanpii</td>
-    <td></td>
-    <td class="highlightRed">Porgon</td>
-    <td class="highlightBlue">FO-U</td>
-    <td class="highlightYellow">Zotdon</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>89</td>
-    <td class="highlightRed">Ultra Gazer</td>
-    <td class="highlightYellow">Elizgagon</td>
-    <td class="highlightYellow">Boss Yanpii</td>
-    <td></td>
-    <td></td>
-    <td class="highlightBlue">FO-U</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>90</td>
-    <td class="highlightRed">Ultra Gazer</td>
-    <td class="highlightYellow">Elizgagon</td>
-    <td class="highlightPurple3">Swordmaster</td>
-    <td class="highlightOrange2">Bashagga</td>
-    <td></td>
-    <td class="highlightBlue">FO-U</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>91</td>
-    <td class="highlightRed">Ultra Gazer</td>
-    <td class="highlightYellow">Elizgagon</td>
-    <td class="highlightPurple3">Swordmaster</td>
-    <td class="highlightOrange2">Bashagga</td>
-    <td class="highlightBlue">FO-UZ</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>92</td>
-    <td class="highlightRed">Ultra Gazer</td>
-    <td class="highlightYellow">Elizgagon</td>
-    <td class="highlightPurple3">Swordmaster</td>
-    <td class="highlightOrange2">Bashagga</td>
-    <td class="highlightBlue">FO-UZ</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>93</td>
-    <td class="highlightRed">Ultra Gazer</td>
-    <td class="highlightYellow">Elizgagon</td>
-    <td class="highlightRed">Cranky Tank</td>
-    <td class="highlightOrange2">Bashagga</td>
-    <td class="highlightBlue">FO-UZ</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>94</td>
-    <td class="highlightRed">Ultra Gazer</td>
-    <td class="highlightYellow">Elizgagon</td>
-    <td class="highlightRed">Cranky Tank</td>
-    <td class="highlightOrange2">Bashagga</td>
-    <td class="highlightBlue">FO-UZ</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>95</td>
-    <td class="highlightRed">Ultra Gazer</td>
-    <td class="highlightYellow">Elizgagon</td>
-    <td class="highlightRed">Cranky Tank</td>
-    <td class="highlightOrange2">Bashagga</td>
-    <td class="highlightBlue">FO-UZ</td>
-    <td class="highlightYellow">BlightScorp</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>96</td>
-    <td class="highlightRed">Ultra Gazer</td>
-    <td class="highlightYellow">Elizgagon</td>
-    <td class="highlightRed">Cranky Tank</td>
-    <td class="highlightOrange2">Bashagga</td>
-    <td class="highlightYellow">Doom Gyaza</td>
-    <td class="highlightYellow">BlightScorp</td>
-    <td class="highlightBlue">FO-UZZ</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>97</td>
-    <td class="highlightRed">Ultra Gazer</td>
-    <td class="highlightYellow">Elizgagon</td>
-    <td class="highlightRed">Cranky Tank</td>
-    <td class="highlightOrange2">Bashagga</td>
-    <td class="highlightYellow">Doom Gyaza</td>
-    <td class="highlightYellow">BlightScorp</td>
-    <td class="highlightBlue">FO-UZZ</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>98</td>
-    <td class="highlightRed">Ultra Gazer</td>
-    <td class="highlightYellow">Elizgagon</td>
-    <td class="highlightRed">Cranky Tank</td>
-    <td class="highlightOrange2">Bashagga</td>
-    <td class="highlightYellow">Doom Gyaza</td>
-    <td class="highlightYellow">BlightScorp</td>
-    <td class="highlightBlue">FO-UZZ</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>99</td>
-    <td class="highlightRed">Ultra Gazer</td>
-    <td class="highlightYellow">Elizgagon</td>
-    <td></td>
-    <td class="highlightOrange2">Bashagga</td>
-    <td class="highlightYellow">Doom Gyaza</td>
-    <td class="highlightYellow">BlightScorp</td>
-    <td class="highlightBlue">FO-UZZ</td>
-    <td></td>
-    <td></td>
-  </tr>
+  <thead>
+    <tr>
+      <th colspan="9">Day</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td class="highlightYellow">Mamel</td>
+      <td class="highlightYellow">Seedie</td>
+      <td class="highlightYellow">Sproutant</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td class="highlightYellow">Mamel</td>
+      <td class="highlightYellow">Seedie</td>
+      <td class="highlightYellow">Sproutant</td>
+      <td class="highlightYellow">Colum</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td class="highlightGreen">Pit Mamel</td>
+      <td class="highlightYellow">Blade Bee</td>
+      <td class="highlightYellow">Sproutant</td>
+      <td class="highlightYellow">Colum</td>
+      <td class="highlightYellow">Chintala</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td class="highlightGreen">Pit Mamel</td>
+      <td class="highlightYellow">Blade Bee</td>
+      <td class="highlightBlue">Grass Kid</td>
+      <td class="highlightYellow">Sweet Nut</td>
+      <td class="highlightYellow">Chintala</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td class="highlightGreen">Pit Mamel</td>
+      <td></td>
+      <td class="highlightBlue">Grass Kid</td>
+      <td class="highlightYellow">Sweet Nut</td>
+      <td class="highlightYellow">Chintala</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td class="highlightGreen">Froggo</td>
+      <td class="highlightYellow">Nigiri Baby</td>
+      <td class="highlightBlue">Grass Kid</td>
+      <td class="highlightYellow">Sweet Nut</td>
+      <td class="highlightYellow">Karakuroid</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td class="highlightGreen">Froggo</td>
+      <td class="highlightYellow">Nigiri Baby</td>
+      <td class="highlightYellow">Tiger Tosser</td>
+      <td class="highlightYellow">Sweet Nut</td>
+      <td class="highlightYellow">Karakuroid</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td class="highlightPurple3">Curse Girl</td>
+      <td class="highlightYellow">Nigiri Baby</td>
+      <td class="highlightYellow">Tiger Tosser</td>
+      <td class="highlightYellow">Fearabbit</td>
+      <td class="highlightYellow">Karakuroid</td>
+      <td class="highlightYellow">Floaty</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td class="highlightPurple3">Curse Girl</td>
+      <td class="highlightYellow">Pumphantasm</td>
+      <td class="highlightYellow">Tiger Tosser</td>
+      <td class="highlightYellow">Fearabbit</td>
+      <td class="highlightYellow">Gyaza</td>
+      <td class="highlightYellow">Floaty</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td class="highlightYellow">Naptapir</td>
+      <td class="highlightYellow">Pumphantasm</td>
+      <td class="highlightYellow">N'dubba</td>
+      <td class="highlightYellow">Fearabbit</td>
+      <td class="highlightYellow">Gyaza</td>
+      <td class="highlightYellow">Floaty</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td class="highlightYellow">Naptapir</td>
+      <td class="highlightYellow">Pumphantasm</td>
+      <td class="highlightYellow">N'dubba</td>
+      <td class="highlightYellow">Mutaikon</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td class="highlightYellow">Naptapir</td>
+      <td class="highlightYellow">Pumphantasm</td>
+      <td class="highlightYellow">Scorpion</td>
+      <td class="highlightYellow">Mutaikon</td>
+      <td class="highlightPurple3">Mudkin</td>
+      <td class="highlightYellow">Metalhead</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td class="highlightPurple3">Curse Girl</td>
+      <td class="highlightYellow">Pumphantasm</td>
+      <td class="highlightYellow">Scorpion</td>
+      <td class="highlightYellow">Mutaikon</td>
+      <td class="highlightYellow">Gyaza</td>
+      <td class="highlightBlue">Mixer</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td class="highlightPurple3">Curse Girl</td>
+      <td></td>
+      <td class="highlightYellow">Scorpion</td>
+      <td class="highlightYellow">Mutaikon</td>
+      <td class="highlightYellow">Gyaza</td>
+      <td class="highlightBlue">Mixer</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td class="highlightPurple3">Curse Girl</td>
+      <td></td>
+      <td class="highlightYellow">Scorpion</td>
+      <td class="highlightYellow">Naptapir</td>
+      <td class="highlightYellow">Gyaza</td>
+      <td class="highlightBlue">Mixer</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td class="highlightPurple3">Curse Girl</td>
+      <td class="highlightPurple3">Swordsman</td>
+      <td class="highlightPurple3">Mudkin</td>
+      <td class="highlightYellow">Naptapir</td>
+      <td class="highlightYellow">Cololum</td>
+      <td class="highlightYellow">Metalhead</td>
+      <td class="highlightYellow">Polygon Spinna</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td class="highlightPurple3">Curse Girl</td>
+      <td class="highlightPurple3">Swordsman</td>
+      <td class="highlightPurple3">Mudkin</td>
+      <td class="highlightYellow">Mid Chintala</td>
+      <td class="highlightYellow">Cololum</td>
+      <td class="highlightYellow">Metalhead</td>
+      <td class="highlightYellow">Polygon Spinna</td>
+      <td class="highlightYellow">Cheer-Ham</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td></td>
+      <td class="highlightPurple3">Swordsman</td>
+      <td class="highlightPurple3">Mudkin</td>
+      <td class="highlightYellow">Mid Chintala</td>
+      <td class="highlightYellow">Cololum</td>
+      <td class="highlightYellow">Metalhead</td>
+      <td></td>
+      <td class="highlightYellow">Cheer-Ham</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td></td>
+      <td></td>
+      <td class="highlightYellow">Bored Kappa</td>
+      <td class="highlightYellow">Mid Chintala</td>
+      <td></td>
+      <td class="highlightYellow">Kid Squid</td>
+      <td></td>
+      <td class="highlightYellow">Cheer-Ham</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td class="highlightYellow">Fearabbit</td>
+      <td class="highlightYellow">Floaty</td>
+      <td class="highlightYellow">Bored Kappa</td>
+      <td class="highlightYellow">Mid Chintala</td>
+      <td class="highlightYellow">Cololum</td>
+      <td class="highlightYellow">Kid Squid</td>
+      <td class="highlightYellow">Polygon Spinna</td>
+      <td class="highlightYellow">Cheer-Ham</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td class="highlightYellow">Acrid Nut</td>
+      <td class="highlightYellow">Floaty</td>
+      <td class="highlightYellow">Bored Kappa</td>
+      <td class="highlightYellow">Mid Chintala</td>
+      <td class="highlightYellow">Cololum</td>
+      <td class="highlightYellow">Kid Squid</td>
+      <td class="highlightYellow">Polygon Spinna</td>
+      <td class="highlightYellow">Cheer-Ham</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td class="highlightYellow">Acrid Nut</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td class="highlightYellow">Cololum</td>
+      <td></td>
+      <td class="highlightYellow">Polygon Spinna</td>
+      <td class="highlightYellow">Cheer-Ham</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td class="highlightYellow">Acrid Nut</td>
+      <td class="highlightOrange2">Foly</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td class="highlightBlue">Mixer</td>
+      <td class="highlightYellow">Polygon Spinna</td>
+      <td class="highlightYellow">Cheer-Ham</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td class="highlightYellow">Acrid Nut</td>
+      <td class="highlightOrange2">Foly</td>
+      <td class="highlightYellow">Dagger Bee</td>
+      <td class="highlightYellow">Hopodile</td>
+      <td class="highlightYellow">Flamebird</td>
+      <td class="highlightBlue">Mixer</td>
+      <td class="highlightYellow">Polygon Spinna</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td class="highlightYellow">Acrid Nut</td>
+      <td class="highlightOrange2">Foly</td>
+      <td class="highlightYellow">Dagger Bee</td>
+      <td class="highlightYellow">Hopodile</td>
+      <td class="highlightYellow">Flamebird</td>
+      <td class="highlightBlue">Zalokleft</td>
+      <td class="highlightYellow">Yanpii</td>
+      <td class="highlightPurple3">Scoopie</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td class="highlightYellow">Acrid Nut</td>
+      <td></td>
+      <td class="highlightYellow">Dagger Bee</td>
+      <td class="highlightYellow">Hopodile</td>
+      <td class="highlightYellow">Flamebird</td>
+      <td class="highlightBlue">Zalokleft</td>
+      <td class="highlightYellow">Yanpii</td>
+      <td class="highlightPurple3">Scoopie</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td class="highlightYellow">Beanie</td>
+      <td></td>
+      <td class="highlightYellow">Eligan</td>
+      <td></td>
+      <td class="highlightYellow">Flamebird</td>
+      <td></td>
+      <td class="highlightYellow">Yanpii</td>
+      <td class="highlightPurple3">Scoopie</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td class="highlightYellow">Beanie</td>
+      <td class="highlightBlue">Grass Dude</td>
+      <td class="highlightYellow">Eligan</td>
+      <td></td>
+      <td class="highlightPurple3">Gyadon</td>
+      <td></td>
+      <td class="highlightYellow">Yanpii</td>
+      <td class="highlightPurple3">Scoopie</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td class="highlightYellow">Sproutyrant</td>
+      <td class="highlightBlue">Grass Dude</td>
+      <td class="highlightYellow">Eligan</td>
+      <td></td>
+      <td class="highlightPurple3">Gyadon</td>
+      <td></td>
+      <td class="highlightYellow">Yanpii</td>
+      <td class="highlightPurple3">Scoopie</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td class="highlightYellow">Sproutyrant</td>
+      <td class="highlightBlue">Grass Dude</td>
+      <td class="highlightYellow">Steamroid</td>
+      <td class="highlightPurple3">Nigiri Morph</td>
+      <td class="highlightGreen">Froggucci</td>
+      <td class="highlightGreen">Boy Cart</td>
+      <td class="highlightYellow">DJ Mage</td>
+      <td class="highlightYellow">Poofy</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td class="highlightOrange2">Sproutyrant<br/>Absorbiphant</td>
+      <td class="highlightYellow">Snooztapir</td>
+      <td class="highlightYellow">Steamroid</td>
+      <td class="highlightPurple3">Nigiri Morph</td>
+      <td class="highlightGreen">Froggucci</td>
+      <td class="highlightGreen">Boy Cart</td>
+      <td class="highlightYellow">DJ Mage</td>
+      <td class="highlightYellow">Poofy</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td class="highlightOrange2">Absorbiphant</td>
+      <td class="highlightYellow">Snooztapir</td>
+      <td class="highlightYellow">Ironhead</td>
+      <td class="highlightPurple3">Nigiri Morph</td>
+      <td class="highlightGreen">Froggucci</td>
+      <td class="highlightGreen">Boy Cart</td>
+      <td class="highlightYellow">DJ Mage</td>
+      <td class="highlightYellow">Poofy</td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td class="highlightOrange2">Absorbiphant</td>
+      <td class="highlightPurple3">Cursister</td>
+      <td class="highlightYellow">Ironhead</td>
+      <td class="highlightOrange2">Hipadile</td>
+      <td class="highlightYellow">Punisher</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td class="highlightPurple3">Muddy</td>
+      <td class="highlightPurple3">Cursister</td>
+      <td class="highlightYellow">Crow Tengu</td>
+      <td class="highlightOrange2">Hipadile</td>
+      <td class="highlightYellow">Punisher</td>
+      <td class="highlightYellow">Firepuff</td>
+      <td class="highlightYellow">Sr. Yanpii</td>
+      <td class="highlightYellow">Spicy Nut</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td class="highlightPurple3">Muddy</td>
+      <td></td>
+      <td class="highlightYellow">Crow Tengu</td>
+      <td class="highlightOrange2">Hipadile</td>
+      <td class="highlightYellow">Punisher</td>
+      <td class="highlightYellow">Firepuff</td>
+      <td class="highlightYellow">Sr. Yanpii</td>
+      <td class="highlightYellow">Spicy Nut</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td class="highlightPurple3">Muddy</td>
+      <td class="highlightGreen">Cross Cart</td>
+      <td class="highlightYellow">Crow Tengu</td>
+      <td></td>
+      <td></td>
+      <td class="highlightYellow">Firepuff</td>
+      <td class="highlightYellow">Sr. Yanpii</td>
+      <td class="highlightYellow">Spicy Nut</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td class="highlightYellow">Go-Ham!</td>
+      <td class="highlightGreen">Cross Cart</td>
+      <td class="highlightOrange2">Digestiphant</td>
+      <td class="highlightOrange2">Scarabbit</td>
+      <td class="highlightYellow">Zapdon</td>
+      <td class="highlightOrange2">Kappa Pest</td>
+      <td class="highlightOrange2">MC Mage</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td class="highlightYellow">Go-Ham!</td>
+      <td class="highlightOrange2">N'twyn</td>
+      <td class="highlightOrange2">Digestiphant</td>
+      <td class="highlightOrange2">Scarabbit</td>
+      <td class="highlightYellow">Zapdon</td>
+      <td class="highlightOrange2">Kappa Pest</td>
+      <td class="highlightOrange2">MC Mage</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td class="highlightYellow">Katana Bee</td>
+      <td class="highlightOrange2">N'twyn</td>
+      <td class="highlightYellow">Dragon</td>
+      <td class="highlightYellow">Death Gyaza</td>
+      <td class="highlightYellow">Shagga</td>
+      <td class="highlightOrange2">Kappa Pest</td>
+      <td class="highlightOrange2">MC Mage</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td class="highlightYellow">Katana Bee</td>
+      <td class="highlightPurple3">Trowelie</td>
+      <td class="highlightYellow">Dragon</td>
+      <td class="highlightYellow">Death Gyaza</td>
+      <td class="highlightYellow">Shagga</td>
+      <td></td>
+      <td></td>
+      <td class="highlightYellow">Poofy</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td class="highlightBlue">Mixermon</td>
+      <td class="highlightPurple3">Trowelie</td>
+      <td></td>
+      <td class="highlightYellow">Death Gyaza</td>
+      <td class="highlightYellow">Shagga</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td class="highlightBlue">Mixermon</td>
+      <td class="highlightPurple3">Trowelie</td>
+      <td class="highlightYellow">Pumphantom</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td class="highlightYellow">Poofy</td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td class="highlightYellow">Cave Mamel</td>
+      <td class="highlightYellow">Falcon Tengu</td>
+      <td class="highlightYellow">Pumphantom</td>
+      <td class="highlightYellow">Polygon Shaka</td>
+      <td class="highlightYellow">Flamepuff</td>
+      <td class="highlightYellow">Dazikon</td>
+      <td class="highlightYellow">VeniScorp</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td class="highlightYellow">Cave Mamel</td>
+      <td class="highlightYellow">Falcon Tengu</td>
+      <td class="highlightYellow">Tiger Hurler</td>
+      <td class="highlightYellow">Polygon Shaka</td>
+      <td class="highlightYellow">Flamepuff</td>
+      <td class="highlightYellow">Dazikon</td>
+      <td class="highlightYellow">VeniScorp</td>
+      <td class="highlightBlue">Grass Poppa</td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td class="highlightRed">MC Wizard</td>
+      <td></td>
+      <td class="highlightYellow">Tiger Hurler</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td class="highlightYellow">VeniScorp</td>
+      <td class="highlightBlue">Grass Poppa</td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td class="highlightRed">MC Wizard</td>
+      <td class="highlightPurple3">Gyairas</td>
+      <td class="highlightYellow">Tiger Hurler</td>
+      <td class="highlightYellow">Eligagan</td>
+      <td class="highlightYellow">Huistdon</td>
+      <td></td>
+      <td></td>
+      <td class="highlightBlue">Grass Poppa</td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td class="highlightYellow">Sparkbird</td>
+      <td class="highlightPurple3">Gyairas</td>
+      <td></td>
+      <td class="highlightYellow">Eligagan</td>
+      <td class="highlightYellow">Huistdon</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td class="highlightYellow">Sparkbird</td>
+      <td class="highlightOrange2">Nashagga</td>
+      <td></td>
+      <td class="highlightYellow">Eligagan</td>
+      <td class="highlightYellow">Huistdon</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td class="highlightOrange2">Sky Dragon</td>
+      <td class="highlightOrange2">Nashagga</td>
+      <td class="highlightYellow">Steelhead</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td class="highlightOrange2">Sky Dragon</td>
+      <td class="highlightOrange2">Nashagga</td>
+      <td class="highlightYellow">Steelhead</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td class="highlightYellow">Doztapir</td>
+      <td></td>
+      <td class="highlightYellow">Steelhead</td>
+      <td class="highlightYellow">Sprouterror</td>
+      <td class="highlightRed">MC Sorceror</td>
+      <td class="highlightYellow">Debaser</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td class="highlightYellow">Doztapir</td>
+      <td class="highlightPurple3">Mudster</td>
+      <td class="highlightYellow">Steelhead</td>
+      <td class="highlightYellow">Sprouterror</td>
+      <td class="highlightRed">MC Sorceror</td>
+      <td class="highlightYellow">Debaser</td>
+      <td class="highlightOrange2">Vexing Kappa</td>
+      <td class="highlightOrange2">Jouncy</td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td class="highlightOrange2">Trillman</td>
+      <td class="highlightPurple3">Mudster</td>
+      <td class="highlightYellow">Steelhead</td>
+      <td class="highlightYellow">Sprouterror</td>
+      <td class="highlightRed">MC Sorceror</td>
+      <td class="highlightYellow">Debaser</td>
+      <td class="highlightOrange2">Vexing Kappa</td>
+      <td class="highlightOrange2">Jouncy</td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td class="highlightYellow">StunScorp</td>
+      <td class="highlightPurple3">Mudster</td>
+      <td class="highlightYellow">Pyrepuff</td>
+      <td class="highlightOrange2">Pierce Cart</td>
+      <td class="highlightRed">MC Sorceror</td>
+      <td class="highlightYellow">Debaser</td>
+      <td></td>
+      <td class="highlightOrange2">Jouncy</td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td class="highlightYellow">StunScorp</td>
+      <td class="highlightPurple3">Mudster</td>
+      <td class="highlightYellow">Pyrepuff</td>
+      <td class="highlightOrange2">Pierce Cart</td>
+      <td class="highlightYellow">Tiger Chucker</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td class="highlightPurple3">Curspinster</td>
+      <td class="highlightPurple3">Mudster</td>
+      <td class="highlightYellow">Pumpanshee</td>
+      <td class="highlightOrange2">Pierce Cart</td>
+      <td class="highlightYellow">Tiger Chucker</td>
+      <td class="highlightRed">Horrabbit</td>
+      <td class="highlightYellow">Momomomoseal</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td class="highlightPurple3">Curspinster</td>
+      <td class="highlightGreen">Froggon</td>
+      <td class="highlightYellow">Pumpanshee</td>
+      <td class="highlightOrange2">Spongiderm</td>
+      <td class="highlightYellow">Tiger Chucker</td>
+      <td class="highlightRed">Horrabbit</td>
+      <td class="highlightYellow">Momomomoseal</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td class="highlightPurple3">Curspinster</td>
+      <td class="highlightGreen">Froggon</td>
+      <td class="highlightYellow">Pumpanshee</td>
+      <td class="highlightOrange2">Spongiderm</td>
+      <td class="highlightBlue">Iron Zalokleft</td>
+      <td class="highlightRed">Horrabbit</td>
+      <td class="highlightYellow">Momomomoseal</td>
+      <td class="highlightOrange2">Lashagga</td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td class="highlightPurple3">Item Knave</td>
+      <td class="highlightGreen">Froggon</td>
+      <td class="highlightPurple3">Gyandora</td>
+      <td class="highlightOrange2">Spongiderm</td>
+      <td class="highlightBlue">Iron Zalokleft</td>
+      <td class="highlightYellow">Lt. Yanpii</td>
+      <td></td>
+      <td class="highlightOrange2">Lashagga</td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td class="highlightPurple3">Item Knave</td>
+      <td class="highlightYellow">Zanbeeto</td>
+      <td class="highlightPurple3">Gyandora</td>
+      <td class="highlightYellow">Polygon Singa</td>
+      <td class="highlightBlue">Iron Zalokleft</td>
+      <td class="highlightYellow">Lt. Yanpii</td>
+      <td></td>
+      <td class="highlightOrange2">Lashagga</td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td class="highlightBlue">Grass Gramps</td>
+      <td class="highlightYellow">Zanbeeto</td>
+      <td class="highlightOrange2">Flarebird</td>
+      <td class="highlightYellow">Polygon Singa</td>
+      <td class="highlightYellow">Bunchukdon</td>
+      <td class="highlightYellow">Lt. Yanpii</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td class="highlightBlue">Grass Gramps</td>
+      <td class="highlightPurple3">Sensei</td>
+      <td class="highlightOrange2">Flarebird</td>
+      <td class="highlightYellow">Polygon Singa</td>
+      <td class="highlightYellow">Bunchukdon</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td class="highlightYellow">Spirit Ham</td>
+      <td class="highlightPurple3">Sensei</td>
+      <td class="highlightOrange2">Flarebird</td>
+      <td class="highlightYellow">Polygon Singa</td>
+      <td class="highlightYellow">Bunchukdon</td>
+      <td class="highlightOrange2">Bouncy</td>
+      <td class="highlightPurple3">Hyper Gazer</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td class="highlightYellow">Spirit Ham</td>
+      <td class="highlightPurple3">Sensei</td>
+      <td class="highlightYellow">Onigirizzly</td>
+      <td></td>
+      <td class="highlightYellow">Bitter Nut</td>
+      <td class="highlightOrange2">Bouncy</td>
+      <td class="highlightPurple3">Hyper Gazer</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td class="highlightYellow">Spirit Ham</td>
+      <td class="highlightYellow">Fulminachin</td>
+      <td class="highlightYellow">Onigirizzly</td>
+      <td></td>
+      <td class="highlightYellow">Bitter Nut</td>
+      <td class="highlightOrange2">Bouncy</td>
+      <td class="highlightPurple3">Hyper Gazer</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td class="highlightYellow">Phoenix Tengu</td>
+      <td class="highlightYellow">Fulminachin</td>
+      <td></td>
+      <td></td>
+      <td class="highlightYellow">Bitter Nut</td>
+      <td class="highlightOrange2">Bouncy</td>
+      <td class="highlightPurple3">Hyper Gazer</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td class="highlightYellow">Phoenix Tengu</td>
+      <td class="highlightRed">Dozikon</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td class="highlightPurple3">Hyper Gazer</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td class="highlightYellow">Phoenix Tengu</td>
+      <td class="highlightRed">Dozikon</td>
+      <td class="highlightYellow">Comatapir</td>
+      <td class="highlightYellow">Grainie</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td class="highlightPurple3">Mudder</td>
+      <td></td>
+      <td class="highlightYellow">Comatapir</td>
+      <td class="highlightYellow">Grainie</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td class="highlightPurple3">Mudder</td>
+      <td class="highlightBlue">Mixerdon</td>
+      <td class="highlightYellow">Huge Chintala</td>
+      <td class="highlightYellow">Grainie</td>
+      <td class="highlightYellow">Hell Gyaza</td>
+      <td class="highlightOrange2">N'dup</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td class="highlightPurple3">Mudder</td>
+      <td class="highlightBlue">Mixerdon</td>
+      <td class="highlightYellow">Huge Chintala</td>
+      <td class="highlightYellow">Eligagon</td>
+      <td class="highlightYellow">Hell Gyaza</td>
+      <td class="highlightOrange2">N'dup</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td class="highlightPurple3">Mudder</td>
+      <td class="highlightYellow">Cyberoid</td>
+      <td class="highlightYellow">Huge Chintala</td>
+      <td class="highlightYellow">Eligagon</td>
+      <td class="highlightYellow">Hell Gyaza</td>
+      <td class="highlightOrange2">N'dup</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td class="highlightYellow">Detonachin</td>
+      <td class="highlightYellow">Cyberoid</td>
+      <td class="highlightPurple3">Cursenior</td>
+      <td class="highlightYellow">Eligagon</td>
+      <td class="highlightPurple3">Shovelie</td>
+      <td class="highlightOrange2">N'dup</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td class="highlightYellow">Detonachin</td>
+      <td class="highlightYellow">Cyberoid</td>
+      <td class="highlightPurple3">Cursenior</td>
+      <td class="highlightYellow">Eligagon</td>
+      <td class="highlightPurple3">Shovelie</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td class="highlightPurple3">Knave King</td>
+      <td class="highlightBlue">Mealy</td>
+      <td class="highlightPurple3">Cursenior</td>
+      <td class="highlightYellow">Eligagon</td>
+      <td class="highlightPurple3">Shovelie</td>
+      <td class="highlightYellow">Ruiner</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td class="highlightPurple3">Knave King</td>
+      <td class="highlightBlue">Mealy</td>
+      <td class="highlightPurple3">Cursenior</td>
+      <td class="highlightRed">Terrabbit</td>
+      <td class="highlightPurple3">Shovelie</td>
+      <td class="highlightYellow">Ruiner</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td class="highlightYellow">Pumptergeist</td>
+      <td class="highlightOrange2">Boingodile</td>
+      <td class="highlightYellow">Kodionigiri</td>
+      <td class="highlightRed">Terrabbit</td>
+      <td></td>
+      <td class="highlightYellow">Ruiner</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td class="highlightYellow">Pumptergeist</td>
+      <td class="highlightOrange2">Boingodile</td>
+      <td class="highlightYellow">Kodionigiri</td>
+      <td class="highlightRed">Terrabbit</td>
+      <td class="highlightYellow">Squidperor</td>
+      <td class="highlightYellow">Ruiner</td>
+      <td class="highlightYellow">Colocolocolum</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td class="highlightYellow">Pumptergeist</td>
+      <td class="highlightOrange2">Boingodile</td>
+      <td class="highlightYellow">Kodionigiri</td>
+      <td class="highlightRed">Terrabbit</td>
+      <td class="highlightYellow">Squidperor</td>
+      <td class="highlightYellow">Ruiner</td>
+      <td class="highlightYellow">Colocolocolum</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td class="highlightOrange2">Gitan Mamel</td>
+      <td class="highlightGreen">Kleptoad</td>
+      <td class="highlightYellow">Kodionigiri</td>
+      <td class="highlightOrange2">Kappa Troll</td>
+      <td class="highlightOrange2">Osmammoth</td>
+      <td class="highlightRed">Archdragon</td>
+      <td class="highlightYellow">Colocolocolum</td>
+      <td class="highlightBlue">FO-Uβ</td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td class="highlightOrange2">Gitan Mamel</td>
+      <td class="highlightGreen">Kleptoad</td>
+      <td></td>
+      <td class="highlightOrange2">Kappa Troll</td>
+      <td class="highlightOrange2">Osmammoth</td>
+      <td class="highlightRed">Archdragon</td>
+      <td></td>
+      <td class="highlightBlue">FO-Uβ</td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td class="highlightOrange2">Gitan Mamel</td>
+      <td class="highlightGreen">Kleptoad</td>
+      <td></td>
+      <td class="highlightOrange2">Kappa Troll</td>
+      <td class="highlightOrange2">Osmammoth</td>
+      <td class="highlightRed">Archdragon</td>
+      <td></td>
+      <td class="highlightBlue">FO-Uβ</td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td class="highlightPurple3">Gyandoron</td>
+      <td></td>
+      <td></td>
+      <td class="highlightOrange2">Kappa Troll</td>
+      <td class="highlightOrange2">Osmammoth</td>
+      <td class="highlightRed">Archdragon</td>
+      <td></td>
+      <td class="highlightBlue">FO-Uβ</td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td class="highlightPurple3">Gyandoron</td>
+      <td class="highlightYellow">Polygon Stunna</td>
+      <td class="highlightOrange2">Blazebird</td>
+      <td class="highlightYellow">Tiger Ace</td>
+      <td></td>
+      <td class="highlightRed">Archdragon</td>
+      <td></td>
+      <td class="highlightBlue">FO-Uβ</td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td class="highlightPurple3">Gyandoron</td>
+      <td class="highlightYellow">Polygon Stunna</td>
+      <td class="highlightOrange2">Blazebird</td>
+      <td class="highlightYellow">Tiger Ace</td>
+      <td class="highlightRed">Porgon</td>
+      <td class="highlightRed">Archdragon</td>
+      <td class="highlightYellow">Zotdon</td>
+      <td class="highlightBlue">FO-Uβ</td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td class="highlightPurple3">Gyandoron</td>
+      <td class="highlightOrange2">Nigiri King</td>
+      <td class="highlightYellow">Boss Yanpii</td>
+      <td class="highlightYellow">Tiger Ace</td>
+      <td class="highlightRed">Porgon</td>
+      <td class="highlightBlue">FO-U</td>
+      <td class="highlightYellow">Zotdon</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td class="highlightPurple3">Gyandoron</td>
+      <td class="highlightOrange2">Nigiri King</td>
+      <td class="highlightYellow">Boss Yanpii</td>
+      <td></td>
+      <td class="highlightRed">Porgon</td>
+      <td class="highlightBlue">FO-U</td>
+      <td class="highlightYellow">Zotdon</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td class="highlightPurple3">Gyandoron</td>
+      <td class="highlightOrange2">Nigiri King</td>
+      <td class="highlightYellow">Boss Yanpii</td>
+      <td></td>
+      <td class="highlightRed">Porgon</td>
+      <td class="highlightBlue">FO-U</td>
+      <td class="highlightYellow">Zotdon</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td class="highlightRed">Ultra Gazer</td>
+      <td class="highlightYellow">Elizgagon</td>
+      <td class="highlightYellow">Boss Yanpii</td>
+      <td></td>
+      <td></td>
+      <td class="highlightBlue">FO-U</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td class="highlightRed">Ultra Gazer</td>
+      <td class="highlightYellow">Elizgagon</td>
+      <td class="highlightOrange2">Bashagga</td>
+      <td class="highlightPurple3">Swordmaster</td>
+      <td></td>
+      <td class="highlightBlue">FO-U</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td class="highlightRed">Ultra Gazer</td>
+      <td class="highlightYellow">Elizgagon</td>
+      <td class="highlightOrange2">Bashagga</td>
+      <td class="highlightPurple3">Swordmaster</td>
+      <td></td>
+      <td class="highlightBlue">FO-UZ</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td class="highlightRed">Ultra Gazer</td>
+      <td class="highlightYellow">Elizgagon</td>
+      <td class="highlightOrange2">Bashagga</td>
+      <td class="highlightPurple3">Swordmaster</td>
+      <td></td>
+      <td class="highlightBlue">FO-UZ</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td class="highlightRed">Ultra Gazer</td>
+      <td class="highlightYellow">Elizgagon</td>
+      <td class="highlightOrange2">Bashagga</td>
+      <td class="highlightRed">Cranky Tank</td>
+      <td></td>
+      <td class="highlightBlue">FO-UZ</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td class="highlightRed">Ultra Gazer</td>
+      <td class="highlightYellow">Elizgagon</td>
+      <td class="highlightOrange2">Bashagga</td>
+      <td class="highlightRed">Cranky Tank</td>
+      <td></td>
+      <td class="highlightBlue">FO-UZ</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td class="highlightRed">Ultra Gazer</td>
+      <td class="highlightYellow">Elizgagon</td>
+      <td class="highlightOrange2">Bashagga</td>
+      <td class="highlightRed">Cranky Tank</td>
+      <td class="highlightYellow">BlightScorp</td>
+      <td class="highlightBlue">FO-UZ</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td class="highlightRed">Ultra Gazer</td>
+      <td class="highlightYellow">Elizgagon</td>
+      <td class="highlightOrange2">Bashagga</td>
+      <td class="highlightRed">Cranky Tank</td>
+      <td class="highlightYellow">BlightScorp</td>
+      <td class="highlightBlue">FO-UZZ</td>
+      <td class="highlightYellow">Doom Gyaza</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td class="highlightRed">Ultra Gazer</td>
+      <td class="highlightYellow">Elizgagon</td>
+      <td class="highlightOrange2">Bashagga</td>
+      <td class="highlightRed">Cranky Tank</td>
+      <td class="highlightYellow">BlightScorp</td>
+      <td class="highlightBlue">FO-UZZ</td>
+      <td class="highlightYellow">Doom Gyaza</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td class="highlightRed">Ultra Gazer</td>
+      <td class="highlightYellow">Elizgagon</td>
+      <td class="highlightOrange2">Bashagga</td>
+      <td class="highlightRed">Cranky Tank</td>
+      <td class="highlightYellow">BlightScorp</td>
+      <td class="highlightBlue">FO-UZZ</td>
+      <td class="highlightYellow">Doom Gyaza</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td class="highlightRed">Ultra Gazer</td>
+      <td class="highlightYellow">Elizgagon</td>
+      <td class="highlightOrange2">Bashagga</td>
+      <td></td>
+      <td class="highlightYellow">BlightScorp</td>
+      <td class="highlightBlue">FO-UZZ</td>
+      <td class="highlightYellow">Doom Gyaza</td>
+      <td></td>
+    </tr>
+  </tbody>
 </table>
 
 <br/>
@@ -1549,1197 +1454,1097 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
 Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightGreen">Situational Farming</span> <span class="highlightPurple3">Destroys Items</span> <span class="highlightOrange2">Dangerous</span> <span class="highlightRed">Very Dangerous</span>
 
 <table class="dungeonMonsters">
-  <tr>
-    <th colspan="10" class="highlightBlack">Night (Semi-Sorted)</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td class="highlightPurple">Dark Boy Cart</td>
-    <td class="highlightPurple">Bad Colum</td>
-    <td class="highlightPurple">Evil Chintala</td>
-    <td class="highlightPurple">Dark Bored Kappa</td>
-    <td class="highlightPurple">Dark Mamel</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td class="highlightPurple">Dark Boy Cart</td>
-    <td class="highlightPurple">Bad Colum</td>
-    <td class="highlightPurple">Evil Chintala</td>
-    <td class="highlightPurple">Dark Bored Kappa</td>
-    <td class="highlightPurple">Dark Mamel</td>
-    <td class="highlightPurple">Evil PolySpinna</td>
-    <td class="highlightPurple">Putrid Sweet Nut</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td class="highlightPurple">Evil Hopodile</td>
-    <td class="highlightPurple">Dark Naptapir</td>
-    <td class="highlightPurple">Evil Chintala</td>
-    <td class="highlightPurple">Dark Bored Kappa</td>
-    <td class="highlightPurple">Dark Mamel</td>
-    <td class="highlightPurple">Evil PolySpinna</td>
-    <td class="highlightPurple">Putrid Sweet Nut</td>
-    <td class="highlightPurple">Dark Tosser</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td class="highlightPurple">Evil Hopodile</td>
-    <td class="highlightPurple">Dark Naptapir</td>
-    <td class="highlightPurple">Dark Karakuroid</td>
-    <td class="highlightPurple3">Violent Gyadon</td>
-    <td class="highlightPurple">Dark Mamel</td>
-    <td class="highlightOrange2">Dark Absorbiphant</td>
-    <td class="highlightPurple">Putrid Sweet Nut</td>
-    <td class="highlightPurple">Dark Tosser</td>
-    <td class="highlightPurple">Sinful Yanpii</td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td></td>
-    <td></td>
-    <td class="highlightPurple">Dark Karakuroid</td>
-    <td class="highlightPurple3">Violent Gyadon</td>
-    <td class="highlightPurple">Dark Mamel</td>
-    <td class="highlightOrange2">Dark Absorbiphant</td>
-    <td></td>
-    <td class="highlightPurple">Dark Tosser</td>
-    <td class="highlightPurple">Sinful Yanpii</td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td class="highlightPurple">Dark Pop Tank</td>
-    <td class="highlightPurple">Evil Kid Squid</td>
-    <td class="highlightPurple">Sinister Porky</td>
-    <td class="highlightPurple">Dark Flamebird</td>
-    <td class="highlightPurple">Hell's Punisher</td>
-    <td class="highlightPurple3">Shady Mudkin</td>
-    <td class="highlightPurple">Dark Kumonigiri</td>
-    <td class="highlightPurple">Dark Tosser</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>7</td>
-    <td class="highlightPurple">Dark Pop Tank</td>
-    <td class="highlightPurple">Evil Kid Squid</td>
-    <td class="highlightPurple">Sinister Porky</td>
-    <td class="highlightPurple">Dark Flamebird</td>
-    <td class="highlightPurple">Hell's Punisher</td>
-    <td class="highlightPurple3">Shady Mudkin</td>
-    <td class="highlightPurple">Dark Kumonigiri</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>8</td>
-    <td class="highlightBlue">Plump Chow</td>
-    <td class="highlightPurple">Dark DJ Mage</td>
-    <td class="highlightPurple3">Wicked Scoopie</td>
-    <td></td>
-    <td></td>
-    <td class="highlightPurple3">Shady Mudkin</td>
-    <td class="highlightPurple">Dark Kumonigiri</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>9</td>
-    <td class="highlightBlue">Plump Chow</td>
-    <td class="highlightPurple">Dark DJ Mage</td>
-    <td class="highlightPurple3">Wicked Scoopie</td>
-    <td class="highlightPurple">Foul Nigiri Baby</td>
-    <td class="highlightPurple3">Evil Gazer</td>
-    <td class="highlightPurple">Dark Mutaikon</td>
-    <td class="highlightPurple">Dark Eligan</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>10</td>
-    <td class="highlightOrange2">Dark N'dubba</td>
-    <td class="highlightPurple">Evil Mid Chintala</td>
-    <td class="highlightPurple">Evil Firepuff</td>
-    <td class="highlightPurple">Foul Nigiri Baby</td>
-    <td class="highlightPurple3">Evil Gazer</td>
-    <td class="highlightPurple">Dark Mutaikon</td>
-    <td class="highlightPurple">Dark Eligan</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>11</td>
-    <td class="highlightOrange2">Dark N'dubba</td>
-    <td class="highlightPurple">Evil Mid Chintala</td>
-    <td class="highlightPurple">Evil Firepuff</td>
-    <td class="highlightPurple">Foul Nigiri Baby</td>
-    <td class="highlightPurple">Putrid Acrid Nut</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>12</td>
-    <td class="highlightPurple">Dark Blade Bee</td>
-    <td class="highlightPurple">Evil Mid Chintala</td>
-    <td class="highlightPurple">Evil Firepuff</td>
-    <td></td>
-    <td class="highlightPurple">Putrid Acrid Nut</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>13</td>
-    <td class="highlightPurple">Evil Firepuff</td>
-    <td class="highlightPurple">Dark DJ Mage</td>
-    <td class="highlightPurple3">Wicked Scoopie</td>
-    <td class="highlightPurple">Putrid Acrid Nut</td>
-    <td class="highlightPurple3">Evil Gazer</td>
-    <td class="highlightPurple">Dark Mutaikon</td>
-    <td class="highlightPurple">Dark Eligan</td>
-    <td class="highlightPurple">Dark Foly</td>
-    <td class="highlightPurple">Evil Floaty</td>
-  </tr>
-  <tr>
-    <td>14</td>
-    <td></td>
-    <td></td>
-    <td class="highlightPurple">Evil Firepuff</td>
-    <td></td>
-    <td class="highlightPurple3">Evil Gazer</td>
-    <td class="highlightPurple">Dark Mutaikon</td>
-    <td class="highlightPurple">Dark Eligan</td>
-    <td class="highlightPurple">Dark Foly</td>
-    <td class="highlightPurple">Evil Floaty</td>
-  </tr>
-  <tr>
-    <td>15</td>
-    <td class="highlightPurple">Hateful Seedie</td>
-    <td></td>
-    <td class="highlightPurple">Evil Firepuff</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td class="highlightPurple">Dark Eligan</td>
-    <td></td>
-    <td class="highlightPurple">Evil Floaty</td>
-  </tr>
-  <tr>
-    <td>16</td>
-    <td class="highlightPurple">Dark Blade Bee</td>
-    <td class="highlightPurple">Hateful Seedie</td>
-    <td class="highlightPurple">Bad Crow Tengu</td>
-    <td class="highlightPurple">Bad Moseal</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>17</td>
-    <td class="highlightPurple">Dark Blade Bee</td>
-    <td class="highlightPurple">Hateful Seedie</td>
-    <td class="highlightPurple">Bad Crow Tengu</td>
-    <td class="highlightPurple">Bad Moseal</td>
-    <td class="highlightPurple3">Evil Swordsman</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>18</td>
-    <td class="highlightPurple3">Shady Muddy</td>
-    <td class="highlightPurple">Dark Metalhead</td>
-    <td class="highlightPurple">Dark Scorpion</td>
-    <td class="highlightPurple">Evil Hipadile</td>
-    <td class="highlightPurple3">Evil Swordsman</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>19</td>
-    <td class="highlightPurple3">Shady Muddy</td>
-    <td class="highlightPurple">Dark Metalhead</td>
-    <td class="highlightPurple">Dark Scorpion</td>
-    <td class="highlightPurple">Evil Hipadile</td>
-    <td class="highlightPurple3">Evil Swordsman</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>20</td>
-    <td class="highlightPurple">Hateful Seedie</td>
-    <td class="highlightBlue">Dark Grass Kid</td>
-    <td class="highlightPurple">Foul Pin Kid</td>
-    <td class="highlightPurple">Bad Moseal</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>21</td>
-    <td class="highlightPurple">Hateful Seedie</td>
-    <td class="highlightBlue">Dark Grass Kid</td>
-    <td class="highlightPurple">Foul Pin Kid</td>
-    <td class="highlightPurple">Bad Moseal</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>22</td>
-    <td class="highlightBlue">Dark Mixer</td>
-    <td class="highlightPurple">Vile Sproutant</td>
-    <td></td>
-    <td class="highlightPurple">Evil Hipadile</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>23</td>
-    <td class="highlightBlue">Dark Mixer</td>
-    <td class="highlightPurple">Vile Sproutant</td>
-    <td></td>
-    <td class="highlightPurple">Evil Hipadile</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>24</td>
-    <td class="highlightBlue">Dark Mixer</td>
-    <td class="highlightPurple">Vile Sproutant</td>
-    <td class="highlightPurple">Dark Pit Mamel</td>
-    <td class="highlightPurple">Evil Hipadile</td>
-    <td class="highlightPurple3">Violent Gyairas</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>25</td>
-    <td class="highlightPurple">Dark Cross Cart</td>
-    <td class="highlightOrange2">Dark MC Mage</td>
-    <td class="highlightPurple">Dark Pit Mamel</td>
-    <td class="highlightPurple">Bad Cololum</td>
-    <td class="highlightPurple3">Violent Gyairas</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>26</td>
-    <td class="highlightPurple">Dark Cross Cart</td>
-    <td class="highlightOrange2">Dark MC Mage</td>
-    <td class="highlightPurple">Dark Pit Mamel</td>
-    <td class="highlightPurple">Bad Cololum</td>
-    <td class="highlightPurple3">Violent Gyairas</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>27</td>
-    <td class="highlightPurple">Foul Nigiri Morph</td>
-    <td class="highlightPurple3">Evil Super Gazer</td>
-    <td class="highlightPurple">Dark Zapdon</td>
-    <td class="highlightPurple">Evil Gyaza</td>
-    <td class="highlightPurple">Evil Dragon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>28</td>
-    <td class="highlightPurple">Foul Nigiri Morph</td>
-    <td class="highlightPurple3">Evil Super Gazer</td>
-    <td class="highlightPurple">Dark Zapdon</td>
-    <td class="highlightPurple">Evil Gyaza</td>
-    <td class="highlightPurple">Evil Dragon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>29</td>
-    <td class="highlightOrange2">Sinister Porko</td>
-    <td class="highlightOrange2">Dark Fearabbit</td>
-    <td class="highlightOrange2">Filthy Nashagga</td>
-    <td class="highlightPurple">Evil Gyaza</td>
-    <td class="highlightPurple">Evil Dragon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>30</td>
-    <td class="highlightOrange2">Sinister Porko</td>
-    <td class="highlightOrange2">Dark Fearabbit</td>
-    <td class="highlightOrange2">Filthy Nashagga</td>
-    <td class="highlightOrange2">Evil Explochin</td>
-    <td class="highlightPurple">Putrid Acrid Nut</td>
-    <td class="highlightPurple">Evil PolyShaka</td>
-    <td class="highlightPurple3">Wicked Spadie</td>
-    <td class="highlightPurple">Dark Hurler</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>31</td>
-    <td class="highlightOrange2">Vile Pumphantasm</td>
-    <td class="highlightOrange2">Dark Digestiphant</td>
-    <td class="highlightOrange2">Filthy Nashagga</td>
-    <td class="highlightOrange2">Evil Explochin</td>
-    <td class="highlightPurple">Putrid Acrid Nut</td>
-    <td class="highlightPurple">Evil PolyShaka</td>
-    <td class="highlightPurple3">Wicked Spadie</td>
-    <td class="highlightPurple">Dark Hurler</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>32</td>
-    <td class="highlightOrange2">Vile Pumphantasm</td>
-    <td class="highlightOrange2">Dark Digestiphant</td>
-    <td class="highlightBlue">Bad Zalokleft</td>
-    <td class="highlightPurple">Sinful Sr. Yanpii</td>
-    <td class="highlightPurple">Dark Snooztapir</td>
-    <td></td>
-    <td></td>
-    <td class="highlightPurple">Dark Hurler</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>33</td>
-    <td class="highlightOrange2">Dark Grampa Tank</td>
-    <td class="highlightOrange2">Dark Kappa Pest</td>
-    <td class="highlightBlue">Bad Zalokleft</td>
-    <td class="highlightPurple">Sinful Sr. Yanpii</td>
-    <td class="highlightPurple">Dark Snooztapir</td>
-    <td class="highlightPurple">Evil Flamepuff</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>34</td>
-    <td class="highlightOrange2">Dark Grampa Tank</td>
-    <td class="highlightOrange2">Dark Kappa Pest</td>
-    <td class="highlightPurple">Dark Dazikon</td>
-    <td class="highlightBlue">εFO-U</td>
-    <td></td>
-    <td class="highlightPurple">Evil Flamepuff</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>35</td>
-    <td class="highlightPurple">Dark Cave Mamel</td>
-    <td class="highlightPurple">Bad Momoseal</td>
-    <td class="highlightPurple">Dark Dazikon</td>
-    <td class="highlightBlue">εFO-U</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>36</td>
-    <td class="highlightPurple">Dark Cave Mamel</td>
-    <td class="highlightPurple">Bad Momoseal</td>
-    <td class="highlightOrange2">Vile Pumphantom</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>37</td>
-    <td class="highlightPurple">Dark Cave Mamel</td>
-    <td class="highlightPurple">Bad Momoseal</td>
-    <td class="highlightOrange2">Vile Pumphantom</td>
-    <td class="highlightPurple">Dark Sparkbird</td>
-    <td class="highlightPurple">Dark Pandanigiri</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>38</td>
-    <td class="highlightOrange2">Dark N'twyn</td>
-    <td class="highlightBlue">Dark Grass Dude</td>
-    <td class="highlightPurple">Foul Pin Dude</td>
-    <td class="highlightPurple">Dark Sparkbird</td>
-    <td class="highlightPurple">Dark Pandanigiri</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>39</td>
-    <td class="highlightOrange2">Dark N'twyn</td>
-    <td class="highlightBlue">Dark Grass Dude</td>
-    <td class="highlightPurple">Foul Pin Dude</td>
-    <td class="highlightRed">Dark MC Wizard</td>
-    <td class="highlightPurple3">Evil Fencer</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>40</td>
-    <td class="highlightBlue">Bad G. Zalokleft</td>
-    <td class="highlightPurple">Dark VeniScorp</td>
-    <td class="highlightPurple">Hateful Beanie</td>
-    <td class="highlightRed">Dark MC Wizard</td>
-    <td class="highlightPurple3">Evil Fencer</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>41</td>
-    <td class="highlightBlue">Bad G. Zalokleft</td>
-    <td class="highlightPurple">Dark VeniScorp</td>
-    <td class="highlightPurple">Hateful Beanie</td>
-    <td></td>
-    <td class="highlightPurple3">Evil Fencer</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>42</td>
-    <td class="highlightPurple">Dark Eligagan</td>
-    <td class="highlightPurple">Hell's Debaser</td>
-    <td class="highlightPurple">Bad Falcon Tengu</td>
-    <td class="highlightOrange2">Evil Sky Dragon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>43</td>
-    <td class="highlightPurple">Dark Eligagan</td>
-    <td class="highlightPurple">Hell's Debaser</td>
-    <td class="highlightPurple">Bad Falcon Tengu</td>
-    <td class="highlightOrange2">Evil Sky Dragon</td>
-    <td class="highlightPurple">Putrid Acrid Nut</td>
-    <td class="highlightPurple3">Foul Cursister</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>44</td>
-    <td class="highlightGreen">Snide Froggucci</td>
-    <td class="highlightPurple">Dark Steamroid</td>
-    <td class="highlightPurple">Bad Falcon Tengu</td>
-    <td class="highlightOrange2">Evil Sky Dragon</td>
-    <td class="highlightPurple">Putrid Acrid Nut</td>
-    <td class="highlightPurple3">Foul Cursister</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>45</td>
-    <td class="highlightGreen">Snide Froggucci</td>
-    <td class="highlightPurple">Dark Steamroid</td>
-    <td class="highlightPurple">Mean Go-Ham!</td>
-    <td class="highlightPurple">Bad Colocolum</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>46</td>
-    <td class="highlightBlue">Dark Mixermon</td>
-    <td class="highlightPurple">Dark Ironhead</td>
-    <td class="highlightPurple">Mean Go-Ham!</td>
-    <td class="highlightPurple">Bad Colocolum</td>
-    <td class="highlightPurple">Vile Sproutyrant</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>47</td>
-    <td class="highlightBlue">Dark Mixermon</td>
-    <td class="highlightPurple">Dark Ironhead</td>
-    <td class="highlightOrange2">Evil Concusschin</td>
-    <td class="highlightPurple3">Wicked Trowelie</td>
-    <td class="highlightPurple">Vile Sproutyrant</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>48</td>
-    <td class="highlightPurple">Dark Chucker</td>
-    <td></td>
-    <td class="highlightOrange2">Evil Concusschin</td>
-    <td class="highlightPurple3">Wicked Trowelie</td>
-    <td class="highlightPurple">Vile Sproutyrant</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>49</td>
-    <td class="highlightPurple">Dark Chucker</td>
-    <td class="highlightOrange2">Sinister Porkon</td>
-    <td class="highlightOrange2">Dark Scarabbit</td>
-    <td class="highlightPurple3">Wicked Trowelie</td>
-    <td class="highlightOrange2">Vile Pumpanshee</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>50</td>
-    <td class="highlightPurple">Dark Chucker</td>
-    <td class="highlightOrange2">Sinister Porkon</td>
-    <td class="highlightOrange2">Dark Scarabbit</td>
-    <td class="highlightPurple">Evil Blazepuff</td>
-    <td class="highlightOrange2">Vile Pumpanshee</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>51</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td class="highlightPurple">Evil Blazepuff</td>
-    <td class="highlightOrange2">Vile Pumpanshee</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>52</td>
-    <td class="highlightPurple">Evil Hell Gyaza</td>
-    <td class="highlightPurple">Evil PolySinga</td>
-    <td class="highlightOrange2">Dark Flarebird</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>53</td>
-    <td class="highlightPurple">Evil Hell Gyaza</td>
-    <td class="highlightPurple">Evil PolySinga</td>
-    <td class="highlightOrange2">Dark Flarebird</td>
-    <td class="highlightPurple">Dark Eligagon</td>
-    <td class="highlightPurple">Sinful Lt. Yanpii</td>
-    <td class="highlightBlue">Dark Grass Poppa</td>
-    <td class="highlightPurple">Foul Pin Poppa</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>54</td>
-    <td class="highlightPurple">Evil Big Chintala</td>
-    <td class="highlightOrange2">Dark Strong Cart</td>
-    <td></td>
-    <td class="highlightPurple">Dark Eligagon</td>
-    <td class="highlightPurple">Sinful Lt. Yanpii</td>
-    <td class="highlightBlue">Dark Grass Poppa</td>
-    <td class="highlightPurple">Foul Pin Poppa</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>55</td>
-    <td class="highlightPurple">Evil Big Chintala</td>
-    <td class="highlightOrange2">Dark Strong Cart</td>
-    <td class="highlightRed">Dark Dozikon</td>
-    <td class="highlightPurple">Vile Sprouterror</td>
-    <td class="highlightPurple">Sinful Lt. Yanpii</td>
-    <td class="highlightBlue">Dark Grass Poppa</td>
-    <td class="highlightPurple">Foul Pin Poppa</td>
-    <td class="highlightPurple">Putrid Spicy Nut</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>56</td>
-    <td class="highlightPurple">Evil Big Chintala</td>
-    <td class="highlightOrange2">Dark Strong Cart</td>
-    <td class="highlightRed">Dark Dozikon</td>
-    <td class="highlightPurple">Vile Sprouterror</td>
-    <td class="highlightPurple">Dark StunScorp</td>
-    <td class="highlightRed">Evil Archdragon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>57</td>
-    <td class="highlightGreen">Snide Froggon</td>
-    <td class="highlightPurple">Mean Rally Ham</td>
-    <td class="highlightPurple">Evil Jouncy</td>
-    <td class="highlightPurple">Vile Sprouterror</td>
-    <td class="highlightPurple">Dark StunScorp</td>
-    <td class="highlightRed">Evil Archdragon</td>
-    <td></td>
-    <td class="highlightPurple">Putrid Spicy Nut</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>58</td>
-    <td class="highlightGreen">Snide Froggon</td>
-    <td class="highlightPurple">Mean Rally Ham</td>
-    <td class="highlightPurple">Evil Jouncy</td>
-    <td class="highlightOrange2">Foul Nigiri Boss</td>
-    <td class="highlightPurple">Dark Steelhead</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>59</td>
-    <td class="highlightGreen">Snide Froggon</td>
-    <td class="highlightPurple">Mean Rally Ham</td>
-    <td class="highlightPurple">Evil Jouncy</td>
-    <td class="highlightOrange2">Foul Nigiri Boss</td>
-    <td class="highlightPurple">Dark Steelhead</td>
-    <td class="highlightOrange2">Evil Fulminachin</td>
-    <td class="highlightPurple3">Shady Mudder</td>
-    <td class="highlightPurple">Putrid Spicy Nut</td>
-    <td class="highlightPurple">Hell's Ruiner</td>
-  </tr>
-  <tr>
-    <td>60</td>
-    <td class="highlightBlue">Plump Mealy</td>
-    <td class="highlightPurple">Evil Oingodile</td>
-    <td class="highlightBlue">Dark Mixerdon</td>
-    <td></td>
-    <td class="highlightPurple">Dark Steelhead</td>
-    <td class="highlightOrange2">Evil Fulminachin</td>
-    <td class="highlightPurple3">Shady Mudder</td>
-    <td></td>
-    <td class="highlightPurple">Hell's Ruiner</td>
-  </tr>
-  <tr>
-    <td>61</td>
-    <td class="highlightBlue">Plump Mealy</td>
-    <td class="highlightPurple">Evil Oingodile</td>
-    <td class="highlightBlue">Dark Mixerdon</td>
-    <td class="highlightPurple">Evil King Squid</td>
-    <td class="highlightPurple">Evil Pyrepuff</td>
-    <td class="highlightPurple3">Foul Curspinster</td>
-    <td></td>
-    <td class="highlightPurple">Putrid Spicy Nut</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>62</td>
-    <td class="highlightPurple">Bad Momomoseal</td>
-    <td></td>
-    <td class="highlightBlue">Dark Mixerdon</td>
-    <td class="highlightPurple">Evil King Squid</td>
-    <td class="highlightPurple">Evil Pyrepuff</td>
-    <td class="highlightPurple3">Foul Curspinster</td>
-    <td></td>
-    <td class="highlightPurple">Putrid Spicy Nut</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>63</td>
-    <td class="highlightPurple">Bad Momomoseal</td>
-    <td class="highlightPurple">Dark Electroid</td>
-    <td></td>
-    <td></td>
-    <td class="highlightPurple">Evil Pyrepuff</td>
-    <td class="highlightPurple3">Foul Curspinster</td>
-    <td></td>
-    <td class="highlightPurple">Putrid Spicy Nut</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>64</td>
-    <td class="highlightPurple">Bad Momomoseal</td>
-    <td class="highlightPurple">Dark Electroid</td>
-    <td class="highlightBlue">Bad I. Zalokleft</td>
-    <td class="highlightOrange2">Vile Pumptergeist</td>
-    <td class="highlightRed">Dark Horrabbit</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>65</td>
-    <td class="highlightPurple">Dark Onigirizzly</td>
-    <td class="highlightPurple">Dark Googoman</td>
-    <td class="highlightBlue">Bad I. Zalokleft</td>
-    <td class="highlightOrange2">Vile Pumptergeist</td>
-    <td class="highlightRed">Dark Horrabbit</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>66</td>
-    <td class="highlightPurple">Dark Onigirizzly</td>
-    <td class="highlightPurple">Dark Googoman</td>
-    <td class="highlightBlue">Bad I. Zalokleft</td>
-    <td class="highlightOrange2">Vile Pumptergeist</td>
-    <td class="highlightRed">Dark Horrabbit</td>
-    <td class="highlightPurple">Dark Ace</td>
-    <td class="highlightPurple">Bad Eagle Tengu</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>67</td>
-    <td class="highlightPurple">Dark Onigirizzly</td>
-    <td class="highlightPurple">Dark Googoman</td>
-    <td class="highlightPurple3">Violent Gyandoron</td>
-    <td class="highlightRed">Dark MC Sorceror</td>
-    <td class="highlightPurple">Bad Colocolocolum</td>
-    <td class="highlightPurple">Dark Ace</td>
-    <td class="highlightPurple">Bad Eagle Tengu</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>68</td>
-    <td class="highlightPurple">Evil PolyStunna</td>
-    <td></td>
-    <td class="highlightPurple3">Violent Gyandoron</td>
-    <td class="highlightRed">Dark MC Sorceror</td>
-    <td class="highlightPurple">Bad Colocolocolum</td>
-    <td></td>
-    <td class="highlightPurple">Bad Eagle Tengu</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>69</td>
-    <td class="highlightPurple">Evil PolyStunna</td>
-    <td class="highlightOrange2">Filthy Lashagga</td>
-    <td></td>
-    <td class="highlightRed">Dark MC Sorceror</td>
-    <td class="highlightPurple">Bad Colocolocolum</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>70</td>
-    <td class="highlightOrange2">Dark N'dup</td>
-    <td class="highlightOrange2">Filthy Lashagga</td>
-    <td class="highlightOrange2">Sinister Porgon</td>
-    <td class="highlightPurple">Dark Comatapir</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>71</td>
-    <td class="highlightOrange2">Dark N'dup</td>
-    <td class="highlightPurple">Dark Zanbeeto</td>
-    <td class="highlightOrange2">Sinister Porgon</td>
-    <td class="highlightPurple">Dark Comatapir</td>
-    <td class="highlightPurple3">Wicked Shovelie</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>72</td>
-    <td class="highlightOrange2">Dark Pierce Cart</td>
-    <td class="highlightPurple">Dark Zanbeeto</td>
-    <td class="highlightOrange2">Dark Osmammoth</td>
-    <td></td>
-    <td class="highlightPurple3">Wicked Shovelie</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>73</td>
-    <td class="highlightOrange2">Dark Pierce Cart</td>
-    <td class="highlightPurple">Evil Huge Chintala</td>
-    <td class="highlightOrange2">Dark Osmammoth</td>
-    <td class="highlightPurple">Evil Doom Gyaza</td>
-    <td class="highlightRed">Evil Ultra Gazer</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>74</td>
-    <td class="highlightPurple">Dark Bunchukdon</td>
-    <td class="highlightPurple">Evil Huge Chintala</td>
-    <td class="highlightOrange2">Dark Osmammoth</td>
-    <td class="highlightPurple">Evil Doom Gyaza</td>
-    <td class="highlightRed">Evil Ultra Gazer</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>75</td>
-    <td class="highlightPurple">Dark Bunchukdon</td>
-    <td class="highlightPurple3">Dark Knave King</td>
-    <td class="highlightOrange2">Dark Kappa Troll</td>
-    <td class="highlightOrange2">Dark Blazebird</td>
-    <td class="highlightPurple">Dark Steelhead</td>
-    <td class="highlightPurple">Evil Bouncy</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>76</td>
-    <td></td>
-    <td class="highlightPurple3">Dark Knave King</td>
-    <td class="highlightOrange2">Dark Kappa Troll</td>
-    <td class="highlightOrange2">Dark Blazebird</td>
-    <td class="highlightPurple">Dark Steelhead</td>
-    <td class="highlightPurple">Evil Bouncy</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>77</td>
-    <td class="highlightPurple">Hateful Grainie</td>
-    <td class="highlightBlue">Dark Grass Gramps</td>
-    <td class="highlightPurple">Foul Pin Gramps</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>78</td>
-    <td class="highlightPurple">Hateful Grainie</td>
-    <td class="highlightBlue">Dark Grass Gramps</td>
-    <td class="highlightPurple">Foul Pin Gramps</td>
-    <td class="highlightPurple3">Evil Swordmaster</td>
-    <td class="highlightOrange2">Evil Detonachin</td>
-    <td class="highlightPurple">Bad Phoenix Tengu</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>79</td>
-    <td class="highlightPurple">Vile Sproutitan</td>
-    <td class="highlightPurple">Sinful Boss Yanpii</td>
-    <td></td>
-    <td class="highlightPurple3">Evil Swordmaster</td>
-    <td class="highlightOrange2">Evil Detonachin</td>
-    <td class="highlightPurple">Bad Phoenix Tengu</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>80</td>
-    <td class="highlightPurple">Vile Sproutitan</td>
-    <td class="highlightPurple">Sinful Boss Yanpii</td>
-    <td class="highlightGreen">Snide Kleptoad</td>
-    <td class="highlightPurple">Dark Cyberoid</td>
-    <td class="highlightBlue">εFO-Uβ</td>
-    <td class="highlightPurple">Putrid Bitter Nut</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>81</td>
-    <td class="highlightRed">Dark Mesmerikon</td>
-    <td class="highlightPurple">Sinful Boss Yanpii</td>
-    <td class="highlightGreen">Snide Kleptoad</td>
-    <td class="highlightPurple">Dark Cyberoid</td>
-    <td class="highlightBlue">εFO-Uβ</td>
-    <td class="highlightPurple">Putrid Bitter Nut</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>82</td>
-    <td class="highlightRed">Dark Mesmerikon</td>
-    <td class="highlightOrange2">Foul Nigiri King</td>
-    <td class="highlightPurple">Hell's Despoiler</td>
-    <td class="highlightPurple">Dark Cyberoid</td>
-    <td class="highlightBlue">εFO-Uβ</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>83</td>
-    <td class="highlightPurple">Dark Elizgagon</td>
-    <td class="highlightOrange2">Foul Nigiri King</td>
-    <td class="highlightPurple">Hell's Despoiler</td>
-    <td class="highlightPurple">Dark Cyberoid</td>
-    <td class="highlightBlue">εFO-Uβ</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>84</td>
-    <td class="highlightPurple">Dark Elizgagon</td>
-    <td class="highlightPurple3">Foul Cursenior</td>
-    <td class="highlightPurple">Hell's Despoiler</td>
-    <td class="highlightPurple">Dark Doomhead</td>
-    <td class="highlightBlue">εFO-Uβ</td>
-    <td class="highlightPurple">Mean Spirit Ham</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>85</td>
-    <td class="highlightPurple">Evil Boingodile</td>
-    <td class="highlightPurple3">Foul Cursenior</td>
-    <td class="highlightPurple">Bad Momomomoseal</td>
-    <td class="highlightPurple">Dark Doomhead</td>
-    <td class="highlightBlue">εFO-Uβ</td>
-    <td class="highlightPurple">Mean Spirit Ham</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>86</td>
-    <td class="highlightPurple">Dark Doomhead</td>
-    <td class="highlightPurple">Mean Spirit Ham</td>
-    <td class="highlightPurple">Evil Boingodile</td>
-    <td class="highlightBlue">εFO-U</td>
-    <td class="highlightPurple">Bad Momomomoseal</td>
-    <td class="highlightPurple">Putrid Bitter Nut</td>
-    <td class="highlightBlue">Bad Zalokleft King</td>
-    <td class="highlightPurple">Dark BlightScorp</td>
-    <td class="highlightRed">Dark Terrabbit</td>
-  </tr>
-  <tr>
-    <td>87</td>
-    <td class="highlightPurple">Dark Doomhead</td>
-    <td class="highlightPurple">Mean Spirit Ham</td>
-    <td class="highlightPurple">Bad Momomomoseal</td>
-    <td class="highlightBlue">εFO-U</td>
-    <td class="highlightPurple">Dark Kodionigiri</td>
-    <td class="highlightPurple">Putrid Bitter Nut</td>
-    <td class="highlightBlue">Bad Zalokleft King</td>
-    <td class="highlightPurple">Dark BlightScorp</td>
-    <td class="highlightRed">Dark Terrabbit</td>
-  </tr>
-  <tr>
-    <td>88</td>
-    <td class="highlightPurple">Mean Spirit Ham</td>
-    <td class="highlightPurple">Evil Squidperor</td>
-    <td class="highlightPurple">Bad Momomomoseal</td>
-    <td class="highlightBlue">εFO-U</td>
-    <td class="highlightPurple">Dark Kodionigiri</td>
-    <td class="highlightPurple">Putrid Bitter Nut</td>
-    <td class="highlightRed">Evil Abyss Dragon</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>89</td>
-    <td class="highlightPurple">Mean Spirit Ham</td>
-    <td class="highlightPurple">Evil Squidperor</td>
-    <td class="highlightRed">Dark Cranky Tank</td>
-    <td class="highlightBlue">εFO-U</td>
-    <td class="highlightOrange2">Dark Gitan Mamel</td>
-    <td class="highlightPurple">Putrid Bitter Nut</td>
-    <td class="highlightRed">Evil Abyss Dragon</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>90</td>
-    <td class="highlightOrange2">Filthy Bashagga</td>
-    <td class="highlightPurple">Evil Squidperor</td>
-    <td class="highlightRed">Dark Cranky Tank</td>
-    <td class="highlightBlue">εFO-U</td>
-    <td class="highlightOrange2">Dark Gitan Mamel</td>
-    <td></td>
-    <td class="highlightRed">Evil Abyss Dragon</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>91</td>
-    <td class="highlightOrange2">Filthy Bashagga</td>
-    <td class="highlightBlue">εFO-UZ</td>
-    <td></td>
-    <td></td>
-    <td class="highlightOrange2">Dark Gitan Mamel</td>
-    <td></td>
-    <td class="highlightRed">Evil Abyss Dragon</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>92</td>
-    <td class="highlightOrange2">Filthy Bashagga</td>
-    <td class="highlightBlue">εFO-UZ</td>
-    <td class="highlightPurple">Dark Zotdon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td class="highlightRed">Evil Abyss Dragon</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>93</td>
-    <td class="highlightOrange2">Filthy Bashagga</td>
-    <td class="highlightBlue">εFO-UZ</td>
-    <td class="highlightPurple">Dark Zotdon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td class="highlightRed">Evil Abyss Dragon</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>94</td>
-    <td class="highlightOrange2">Filthy Bashagga</td>
-    <td class="highlightBlue">εFO-UZ</td>
-    <td class="highlightPurple">Dark Zotdon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td class="highlightRed">Evil Abyss Dragon</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>95</td>
-    <td class="highlightOrange2">Filthy Bashagga</td>
-    <td class="highlightBlue">εFO-UZ</td>
-    <td class="highlightPurple">Dark Zotdon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td class="highlightRed">Evil Abyss Dragon</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>96</td>
-    <td class="highlightOrange2">Filthy Bashagga</td>
-    <td class="highlightBlue">εFO-UZZ</td>
-    <td class="highlightPurple">Dark Zotdon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td class="highlightRed">Evil Abyss Dragon</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>97</td>
-    <td class="highlightOrange2">Filthy Bashagga</td>
-    <td class="highlightBlue">εFO-UZZ</td>
-    <td class="highlightPurple">Dark Zotdon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td class="highlightRed">Evil Abyss Dragon</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>98</td>
-    <td class="highlightOrange2">Filthy Bashagga</td>
-    <td class="highlightBlue">εFO-UZZ</td>
-    <td class="highlightPurple">Dark Zotdon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td class="highlightRed">Evil Abyss Dragon</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>99</td>
-    <td class="highlightOrange2">Filthy Bashagga</td>
-    <td class="highlightBlue">εFO-UZZ</td>
-    <td class="highlightPurple">Dark Zotdon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td class="highlightRed">Evil Abyss Dragon</td>
-    <td></td>
-    <td></td>
-  </tr>
+  <thead>
+    <tr>
+      <th colspan="9" class="highlightBlack">Night</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td class="highlightPurple">Dark Mamel</td>
+      <td class="highlightPurple">Evil Chintala</td>
+      <td class="highlightPurple">Dark Bored Kappa</td>
+      <td class="highlightPurple">Bad Colum</td>
+      <td class="highlightPurple">Dark Boy Cart</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td class="highlightPurple">Dark Mamel</td>
+      <td class="highlightPurple">Evil Chintala</td>
+      <td class="highlightPurple">Dark Bored Kappa</td>
+      <td class="highlightPurple">Bad Colum</td>
+      <td class="highlightPurple">Dark Boy Cart</td>
+      <td class="highlightPurple">Evil PolySpinna</td>
+      <td class="highlightPurple">Putrid Sweet Nut</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td class="highlightPurple">Dark Mamel</td>
+      <td class="highlightPurple">Evil Chintala</td>
+      <td class="highlightPurple">Dark Bored Kappa</td>
+      <td class="highlightPurple">Dark Tosser</td>
+      <td class="highlightPurple">Dark Naptapir</td>
+      <td class="highlightPurple">Evil PolySpinna</td>
+      <td class="highlightPurple">Putrid Sweet Nut</td>
+      <td class="highlightPurple">Evil Hopodile</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td class="highlightPurple">Dark Mamel</td>
+      <td class="highlightPurple">Dark Karakuroid</td>
+      <td class="highlightPurple3">Violent Gyadon</td>
+      <td class="highlightPurple">Dark Tosser</td>
+      <td class="highlightPurple">Dark Naptapir</td>
+      <td class="highlightPurple">Sinful Yanpii</td>
+      <td class="highlightOrange2">Putrid Sweet Nut<br/>Dark Absorbiphant</td>
+      <td class="highlightPurple">Evil Hopodile</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td class="highlightPurple">Dark Mamel</td>
+      <td class="highlightPurple">Dark Karakuroid</td>
+      <td class="highlightPurple3">Violent Gyadon</td>
+      <td class="highlightPurple">Dark Tosser</td>
+      <td></td>
+      <td class="highlightPurple">Sinful Yanpii</td>
+      <td class="highlightOrange2">Dark Absorbiphant</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td class="highlightPurple">Dark Pop Tank</td>
+      <td class="highlightYellow">Evil Kid Squid</td>
+      <td class="highlightPurple">Sinister Porky</td>
+      <td class="highlightPurple">Dark Tosser</td>
+      <td class="highlightPurple">Dark Flamebird</td>
+      <td class="highlightPurple">Hell's Punisher</td>
+      <td class="highlightPurple3">Shady Mudkin</td>
+      <td class="highlightYellow">Dark Kumonigiri</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td class="highlightPurple">Dark Pop Tank</td>
+      <td class="highlightYellow">Evil Kid Squid</td>
+      <td class="highlightPurple">Sinister Porky</td>
+      <td></td>
+      <td class="highlightPurple">Dark Flamebird</td>
+      <td class="highlightPurple">Hell's Punisher</td>
+      <td class="highlightPurple3">Shady Mudkin</td>
+      <td class="highlightYellow">Dark Kumonigiri</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td class="highlightBlue">Plump Chow</td>
+      <td class="highlightPurple">Dark DJ Mage</td>
+      <td class="highlightPurple3">Wicked Scoopie</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td class="highlightPurple3">Shady Mudkin</td>
+      <td class="highlightYellow">Dark Kumonigiri</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td class="highlightBlue">Plump Chow</td>
+      <td class="highlightPurple">Dark DJ Mage</td>
+      <td class="highlightPurple3">Wicked Scoopie</td>
+      <td class="highlightYellow">Foul Nigiri Baby</td>
+      <td class="highlightPurple3">Evil Gazer</td>
+      <td class="highlightPurple">Dark Mutaikon</td>
+      <td class="highlightPurple">Dark Eligan</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td class="highlightOrange2">Dark N'dubba</td>
+      <td class="highlightPurple">Evil Mid Chintala</td>
+      <td></td>
+      <td class="highlightYellow">Foul Nigiri Baby</td>
+      <td class="highlightPurple3">Evil Gazer</td>
+      <td class="highlightPurple">Dark Mutaikon</td>
+      <td class="highlightPurple">Dark Eligan</td>
+      <td class="highlightPurple">Evil Firepuff</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td class="highlightOrange2">Dark N'dubba</td>
+      <td class="highlightPurple">Evil Mid Chintala</td>
+      <td class="highlightPurple">Putrid Acrid Nut</td>
+      <td class="highlightYellow">Foul Nigiri Baby</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td class="highlightPurple">Evil Firepuff</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td class="highlightPurple">Dark Blade Bee</td>
+      <td class="highlightPurple">Evil Mid Chintala</td>
+      <td class="highlightPurple">Putrid Acrid Nut</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td class="highlightPurple">Evil Firepuff</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td class="highlightPurple3">Wicked Scoopie<br/>Evil Floaty</td>
+      <td class="highlightPurple">Dark DJ Mage</td>
+      <td class="highlightPurple">Putrid Acrid Nut</td>
+      <td class="highlightPurple">Dark Foly</td>
+      <td class="highlightPurple3">Evil Gazer</td>
+      <td class="highlightPurple">Dark Mutaikon</td>
+      <td class="highlightPurple">Dark Eligan</td>
+      <td class="highlightPurple">Evil Firepuff</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td class="highlightPurple">Evil Floaty</td>
+      <td></td>
+      <td></td>
+      <td class="highlightPurple">Dark Foly</td>
+      <td class="highlightPurple3">Evil Gazer</td>
+      <td class="highlightPurple">Dark Mutaikon</td>
+      <td class="highlightPurple">Dark Eligan</td>
+      <td class="highlightPurple">Evil Firepuff</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td class="highlightPurple">Evil Floaty</td>
+      <td class="highlightPurple">Hateful Seedie</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td class="highlightPurple">Dark Eligan</td>
+      <td class="highlightPurple">Evil Firepuff</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td class="highlightPurple">Dark Blade Bee</td>
+      <td class="highlightPurple">Hateful Seedie</td>
+      <td class="highlightPurple">Bad Crow Tengu</td>
+      <td class="highlightPurple">Bad Moseal</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td class="highlightPurple">Dark Blade Bee</td>
+      <td class="highlightPurple">Hateful Seedie</td>
+      <td class="highlightPurple">Bad Crow Tengu</td>
+      <td class="highlightPurple">Bad Moseal</td>
+      <td class="highlightPurple3">Evil Swordsman</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td class="highlightPurple3">Shady Muddy</td>
+      <td class="highlightPurple">Dark Metalhead</td>
+      <td class="highlightPurple">Dark Scorpion</td>
+      <td class="highlightPurple">Evil Hipadile</td>
+      <td class="highlightPurple3">Evil Swordsman</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td class="highlightPurple3">Shady Muddy</td>
+      <td class="highlightPurple">Dark Metalhead</td>
+      <td class="highlightPurple">Dark Scorpion</td>
+      <td class="highlightPurple">Evil Hipadile</td>
+      <td class="highlightPurple3">Evil Swordsman</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td class="highlightBlue">Dark Grass Kid</td>
+      <td class="highlightPurple">Hateful Seedie</td>
+      <td></td>
+      <td class="highlightPurple">Bad Moseal</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td class="highlightBlue">Dark Grass Kid</td>
+      <td class="highlightPurple">Hateful Seedie</td>
+      <td></td>
+      <td class="highlightPurple">Bad Moseal</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td class="highlightBlue">Dark Mixer</td>
+      <td class="highlightPurple">Vile Sproutant</td>
+      <td class="highlightPurple">Evil Hipadile</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td class="highlightBlue">Dark Mixer</td>
+      <td class="highlightPurple">Vile Sproutant</td>
+      <td></td>
+      <td class="highlightPurple">Evil Hipadile</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td class="highlightBlue">Dark Mixer</td>
+      <td class="highlightPurple">Vile Sproutant</td>
+      <td class="highlightPurple">Dark Pit Mamel</td>
+      <td class="highlightPurple">Evil Hipadile</td>
+      <td class="highlightPurple3">Violent Gyairas</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td class="highlightPurple">Dark Cross Cart</td>
+      <td class="highlightOrange2">Dark MC Mage</td>
+      <td class="highlightPurple">Dark Pit Mamel</td>
+      <td class="highlightPurple">Bad Cololum</td>
+      <td class="highlightPurple3">Violent Gyairas</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td class="highlightPurple">Dark Cross Cart</td>
+      <td class="highlightOrange2">Dark MC Mage</td>
+      <td class="highlightPurple">Dark Pit Mamel</td>
+      <td class="highlightPurple">Bad Cololum</td>
+      <td class="highlightPurple3">Violent Gyairas</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td class="highlightPurple">Foul Nigiri Morph</td>
+      <td class="highlightPurple3">Evil Super Gazer</td>
+      <td class="highlightPurple">Dark Zapdon</td>
+      <td class="highlightPurple">Evil Gyaza</td>
+      <td class="highlightPurple">Evil Dragon</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td class="highlightPurple">Foul Nigiri Morph</td>
+      <td class="highlightPurple3">Evil Super Gazer</td>
+      <td class="highlightPurple">Dark Zapdon</td>
+      <td class="highlightPurple">Evil Gyaza</td>
+      <td class="highlightPurple">Evil Dragon</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td class="highlightOrange2">Sinister Porko</td>
+      <td class="highlightOrange2">Dark Fearabbit</td>
+      <td class="highlightOrange2">Filthy Nashagga</td>
+      <td class="highlightPurple">Evil Gyaza</td>
+      <td class="highlightPurple">Evil Dragon</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td class="highlightOrange2">Sinister Porko</td>
+      <td class="highlightOrange2">Dark Fearabbit</td>
+      <td class="highlightOrange2">Filthy Nashagga</td>
+      <td class="highlightPurple">Putrid Acrid Nut</td>
+      <td class="highlightPurple">Dark Hurler</td>
+      <td class="highlightPurple">Evil PolyShaka</td>
+      <td class="highlightPurple3">Wicked Spadie</td>
+      <td class="highlightOrange2">Evil Explochin</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td class="highlightOrange2">Vile Pumphantasm</td>
+      <td class="highlightOrange2">Dark Digestiphant</td>
+      <td class="highlightOrange2">Filthy Nashagga</td>
+      <td class="highlightPurple">Putrid Acrid Nut</td>
+      <td class="highlightPurple">Dark Hurler</td>
+      <td class="highlightPurple">Evil PolyShaka</td>
+      <td class="highlightPurple3">Wicked Spadie</td>
+      <td class="highlightOrange2">Evil Explochin</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td class="highlightOrange2">Vile Pumphantasm</td>
+      <td class="highlightOrange2">Dark Digestiphant</td>
+      <td class="highlightBlue">Bad Zalokleft</td>
+      <td class="highlightPurple">Sinful Sr. Yanpii</td>
+      <td class="highlightPurple">Dark Hurler</td>
+      <td class="highlightPurple">Dark Snooztapir</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td class="highlightOrange2">Dark Grampa Tank</td>
+      <td class="highlightOrange2">Dark Kappa Pest</td>
+      <td class="highlightBlue">Bad Zalokleft</td>
+      <td class="highlightPurple">Sinful Sr. Yanpii</td>
+      <td class="highlightPurple">Evil Flamepuff</td>
+      <td class="highlightPurple">Dark Snooztapir</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td class="highlightOrange2">Dark Grampa Tank</td>
+      <td class="highlightOrange2">Dark Kappa Pest</td>
+      <td class="highlightPurple">Dark Dazikon</td>
+      <td class="highlightBlue">εFO-U</td>
+      <td class="highlightPurple">Evil Flamepuff</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td class="highlightPurple">Dark Cave Mamel</td>
+      <td class="highlightPurple">Bad Momoseal</td>
+      <td class="highlightPurple">Dark Dazikon</td>
+      <td class="highlightBlue">εFO-U</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td class="highlightPurple">Dark Cave Mamel</td>
+      <td class="highlightPurple">Bad Momoseal</td>
+      <td class="highlightOrange2">Vile Pumphantom</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td class="highlightPurple">Dark Cave Mamel</td>
+      <td class="highlightPurple">Bad Momoseal</td>
+      <td class="highlightOrange2">Vile Pumphantom</td>
+      <td class="highlightPurple">Dark Sparkbird</td>
+      <td class="highlightYellow">Dark Pandanigiri</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td class="highlightOrange2">Dark N'twyn</td>
+      <td class="highlightBlue">Dark Grass Dude</td>
+      <td></td>
+      <td class="highlightPurple">Dark Sparkbird</td>
+      <td class="highlightYellow">Dark Pandanigiri</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td class="highlightOrange2">Dark N'twyn</td>
+      <td class="highlightBlue">Dark Grass Dude</td>
+      <td class="highlightRed">Dark MC Wizard</td>
+      <td class="highlightPurple3">Evil Fencer</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td class="highlightBlue">Bad G. Zalokleft</td>
+      <td class="highlightPurple">Dark VeniScorp</td>
+      <td class="highlightRed">Dark MC Wizard</td>
+      <td class="highlightPurple3">Evil Fencer</td>
+      <td class="highlightPurple">Hateful Beanie</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td class="highlightBlue">Bad G. Zalokleft</td>
+      <td class="highlightPurple">Dark VeniScorp</td>
+      <td></td>
+      <td class="highlightPurple3">Evil Fencer</td>
+      <td class="highlightPurple">Hateful Beanie</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td class="highlightPurple">Dark Eligagan</td>
+      <td class="highlightPurple">Hell's Debaser</td>
+      <td></td>
+      <td></td>
+      <td class="highlightPurple">Bad Falcon Tengu</td>
+      <td class="highlightOrange2">Evil Sky Dragon</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td class="highlightPurple">Dark Eligagan</td>
+      <td class="highlightPurple">Hell's Debaser</td>
+      <td class="highlightPurple">Putrid Acrid Nut</td>
+      <td></td>
+      <td class="highlightPurple">Bad Falcon Tengu</td>
+      <td class="highlightOrange2">Evil Sky Dragon</td>
+      <td class="highlightPurple3">Foul Cursister</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td class="highlightGreen">Snide Froggucci</td>
+      <td class="highlightPurple">Dark Steamroid</td>
+      <td class="highlightPurple">Putrid Acrid Nut</td>
+      <td></td>
+      <td class="highlightPurple">Bad Falcon Tengu</td>
+      <td class="highlightOrange2">Evil Sky Dragon</td>
+      <td class="highlightPurple3">Foul Cursister</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td class="highlightGreen">Snide Froggucci</td>
+      <td class="highlightPurple">Dark Steamroid</td>
+      <td class="highlightPurple">Mean Go-Ham!</td>
+      <td class="highlightPurple">Bad Colocolum</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td class="highlightBlue">Dark Mixermon</td>
+      <td class="highlightPurple">Dark Ironhead</td>
+      <td class="highlightPurple">Mean Go-Ham!</td>
+      <td class="highlightPurple">Bad Colocolum</td>
+      <td class="highlightPurple">Vile Sproutyrant</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td class="highlightBlue">Dark Mixermon</td>
+      <td class="highlightPurple">Dark Ironhead</td>
+      <td class="highlightOrange2">Evil Concusschin</td>
+      <td class="highlightPurple3">Wicked Trowelie</td>
+      <td class="highlightPurple">Vile Sproutyrant</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td class="highlightPurple">Dark Chucker</td>
+      <td></td>
+      <td class="highlightOrange2">Evil Concusschin</td>
+      <td class="highlightPurple3">Wicked Trowelie</td>
+      <td class="highlightPurple">Vile Sproutyrant</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td class="highlightPurple">Dark Chucker</td>
+      <td class="highlightOrange2">Sinister Porkon</td>
+      <td class="highlightOrange2">Dark Scarabbit</td>
+      <td class="highlightPurple3">Wicked Trowelie</td>
+      <td class="highlightOrange2">Vile Pumpanshee</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td class="highlightPurple">Dark Chucker</td>
+      <td class="highlightOrange2">Sinister Porkon</td>
+      <td class="highlightOrange2">Dark Scarabbit</td>
+      <td class="highlightPurple">Evil Blazepuff</td>
+      <td class="highlightOrange2">Vile Pumpanshee</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td class="highlightPurple">Evil Blazepuff</td>
+      <td class="highlightOrange2">Vile Pumpanshee</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td class="highlightPurple">Evil Hell Gyaza</td>
+      <td class="highlightPurple">Evil PolySinga</td>
+      <td class="highlightOrange2">Dark Flarebird</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td class="highlightPurple">Evil Hell Gyaza</td>
+      <td class="highlightPurple">Evil PolySinga</td>
+      <td class="highlightOrange2">Dark Flarebird</td>
+      <td class="highlightBlue">Dark Grass Poppa</td>
+      <td class="highlightPurple">Sinful Lt. Yanpii</td>
+      <td class="highlightPurple">Dark Eligagon</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td class="highlightPurple">Evil Big Chintala</td>
+      <td class="highlightOrange2">Dark Strong Cart</td>
+      <td></td>
+      <td class="highlightBlue">Dark Grass Poppa</td>
+      <td class="highlightPurple">Sinful Lt. Yanpii</td>
+      <td class="highlightPurple">Dark Eligagon</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td class="highlightPurple">Evil Big Chintala</td>
+      <td class="highlightOrange2">Dark Strong Cart</td>
+      <td class="highlightPurple">Vile Sprouterror</td>
+      <td class="highlightBlue">Dark Grass Poppa</td>
+      <td class="highlightPurple">Sinful Lt. Yanpii</td>
+      <td class="highlightRed">Dark Dozikon</td>
+      <td class="highlightPurple">Putrid Spicy Nut</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td class="highlightPurple">Evil Big Chintala</td>
+      <td class="highlightOrange2">Dark Strong Cart</td>
+      <td class="highlightPurple">Vile Sprouterror</td>
+      <td class="highlightPurple">Dark StunScorp</td>
+      <td class="highlightRed">Evil Archdragon</td>
+      <td class="highlightRed">Dark Dozikon</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td class="highlightGreen">Snide Froggon</td>
+      <td class="highlightPurple">Mean Rally Ham</td>
+      <td class="highlightPurple">Vile Sprouterror</td>
+      <td class="highlightPurple">Dark StunScorp</td>
+      <td class="highlightRed">Evil Archdragon</td>
+      <td class="highlightPurple">Evil Jouncy</td>
+      <td class="highlightPurple">Putrid Spicy Nut</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td class="highlightGreen">Snide Froggon</td>
+      <td class="highlightPurple">Mean Rally Ham</td>
+      <td class="highlightOrange2">Foul Nigiri Boss</td>
+      <td class="highlightPurple">Dark Steelhead</td>
+      <td></td>
+      <td class="highlightPurple">Evil Jouncy</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td class="highlightGreen">Snide Froggon<br/>Hell's Ruiner</td>
+      <td class="highlightPurple">Mean Rally Ham</td>
+      <td class="highlightOrange2">Foul Nigiri Boss</td>
+      <td class="highlightPurple">Dark Steelhead</td>
+      <td class="highlightOrange2">Evil Fulminachin</td>
+      <td class="highlightPurple">Evil Jouncy</td>
+      <td class="highlightPurple">Putrid Spicy Nut</td>
+      <td class="highlightPurple3">Shady Mudder</td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td class="highlightPurple">Hell's Ruiner</td>
+      <td class="highlightBlue">Dark Mixerdon</td>
+      <td class="highlightPurple">Evil Oingodile</td>
+      <td class="highlightPurple">Dark Steelhead</td>
+      <td class="highlightOrange2">Evil Fulminachin</td>
+      <td class="highlightBlue">Plump Mealy</td>
+      <td></td>
+      <td class="highlightPurple3">Shady Mudder</td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td class="highlightPurple">Evil Pyrepuff</td>
+      <td class="highlightBlue">Dark Mixerdon</td>
+      <td class="highlightPurple">Evil Oingodile</td>
+      <td class="highlightPurple3">Foul Curspinster</td>
+      <td class="highlightPurple">Evil King Squid</td>
+      <td class="highlightBlue">Plump Mealy</td>
+      <td class="highlightPurple">Putrid Spicy Nut</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td class="highlightPurple">Evil Pyrepuff</td>
+      <td class="highlightBlue">Dark Mixerdon</td>
+      <td class="highlightPurple">Bad Momomoseal</td>
+      <td class="highlightPurple3">Foul Curspinster</td>
+      <td class="highlightPurple">Evil King Squid</td>
+      <td></td>
+      <td class="highlightPurple">Putrid Spicy Nut</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td class="highlightPurple">Evil Pyrepuff</td>
+      <td class="highlightPurple">Dark Electroid</td>
+      <td class="highlightPurple">Bad Momomoseal</td>
+      <td class="highlightPurple3">Foul Curspinster</td>
+      <td></td>
+      <td></td>
+      <td class="highlightPurple">Putrid Spicy Nut</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td class="highlightBlue">Bad I. Zalokleft</td>
+      <td class="highlightPurple">Dark Electroid</td>
+      <td class="highlightPurple">Bad Momomoseal</td>
+      <td class="highlightOrange2">Vile Pumptergeist</td>
+      <td class="highlightRed">Dark Horrabbit</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td class="highlightBlue">Bad I. Zalokleft</td>
+      <td class="highlightYellow">Dark Onigirizzly</td>
+      <td></td>
+      <td class="highlightOrange2">Vile Pumptergeist</td>
+      <td class="highlightRed">Dark Horrabbit</td>
+      <td class="highlightPurple">Dark Googoman</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td class="highlightBlue">Bad I. Zalokleft</td>
+      <td class="highlightYellow">Dark Onigirizzly</td>
+      <td class="highlightPurple">Bad Eagle Tengu</td>
+      <td class="highlightOrange2">Vile Pumptergeist</td>
+      <td class="highlightRed">Dark Horrabbit</td>
+      <td class="highlightPurple">Dark Googoman</td>
+      <td class="highlightPurple">Dark Ace</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td class="highlightPurple">Bad Colocolocolum</td>
+      <td class="highlightYellow">Dark Onigirizzly</td>
+      <td class="highlightPurple">Bad Eagle Tengu</td>
+      <td class="highlightRed">Dark MC Sorceror</td>
+      <td class="highlightPurple3">Violent Gyandoron</td>
+      <td class="highlightPurple">Dark Googoman</td>
+      <td class="highlightPurple">Dark Ace</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td class="highlightPurple">Bad Colocolocolum</td>
+      <td class="highlightPurple">Evil PolyStunna</td>
+      <td class="highlightPurple">Bad Eagle Tengu</td>
+      <td class="highlightRed">Dark MC Sorceror</td>
+      <td class="highlightPurple3">Violent Gyandoron</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td class="highlightPurple">Bad Colocolocolum</td>
+      <td class="highlightPurple">Evil PolyStunna</td>
+      <td class="highlightOrange2">Filthy Lashagga</td>
+      <td class="highlightRed">Dark MC Sorceror</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td class="highlightOrange2">Dark N'dup</td>
+      <td class="highlightOrange2">Sinister Porgon</td>
+      <td class="highlightOrange2">Filthy Lashagga</td>
+      <td class="highlightPurple">Dark Comatapir</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td class="highlightOrange2">Dark N'dup</td>
+      <td class="highlightOrange2">Sinister Porgon</td>
+      <td class="highlightPurple">Dark Zanbeeto</td>
+      <td class="highlightPurple">Dark Comatapir</td>
+      <td class="highlightPurple3">Wicked Shovelie</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td class="highlightOrange2">Dark Pierce Cart</td>
+      <td class="highlightOrange2">Dark Osmammoth</td>
+      <td class="highlightPurple">Dark Zanbeeto</td>
+      <td></td>
+      <td class="highlightPurple3">Wicked Shovelie</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td class="highlightOrange2">Dark Pierce Cart</td>
+      <td class="highlightOrange2">Dark Osmammoth</td>
+      <td class="highlightPurple">Evil Huge Chintala</td>
+      <td class="highlightPurple">Evil Doom Gyaza</td>
+      <td class="highlightRed">Evil Ultra Gazer</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td class="highlightPurple">Dark Bunchukdon</td>
+      <td class="highlightOrange2">Dark Osmammoth</td>
+      <td class="highlightPurple">Evil Huge Chintala</td>
+      <td class="highlightPurple">Evil Doom Gyaza</td>
+      <td class="highlightRed">Evil Ultra Gazer</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td class="highlightPurple">Dark Bunchukdon</td>
+      <td class="highlightPurple3">Dark Knave King</td>
+      <td class="highlightOrange2">Dark Kappa Troll</td>
+      <td class="highlightPurple">Dark Steelhead</td>
+      <td class="highlightOrange2">Dark Blazebird</td>
+      <td class="highlightPurple">Evil Bouncy</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td></td>
+      <td class="highlightPurple3">Dark Knave King</td>
+      <td class="highlightOrange2">Dark Kappa Troll</td>
+      <td class="highlightPurple">Dark Steelhead</td>
+      <td class="highlightOrange2">Dark Blazebird</td>
+      <td class="highlightPurple">Evil Bouncy</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td class="highlightPurple">Hateful Grainie</td>
+      <td class="highlightBlue">Dark Grass Gramps</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td class="highlightPurple">Hateful Grainie</td>
+      <td class="highlightBlue">Dark Grass Gramps</td>
+      <td class="highlightPurple3">Evil Swordmaster</td>
+      <td class="highlightPurple">Bad Phoenix Tengu</td>
+      <td class="highlightOrange2">Evil Detonachin</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td class="highlightPurple">Sinful Boss Yanpii</td>
+      <td class="highlightPurple">Vile Sproutitan</td>
+      <td class="highlightPurple3">Evil Swordmaster</td>
+      <td class="highlightPurple">Bad Phoenix Tengu</td>
+      <td class="highlightOrange2">Evil Detonachin</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td class="highlightPurple">Sinful Boss Yanpii</td>
+      <td class="highlightPurple">Vile Sproutitan</td>
+      <td class="highlightGreen">Snide Kleptoad</td>
+      <td class="highlightBlue">εFO-Uβ</td>
+      <td class="highlightPurple">Dark Cyberoid</td>
+      <td class="highlightPurple">Putrid Bitter Nut</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td class="highlightPurple">Sinful Boss Yanpii</td>
+      <td class="highlightRed">Dark Mesmerikon</td>
+      <td class="highlightGreen">Snide Kleptoad</td>
+      <td class="highlightBlue">εFO-Uβ</td>
+      <td class="highlightPurple">Dark Cyberoid</td>
+      <td class="highlightPurple">Putrid Bitter Nut</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td class="highlightOrange2">Foul Nigiri King</td>
+      <td class="highlightRed">Dark Mesmerikon</td>
+      <td class="highlightPurple">Hell's Despoiler</td>
+      <td class="highlightBlue">εFO-Uβ</td>
+      <td class="highlightPurple">Dark Cyberoid</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td class="highlightOrange2">Foul Nigiri King</td>
+      <td class="highlightPurple">Dark Elizgagon</td>
+      <td class="highlightPurple">Hell's Despoiler</td>
+      <td class="highlightBlue">εFO-Uβ</td>
+      <td class="highlightPurple">Dark Cyberoid</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td class="highlightPurple">Mean Spirit Ham</td>
+      <td class="highlightPurple">Dark Elizgagon</td>
+      <td class="highlightPurple">Hell's Despoiler</td>
+      <td class="highlightBlue">εFO-Uβ</td>
+      <td class="highlightPurple">Dark Doomhead</td>
+      <td class="highlightPurple3">Foul Cursenior</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td class="highlightPurple">Mean Spirit Ham</td>
+      <td class="highlightPurple">Bad Momomomoseal</td>
+      <td class="highlightPurple">Evil Boingodile</td>
+      <td class="highlightBlue">εFO-Uβ</td>
+      <td class="highlightPurple">Dark Doomhead</td>
+      <td class="highlightPurple3">Foul Cursenior</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td class="highlightPurple">Mean Spirit Ham</td>
+      <td class="highlightPurple">Bad Momomomoseal</td>
+      <td class="highlightRed">Evil Boingodile<br/></td>
+      <td class="highlightBlue">εFO-U</td>
+      <td class="highlightPurple">Dark Doomhead</td>
+      <td class="highlightPurple">Putrid Bitter Nut</td>
+      <td class="highlightPurple">Dark BlightScorp</td>
+      <td class="highlightBlue">Bad Zalokleft King</td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td class="highlightPurple">Mean Spirit Ham</td>
+      <td class="highlightPurple">Bad Momomomoseal</td>
+      <td class="highlightRed">Dark Terrabbit<br/>Dark Kodionigiri</td>
+      <td class="highlightBlue">εFO-U</td>
+      <td class="highlightPurple">Dark Doomhead</td>
+      <td class="highlightPurple">Putrid Bitter Nut</td>
+      <td class="highlightPurple">Dark BlightScorp</td>
+      <td class="highlightBlue">Bad Zalokleft King</td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td class="highlightRed">Mean Spirit Ham<br/>Evil Abyss Dragon</td>
+      <td class="highlightPurple">Bad Momomomoseal</td>
+      <td class="highlightYellow">Dark Kodionigiri</td>
+      <td class="highlightBlue">εFO-U</td>
+      <td class="highlightYellow">Evil Squidperor</td>
+      <td class="highlightPurple">Putrid Bitter Nut</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td class="highlightRed">Mean Spirit Ham<br/>Evil Abyss Dragon</td>
+      <td></td>
+      <td class="highlightOrange2">Dark Gitan Mamel</td>
+      <td class="highlightBlue">εFO-U</td>
+      <td class="highlightYellow">Evil Squidperor</td>
+      <td class="highlightPurple">Putrid Bitter Nut</td>
+      <td class="highlightRed">Dark Cranky Tank</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td class="highlightRed">Evil Abyss Dragon</td>
+      <td class="highlightOrange2">Filthy Bashagga</td>
+      <td class="highlightOrange2">Dark Gitan Mamel</td>
+      <td class="highlightBlue">εFO-U</td>
+      <td class="highlightYellow">Evil Squidperor</td>
+      <td></td>
+      <td class="highlightRed">Dark Cranky Tank</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td class="highlightRed">Evil Abyss Dragon</td>
+      <td class="highlightOrange2">Filthy Bashagga</td>
+      <td class="highlightOrange2">Dark Gitan Mamel</td>
+      <td class="highlightBlue">εFO-UZ</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td class="highlightRed">Evil Abyss Dragon</td>
+      <td class="highlightOrange2">Filthy Bashagga</td>
+      <td class="highlightPurple">Dark Zotdon</td>
+      <td class="highlightBlue">εFO-UZ</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td class="highlightRed">Evil Abyss Dragon</td>
+      <td class="highlightOrange2">Filthy Bashagga</td>
+      <td class="highlightPurple">Dark Zotdon</td>
+      <td class="highlightBlue">εFO-UZ</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td class="highlightRed">Evil Abyss Dragon</td>
+      <td class="highlightOrange2">Filthy Bashagga</td>
+      <td class="highlightPurple">Dark Zotdon</td>
+      <td class="highlightBlue">εFO-UZ</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td class="highlightRed">Evil Abyss Dragon</td>
+      <td class="highlightOrange2">Filthy Bashagga</td>
+      <td class="highlightPurple">Dark Zotdon</td>
+      <td class="highlightBlue">εFO-UZ</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td class="highlightRed">Evil Abyss Dragon</td>
+      <td class="highlightOrange2">Filthy Bashagga</td>
+      <td class="highlightPurple">Dark Zotdon</td>
+      <td class="highlightBlue">εFO-UZZ</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td class="highlightRed">Evil Abyss Dragon</td>
+      <td class="highlightOrange2">Filthy Bashagga</td>
+      <td class="highlightPurple">Dark Zotdon</td>
+      <td class="highlightBlue">εFO-UZZ</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td class="highlightRed">Evil Abyss Dragon</td>
+      <td class="highlightOrange2">Filthy Bashagga</td>
+      <td class="highlightPurple">Dark Zotdon</td>
+      <td class="highlightBlue">εFO-UZZ</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td class="highlightRed">Evil Abyss Dragon</td>
+      <td class="highlightOrange2">Filthy Bashagga</td>
+      <td class="highlightPurple">Dark Zotdon</td>
+      <td class="highlightBlue">εFO-UZZ</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
 </table>
 
 # Items

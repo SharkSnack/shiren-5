@@ -1,10 +1,10 @@
 ---
-title: "Other"
+title: "Other Items"
 metaTitle: "Other Items - Shiren the Wanderer: Tower of Fortune Wiki"
 metaDescription: "Complete other item details for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
 ---
 
-# Other List
+# Other Items List
 
 <table class="itemListCentered3">
   <tr>
@@ -27,7 +27,7 @@ metaDescription: "Complete other item details for Shiren the Wanderer: The Tower
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="#catstones">Red Cat</a></td>
-    <td class="highlightLightblue"><a href="#item-id">Dirt</a></td>
+    <td class="highlightLightblue"><a href="#dirt">Dirt</a></td>
     <td class="highlightLightblue"><a href="#flowers">Red Spider Lily</a></td>
   </tr>
   <tr>

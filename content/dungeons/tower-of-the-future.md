@@ -235,7 +235,7 @@ Place important pots on the ground in hallways near the stairs room.<br/>(Zalokl
     <td>28</td>
     <td>5</td>
     <td>-</td>
-    <td>Raises attack by 1 stage, grants <a href="/shiren5/system/status-conditions#enduring">Enduring</a> status while cheering.</td>
+    <td>Raises attack by 1 stage, grants <a href="/shiren-5/system/status-conditions#enduring">Enduring</a> status while cheering.</td>
   </tr>
   <tr>
     <td>2-4</td>
@@ -246,7 +246,7 @@ Place important pots on the ground in hallways near the stairs room.<br/>(Zalokl
     <td>66</td>
     <td>5</td>
     <td><span class="greenText">Anti-Aquatic</span></td>
-    <td>Inflicts <a href="/shiren5/system/status-conditions#blind">Blind</a> status 1 tile in front.</td>
+    <td>Inflicts <a href="/shiren-5/system/status-conditions#blind">Blind</a> status 1 tile in front.</td>
   </tr>
   <tr>
     <td>3-5</td>
@@ -257,7 +257,7 @@ Place important pots on the ground in hallways near the stairs room.<br/>(Zalokl
     <td>165</td>
     <td>100</td>
     <td><span class="greenText">Anti-Floating</span><br/><span class="blueText">Anti-Cnf. Bracelet</span></td>
-    <td>Stinger inflicts <a href="/shiren5/system/status-conditions#confused">Confused</a> status, and then it collapses.</td>
+    <td>Stinger inflicts <a href="/shiren-5/system/status-conditions#confused">Confused</a> status, and then it collapses.</td>
   </tr>
   <tr>
     <td>3-5</td>
@@ -279,7 +279,7 @@ Place important pots on the ground in hallways near the stairs room.<br/>(Zalokl
     <td>15</td>
     <td>8</td>
     <td>-</td>
-    <td>Swallows up to 2 items and <a href="/shiren5/system/gameplay-basics#synthesis">synthesizes</a> them.<br/>Increases attack power by 1 stage every time it swallows an item.</td>
+    <td>Swallows up to 2 items and <a href="/shiren-5/system/gameplay-basics#synthesis">synthesizes</a> them.<br/>Increases attack power by 1 stage every time it swallows an item.</td>
   </tr>
   <tr>
     <td>4-6</td>
@@ -312,7 +312,7 @@ Place important pots on the ground in hallways near the stairs room.<br/>(Zalokl
     <td>75</td>
     <td>9</td>
     <td><span class="greenText">Anti-Metal</span><br/><span class="blueText">Dodger Pot</span></td>
-    <td>Throws <a href="/shiren5/item/other-items#dirt">Dirt</a> into a pot 1 tile in front.</td>
+    <td>Throws <a href="/shiren-5/items/other-items#dirt">Dirt</a> into a pot 1 tile in front.</td>
   </tr>
   <tr>
     <td>6-7</td>

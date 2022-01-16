@@ -178,7 +178,7 @@ A regular Peach restores strength to max, so it's not that bad if you lose stren
     <td>24</td>
     <td>7</td>
     <td><span class="blueText">Anti-Crs. Bracelet</span></td>
-    <td><a href="/shiren5/system/gameplay-basics#blessing-curse-seal">Curses or seals</a> 1 item. Throwing an <a href="/shiren5/item/scrolls#exorcism-scroll">Exorcism Scroll</a> deals 100 damage.</td>
+    <td><a href="/shiren-5/system/gameplay-basics#blessing-curse-seal">Curses or seals</a> 1 item. Throwing an <a href="/shiren-5/items/scrolls#exorcism-scroll">Exorcism Scroll</a> deals 100 damage.</td>
   </tr>
   <tr>
     <td>1-2</td>
@@ -189,7 +189,7 @@ A regular Peach restores strength to max, so it's not that bad if you lose stren
     <td>49</td>
     <td>8</td>
     <td><span class="greenText">Anti-Plant</span><br/><span class="blueText">Cleansing Bracelet</span></td>
-    <td>Throws <a href="/shiren5/item/grass#poison-grass">Poison Grass</a> at a target up to 2 tiles ahead.<br/>Throwing an <a href="/shiren5/item/grass#antidote-grass">Antidote Grass</a> deals 50 damage.<br/>It can never drop anything besides Poison Grass when defeated.</td>
+    <td>Throws <a href="/shiren-5/items/grass#poison-grass">Poison Grass</a> at a target up to 2 tiles ahead.<br/>Throwing an <a href="/shiren-5/items/grass#antidote-grass">Antidote Grass</a> deals 50 damage.<br/>It can never drop anything besides Poison Grass when defeated.</td>
   </tr>
   <tr>
     <td>1-3</td>
@@ -200,7 +200,7 @@ A regular Peach restores strength to max, so it's not that bad if you lose stren
     <td>15</td>
     <td>8</td>
     <td>-</td>
-    <td>Swallows up to 2 items and <a href="/shiren5/system/gameplay-basics#synthesis">synthesizes</a> them.<br/>Increases attack power by 1 stage every time it swallows an item.<br/>It has a pretty low spawn rate.</td>
+    <td>Swallows up to 2 items and <a href="/shiren-5/system/gameplay-basics#synthesis">synthesizes</a> them.<br/>Increases attack power by 1 stage every time it swallows an item.<br/>It has a pretty low spawn rate.</td>
   </tr>
   <tr>
     <td>1-3</td>
@@ -222,7 +222,7 @@ A regular Peach restores strength to max, so it's not that bad if you lose stren
     <td>41</td>
     <td>12</td>
     <td><span class="greenText">Anti-Drain</span><br/><span class="blueText">Cleansing Bracelet</span></td>
-    <td>Lowers strength by 1 when you're adjacent to it. (Ally: Inflicts <a href="/shiren5/system/status-conditions#weakened">Weakened</a>)<br/>Throwing an <a href="/shiren5/item/grass#antidote-grass">Antidote Grass</a> deals 50 damage.</td>
+    <td>Lowers strength by 1 when you're adjacent to it. (Ally: Inflicts <a href="/shiren-5/system/status-conditions#weakened">Weakened</a>)<br/>Throwing an <a href="/shiren-5/items/grass#antidote-grass">Antidote Grass</a> deals 50 damage.</td>
   </tr>
   <tr>
     <td>3-4</td>
@@ -233,7 +233,7 @@ A regular Peach restores strength to max, so it's not that bad if you lose stren
     <td>46</td>
     <td>10</td>
     <td><span class="blueText">Alert Bracelet</span></td>
-    <td>Occasionally yawns, inflicting <a href="/shiren5/system/status-conditions#asleep">Asleep</a> status to characters in a 1-tile radius.<br/>Always generated <a href="/shiren5/system/status-conditions#napping">Napping</a>, and won't wake up when Shiren enters or exits<br/>the room or walks next to it.</td>
+    <td>Occasionally yawns, inflicting <a href="/shiren-5/system/status-conditions#asleep">Asleep</a> status to characters in a 1-tile radius.<br/>Always generated <a href="/shiren-5/system/status-conditions#napping">Napping</a>, and won't wake up when Shiren enters or exits<br/>the room or walks next to it.</td>
   </tr>
   <tr>
     <td>3-5</td>
@@ -321,7 +321,7 @@ A regular Peach restores strength to max, so it's not that bad if you lose stren
     <td>28</td>
     <td>5</td>
     <td>-</td>
-    <td>Runs away from Shiren, but attacks if cornered.<br/>Moves toward other monsters to cheer them on (1 tile radius), increasing<br/>attack power by 1 stage and providing <a href="/shiren5/system/status-conditions#enduring">Enduring</a> status while it cheers.<br/>(Its cheer works for Shiren and his allies as well)</td>
+    <td>Runs away from Shiren, but attacks if cornered.<br/>Moves toward other monsters to cheer them on (1 tile radius), increasing<br/>attack power by 1 stage and providing <a href="/shiren-5/system/status-conditions#enduring">Enduring</a> status while it cheers.<br/>(Its cheer works for Shiren and his allies as well)</td>
   </tr>
   <tr>
     <td>6-7</td>
@@ -354,7 +354,7 @@ A regular Peach restores strength to max, so it's not that bad if you lose stren
     <td>66</td>
     <td>5</td>
     <td><span class="greenText">Anti-Aquatic</span></td>
-    <td>Inflicts <a href="/shiren5/system/status-conditions#blind">Blind</a> status when you're adjacent to it.<br/>Transforms into a <a href="/shiren5/item/scrolls#squid-sushi-scroll">Squid Sushi Scroll</a> if you throw an onigiri at it.</td>
+    <td>Inflicts <a href="/shiren-5/system/status-conditions#blind">Blind</a> status when you're adjacent to it.<br/>Transforms into a <a href="/shiren-5/items/scrolls#squid-sushi-scroll">Squid Sushi Scroll</a> if you throw an onigiri at it.</td>
   </tr>
 </table>
 

@@ -391,7 +391,7 @@ Weapons, Shields:
 
 - First item is the base. Runes and upgrade value of subsequent items are added to it.<br/>(Example: Katana first, Scythe+1 second → Katana+1 with <span class="greenText">Anti-Plant</span> rune)
 - Each item has a "rune count", and no more runes can be added once you reach the limit.<br/>(Example: Katana has 4 rune slots)
-- Innate runes get stronger as the item levels up, but runes are always equal to Lv1 effect.<br/>(Example: Lv4 Scythe = 210%, Katana with <span class="greenText">Anti-Plant</span> rune = 135%)<br/>→ [Rune Multipliers](/system/synthesis-runes#multipliers)
+- Innate runes get stronger as the item levels up, but runes are always equal to Lv1 effect.<br/>(Example: Lv4 Scythe = 210%, Lv4 Katana with <span class="greenText">Anti-Plant</span> rune = 135%)<br/>→ [Rune Multipliers](/system/synthesis-runes#multipliers)
 
 Staves:
 
