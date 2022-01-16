@@ -2068,7 +2068,12 @@ Enemy Colors: <span class="highlightBlue">Farming</span>, <span class="highlight
       <td class="highlightPurple">Dark Elizgagon</td>
       <td class="highlightPurple">Dark Doomhead</td>
       <td class="highlightPurple3">Foul Cursenior</td>
+      <td></td>
       <td class="highlightPurple">Mean Spirit Ham</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>36</td>

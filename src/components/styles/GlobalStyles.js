@@ -1434,6 +1434,8 @@ export const baseStyles = css`
     line-height: 1.5;
     margin-bottom: 8px;
     margin-top: 12px;
+    border-left: 10px solid #e2e2fd;
+    padding-left: 6px;
   }
 
   .heading5 {
