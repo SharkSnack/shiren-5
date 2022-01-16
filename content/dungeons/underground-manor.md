@@ -2877,7 +2877,7 @@ See [Traps](/system/traps) for details.
 
 See [Monsters](/system/monsters) for individual monster details.
 
-Enemy Colors: <span class="highlightBlue">Farming</span>, <span class="highlightGreen">Situational Farming</span>, <span class="highlightPurple3">Destroys Items</span>, <span class="highlightOrange2">Dangerous</span>, <span class="highlightRed">Very Dangerous</span>
+Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightGreen">Situational Farming</span> <span class="highlightPurple3">Destroys Items</span> <span class="highlightOrange2">Dangerous</span> <span class="highlightRed">Very Dangerous</span>
 
 <table class="dungeonMonsters">
   <tr>

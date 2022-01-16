@@ -1047,6 +1047,18 @@ export const baseStyles = css`
   .highlightBlue {
     background-color: #a3e0fd !important;
   }
+  .highlightWater {
+    background-color: #3366ff;
+    color: white;
+  }
+  .highlightLava {
+    background-color: #e33f3f;
+    color: white;
+  }
+  .highlightNoWalls {
+    background-color: lightsteelblue;
+    color: white;
+  }
   .highlightBlack {
     background-color: #333333 !important;
     color: white;

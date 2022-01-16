@@ -84,7 +84,7 @@ See Tips and Tricks for Catstone collection tips.
     <th>Shops</th>
     <td>Regular, Elite,<br/>Pick-A-Choice</td>
     <th>Monster Houses</th>
-    <td>Regular, Sudden,<br/>Special</td>
+    <td>Regular, Special, Sudden</td>
   </tr>
   <tr>
     <th>Initial Enemies</th>
@@ -346,7 +346,7 @@ See [Monsters](/system/monsters) for individual monster details.
 
 #### Day Monsters
 
-Enemy Colors: <span class="highlightBlue">Farming</span>, <span class="highlightGreen">Situational Farming</span>, <span class="highlightPurple3">Destroys Items</span>, <span class="highlightOrange2">Dangerous</span>, <span class="highlightRed">Very Dangerous</span>
+Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightGreen">Situational Farming</span> <span class="highlightPurple3">Destroys Items</span> <span class="highlightOrange2">Dangerous</span> <span class="highlightRed">Very Dangerous</span>
 
 <table class="dungeonMonsters">
   <tr>
@@ -1546,7 +1546,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span>, <span class="highlight
 
 #### Night Monsters
 
-Enemy Colors: <span class="highlightBlue">Farming</span>, <span class="highlightGreen">Situational Farming</span>, <span class="highlightPurple3">Destroys Items</span>, <span class="highlightOrange2">Dangerous</span>, <span class="highlightRed">Very Dangerous</span>
+Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightGreen">Situational Farming</span> <span class="highlightPurple3">Destroys Items</span> <span class="highlightOrange2">Dangerous</span> <span class="highlightRed">Very Dangerous</span>
 
 <table class="dungeonMonsters">
   <tr>

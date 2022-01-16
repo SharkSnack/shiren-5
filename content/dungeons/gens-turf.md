@@ -73,7 +73,7 @@ Once you become familiar with them, even a 99F run is nearly guaranteed to be cl
     <th>Shops</th>
     <td>Regular, Elite,<br/>Pick-A-Choice</td>
     <th>Monster Houses</th>
-    <td>Regular, Sudden, Special</td>
+    <td>Regular, Special, Sudden</td>
   </tr>
   <tr>
     <th>Initial Enemies</th>
@@ -242,8 +242,7 @@ However, some shield runes are nice to have, so focus on adding the following ru
 - CR Diet
     - Plain Targe can only be found on the ground until 5F. If you didn't find one, get it from a Presto Pot.<br/>Diet Shield can't be found on the ground, but can be dropped by Maneaters.
 - Unmoving
-    - Steady Shield and Heavy Shield are both shop-exclusive, so you'll likely have to obtain them from Maneaters.
-    Useful for collecting Fearabbit, Tiger Tosser, Yanpii family and DJ Mage licenses.
+    - Steady Shield and Heavy Shield are both shop-exclusive, so you'll likely have to obtain them from Maneaters.<br/>Useful for collecting Fearabbit, Tiger Tosser, Yanpii family and DJ Mage licenses.
 - Anti-Blast
     - Blast Shield can't be found on the ground, but this can be added by leveling a Lock Shield or Safe Shield to Lv8.<br/>It's nice to have this as insurance since Explochins explode in a chain-reaction when hit by an Explosion Trap.<br/>If you're concerned about Pop Tank family monsters, aim to add this rune when Mixers first appear. (9-10F)
 - Anti-Fire
@@ -321,7 +320,7 @@ See Traps for details about traps that aren't listed below.
 
 See [Monsters](/system/monsters) for individual monster details.
 
-Enemy Colors: <span class="highlightBlue">Farming</span>, <span class="highlightGreen">Situational Farming</span>, <span class="highlightPurple3">Destroys Items</span>, <span class="highlightOrange2">Dangerous</span>, <span class="highlightRed">Very Dangerous</span>
+Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightGreen">Situational Farming</span> <span class="highlightPurple3">Destroys Items</span> <span class="highlightOrange2">Dangerous</span> <span class="highlightRed">Very Dangerous</span>
 
 <table class="dungeonMonsters">
   <thead>
