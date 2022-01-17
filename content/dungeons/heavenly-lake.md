@@ -42,7 +42,12 @@ it's best to create powerful New Item bracelets to drastically lower the difficu
       <li><a href="#floor-guide">Floor Guide</a></li>
     </ul>
   </li>
-  <li><a href="#monsters">Monsters</a></li>
+  <li><a href="#monsters">Monsters</a>
+    <ul>
+      <li><a href="#day-monsters">Day Monsters</a></li>
+      <li><a href="#night-monsters">Night Monsters</a></li>
+    </ul>
+  </li>
   <li><a href="#items">Items</a></li>
   <li><a href="#traps">Traps</a></li>
   <li><a href="#npcs">NPCs</a></li>
