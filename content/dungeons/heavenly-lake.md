@@ -119,6 +119,14 @@ it's best to create powerful New Item bracelets to drastically lower the difficu
 
 # Strategy
 
+<ul>
+  <li><a href="#abilities">Abilities</a></li>
+  <li><a href="#identifying-items">Identifying Items</a></li>
+  <li><a href="#equipment">Equipment</a></li>
+  <li><a href="#other-items">Other Items</a></li>
+  <li><a href="#floor-guide">Floor Guide</a></li>
+</ul>
+
 ### Abilities
 
 See [Abilities](/system/necklace-abilities) for details about the mentioned ones.
@@ -1411,7 +1419,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
 <table class="dungeonMonsters">
   <thead>
     <tr>
-      <th colspan="9" class="highlightBlack">Night</th>
+      <th colspan="8" class="highlightBlack">Night</th>
     </tr>
   </thead>
   <tbody>
@@ -1424,7 +1432,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Dark Boy Cart</td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td class="highlightWater">2</td>
@@ -1435,7 +1442,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Dark Boy Cart</td>
       <td class="highlightPurple">Evil PolySpinna</td>
       <td class="highlightPurple">Putrid Sweet Nut</td>
-      <td></td>
     </tr>
     <tr>
       <td class="highlightWater">3</td>
@@ -1445,8 +1451,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td></td>
       <td class="highlightPurple">Dark Tosser</td>
       <td class="highlightPurple">Evil PolySpinna</td>
-      <td class="highlightPurple">Putrid Sweet Nut</td>
-      <td class="highlightPurple">Evil Hopodile</td>
+      <td class="highlightPurple">Putrid Sweet Nut<br/>Evil Hopodile</td>
     </tr>
     <tr>
       <td class="highlightWater">4</td>
@@ -1456,8 +1461,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Dark Karakuroid</td>
       <td class="highlightPurple">Dark Tosser</td>
       <td class="highlightOrange2">Dark Absorbiphant</td>
-      <td class="highlightPurple">Putrid Sweet Nut</td>
-      <td class="highlightPurple">Evil Hopodile</td>
+      <td class="highlightPurple">Putrid Sweet Nut<br/>Evil Hopodile</td>
     </tr>
     <tr>
       <td class="highlightWater">5</td>
@@ -1467,7 +1471,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Dark Karakuroid</td>
       <td class="highlightPurple">Dark Tosser</td>
       <td class="highlightOrange2">Dark Absorbiphant</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -1479,7 +1482,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Dark Tosser</td>
       <td class="highlightPurple">Dark Pop Tank</td>
       <td class="highlightPurple">Evil Kid Squid</td>
-      <td></td>
     </tr>
     <tr>
       <td>7</td>
@@ -1490,7 +1492,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td></td>
       <td class="highlightPurple">Dark Pop Tank</td>
       <td class="highlightPurple">Evil Kid Squid</td>
-      <td></td>
     </tr>
     <tr>
       <td>8</td>
@@ -1498,7 +1499,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Dark DJ Mage</td>
       <td class="highlightPurple">Dark Kumonigiri</td>
       <td class="highlightBlue">Plump Chow</td>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -1510,9 +1510,8 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Foul Nigiri Baby</td>
       <td class="highlightBlue">Plump Chow</td>
       <td class="highlightPurple">Evil Floaty</td>
-      <td class="highlightPurple">Dark Eligan</td>
+      <td class="highlightPurple3">Dark Eligan<br/>Evil Gazer</td>
       <td class="highlightPurple">Dark Mutaikon</td>
-      <td class="highlightPurple3">Evil Gazer</td>
     </tr>
     <tr>
       <td>10</td>
@@ -1521,9 +1520,8 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Foul Nigiri Baby</td>
       <td class="highlightOrange2">Dark N'dubba</td>
       <td class="highlightPurple">Evil Floaty</td>
-      <td class="highlightPurple">Dark Eligan</td>
+      <td class="highlightPurple3">Dark Eligan<br/>Evil Gazer</td>
       <td class="highlightPurple">Dark Mutaikon</td>
-      <td class="highlightPurple3">Evil Gazer</td>
     </tr>
     <tr>
       <td>11</td>
@@ -1531,7 +1529,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Evil Firepuff</td>
       <td class="highlightPurple">Foul Nigiri Baby</td>
       <td class="highlightOrange2">Dark N'dubba</td>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -1545,14 +1542,12 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>13</td>
       <td class="highlightBlue">Dark Grass Kid</td>
       <td class="highlightPurple">Bad Moseal</td>
       <td class="highlightPurple">Hateful Seedie</td>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -1567,7 +1562,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightBlue">Dark Mixer</td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>15</td>
@@ -1576,7 +1570,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Vile Sproutant</td>
       <td class="highlightPurple">Evil Hipadile</td>
       <td class="highlightBlue">Dark Mixer</td>
-      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -1589,7 +1582,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightBlue">Dark Mixer</td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>17</td>
@@ -1599,7 +1591,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Bad Cololum</td>
       <td></td>
       <td class="highlightPurple">Dark Cross Cart</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -1611,7 +1602,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td></td>
       <td class="highlightPurple">Dark Cross Cart</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>19</td>
@@ -1622,7 +1612,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Foul Nigiri Morph</td>
       <td class="highlightPurple">Dark Cross Cart</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>20</td>
@@ -1631,7 +1620,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Evil Gyaza</td>
       <td class="highlightPurple3">Evil Super Gazer</td>
       <td class="highlightPurple">Foul Nigiri Morph</td>
-      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -1644,7 +1632,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightOrange2">Sinister Porko</td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>22</td>
@@ -1655,7 +1642,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightOrange2">Sinister Porko</td>
       <td class="highlightPurple">Evil PolyShaka</td>
       <td class="highlightPurple3">Wicked Spadie</td>
-      <td></td>
     </tr>
     <tr>
       <td>23</td>
@@ -1666,7 +1652,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightOrange2">Dark Digestiphant</td>
       <td class="highlightPurple">Evil PolyShaka</td>
       <td class="highlightPurple3">Wicked Spadie</td>
-      <td></td>
     </tr>
     <tr>
       <td>24</td>
@@ -1676,7 +1661,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightOrange2">Vile Pumphantasm</td>
       <td class="highlightOrange2">Dark Digestiphant</td>
       <td class="highlightPurple">Sinful Sr. Yanpii</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -1688,7 +1672,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightOrange2">Dark Grampa Tank</td>
       <td class="highlightPurple">Sinful Sr. Yanpii</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td class="highlightWater">26</td>
@@ -1697,7 +1680,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Evil Flamepuff</td>
       <td class="highlightOrange2">Dark Kappa Pest</td>
       <td class="highlightOrange2">Dark Grampa Tank</td>
-      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -1710,7 +1692,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td></td>
       <td></td>
       <td class="highlightPurple">Bad Momoseal</td>
-      <td></td>
     </tr>
     <tr>
       <td class="highlightWater">28</td>
@@ -1719,9 +1700,8 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Dark Cave Mamel</td>
       <td class="highlightBlue">Plump Snacky</td>
       <td></td>
-      <td></td>
-      <td class="highlightPurple">Bad Momoseal</td>
       <td class="highlightOrange2">Vile Pumphantom</td>
+      <td class="highlightPurple">Bad Momoseal</td>
     </tr>
     <tr>
       <td class="highlightWater">29</td>
@@ -1730,9 +1710,8 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Dark Cave Mamel</td>
       <td class="highlightBlue">Plump Snacky</td>
       <td class="highlightPurple">Dark Dagger Bee</td>
-      <td class="highlightPurple">Dark Pandanigiri</td>
+      <td class="highlightOrange2">Vile Pumphantom<br/>Dark Pandanigiri</td>
       <td class="highlightPurple">Bad Momoseal</td>
-      <td class="highlightOrange2">Vile Pumphantom</td>
     </tr>
     <tr>
       <td class="highlightWater">30</td>
@@ -1743,7 +1722,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Dark Dagger Bee</td>
       <td class="highlightPurple">Dark Pandanigiri</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>31</td>
@@ -1752,7 +1730,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightOrange2">Dark N'twyn</td>
       <td class="highlightBlue">Dark Grass Dude</td>
       <td class="highlightRed">Dark MC Wizard</td>
-      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -1765,7 +1742,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightRed">Dark MC Wizard</td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>33</td>
@@ -1774,7 +1750,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Hateful Beanie</td>
       <td class="highlightPurple">Evil Poofy</td>
       <td class="highlightPurple">Evil Death Gyaza</td>
-      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -1787,7 +1762,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Evil Death Gyaza</td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>35</td>
@@ -1796,7 +1770,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Bad Falcon Tengu</td>
       <td class="highlightPurple">Dark Eligagan</td>
       <td class="highlightPurple">Putrid Acrid Nut</td>
-      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -1809,7 +1782,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Putrid Acrid Nut</td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>37</td>
@@ -1818,7 +1790,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Mean Go-Ham!</td>
       <td class="highlightGreen">Snide Froggucci</td>
       <td class="highlightPurple">Putrid Acrid Nut</td>
-      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -1831,7 +1802,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightBlue">Dark Mixermon</td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>39</td>
@@ -1842,7 +1812,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightBlue">Dark Mixermon</td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>40</td>
@@ -1850,7 +1819,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightOrange2">Evil Concusschin</td>
       <td class="highlightPurple3">Wicked Trowelie</td>
       <td class="highlightPurple">Dark Chucker</td>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -1864,7 +1832,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightOrange2">Dark Scarabbit</td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td class="highlightWater">42</td>
@@ -1875,14 +1842,12 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightOrange2">Dark Scarabbit</td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td class="highlightWater">43</td>
       <td class="highlightOrange2">Sinister Porkon</td>
       <td class="highlightOrange2">Vile Pumpanshee</td>
       <td class="highlightPurple">Evil Blazepuff</td>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -1897,7 +1862,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td class="highlightWater">45</td>
@@ -1908,7 +1872,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightBlue">Plump Munchy</td>
       <td class="highlightPurple3">Evil Hyper Gazer</td>
       <td class="highlightPurple">Mean Go-Ham!</td>
-      <td></td>
     </tr>
     <tr>
       <td>46</td>
@@ -1919,7 +1882,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightBlue">Plump Munchy</td>
       <td class="highlightPurple3">Evil Hyper Gazer</td>
       <td class="highlightPurple">Mean Go-Ham!</td>
-      <td></td>
     </tr>
     <tr>
       <td>47</td>
@@ -1928,7 +1890,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Dark Huistdon</td>
       <td class="highlightBlue">Dark Mixergon</td>
       <td class="highlightOrange2">Evil Concusschin</td>
-      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -1941,7 +1902,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightOrange2">Evil Concusschin</td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>49</td>
@@ -1951,7 +1911,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td></td>
       <td class="highlightPurple3">Dark Item Knave</td>
       <td class="highlightPurple3">Evil Sensei</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -1963,7 +1922,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple3">Dark Item Knave</td>
       <td class="highlightPurple3">Evil Sensei</td>
       <td class="highlightPurple">Evil Squidfficial</td>
-      <td></td>
     </tr>
     <tr>
       <td>51</td>
@@ -1974,7 +1932,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td></td>
       <td></td>
       <td class="highlightPurple">Evil Squidfficial</td>
-      <td></td>
     </tr>
     <tr>
       <td>52</td>
@@ -1983,7 +1940,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Evil PolySinga</td>
       <td></td>
       <td class="highlightOrange2">Dark Flarebird</td>
-      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -1996,7 +1952,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightOrange2">Dark Flarebird</td>
       <td class="highlightBlue">Dark Grass Poppa</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>54</td>
@@ -2006,7 +1961,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Sinful Lt. Yanpii</td>
       <td></td>
       <td class="highlightBlue">Dark Grass Poppa</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -2018,7 +1972,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightRed">Dark Dozikon</td>
       <td class="highlightBlue">Dark Grass Poppa</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>56</td>
@@ -2028,7 +1981,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightRed">Evil Archdragon</td>
       <td class="highlightRed">Dark Dozikon</td>
       <td class="highlightPurple">Dark StunScorp</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -2040,7 +1992,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Evil Jouncy</td>
       <td class="highlightPurple">Dark StunScorp</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>58</td>
@@ -2051,7 +2002,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Evil Jouncy</td>
       <td></td>
       <td class="highlightOrange2">Foul Nigiri Boss</td>
-      <td></td>
     </tr>
     <tr>
       <td>59</td>
@@ -2062,7 +2012,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Evil Jouncy</td>
       <td class="highlightPurple">Hell's Ruiner</td>
       <td class="highlightOrange2">Foul Nigiri Boss</td>
-      <td></td>
     </tr>
     <tr>
       <td>60</td>
@@ -2072,7 +2021,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightOrange2">Evil Fulminachin</td>
       <td class="highlightBlue">Plump Mealy</td>
       <td class="highlightPurple">Hell's Ruiner</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -2084,7 +2032,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightBlue">Plump Mealy</td>
       <td class="highlightPurple">Putrid Spicy Nut</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td class="highlightWater">62</td>
@@ -2094,7 +2041,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Evil King Squid</td>
       <td></td>
       <td class="highlightPurple">Putrid Spicy Nut</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -2106,7 +2052,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td></td>
       <td class="highlightPurple">Putrid Spicy Nut</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td class="highlightWater">64</td>
@@ -2114,7 +2059,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightOrange2">Vile Pumptergeist</td>
       <td class="highlightPurple">Bad Momomoseal</td>
       <td class="highlightPurple">Dark Electroid</td>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -2128,7 +2072,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td></td>
       <td class="highlightPurple">Dark Onigirizzly</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>66</td>
@@ -2139,7 +2082,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td></td>
       <td class="highlightPurple">Dark Onigirizzly</td>
       <td class="highlightPurple">Dark Ace</td>
-      <td></td>
     </tr>
     <tr>
       <td>67</td>
@@ -2150,7 +2092,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple3">Violent Gyandoron</td>
       <td class="highlightPurple">Dark Onigirizzly</td>
       <td class="highlightPurple">Dark Ace</td>
-      <td></td>
     </tr>
     <tr>
       <td>68</td>
@@ -2161,7 +2102,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple3">Violent Gyandoron</td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>69</td>
@@ -2169,7 +2109,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightRed">Dark MC Sorceror</td>
       <td class="highlightOrange2">Filthy Lashagga</td>
       <td class="highlightPurple">Evil PolyStunna</td>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -2183,7 +2122,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightOrange2">Dark N'dup</td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>71</td>
@@ -2194,7 +2132,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightOrange2">Dark N'dup</td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>72</td>
@@ -2202,7 +2139,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightOrange2">Dark Osmammoth</td>
       <td class="highlightPurple3">Wicked Shovelie</td>
       <td class="highlightPurple">Dark Zanbeeto</td>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -2216,7 +2152,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Evil Huge Chintala</td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>74</td>
@@ -2225,7 +2160,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightRed">Evil Ultra Gazer</td>
       <td class="highlightPurple">Evil Doom Gyaza</td>
       <td class="highlightPurple">Evil Huge Chintala</td>
-      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -2238,7 +2172,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple3">Dark Knave King</td>
       <td class="highlightPurple">Dark Steelhead</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>76</td>
@@ -2249,7 +2182,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple3">Dark Knave King</td>
       <td class="highlightPurple">Dark Steelhead</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>77</td>
@@ -2257,7 +2189,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightBlue">Dark Grass Gramps</td>
       <td></td>
       <td class="highlightPurple">Hateful Grainie</td>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -2271,7 +2202,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple3">Evil Swordmaster</td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>79</td>
@@ -2282,7 +2212,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple3">Evil Swordmaster</td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>80</td>
@@ -2290,7 +2219,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Sinful Boss Yanpii</td>
       <td class="highlightGreen">Snide Kleptoad</td>
       <td class="highlightPurple">Vile Sproutitan</td>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -2304,7 +2232,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightRed">Dark Mesmerikon</td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td class="highlightWater">82</td>
@@ -2315,7 +2242,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightRed">Dark Mesmerikon</td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td class="highlightWater">83</td>
@@ -2323,7 +2249,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightOrange2">Foul Nigiri King</td>
       <td class="highlightPurple">Dark Elizgagon</td>
       <td class="highlightPurple">Hell's Despoiler</td>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -2337,7 +2262,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td class="highlightWater">85</td>
@@ -2347,7 +2271,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td></td>
       <td class="highlightPurple">Evil Boingodile</td>
       <td class="highlightPurple">Putrid Bitter Nut</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -2359,7 +2282,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Evil Boingodile</td>
       <td class="highlightPurple">Putrid Bitter Nut</td>
       <td class="highlightRed">Dark Terrabbit</td>
-      <td></td>
     </tr>
     <tr>
       <td class="highlightWater">87</td>
@@ -2370,7 +2292,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Dark Kodionigiri</td>
       <td class="highlightPurple">Putrid Bitter Nut</td>
       <td class="highlightRed">Dark Terrabbit</td>
-      <td></td>
     </tr>
     <tr>
       <td class="highlightWater">88</td>
@@ -2380,7 +2301,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightPurple">Evil Squidperor</td>
       <td class="highlightPurple">Dark Kodionigiri</td>
       <td class="highlightPurple">Putrid Bitter Nut</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -2392,7 +2312,6 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightRed">Dark Cranky Tank</td>
       <td class="highlightPurple">Putrid Bitter Nut</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td class="highlightWater">90</td>
@@ -2403,14 +2322,12 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightRed">Dark Cranky Tank</td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td class="highlightWater">91</td>
       <td class="highlightRed">Evil Abyss Dragon</td>
       <td class="highlightOrange2">Filthy Bashagga</td>
       <td class="highlightOrange2">Dark Gitan Mamel</td>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -2425,14 +2342,12 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td class="highlightWater">93</td>
       <td class="highlightRed">Evil Abyss Dragon</td>
       <td class="highlightOrange2">Filthy Bashagga</td>
       <td class="highlightPurple">Dark Zotdon</td>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -2447,14 +2362,12 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td class="highlightWater">95</td>
       <td class="highlightRed">Evil Abyss Dragon</td>
       <td class="highlightOrange2">Filthy Bashagga</td>
       <td class="highlightPurple">Dark Zotdon</td>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -2469,14 +2382,12 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td class="highlightWater">97</td>
       <td class="highlightRed">Evil Abyss Dragon</td>
       <td class="highlightOrange2">Filthy Bashagga</td>
       <td class="highlightPurple">Dark Zotdon</td>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -2491,14 +2402,12 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td class="highlightWater">99</td>
       <td class="highlightRed">Evil Abyss Dragon</td>
       <td class="highlightOrange2">Filthy Bashagga</td>
       <td class="highlightPurple">Dark Zotdon</td>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>

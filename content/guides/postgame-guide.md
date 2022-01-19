@@ -19,6 +19,29 @@ This page provides a list of objectives to work toward, along with recommendatio
 
 Keep in mind that most objectives can be done in any order, and at your own pace.<br/>It's important to have fun with what you're doing, instead of treating it as a chore.
 
+<ul class="quickLinksUL">
+  <li><a href="#unlock-secret-pots">Unlock Secret Pots</a></li>
+  <li><a href="#unlock-dungeons">Unlock Dungeons</a></li>
+  <li><a href="#challenge-dungeons">Challenge Dungeons</a></li>
+  <li><a href="#become-ultra-powerful">Become Ultra Powerful</a>
+    <ul>
+      <li><a href="#obtain-key-items">Obtain Key Items</a></li>
+      <li><a href="#collect-points">Collect Points</a></li>
+      <li><a href="#level-up-equipment">Level Up Equipment</a></li>
+      <li><a href="#upgrade-equipment">Upgrade Equipment</a></li>
+      <li><a href="#synthesize-powerful-runes">Synthesize Powerful Runes</a></li>
+      <li><a href="#create-new-items">Create New Items</a></li>
+    </ul>
+    <li><a href="#learn-abilities">Learn Abilities</a></li>
+    <li><a href="#obtain-expulsion-scroll">Obtain Expulsion Scroll</a></li>
+    <li><a href="#level-up-allies">Level Up Allies</a></li>
+    <li><a href="#clear-icons">Clear Icons</a></li>
+    <li><a href="#book-completion">Book Completion</a></li>
+    <li><a href="#expert-badges">Expert Badges</a></li>
+    <li><a href="#speedrunning">Speedrunning</a></li>
+  </li>
+</ul>
+
 ## Unlock Secret Pots
 
 PS Vita / Switch / Steam
