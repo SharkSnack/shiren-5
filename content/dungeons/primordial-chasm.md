@@ -681,47 +681,127 @@ This section only lists grass items that are worth carrying.
 
 ### Farming
 
-#### Grass Kid
+#### Grass Kid Hunting
 
+##### Grass Kids (3-5F)
 
+Hunt Grass Kids between 3\~5F for grass items.<br/>
+This lets you collect synthesis ingredients and identify quite a few grasses.<br/>
+However, you'll want to save some food for Mixer floors, so don't overdo it.<br/>
+The spawn rate for Grass Kids from highest to lowest is 5F > 4F > 3F.
+
+##### Grass Factory
+
+Level up a Grass Kid into a Grass Poppa, then have it repeatedly throw grass at you.<br/>
+※ Don't bother performing this technique in Primordial Chasm.
 
 #### Collect Arrows
 
+##### Karakuroid Monsters
 
+Have Karakuroids create arrow traps, then throw rocks or items onto the trap to collect arrows.<br/>
+Wood Arrow (1-10F) and Iron Arrow (6-15F) traps only appear near the beginning,<br/>and Poison Arrow Trap (1-50F) no longer appears starting on 51F.
+
+- 6\~8F - Karakuroid
+- 22\~23F - Steamroid
+- 48\~50F - Electroid
+
+##### Dodger Pot
+
+Use a Dodger Pot on a floor where Boy Cart or Porky appears, then collect arrows or Porky Rocks.<br/>Level up the Boy Cart before using the Dodger Pot, and keep in mind your projectiles miss too.<br/>One use can result in hundreds of arrows, giving your run a significant push toward success.<br/>It can be handy to know that Pop Tank turns into a Pierce Cart when leveled down.<br/>It's best to create a Strong Cart to collect Knockback Arrows.
+
+- 19\~20F - Boy Cart
+- 28\~29F - Cross Cart
+- 51\~52F - Strong Cart
 
 #### Nigiri Morph Factory
 
+Have a Nigiri Morph transform unneeded items into Large Onigiri.<br/>
+Increase max fullness to at least 120 to help with maintaining Super status, though 200 is best.<br/>
+This can be done on any floor where a Nigiri Baby monster appears, but the standard floor range<br/>is either 22\~23F (Nigiri Morph) or 6\~8F (level up a Nigiri Baby and lower its attack power).
 
+- 6\~8F - Nigiri Baby
+- 22\~23F - Nigiri Morph
+- 44\~45F - Nigiri Boss
 
 #### Rotten Onigiri
 
+Have a Karakuroid create a Decay Trap, then use projectiles at monsters who are standing on the trap<br/>to turn them into Rotten Onigiri, then get hit by fire or explosion damage to grill the onigiri.<br/>Projectile accuracy is 84%, so it can be done without Inacc. Bracelet or Killer Arrows.<br/>Karakuroid and Pop Tank overlap on 8F, making it the ideal floor for this technique.
 
+- 6\~8F - Karakuroid
+- 22\~23F - Steamroid
+- 48\~50F - Electroid
+- 72\~74F - Cyberoid
 
 #### Super Status
 
-
+The idea is to create a situation where you can safely defeat lots of enemies to trigger Super status.<br/>
+Mudkins spawn on 12F and water tiles are common, so position them on a water tile if available<br/>and punch them to have them duplicate and restore HP at the same time.
 
 #### FO-UZZ for Revival Grass
 
-
+FO-UZZ (72\~73F) drops 1\~3 Revival Grass when defeated.<br/>
+It's easiest on 73F, since you can paralyze it and then have a Detonachin explode to one-shot it.<br/>Another method is to inflict Sealed status and use arrows from a distance.
 
 #### Maneater Hunting
 
+Defeat Maneaters using direct attacks to quickly level up equipment.<br/>It's possible to reach Lv8 on 1 floor with Tinkerer status from a blessed Upgrade Seed or Super status.<br/>Maneaters have a 31% item drop rate, and always drop a shop table item which are often higher quality.<br/>However, beware of grass item drops, since the shop table includes Imabikiso and Amnesia Grass.<br/>The standard floors to perform this technique are around 14F, 22F, or 33F.
 
+They have very high attack power, inflict Paralyzed status by roaring, and ignore Sanctuary Scroll.<br/>Maneaters act once per turn, but change to Swift 1 when Shiren is in view, so Slow status is pointless.<br/>Therefore, you need to create a situation where you don't get hit, or can withstand its attacks.
+
+If you see a Munchy on 14F, trap it in the corner of a room using Fort. Staff or paralyzed monsters<br/>to safely hunt Maneaters without having to use any other items. (Stairs room is ideal)<br/>This can also be done on 15F, but Foly can defeat the Munchy using lightning if left unparalyzed.
+
+The following items help:
+
+- Blessed Peach or Immunity Scroll
+    - Makes you immune to Paralyzed status inflicted by roars.
+- Blessed Upgrade Seed
+    - Grants Tinkerer status for the duration of the floor - not needed if you have it from Super status.
+- Monster Detector or Navigation Scroll
+    - Weaken or disable Maneaters from within hallways if you don't have Immune status.
+- Hard Peach
+    - Grants Bolstered status, reducing the amount of damage you receive.
+    - Eat 3~4 of them to be able to trade hits, and it's even better if you have a Day Shield.
+- Poison Arrow
+    - Lower Maneater's attack power by shooting multiple arrows.
+- Fort. Staff + <span class="greenText">Tri-direction</span>
+    - Create a barricade using Fort. Staff, then attack through corners and defeat Maneaters risk-free.
+    - A Paralyzed monster can be used instead of a Fort. Staff, but be careful not to hit it.
+- Clone Staff, Conf. Talisman, Blinding Grass, Fear Scroll, etc.
+    - Ailments only last 1/2 the normal duration when Maneater is Swift 1 from Shiren being in view,<br/>so short duration statuses like Sleep, Laughing, and Inaccurate aren't effective.
+    - Maneaters return to regular speed when Blind, since they lose sight of Shiren.
+- Inacc. Bracelet or Dodger Pot or Killer Arrow
+    - Throw an item or shoot an arrow while a Maneater is standing on a trap to defeat it safely.<br/>Steamroids overlap with Ominous Aura on 22F, making it the ideal floor for this method.
+    - Sleep Trap is the best option, but Spin or Blind can be used as well.<br/>Hunger and Strip only lower stats by 1 stage, so they're not particularly effective.
+    - Swift Maneater movement is unpredictable since they can spend turns roaring instead of moving,<br/>so it can be tricky to position them on a trap, and there's a pretty high risk of getting hit.
 
 #### Zalokleft Hunting
 
+Hunt Zalokleft monsters for item drops.
 
+- 17\~18F - Zalokleft
+- 21\~23F - Green Zalokleft
+- 59\~60F - Iron Zalokleft
+- 87\~89F - Zalokleftis King
 
 ### Floor Guide
 
 #### Early Game (1-21F)
 
-
+Floor range where the focus is on identifying and synthesizing items.<br/>
+Key monsters appear one after the next, including Grass Kids (3-5F), Karakuroids (6-8F), Mixers (8-10F).<br/>10F is the most important early game floor, since a guaranteed shop overlaps with Mixers.
 
 ##### 1-5F
 
+Generally check every room for items, then advance to the next floor.<br/>There isn't a whole lot you can do yet, but there are a few things to watch for.
 
+- Step on Gitan and swap it with an inventory item instead of picking it up.<br/>
+
+- Use staves and talismans to identify them soon after picking them up.<br/>
+
+- Level up a Pit Mamel (3\~5F) and defeat it to gain lots of experience points.<br/>
+
+- Hunt Grass Kids (3\~5F) for grass items.<br/>
 
 ##### 6-8F
 
