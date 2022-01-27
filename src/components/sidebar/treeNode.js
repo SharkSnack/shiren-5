@@ -35,7 +35,8 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         items[5] = { items:[], label: 'stealing', title: 'Stealing', url: '/guides/stealing'};
         items[6] = { items:[], label: 'book-completion', title: 'Book Completion', url: '/guides/book-completion'};
         items[7] = { items:[], label: 'rescue-passwords', title: 'Rescue Passwords', url: '/guides/rescue-passwords'};
-        items[8] = { items:[], label: 'speedrunning', title: 'Speedrunning', url: '/guides/speedrunning'};
+        items[8] = { items:[], label: 'trivia-and-glitches', title: 'Trivia and Glitches', url: '/guides/trivia-and-glitches'};
+        items[9] = { items:[], label: 'speedrunning', title: 'Speedrunning', url: '/guides/speedrunning'};
         break;
       case 'bracelets': // items
         items[0] = { items:[], label: 'price-chart', title: 'Price Chart', url: '/items/price-chart'};
