@@ -25,100 +25,101 @@ Related pages:<br/>
   </li>
   <li><a href="#food">Food</a>
     <ul>
-      <li><a href="#general">Replenishing Fullness</a></li>
-      <li><a href="#general">Protect Food from Decay Traps</a></li>
-      <li><a href="#general">Eating Priority</a></li>
-      <li><a href="#general">Grilling Onigiri</a></li>
-      <li><a href="#general">Making Squid Sushi Scroll</a></li>
-      <li><a href="#general">Ripening Peaches</a></li>
+      <li><a href="#replenishing-fullness">Replenishing Fullness</a></li>
+      <li><a href="#protect-food-from-decay-traps">Protect Food from Decay Traps</a></li>
+      <li><a href="#eating-priority">Eating Priority</a></li>
+      <li><a href="#grilling-onigiri">Grilling Onigiri</a></li>
+      <li><a href="#making-squid-sushi-scroll">Making Squid Sushi Scroll</a></li>
+      <li><a href="#ripening-peaches">Ripening Peaches</a></li>
     </ul>
   </li>
   <li><a href="#dungeon">Dungeon</a>
     <ul>
-      <li><a href="#general">Early Game Combat</a></li>
-      <li><a href="#general">Step in Place</a></li>
-      <li><a href="#general">Heal Before Advancing</a></li>
-      <li><a href="#general">Gang Up on Monsters</a></li>
-      <li><a href="#general">Attack Through Walls</a></li>
-      <li><a href="#general">Handling Confusion</a></li>
-      <li><a href="#general">Arrows in Hallways</a></li>
-      <li><a href="#general">Warping Methods</a></li>
-      <li><a href="#general">Check for Stairs? Trap</a></li>
-      <li><a href="#general">Lag Check</a></li>
+      <li><a href="#early-game-combat">Early Game Combat</a></li>
+      <li><a href="#step-in-place">Step in Place</a></li>
+      <li><a href="#heal-before-advancing">Heal Before Advancing</a></li>
+      <li><a href="#gang-up-on-monsters">Gang Up on Monsters</a></li>
+      <li><a href="#attack-through-or-over-walls">Attack Through or Over Walls</a></li>
+      <li><a href="#handling-confusion">Handling Confusion</a></li>
+      <li><a href="#arrows-in-hallways">Arrows in Hallways</a></li>
+      <li><a href="#warping-methods">Warping Methods</a></li>
+      <li><a href="#utilize-traps">Utilize Traps</a></li>
+      <li><a href="#check-for-stairs?-trap">Check for Stairs? Trap</a></li>
+      <li><a href="#lag-check">Lag Check</a></li>
     </ul>
   </li>
   <li><a href="#monster">Monster</a>
     <ul>
-      <li><a href="#general">Enemies Immune to Projectiles</a></li>
-      <li><a href="#general">Ranged Attackers - Zigzag Movement</a></li>
-      <li><a href="#general">Naptapir - Don't Get Close</a></li>
-      <li><a href="#general">Mudkin - Unequip Items</a></li>
-      <li><a href="#general">Foly - Watch its Color</a></li>
-      <li><a href="#general">Swordsman - What's Behind You?</a></li>
-      <li><a href="#general">Gyadon - Keep Items in Pots</a></li>
-      <li><a href="#general">Scoopie - Place Pots Down</a></li>
+      <li><a href="#enemies-immune-to-projectiles">Enemies Immune to Projectiles</a></li>
+      <li><a href="#ranged-attackers---zigzag-movement">Ranged Attackers - Zigzag Movement</a></li>
+      <li><a href="#naptapir---don't-get-close">Naptapir - Don't Get Close</a></li>
+      <li><a href="#mudkin---unequip-items">Mudkin - Unequip Items</a></li>
+      <li><a href="#foly---watch-its-color">Foly - Watch its Color</a></li>
+      <li><a href="#swordsman---what's-behind-you?">Swordsman - What's Behind You?</a></li>
+      <li><a href="#gyadon---keep-items-in-pots">Gyadon - Keep Items in Pots</a></li>
+      <li><a href="#scoopie---place-pots-down">Scoopie - Place Pots Down</a></li>
     </ul>
   </li>
   <li><a href="#item">Item</a>
     <ul>
-      <li><a href="#general">Use Book when Naming</a></li>
-      <li><a href="#general">Name Preservation Pots</a></li>
-      <li><a href="#general">Gitan as a Projectile</a></li>
-      <li><a href="#general">Increase Max HP</a></li>
-      <li><a href="#general">Hit and Run Tactics</a></li>
-      <li><a href="#general">Throw Staves with 0 Uses</a></li>
-      <li><a href="#general">Inserting into Presto Pots</a></li>
-      <li><a href="#general">Throw Pots to Trigger Traps</a></li>
-      <li><a href="#general">Cursing / Sealing Items</a></li>
+      <li><a href="#use-book-when-naming">Use Book when Naming</a></li>
+      <li><a href="#name-preservation-pots">Name Preservation Pots</a></li>
+      <li><a href="#gitan-as-a-projectile">Gitan as a Projectile</a></li>
+      <li><a href="#increase-max-hp">Increase Max HP</a></li>
+      <li><a href="#hit-and-run-tactics">Hit and Run Tactics</a></li>
+      <li><a href="#throw-staves-with-0-uses">Throw Staves with 0 Uses</a></li>
+      <li><a href="#inserting-into-presto-pots">Inserting into Presto Pots</a></li>
+      <li><a href="#throw-pots-to-trigger-traps">Throw Pots to Trigger Traps</a></li>
+      <li><a href="#cursing-/-sealing-items">Cursing / Sealing Items</a></li>
     </ul>
   </li>
   <li><a href="#equipment">Equipment</a>
     <ul>
-      <li><a href="#general">Sub Weapon</a></li>
-      <li><a href="#general">Diet Shield</a></li>
-      <li><a href="#general">Binary Shield</a></li>
-      <li><a href="#general">Shield Added Runes</a></li>
+      <li><a href="#sub-weapon">Sub Weapon</a></li>
+      <li><a href="#diet-shield">Diet Shield</a></li>
+      <li><a href="#binary-shield">Binary Shield</a></li>
+      <li><a href="#shield-added-runes">Shield Added Runes</a></li>
     </ul>
   </li>
   <li><a href="#synthesis">Synthesis</a>
     <ul>
-      <li><a href="#general">Mixer Identification</a></li>
-      <li><a href="#general">Sub Equipment to Reduce Risk</a></li>
-      <li><a href="#general">Transfer Upgrade Value</a></li>
-      <li><a href="#general">Increase Mixer Count - Level Up</a></li>
-      <li><a href="#general">Increase Mixer Count - Stomach Expander</a></li>
+      <li><a href="#mixer-identification">Mixer Identification</a></li>
+      <li><a href="#sub-equipment-to-reduce-risk">Sub Equipment to Reduce Risk</a></li>
+      <li><a href="#transfer-upgrade-value">Transfer Upgrade Value</a></li>
+      <li><a href="#increase-mixer-count---level-up">Increase Mixer Count - Level Up</a></li>
+      <li><a href="#increase-mixer-count---stomach-expander">Increase Mixer Count - Stomach Expander</a></li>
     </ul>
   </li>
-  <li><a href="#hunting">Farming</a>
+  <li><a href="#farming">Farming</a>
     <ul>
-      <li><a href="#general">Level Up Monsters</a></li>
-      <li><a href="#general">Arrows</a></li>
-      <li><a href="#general">Gitan</a></li>
-      <li><a href="#general">Super Status</a></li>
-      <li><a href="#general">Rotten Onigiri</a></li>
-      <li><a href="#general">Nigiri Morph Factory</a></li>
-      <li><a href="#general">Zalokleft Hunting</a></li>
-      <li><a href="#general">Mutaikon Hunting</a></li>
-      <li><a href="#general">Grass Kid Hunting</a></li>
-      <li><a href="#general">Grass Factory</a></li>
-      <li><a href="#general">Maneater Hunting</a></li>
-      <li><a href="#general">FO-UZZ for Revival Grass</a></li>
+      <li><a href="#level-up-monsters">Level Up Monsters</a></li>
+      <li><a href="#arrows">Arrows</a></li>
+      <li><a href="#gitan">Gitan</a></li>
+      <li><a href="#super-status">Super Status</a></li>
+      <li><a href="#rotten-onigiri">Rotten Onigiri</a></li>
+      <li><a href="#nigiri-morph-factory">Nigiri Morph Factory</a></li>
+      <li><a href="#zalokleft-hunting">Zalokleft Hunting</a></li>
+      <li><a href="#mutaikon-hunting">Mutaikon Hunting</a></li>
+      <li><a href="#grass-kid-hunting">Grass Kid Hunting</a></li>
+      <li><a href="#grass-factory">Grass Factory</a></li>
+      <li><a href="#maneater-hunting">Maneater Hunting</a></li>
+      <li><a href="#fo-uzz-for-revival-grass">FO-UZZ for Revival Grass</a></li>
     </ul>
   </li>
-  <li><a href="#collecting">Earning</a>
+  <li><a href="#earning">Earning</a>
     <ul>
-      <li><a href="#general">Level Up Allies</a></li>
-      <li><a href="#general">Equipment, Upgrade Value, Synthesis Pots</a></li>
-      <li><a href="#general">Blessed Extraction Scroll Loop</a></li>
-      <li><a href="#general">Points</a></li>
-      <li><a href="#general">Blank Scrolls</a></li>
-      <li><a href="#general">Upgrade Value</a></li>
-      <li><a href="#general">Skill Points</a></li>
-      <li><a href="#general">Gitan - Coupon Scroll</a></li>
-      <li><a href="#general">Catstones</a></li>
-      <li><a href="#general">Always Win Pick-A-Choice</a></li>
-      <li><a href="#general">Experience Points - Past Lv99</a></li>
-      <li><a href="#general">New Item Bracelet for +99 Items</a></li>
+      <li><a href="#level-up-allies">Level Up Allies</a></li>
+      <li><a href="#equipment,-upgrade-value,-synthesis-pots">Equipment, Upgrade Value, Synthesis Pots</a></li>
+      <li><a href="#blessed-extraction-scroll-loop">Blessed Extraction Scroll Loop</a></li>
+      <li><a href="#points">Points</a></li>
+      <li><a href="#blank-scrolls">Blank Scrolls</a></li>
+      <li><a href="#upgrade-value">Upgrade Value</a></li>
+      <li><a href="#skill-points">Skill Points</a></li>
+      <li><a href="#gitan---coupon-scroll">Gitan - Coupon Scroll</a></li>
+      <li><a href="#catstones">Catstones</a></li>
+      <li><a href="#always-win-pick-a-choice">Always Win Pick-A-Choice</a></li>
+      <li><a href="#experience-points---past-lv99">Experience Points - Past Lv99</a></li>
+      <li><a href="#new-item-bracelet-for-+99-items">New Item Bracelet for +99 Items</a></li>
     </ul>
   </li>
 </ul>
@@ -360,19 +361,169 @@ Step in place (B + A) while standing on the stairs to recover HP before advancin
 
 #### Gang Up on Monsters
 
+If you have an ally, position yourself so that you and your ally can both hit the enemy.<br/>Keep in mind that you only gain skill points when your direct attack is the finishing blow.
 
+Example: When lined up vertically, step to the lower right diagonally.
 
-#### Attack Through Walls
+<pre class="diagram">
+S = Shiren A = Ally M = Monster<br/>
+<br/>
+□ M □ □   □ □ □ □<br/>
+□ S □ □ → □ M □ □<br/>
+□ A □ □   □ A S □
+</pre>
+
+#### Attack Through or Over Walls
+
+Direct attacks can't hit enemies that are around corners like this unless you have the <span class="greenText">Tri-direction</span> rune.<br/>However, projectiles like arrows and rocks, magic bullets from staves, and abilities can hit them.
+
+<pre class="diagram">
+S = Shiren M = Monster<br/>
+<br/>
+□ □ □ M □<br/>
+■ ■ S ■ ■<br/>
+■ ■ □ ■ ■<br/>
+■ ■ □ ■ ■
+</pre>
+
+Rocks can also hit an enemy that's located on the other side of a wall:
+
+<pre class="diagram">
+S = Shiren M = Monster<br/>
+<br/>
+□ □ □ M □ □ □<br/>
+■ □ ■ ■ ■ ■ ■<br/>
+■ □ □ S □ □ ■<br/>
+■ ■ ■ ■ ■ □ ■
+</pre>
+
+Rocks can even hit an enemy inside a wall, such as a Pumphantasm:
+
+<pre class="diagram">
+S = Shiren M = Monster<br/>
+<br/>
+□ □ □ S □ □ □ □<br/>
+■ ■ ■ ■ ■ ■ ■ ■<br/>
+■ ■ ■ ■ ■ M ■ ■<br/>
+■ ■ ■ ■ ■ ■ ■ ■
+</pre>
 
 #### Handling Confusion
 
+Confused status only affects your direct attacks and movement,<br/>
+so arrows, rocks, thrown items, magic bullets from staves, and abilities remain accurate.<br/>If you're adjacent to an enemy and confused in a hallway, you can only move in one direction,<br/>meaning you can still run away or buy time until the confusion wears off.
+
 #### Arrows in Hallways
+
+Most of the time, field of view is normally limited to a 1 tile radius in hallways.<br/>This means you're likely to get hit by a surprise attack if you simply walk through hallways.<br/>To counter this, you can shoot arrows or throw unneeded items to check for incoming monsters.
+
+If that sounds too tedious, at least do it when you transition from a room to a hallway.<br/>If a monster was present, step in place and wait for it to enter the room.
 
 #### Warping Methods
 
+It can be faster to warp out of a bad situation, or to a different room if the stairs is across the map.<br/>
+This is especially true when speedrunning, or when you're rushing stairs during the night.
+
+|Method|Notes|
+|-|-|
+|Warp Grass|Use the item|
+|Blink Bracelet|Random chance|
+|Waterwalk Bracelet|Unequip on a water tile|
+|Floating Bracelet|Unequip on a water or air tile|
+|Pinning Staff|Land on a water or air tile|
+|Staff of Sacrifice|Land on a water or air tile|
+|Swap Staff|Land on a water or air tile|
+|Yanpii (Headbutt)|Land on a water or air tile|
+|DJ Mage (Knockback)|Land on a water or air tile|
+|MC Mage (Transient)|Warp to the stairs|
+|Transient+Reflection Pot|Warp to the stairs|
+|Whack and Warp|Necklace ability|
+|"Surrounded" formation|See [Formations](/system/necklace-abilities#formations)|
+|Black Hole Pot|Advance to the next floor|
+
+#### Utilize Traps
+
+<div class="relativeImage">
+  <img src="../images/monsters/karakuroid.png"/>
+</div>
+
+Some traps can be utilized to give yourself an advantage,<br/>
+and visible traps can be created by dragging a Karakuroid along the wall in a room.<br/>
+※ You may need to inflict Slow status or lower its attack power, depending on your shield.
+
+If a trap is visible, you can throw an item onto the trap to trigger it.<br/>
+Rocks can be thrown from 3 tiles away, and other items can be thrown from 10 tiles away.<br/>
+If the trap is against a wall, you can simple throw an item at the wall to trigger the trap.
+
+It's also possible to trap monsters by luring them onto a trap and then missing with a projectile.<br/>Standard methods to trap monsters:
+
+- Inacc. Bracelet or Dodger Pot
+    - Projectiles are guaranteed to miss their target, ensuring trap activation.
+- Throw a pot containing at least 1 item
+    - If the pot hits the target, it'll break and the item inside the pot will land on the trap.
+- Use projectiles until one of them misses
+    - Projectiles have 84% accuracy, so one of them will eventually miss.
+
+Usage examples:
+
+- Wood Arrow → collect arrows
+- Decay → obtain Rotten Onigiri
+- Poison Arrow → weaken a Nigiri Morph for Nigiri Morph Factory
+- Explosion → create Grilled Onigiri
+- Strip → unequip cursed items / identify equipment
+- Iron Arrow → synthesize <span class="greenText">Anti-Metal</span>
+- Idenitfy 3000G bracelets
+    - Poison Arrow → Cleansing Bracelet
+    - Spin → Anti-Cnf. Bracelet
+    - Sleep → Alert Bracelet
+    - Curse → Anti-Crs. Bracelet (place items down first)
+- Trip → identify Nagging Staff (place pots down first)
+
 #### Check for Stairs? Trap
 
+<div class="relativeImage">
+  <img src="../images/traps/stairs.png"/>
+</div>
+
+Fake stairs called Stairs? Trap can be generated near the end in some dungeons.<br/>
+It's actually a random trap, and using a direct attack or throwing an item onto it doesn't reveal its true form,<br/>but there are a few standard methods you can use to check for them.
+
+1. Trap Deletion Scrl or Trap Del. Staff or Water Pot
+    - The above items destroy the fake stairs if it turned out to be a Stairs? Trap.
+2. Transient Staff
+    - The target always warps to the real stairs.
+3. Stairlight
+    - Stairlight always only displays the real stairs.
+4. Dash next to the stairs
+    - Position yourself so that you're off by 1 row or column, then dash in the direction of the stairs.<br/>If you stop on a tile that is diagonal from the stairs, it's real.
+
+Stopping locations for method 4:
+
+<pre class="diagram">
+■ = Stairs　　S = Shiren<br/>
+Real:　　　　　　　　　Fake:<br/>
+□ □ S □ S □ □　　　　□ □ □ S □ □ □<br/>
+□ □ □ ■ □ □ □　　　　□ □ S ■ S □ □<br/>
+□ □ S □ S □ □　　　　□ □ □ S □ □ □
+</pre>
+
+Example for method 4:
+
+<pre class="diagram">
+■ = Stairs　　S = Shiren<br/>
+Start:　　　　　　　　Real:　　　　　　　　　Fake:<br/>
+□ □ □ □ □ S □　　　　□ □ □ □ S □ □　　　　□ □ □ S □ □ □<br/>
+□ □ □ ■ □ □ □　　　　□ □ □ ■ □ □ □　　　　□ □ □ ■ □ □ □<br/>
+□ □ □ □ □ □ □　　　　□ □ □ □ □ □ □　　　　□ □ □ □ □ □ □<br/>
+※ Dash to the left from starting position.
+</pre>
+
 #### Lag Check
+
+Perform a direct attack, then change the direction you're facing.<br/>
+If an enemy is nearby, there will be a bit of lag before the direction change.<br/>
+This technique is mostly used in hallways or at night where visibility is limited.<br/>
+It costs a turn to check each time, so you might want to avoid using it on floors with lava,<br/>and on floors where monsters have long-range or floor-wide attacks.
 
 # Monster
 
