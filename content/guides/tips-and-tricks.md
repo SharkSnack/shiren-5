@@ -310,7 +310,7 @@ it's best to eat food that restores the least amount of fullness first to free u
 
 #### Grilling Onigiri
 
-<div class="relativeImage">
+<div class="relativeImage monsterImage">
   <img src="../images/traps/explosion.png"/> <img src="../images/monsters/pop_tank.png"/>
 </div>
 
@@ -321,7 +321,7 @@ but the <span class="greenText">Anti-Blast※</span> rune will make you unable t
 
 #### Making Squid Sushi Scroll
 
-<div class="relativeImage">
+<div class="relativeImage monsterImage">
   <img src="../images/monsters/kid_squid.png"/>
 </div>
 
@@ -443,7 +443,7 @@ This is especially true when speedrunning, or when you're rushing stairs during 
 
 #### Utilize Traps
 
-<div class="relativeImage">
+<div class="relativeImage monsterImage">
   <img src="../images/monsters/karakuroid.png"/>
 </div>
 
@@ -481,7 +481,7 @@ Usage examples:
 
 #### Check for Stairs? Trap
 
-<div class="relativeImage">
+<div class="relativeImage monsterImage">
   <img src="../images/traps/stairs.png"/>
 </div>
 
@@ -529,110 +529,420 @@ It costs a turn to check each time, so you might want to avoid using it on floor
 
 #### Enemies Immune to Projectiles
 
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/mixer.png"/> <img src="../images/monsters/sweet_nut.png"/> <img src="../images/monsters/bored_kappa.png"/> <img src="../images/monsters/flamebird.png"/> <img src="../images/monsters/pin_kid.png"/> <img src="../images/monsters/froggo.png"/> <img src="../images/monsters/gyaza.png"/>
+</div>
+
+Can. Arm Bracelet can be equipped to ensure projectiles don't get eaten or thrown back at you.
+
+- Mixer - Eats thrown items and synthesizes them. (Number of items depends on level)
+- Sweet Nut - Eats thrown items and multiplies experience points, but can explode.
+- Bored Kappa - Catches projectiles and throws them back. (Categories depend on level)
+- Flamebird - The projectile burns up.
+- Grass Kid, Pin Kid - Dresses itself in grass if you throw a grass item.
+- Froggo - Thrown Gitan heals it instead of dealing damage.
+- Gyaza - Converts projectile damage and effects into 2 damage.
+
+※ Projectiles will hit sleeping Mixers and Sweet Nuts.<br/>
+※ Grass Kid can dress itself in a number of grasses equal to its level.<br/>
+※ Kojirouta's Gitan toss has piercing properties, and doesn't work on Froggos.
+
 #### Ranged Attackers - Zigzag Movement
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/grass_kid.png"/> <img src="../images/monsters/dj_mage.png"/> <img src="../images/monsters/dragon.png"/> <img src="../images/monsters/boy_cart.png"/>
+</div>
+
+Monsters like Grass Kid, DJ Mage, and Dragon have ranged attacks that travel in a straight line,<br/>so use diagonal movement as you approach them to ensure you don't get hit by their ranged attack.<br/>Boy Carts have swift movement, so you need to use an item or lure it into a hallway.
 
 #### Naptapir - Don't Get Close
 
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/naptapir.png"/>
+</div>
+
+Naptapirs can inflict Asleep status within a 1 tile radius when they're Napping, Asleep, or Sound Asleep.<br/>They also have a chance to yawn when defeated, inflicting sleep status in a 1 tile radius,<br/>so it's best to leave them alone, especially since they have higher HP and attack power.<br/>If you encounter one that's awake inside a Monster House, go ahead and paralyze it.
+
 #### Mudkin - Unequip Items
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/mudkin.png"/>
+</div>
+
+Mudkins lower upgrade value and erase runes, and can multiply when they receive damage.<br/>However, they're harmless if you don't have anything equipped, so just unequip your weapon and shield.<br/>Keep 2 slots open in a Preservation Pot, and use multi-select to insert both your weapon and shield<br/>into to the Preservation Pot on the same turn. (Use a Seal Staff if other enemies are nearby)
 
 #### Foly - Watch its Color
 
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/foly.png"/>
+</div>
+
+Foly's special ability varies depending on its body color, which changes every 8 turns.<br/>It also tends to move along the walls inside rooms.
+
+- <span class="redText">Red</span>: Nullifies direct attacks, reflects damage instead.
+- <span class="blueText">Blue</span>: Lightning damage (15 points) to all creatures in the room after it acts.
+- <span class="greenText">Green</span>: Heals your HP by 100 after getting hit by your direct attack.
+- <span class="purpleText">Purple</span>: Counters with Berserk, Grounded, Inaccurate, Confused, or Shadow Bound after being hit.
+
+It rapidly levels up when it's <span class="blueText">blue</span>, so things can get out of hand if you don't defeat it quickly.<br/>Only use direct attacks when it's <span class="blueText">blue</span> or <span class="greenText">green</span>, and use items if it has leveled up.
+
 #### Swordsman - What's Behind You?
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/swordsman.png"/>
+</div>
+
+Swordsman monsters knock away your equipped items, sending them flying behind you.<br/>Allies and NPCs always dodge flying equipment, but the items can hit monsters,<br/>so it's good to get into the habit of fighting Swordsman with your back facing a wall.
+
+It's best to leave 1 tile open between you and the wall so that you can pick the item up<br/>without taking damage, as opposed to using the "Feet" command and taking damage that turn.<br/>However, be aware that there may be a hidden trap in the tile between you and the item.
+
+If you have a Can. Arm Bracelet equipped or have Cannon Arm status from Dracon Grass,<br/>
+the disarmed equipment will fly forever, ensuring it's lost, so be very careful.
 
 #### Gyadon - Keep Items in Pots
 
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/gyadon.png"/>
+</div>
+
+Keep items safe from Gyadon (staves) and Gyairas (scrolls, talismans) by inserting them into pots.<br/>Gyandora and Gyandoron can peck pots, so use arrows or staves before they're adjacent.
+
 #### Scoopie - Place Pots Down
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/scoopie.png"/>
+</div>
+
+Scoopie shovels dirt into an open pot with its special attack.<br/>
+This ruins pots like Blessing Pot and fragrance pots, so place important pots down beforehand.<br/>Just don't forget to pick up the pots after defeating it.
 
 # Item
 
 #### Use Book when Naming
 
+It's faster to name unidentified items by selecing the name from the item book,<br/>and you can also see what has already been named or identified when selecting the name.
+
+<div class="relativeImage smallScreenshot">
+  <img src="../images/other/naming_book.png"/>
+</div>
+
 #### Name Preservation Pots
+
+If Preservation Pots are identified, you can assign a name from a list of preset options.<br/>It's easy to forget which pots you inserted specific items into when you have lots of pots,<br/>so it's good to get into a habit of naming them to keep things organized.
+
+<div class="relativeImage smallScreenshot">
+  <img src="../images/other/naming_pots.png"/>
+</div>
 
 #### Gitan as a Projectile
 
+Gitan deals fixed damage equal to its value / 10 when thrown.<br/>
+When the Gitan is blessed, it deals fixed damage equal to its value.<br/>
+1650G one-shots anything except monsters immune to projectiles, night monsters, and shopkeepers.
+
+- Hold the dash button and step on the Gitan, then insert the Gitan into a Preservation Pot.
+    - It's safe to sort items inside the pot, even if the pot contains Gitan.
+- Hold the dash button and step on the Gitan, then swap it with an inventory item.
+    - Don't sort your inventory afterward, since it'll get added to your wallet if you do so.
+
+<div class="relativeImage">
+  <img src="../images/other/gitan_bag.png"/>
+</div>
+
 #### Increase Max HP
+
+The following items can be used when your HP is full to increase max HP:<br/>
+Herb (+1), Otogiriso (+2), Heal Grass (+3)
+
+<div class="relativeImage">
+  <img src="../images/other/grass.png"/>
+</div>
 
 #### Hit and Run Tactics
 
+When you have swift status or if the enemy is slowed, you can loop direct attack → step away<br/>to defeat an enemy without receiving any damage.
+
 #### Throw Staves with 0 Uses
+
+Staves with 0 remaining uses can be thrown to get one last use out of them.<br/>
+Thrown staves can miss, and Pinning Staff doesn't have an effect when thrown at a wall.<br/>
+Can. Arm Bracelet can be used to increase the effectiveness of thrown staves.
+
+<div class="relativeImage">
+  <img src="../images/other/staff.png"/>
+</div>
 
 #### Inserting into Presto Pots
 
+Presto Pots randomly transform inserted items into other items.<br/>It's most cost effective to insert single arrows, rocks, or talismans at a time:
+
+1. Shoot an arrow or throw a rock in the direction of a wall.
+2. Hold the dash button and move toward the item to step on it.
+3. Insert the item underfoot into the Presto Pot.
+
 #### Throw Pots to Trigger Traps
 
+If you have a pot containing at least 1 item, you can throw it at a monster standing on a trap<br/>to guarantee that the trap activates whether the pot hits or misses the target.
+
 #### Cursing / Sealing Items
+
+If you have a Mojo Bracelet, it can be beneficial to intentionally curse or seal items,<br/>and equipment like Glass Dirk and Shoddy Plank can be sealed to nullify their drawbacks.<br/>To do so, simply throw any items you want to curse or seal onto a Curse Trap.
+
+<div class="relativeImage">
+  <img src="../images/traps/curse.png"/>
+</div>
 
 # Equipment
 
 #### Sub Weapon
 
+Type effective weapons like Drain Dagger can one-shot applicable monsters once leveled up,<br/>so if you want to avoid trading hits, keep them as sub weapons instead of synthesizing them.<br/>This strategy is particularly effective against Aquatic and Dragon type monsters.
+
 #### Diet Shield
+
+If you're in a dungeon where field of view isn't limited or there are only weak enemies around,<br/>you can equip Diet Shield or Heavy Shield at specific times to conserve fullness:
+
+- Diet Shield while exploring, switch to main shield when fighting.
+- Main shield while exploring, switch to Heavy Shield when fighting.
 
 #### Binary Shield
 
+Binary Shield significantly reduces damage received when the last digit of current HP is 1 or 0.<br/>HP heals when you move or step in place, and doesn't heal when you use a direct attack,<br/>so you can gain a big advantage if you make a conscious effort to manage your HP.<br/>Just be careful of getting sandwiched in a hallway if you decide to retreat to adjust HP.
+
 #### Shield Added Runes
+
+Certain shields gain important runes when they level up, including the rare <span class="greenText">Magi-Twister</span> rune.<br/>Tinkerer status lasts for the entire floor if it's gained through Super status or a blessed Upgrade Seed,<br/>so if the situation allows for it, aim to level up these shields in one sitting.
+
+- Binary Shield → L6 <span class="greenText">Magi-Twister</span>
+- Red Shield → L8 <span class="greenText">Anti-Fire</span>, L8 <span class="greenText">Anti-Peck</span>
+- Lock Shield, Safe Shield → L8 <span class="greenText">Anti-Blast</span>
+- Plain Targe → L8 <span class="greenText">CR Diet</span>
+- Targite → L5 <span class="greenText">Rustproof</span>, L8 <span class="greenText">Anti-Theft</span>
+- Gyadon Blocker, Anti-Gaze Trge → L8 <span class="greenText">Agile</span>
 
 # Synthesis
 
+See [Synthesis](/system/gameplay-basics#synthesis) for an overview of how synthesis works.
+
 #### Mixer Identification
+
+Unidentified items are automatically identified when Mixer synthesis succeeds.<br/>Grass items often succeed, so you can farm grasses from Grass Kids and then synthesize them<br/>to both identify the grass items and potentially add effective runes to your weapon at the same time.<br/>The best grass items for runes are those in the 100, 300, and 500 price range.
+
+If you're concerned about synthesizing an unneeded rune, use a spare piece of equipment.<br/>This method can be used to identify harder to tell items like Ordinary Staff and Balance Staff.
 
 #### Sub Equipment to Reduce Risk
 
+There are some advantages to using sub weapons or shields in synthesis before your main equipment.
+
+- Avoid main equipment getting cursed or sealed if using an unidentified item.
+- Avoid synthesizing an unneeded rune if using an unidentified item.
+- Synthesize lower priority runes on sub equipment, then add it to main once you have more slots.
+
 #### Transfer Upgrade Value
+
+If your main equipment doesn't have any unfilled rune slots left, it's safe to synthesize<br/>equipment with negative or risky runes in order to transfer upgrade value.
+
+Example:
+
+1. Add <span class="greenText">Anti-Metal</span> to a Pathetic Blade (1 slot) by synthesizing an Iron Arrow.
+2. Synthesize weapons with negative runes into Pathetic Blade, such as Rusty Pickaxe.
+3. Synthesize the Pathetic Blade into your main weapon to transfer upgrade value.
 
 #### Increase Mixer Count - Level Up
 
+Mixers can eat more items at higher levels, and items they've eaten remain when they level up.<br/>※ Keep in mind that status conditions reset and attack power increases.
+
+Methods:
+
+- Swing a Glorious Staff.
+- Inflict Berserk status and have it defeat another monster.
+- Throw Cheery Grass, Angel Seed, Glorious Talisman when it's full.
+- Inflict Afraid status when there's a monster behind it.
+
 #### Increase Mixer Count - Stomach Expander
+
+Stomach Expander can be thrown at a Mixer to increase the number of items it can eat by 1.<br/>The max number is 8 using this method, and blessed Stomach Expanders increase the number by 2.<br/>※ The Stomach Expander must be thrown before it's full.
 
 # Farming
 
 #### Level Up Monsters
 
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/gitan_mamel.png"/>
+</div>
+
+Level up a monster and defeat it to gain lots of experience points and/or skill points.<br/>
+If Shiren causes a swift monster to level up via an item, the leveled up monster can still act once,<br/>but if the monster levels up by defeating another monster, its turn will end.
+
+Level up methods:
+
+- Swing or throw a Glorious Staff.
+- Throw a Glorious Talisman, Cheery Grass, or Angel Seed.
+- Swing a Clone Staff and have another monster defeat the monster with Cloned status.
+- Throw a Berserker Tal. or Rage Grass and have the Berserk status monster defeat another monster.
+- Throw a Fear Talisman or read a Fear Scroll and have the Afraid status monster defeat another monster.
+- Throw a Conf. Talisman, read a Confusion Scroll, throw Confusion Grass, or trigger a Spin Trap<br/>and have the Confused status monster defeat another monster.
+- Throw Blinding Grass or trigger a Blind trap and have the Blind status monster defeat another monster.
+- Have a monster stand between you and the target monster so the target monster's attacks hit the monster.
+    - Examples: Boy Cart's arrows, Yanpii's tackle, Dragon's fire breath, Moseal's tackle.
+- Wait for a monster to use their special attack so that another monster takes damage.
+    - Examples: Tiger Tosser's throw, Foly's lightning.
+- Have a monster defeat an ally character.
+- Be revived by the Boy's Sister [NPC](/system/npcs).
+
+Notable monsters:
+
+- Mamel family
+    - <span class="purpleText">Cave Mamel</span> (6 HP, 888 exp, 100 skill points), <span class="purpleText">Gitan Mamel</span> (12 HP, 5500 exp, 444 skill points)
+    - Defeat it using fixed damage like Rock (12), Gitan (value/10), Boring Staff (10), Electric Staff (25).
+    - Seal its ability to convert damage to 1 point, then defeat it using a direct attack to gain skill points.
+        - Use items like Fear Talisman, Inacc. Talisman, or Sanctuary Scroll for safety.
+    - If you only have 1 item, have a Pit Mamel defeat a Colum so that the Colum rolls into another monster,<br/>resulting in the Pit Mamel leveling up twice and turning into a Gitan Mamel.
+- Grass Kid family
+    - Level it up into a <span class="purpleText">Grass Poppa</span> or <span class="purpleText">Grass Gramps</span> so that it generates grass on its own,<br/>then farm stat increasing effects (max strength, max HP, max fullness) by having it throw grass.
+    - It can throw bad ones like Unlucky Seed and Rage Grass in some dungeons, so check the item table first.
+- Nigiri Baby family
+    - <span class="purpleText">Nigiri King</span> (3750 exp) - Instantly defeat it by throwing an onigiri item.
+    - <span class="purpleText">Nigiri Morph</span> can be used to farm Large Onigiri. (Nigiri Morph Factory)
+- Froggo family
+    - <span class="purpleText">Froggon</span> (850 exp, 20 skill points) - The amount of Gitan it drops increases when it levels up.
+    - Useful for collecting Gitan for shops, or storing a large sum of Gitan as a projectile.
+- Kid Squid family
+    - <span class="purpleText">King Squid</span> (1300 exp), <span class="purpleText">Squidperor</span> (2200 exp) - Instantly defeat it by throwing an onigiri item.
+- Boy Cart family
+    - Collect Iron Arrows (<span class="purpleText">Cross Cart</span>) or Knockback Arrows (<span class="purpleText">Strong Cart</span>) using a Dodger Pot.
+- Pop Tank family
+    - <span class="purpleText">Ornery Tank</span> (1600 exp, 80 skill points), <span class="purpleText">Cranky Tank</span> (3200 exp, 200 skill points)
+    - Zen Pot makes you invulnerable to its attacks.
+    - Pop Tank can be leveled down into a <span class="purpleText">Pierce Cart</span> (1100 exp), or even further into a <span class="purpleText">Strong Cart</span><br/>or <span class="purpleText">Cross Cart</span> to collect Knockback Arrows or Iron Arrows using Dodger Pot.
+- Zapdon family
+    - <span class="purpleText">Bunchukdon</span> (1280 exp, 400 skill points), <span class="purpleText">Zotdon</span> (2222 exp, 600 skill points)
+    - Innate Slow status, but has high attack and a lightning counter attack.
+    - High defense, so you might not be able to damage it at low levels or with a weak weapon.
+- Moseal family
+    - <span class="purpleText">Momomomoseal</span> (670 exp, 100 skill points) - It won't attack you unless you're next to it.
+    - It's best to hit it when it has Apathetic status after tackling.
+- Mudkin family
+    - <span class="purpleText">Mudder</span> (950 exp) - Completely harmless if you unequip your weapon and shield.
+    - Hit it with weak attacks to have it multiply - best if it's standing on water so it heals HP each turn.<br/>Example: Equip an Inacc. Bracelet and trigger weak fixed damage traps.
+- FO-Uβ family
+    - <span class="purpleText">FO-UZ</span> (888 exp, 300 skill points), <span class="purpleText">FO-UZZ</span> (5555 exp, 777 skill points)
+    - The grass it drops is based on level, so aim for FO-UZZ's Revival Grass drops.
+    - It won't warp away if it's sealed, but it has high attack power so be careful.
+
 #### Arrows
+
+<div class="relativeImage monsterImage">
+  <img src="../images/traps/wood_arrow.png"/> <img src="../images/traps/iron_arrow.png"/> <img src="../images/traps/poison_arrow.png"/><img src="../images/monsters/boy_cart.png"/>
+</div>
+
+There are a few methods you can use to collect wood, iron, knockback, or poison arrows.<br/>
+Aim for Knockback Arrows if you use either of the first two Boy Cart family methods.
+
+##### Use Boy Carts
+
+- Dodger Pot
+    - Dodger Pot makes all projectiles miss, so collect all arrows that land on the ground.
+    - ※ Missed arrows will trigger traps, so don't forget to check for traps before you take a step.
+- Bored Kappa
+    - 
+- Strong shield
+    - 
+
+##### Throw items onto arrow traps
+
+
+
+##### Step on arrow traps
+
+
 
 #### Gitan
 
+
+
 #### Super Status
+
+
 
 #### Rotten Onigiri
 
+
+
 #### Nigiri Morph Factory
+
+
 
 #### Zalokleft Hunting
 
+
+
 #### Mutaikon Hunting
+
+
 
 #### Grass Kid Hunting
 
+
+
 #### Grass Factory
+
+
 
 #### Maneater Hunting
 
+
+
 #### FO-UZZ for Revival Grass
+
+
 
 # Earning
 
 #### Level Up Allies
 
+
+
 #### Equipment, Upgrade Value, Synthesis Pots
+
+
 
 #### Blessed Extraction Scroll Loop
 
+
+
 #### Points
+
+
 
 #### Blank Scrolls
 
+
+
 #### Upgrade Value
+
+
 
 #### Skill Points
 
+
+
 #### Gitan - Coupon Scroll
+
+
 
 #### Catstones
 
+
+
 #### Always Win Pick-A-Choice
+
+
 
 #### Experience Points - Past Lv99
 
+
+
 #### New Item Bracelet for +99 Items
+
+
