@@ -108,7 +108,7 @@ Related pages:<br/>
   </li>
   <li><a href="#earning">Earning</a>
     <ul>
-      <li><a href="#level-up-allies">Level Up Allies</a></li>
+      <li><a href="#ally-level-ups">Ally Level Ups</a></li>
       <li><a href="#equipment,-upgrade-value,-synthesis-pots">Equipment, Upgrade Value, Synthesis Pots</a></li>
       <li><a href="#blessed-extraction-scroll-loop">Blessed Extraction Scroll Loop</a></li>
       <li><a href="#points">Points</a></li>
@@ -839,51 +839,95 @@ Notable monsters:
 There are a few methods you can use to collect wood, iron, knockback, or poison arrows.<br/>
 Aim for Knockback Arrows if you use either of the first two Boy Cart family methods.
 
+##### Throw items onto arrow traps
+
+- Wood, Iron, or Poison arrow traps
+    - If the trap isn't against a wall, throw Rocks or Porky Rocks, or throw items from 10 tiles away.
+    - Pickaxes can be used to create distance, and Fort. Staff can create a wall next to the trap.
+
 ##### Use Boy Carts
 
 - Dodger Pot
-    - Dodger Pot makes all projectiles miss, so collect all arrows that land on the ground.
+    - Dodger Pot makes all projectiles miss, so collect the arrows that land on the ground.
+    - Use Slumber Scroll, Swift Foe Scroll, Swift Staff, Swift Talisman, Swift Grass to increase efficiency.
     - ※ Missed arrows will trigger traps, so don't forget to check for traps before you take a step.
 - Bored Kappa
-    - 
+    - Position the Bored Kappa so it's between Shiren and the Boy Cart monster,<br/>then collect the arrows the Bored Kappa catches and throws at Shiren.
+    - Don't apply Swift status to the Bored Kappa.
 - Strong shield
-    - 
-
-##### Throw items onto arrow traps
-
-
+    - Equip a strong shield and step in place while getting hit by arrows, then collect the arrows that miss.
+    - If your HP gets low, enter a hallway to regenerate HP.
+    - Shiren takes 1\~4 damage with Shoddy Plank (30 def), and 1 damage with Glass Buckler (35 def),<br/>so you can use either shield to farm arrows by intentionally sealing it beforehand.<br/>Other options include L8 Targite (25 def), Red Shield (27 def), or Fuuma Shield (30 def) + upgrade value.
+    - Hard Peach, Rotten Peach, Poison Arrow, Poison Grass, or Super status can make up for lower defense.
+    - Can obtain about 1 stack of arrows if done until the wind blows, but it depletes a lot of fullness.
 
 ##### Step on arrow traps
 
-
+- Caution about this method
+    - Arrow traps have 100% accuracy, and you'll lose Super or Awakened-ish status,<br/>so you'll generally want to use the thrown item method instead unless you're saving Fort. Staff uses.
+- Dodger Pot
+    - Dodger Pot causes arrow traps to miss, so dodge the arrows and pick them up.
+    - Missed arrows won't land on the trap underfoot, so the trap can only be triggered once per turn.
+    - It's wasteful to use Dodger Pot for Wood or Iron arrows as opposed to saving it for higher level<br/>Scoopie, Bored Kappa, Mutaikon, or Porky monsters, or collecting Knockback Arrows using Strong Cart.
+- Mixer
+    - Step on the trap so that Mixer eats the arrows that fly at you, then defeat the Mixer.
+    - Extremely inefficient, so consider it more of a bonus than a realistic method to collect arrows.
+- Bored Kappa
+    - Place an item 3 or more tiles away so that Bored Kappa stands on it without throwing it,<br/>then step on the trap so that Bored Kappa catches the arrow and throws it toward you.<br/>If you're too close, the arrow will land on the trap underfoot and cause you to get hit by an arrow.
+- Iron Door
+    - Step on the trap while facing to the left of the door, then collect the arrows that hit the door.
+    - Pretty inefficient, and it won't work with spear gates since projectiles can pass through them.
 
 #### Gitan
 
-
+- Hunt monsters
+    - Hunt Froggo monsters, Gitan Mamels, and Ultra Gazers.
+- Use shops
+    - Sell inventory items, then either steal them back or read Coupon Scrolls.
+    - Insert single arrows into Presto Pots for sale, then sell the contents.
 
 #### Super Status
 
-
+Duplicate Mudkin monsters and defeat them to gain Awakened-ish and Super status.<br/>
+Requires either water tiles or Flamebirds to restore their HP.
 
 #### Rotten Onigiri
 
+<div class="relativeImage">
+  <img src="../images/traps/decay.png"/>
+</div>
 
+Technique mainly used on floors where Karakuroid monsters appear.<br/>
+Lure a monster onto a Decay Trap → throw items or shoot arrows until it misses and triggers the trap.<br/>
+Projectiles have 84% accuracy, but <span class="purpleText">Inacc. Bracelet</span> or <span class="purpleText">Dodger Pot</span> can be used to ensure it misses.<br/> <span class="purpleText">Killer Arrow</span> can also be used, since it only has 12% accuracy and almost always misses.<br/>
+This works on Floating types, excluding Flamebirds since their body burns items.<br/>
+(However, if you inflict the Flamebird with Cloned status, you can trap them)
+
+The Rotten Onigiri can be grilled using an Explosion Trap or Pop Tank monster,<br/>or thrown at a Kid Squid monster to create Squid Sushi Scroll.
 
 #### Nigiri Morph Factory
 
-
+<div class="relativeImage monsterImage">
+  <img src="../images/other/nigiri_morph.png"/>
+</div>
 
 #### Zalokleft Hunting
 
-
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/zalokleft.png"/>
+</div>
 
 #### Mutaikon Hunting
 
-
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/mutaikon.png"/>
+</div>
 
 #### Grass Kid Hunting
 
-
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/grass_kid.png"/>
+</div>
 
 #### Grass Factory
 
@@ -891,15 +935,19 @@ Aim for Knockback Arrows if you use either of the first two Boy Cart family meth
 
 #### Maneater Hunting
 
-
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/maneater.png"/>
+</div>
 
 #### FO-UZZ for Revival Grass
 
-
+<div class="relativeImage monsterImage">
+  <img src="../images/other/fo_uzz.png"/>
+</div>
 
 # Earning
 
-#### Level Up Allies
+#### Ally Level Ups
 
 
 
