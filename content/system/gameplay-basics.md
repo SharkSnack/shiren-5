@@ -159,14 +159,74 @@ Source: [シレン4、シレン5　自然回復量　【データ】 - 24番目�
 
 ### Damage Calculation
 
-[ Attack * Variance / 100 - Defense ] * Type Multiplier
+#### Direct Attack Damage
 
-The formula aside, the main things to note:
+|Damage Formula|
+|-|
+|[ Attack x Variance / 100 - Defense ] x Type Multiplier|
 
-- The formula isn't the same as necklace ability damage calculation.
-- Attack involves logarithm, so the latter has a smaller effect between increasing by 1<br/>at low level / strength vs. increasing by 1 at high level / strength.
-- If strength is ≥ 8, strength is halved and decimals are dropped, so odd number values<br/>don't increase damage. (Example: 10 strength is the same as 11 strength)
-- Equipment AP and DP are multiplied by about 0.6, so small increases in upgrade value<br/>aren't very noticeable.
+The formula aside, some important notes:
+
+- Necklace ability damage calc is a different formula, and strength doesn't affect ability damage.
+- Attack involves logarithm, so +1 at high level / strength has a smaller effect than +1 at low level / strength.
+- If strength is ≥ 8, strength is halved and decimals are dropped, so odd number values don't raise damage.
+    - Example: 10 strength is the same as 11 strength.
+- Equipment AP and DP are multiplied by \~0.6, so small increases in upgrade value aren't too noticeable.
+
+#### In-Depth
+
+|Variance|
+|-|
+|A number between 87 ~ 112|
+
+<br/>
+
+|Rune Lv|0|1|2|3|4|5|6|7|8|
+|-|-|-|-|-|-|-|-|-|-|
+|Type Multiplier|1.00|1.35|1.60|1.85|2.10|2.35|2.60|2.85|3.10|
+
+<br/>
+
+- Multiple types = [Repeat: Multiplier x Multiplier / 100] / 100
+    - Example (1.30, 3.10): [130 x 310 / 100] / 100 = 4.03
+    - Example (1.30, 1.30, 3.10): [130 x 130 / 100] x 310 / 100] / 100 = 5.23
+
+##### Shiren
+
+|Stat|Formula|
+|-|-|
+|Attack|LevelAtk + StrengthAtk + WeaponAtk|
+|Defense|DP x 0.61785|
+
+<br/>
+
+- LevelAtk = LOG(Level x 0.4 + 1) x 24 - 3
+- StrengthAtk
+    - Strength &lt; 8 = LOG(2.7) x LOG(2.7) x Strength / 8 x 25
+    - Strength ≥ 8 = LOG([Strength / 2] - 1.25) x LOG([Strength / 2] - 1.25) x 25
+- WeaponAtk = AP x 0.585
+
+##### Ally, Monster
+
+|Stat|Formula|
+|-|-|
+|Attack|Character's attack stat|
+|Attack (night/limit break)|Level x Character's attack stat|
+|Defense|Character's defense stat / 2|
+
+#### Ability Damage
+
+|Damage Formula|
+|-|
+|AbilityAtk + Level x 0.38 - Defense|
+
+<br/>
+
+|Stat|Formula|
+|-|-|
+|Level|Shiren's level|
+|AbilityAtk|Ability's attack power|
+|Defense|Character's defense stat|
 
 Source: [ダメージ計算 - 組長式(アーカイブ)](https://web.archive.org/web/20111228071625/http://kumicyou.sakura.ne.jp/shiren-ds-5/system-damage.html)
 
@@ -193,30 +253,9 @@ Accuracy increases while equipped with a leveled up weapon.<br/>The <span class=
 Accuracy decreases if a Spry Shield is equipped. (Shiren's evasion increases)<br/>
 The <span class="greenText">Agile</span> rune is equivalent to Spry Shield Lv1, so it's 78%.
 
-<table>
-  <tr>
-    <th>Spry Shield</th>
-    <th>Lv1</th>
-    <th>Lv2</th>
-    <th>Lv3</th>
-    <th>Lv4</th>
-    <th>Lv5</th>
-    <th>Lv6</th>
-    <th>Lv7</th>
-    <th>Lv8</th>
-  </tr>
-  <tr>
-    <th>Accuracy</th>
-    <td>78%</td>
-    <td>75%</td>
-    <td>72%</td>
-    <td>69%</td>
-    <td>66%</td>
-    <td>63%</td>
-    <td>60%</td>
-    <td>57%</td>
-  </tr>
-</table>
+|Spry Shield|Lv1|Lv2|Lv3|Lv4|Lv5|Lv6|Lv7|Lv8|
+|-|-|-|-|-|-|-|-|-|
+|Accuracy|78%|75%|72%|69%|66%|63%|60%|57%|
 
 Source: [攻撃の命中率 - 組長式(アーカイブ)](http://web.archive.org/web/20141231031541/http://kumicyou.sakura.ne.jp/shiren-ds-5/system-hit.html)
 
@@ -303,11 +342,16 @@ Weapons and shields earn growth experience points when you defeat enemies using 
 
 Notes:
 
-- The item's name changes, and strength, upgrade limit, and rune count increase.<br/>(Example: Katana 6 atk / 8 limit → Good Katana 7 atk / 15 limit)
-- Weapons or shields can gain runes through leveling up, and have a maximum level of 8.<br/>(Example: Beast Fang gains <span class="greenText">Rustproof</span> at Lv5)
-- Skill points can't be seen, and each monster grants a predetermined amount.<br/>(Example: Mamel = 1 point)
-- Generally, stronger / higher level monsters offer more skill points.<br/>(Example: Pit Mamel = 2 points, Cave Mamel = 100 points)
-- Equipment levels up once the skill points total reaches the item's assigned threshold.<br/>(Example: Katana → Good Katana once skill point total reaches 300 points)
+- The item's name changes, and strength, upgrade limit, and rune count increase.
+    - Example: Katana 6 atk / 8 limit → Good Katana 7 atk / 15 limit.
+- Weapons or shields can gain runes through leveling up, and have a maximum level of 8.
+    - Example: Beast Fang gains <span class="greenText">Rustproof</span> at Lv5.
+- Skill points can't be seen, and each monster grants a predetermined amount.
+    - Example: Mamel = 1 point.
+- Generally, stronger / higher level monsters offer more skill points.
+    - Example: Pit Mamel = 2 points, Cave Mamel = 100 points.
+- Equipment levels up once the skill points total reaches the item's assigned threshold.
+    - Example: Katana → Good Katana once skill point total reaches 300 points.
 
 Check the [Monsters](/system/monsters) page for monster skill point values.
 
@@ -389,13 +433,17 @@ Synthesize weapons and shields to merge special abilities, upgrade value, and ru
 
 Weapons, Shields:
 
-- First item is the base. Runes and upgrade value of subsequent items are added to it.<br/>(Example: Katana first, Scythe+1 second → Katana+1 with <span class="greenText">Anti-Plant</span> rune)
-- Each item has a "rune count", and no more runes can be added once you reach the limit.<br/>(Example: Katana has 4 rune slots)
-- Innate runes get stronger as the item levels up, but runes are always equal to Lv1 effect.<br/>(Example: Lv4 Scythe = 210%, Lv4 Katana with <span class="greenText">Anti-Plant</span> rune = 135%)<br/>→ [Rune Multipliers](/system/synthesis-runes#multipliers)
+- First item is the base. Runes and upgrade value of subsequent items are added to it.
+    - Example: Katana first, Scythe+1 second → Katana+1 with <span class="greenText">Anti-Plant</span> rune.
+- Each item has a "rune count", and no more runes can be added once you reach the limit.
+    - Example: Katana has 4 rune slots.
+- Innate runes get stronger as the item levels up, but runes are always equal to Lv1 effect.
+    - Example: Lv4 Scythe = 210%, Lv4 Katana with <span class="greenText">Anti-Plant</span> rune = 135%.<br/>→ [Rune Multipliers](/system/synthesis-runes#multipliers)
 
 Staves:
 
-- Adds use counts together. Can only combine same name staves.<br/>(Example: Knockback Staff [3] first, Knockback Staff [4] second → Knockback Staff [7])
+- Adds use counts together. Can only combine same name staves.
+    - Example: Knockback Staff [3] first, Knockback Staff [4] second → Knockback Staff [7].
 
 #### Different Category Synthesis
 
@@ -423,15 +471,15 @@ Mixer:
 - Mixers won't eat items when they're afflicted with certain [status conditions](/system/status-conditions).
     - Will eat: Any status conditions besides the ones listed below.
     - Won't eat: Napping, Asleep, Sound Asleep, Sealed, Paralyzed, S-Paralyzed, Onigiri, Tottering.
-- Mixers can only eat a set number of items, based on their level.<br/>
-(Mixer = 2, Mixermon = 3, Mixergon = 4, Mixerdon = 5)
-- Throw an Expand Seed to increase the number of items a Mixer can eat by 1. (Max: 8)<br/>(Example: Throw an Expand Seed at a Mixer, then synthesize 3 items instead of 2)
+- Mixers can only eat a set number of items, based on their level.
+    - Mixer = 2, Mixermon = 3, Mixergon = 4, Mixerdon = 5
+- Throw a Stomach Expander to increase the number of items a Mixer can eat by 1. (Max: 8)
+    - Example: Throw a Stomach Expander at a Mixer, then synthesize 3 items instead of 2.
 - Mixers turn toward the direction the item came from when they eat an item.
 
 #### Blessed, Cursed, Sealed, Identified
 
-Synthesized items generally take on the status of the item that was inserted or thrown last.<br/>(Example: Remove a seal or curse from a weapon by synthesizing the weapon with an Iron Arrow)
-
+Synthesized items generally take on the status of the item that was inserted or thrown last.<br/>(Example: Remove a seal or curse from a weapon by synthesizing the weapon with an Iron Arrow)<br/>
 ※ Mixer synthesis has varied priority based on item category, so you may get unexpected results.
 
 #### Mixer Synthesis Priority

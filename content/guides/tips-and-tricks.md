@@ -680,6 +680,8 @@ Presto Pots randomly transform inserted items into other items.<br/>It's most co
 2. Hold the dash button and move toward the item to step on it.
 3. Insert the item underfoot into the Presto Pot.
 
+Inserting items into a Presto Pot inside a village Warehouse tends to give Escape Scrolls.
+
 #### Throw Pots to Trigger Traps
 
 If you have a pot containing at least 1 item, you can throw it at a monster standing on a trap<br/>to guarantee that the trap activates whether the pot hits or misses the target.
@@ -911,11 +913,99 @@ The Rotten Onigiri can be grilled using an Explosion Trap or Pop Tank monster,<b
   <img src="../images/other/nigiri_morph.png"/>
 </div>
 
+Use a Nigiri Morph (55 HP) to intentionally transform inventory items into Large Onigiri.<br/>Its special attack use rate is \~20%, so items that inflict Slow, Inaccurate, or Weakened help.<br/>Requires disposable items, with the standard being single arrows or rocks.
+
+
+Many players feel like it's a chore, but there's no denying how effective it is for alleviating hunger issues.<br/>
+If you don't mind the routine, it's good to go for it when you happen to have the required items on hand.<br/>Max fullness of 120+ lets you eat Large Onigiri without waste while maintaining Super status.
+
+##### Items
+
+Required:
+
+- Items to be transformed into onigiri
+    - Single arrows or rocks, or other unneeded items.
+- Level up item
+    - If you're using a Nigiri Baby, you'll need an item to level it into a Nigiri Morph.
+    - Easiest items are Cheery Grass, Glorious Staff, Glorious Talisman.
+    - Other items include Clone Staff, Rage Grass, Fear Scroll, etc.
+
+Nice to have:
+
+- Poison Arrow, Poison Grass
+    - You'll get hit a lot, so it's important to reduce the amount of damage you take.
+    - Poison Grass is better since it deals less damage and inflicts Slow status.
+- Rotten Peach
+    - Lowers Nigiri Morph's attack.
+    - If used with Poison Arrows, throw the peach after shooting since the peach also lowers defense.
+- Hard Peach
+    - Increases your defense.
+- Strong shield
+    - Required if you don't have items to lower Nigiri Morph's attack or raise your defense.
+    - Red Shield or Fuuma Shield are good options, or a sealed Shoddy Plank or Glass Buckler.<br/>※ Don't use a shield that has the Retribution rune.
+- Slow Staff
+    - Lowers efficiency, but can be used to help you safely regenerate HP between hits.
+- HP recovery items (Herb, Otogiriso, etc.)
+    - Nigiri Morphs can't survive 3 Poison Arrows, so throw a healing item to shoot more arrows.
+- Inacc. Bracelet or Dodger Pot + Perception Grass + Strip Trap
+    - It's rare to have all of these items, but Strip Trap can be used to weaken Nigiri Morph.
+
+##### Steps
+
+<p><span class="purpleText">1. Check the room for traps.</span></p>
+
+Any trap can cause problems, but you especially don't want to step on a Pit Trap or Monster Trap.
+
+<p><span class="purpleText">2. Prepare items on the ground.</span></p>
+
+After checking for traps, shoot arrows or throw rocks at a wall to separate them into single items.<br/>If increasing max fullness from 100 → 200, you'll need to eat 25 Large Onigiri when you're full. (26 total)<br/>It's best to stock up on a couple of extra Large Onigiri for the road too, so aim for 28 items or so.<br/>Of course, feel free to adjust the quantity based on other inventory items or play style.
+
+<p><span class="purpleText">3. Swap items to add them to inventory.</span></p>
+
+Hold B to step on an item without picking it up, then swap the item with an inventory item.<br/>This lets you pick up items like single arrows or rocks without them automatically stacking.<br/>※ Don't sort your inventory after doing this, or else all single arrows and rocks will stack.
+
+Inventory should be equipment, Poison Arrows or Poison Grass, and items to be turned into onigiri.<br/>※ Equipped weapon, shield, and bracelets will never be transformed into an onigiri by a Nigiri Morph,<br/>　but set arrows, rocks, staves, and talismans can be transformed.
+
+It can be good to place the rest of your items in a different location, depending on the monster table.<br/>Example: Place items in the stairs room on 22F of Onigiri Hollow, since Grass Dude can throw Warp Grass.<br/>※ Remember where you place important items in case you need to use them in an emergency.
+
+<p><span class="purpleText">4. Have Nigiri Morph transform inventory items.</span></p>
+
+Once the above preparations are complete, it's time to transform items into Large Onigiri.<br/>If you're receiving too much damage, don't hesitate to use Poison Arrows, Poison Grass, Slow Staff, etc.<br/>Poison (Weakened status) in particular has a drastic effect, lowering damage dealt by 50% at stage 1.<br/>Step in place if you can tank the hits, or circle the room to heal HP as you get hit by its attacks.<br/>※ Be careful not to pick up other items while circling the room.
+
+Swap onigiri with other single arrows or rocks, or place / throw onigiri on the ground during the process.<br/>Once you've obtained the number of onigiri you were aiming for, defeat the Nigiri Morph.
+
+##### Tips / Cautions
+
+- Leveling up a Nigiri Baby
+    - Easy if you use items like Cheery Grass, Glorious Staff, or Glorious Talisman.
+    - If you don't have such items, use the current floor's monster table to your advantage.<br/>Froggo and Moseal often appear with Nigiri Baby, and both are easy level up fodder targets.<br/>Place Gitan on the ground to control Froggo's position, then use Afraid or Berserk status.<br/>Moseal has high HP, so damage it a bit first and use Cloned status.
+- Using a Poison Arrow Trap
+    - Shooting Poison Arrows to lower Nigiri Morph's attack is great, but they deal too much damage<br/>if you've leveled up, have raised your max strength, or have boosted attack from Super status.<br/>So in that case, use arrows from a Poison Arrow Trap instead, which only deals \~5 damage.
+    - ※ The trap might break after 1 use, and you might lose Super or Awakened-ish status.
+- Remember item locations
+    - This was stated earlier, but it's worth repeating - remember where you placed your items.
+    - The preparation means nothing if you collapse from not having a way to deal with a<br/>different monster that entered the room.
+- Beware of Tiger Tosser
+    - Tiger Tosser appears with Nigiri Baby in some dungeons, and can ruin your plans by throwing<br/>a weakened Nigiri Morph and leveling up, so be careful if you've used multiple Poison Arrows.
+    - Memorize that Nigiri Morph has 55 HP, and that Tiger Tosser's throw deals 5 damage.
+    - Fort. Staff or Paralysis Staff can be used to block room entrances to prevent accidents.
+    - Froggos can also block entrances - just place Gitan down where you want the Froggo to stay.
+- Beware of Zalokleft, Grass Kid, Absorbiphant
+    - Nigiri Morph often appears with Green Zalokleft, Grass Dude, and Absorbiphant.
+    - Don't let Zaloklefts steal your items on the ground, and keep grass items inside pots.
+    - Position yourself in a way that prevents Absorbiphant from curing Nigiri Morph's ailments.
+
 #### Zalokleft Hunting
 
 <div class="relativeImage monsterImage">
   <img src="../images/monsters/zalokleft.png"/>
 </div>
+
+Defeat Zaloklefts (100% item drop rate) to obtain items.<br/>
+The <span class="greenText">Anti-Theft</span> rune or the floor-wide effect from a Perceptive Pot protects your items from being stolen.<br/>
+However, it's generally not worth keeping a Perceptive Pot in your inventory, since it has few other uses.
+
+Zalokleft drops have their own item table, and generally don't include anything too special.<br/>It also seems like Zaloklefts never drop food items.
 
 #### Mutaikon Hunting
 
@@ -923,15 +1013,143 @@ The Rotten Onigiri can be grilled using an Explosion Trap or Pop Tank monster,<b
   <img src="../images/monsters/mutaikon.png"/>
 </div>
 
+Have Mutaikon monsters throw grass at you to replenish fullness and linger until the wind blows.<br/>You'll need Cleansing Bracelet for Mutaikon, Anti-Cnf. Bracelet for Dazikon, and Alert Bracelet for Dozikon.<br/>Circle rooms or hallways, and if your HP gets low, defeat it and wait for another one.
+
+Dozikon floors often have dangerous monsters, so it's usually better to rush stairs instead of lingering.<br/>Don't use an Immunity Scroll to do this technique unless you're completely out of food.<br/>Water Pot can be used to raise the Mutaikon monster's special attack use rate.
+
 #### Grass Kid Hunting
 
 <div class="relativeImage monsterImage">
   <img src="../images/monsters/grass_kid.png"/>
 </div>
 
+Collect grass items by defeating Grass Kids or Grass Dudes.<br/>
+Excellent for obtaining grasses for Mixer synthesis, and to identify grasses early on.<br/>
+It's best to hunt Grass Kids since Mixer usually appears soon after, but hunger can be an issue.
+
 #### Grass Factory
 
+Pin Poppa and Pin Gramps can generate their own grass items,<br/>
+so the idea is to have them throw or spread the grass they generate at Shiren to increase his stats.
 
+The point of this technique is to gain permanent stat increases, so that means you're aiming<br/>
+for Strength Grass, Stomach Expander, Herb, Otogiriso, Heal Grass, and Life Grass.<br/>
+However, HP regeneration slows with higher max HP, and Nigiri Morph factory is much more<br/>
+efficient at increasing max fullness, so this technique is mainly used to increase max strength.
+
+It's recommended to only bother with this in dungeons where Strength Grass is common,<br/>
+or in dungeons where there aren't many negative grass items in the item table.<br/>
+(Pitfall of Life, Underground Manor General District, Monster Hotspot, and possibly Onigiri Hollow)<br/><span class="orangeText">It's not worth the effort to perform this technique in other dungeons.</span>
+
+##### Items
+
+- Immunity Scroll, blessed Peach
+    - Protects against status inflicting grasses like Confusion, Sleepy, and Rage grass.
+    - Skip it if these grasses aren't in the item table, like in Pitfall of Life and Underground Manor.
+- Staunch Bracelet, Cleansing Bracelet
+    - Protects against stat lowering grasses like Poison Grass and Stomach Shrinker.
+    - Immunity Scroll prevents Slow status from Poison Grass, but it can't block the strength loss,<br/>so Cleansing Bracelet is needed in Onigiri Hollow.
+- Paralysis Staff, Hide Pot, Transient Staff
+    - Used for method 2.
+    - Paralysis Staff is likely the most consistent of the three.
+- Fort. Staff
+    - Used for method 3, but isn't in the item table for Pitfall of Life or Underground Manor.
+    - Method 3-2 is likely better for Onigiri Hollow.
+- Rusty Pickaxe
+    - Used for method 3.
+- Steady Shield
+    - Protects against Warp Grass, but it's usually fine even if you don't have it.
+    - Perform this technique in the stairs room in Onigiri Hollow to avoid a game over situation.
+- Level up item
+    - Glorious Staff, Glorious Talisman, Clone Staff, etc.
+    - Required if leveling up a Grass Kid or Grass Dude early on.
+    - Grass Poppa and Grass Gramps have high attack, so don't stand adjacent to them.
+- Reflection Pot
+    - DJ Mage monsters often overlap with Grass Kid monsters, so this protects against magic bullets.<br/>※ Higher priority if you don't have an Immunity Scroll or blessed Peach.
+- Swap Staff
+    - Used for method 3-2.
+    - Also useful for method 2 when positioning a non-Pin Kid monster in the corner of a room.
+
+##### Method 1
+
+Read an Immunity Scroll in a large room, then wait on the opposite end for the Grass Poppa to throw grass.<br/>
+Rectangular rooms work best, and it's an easy setup since you don't have to prepare anything in advance.<br/>Some luck is required, since you'll end up needing to defeat or run away from the Grass Poppa<br/>if they don't throw the grass before they're adjacent to you.
+
+Other enemies approaching can be an issue, since they can be buffed by Power Up Grass or Swift Grass.<br/>
+It's particularly dangerous if the positive effect grass hits the enemy but misses Shiren.
+
+##### Method 2
+
+Place grass in the corner of a room, then inflict Paralyzed or Hiding status on a monster on top of the item.
+
+<pre class="diagram">
+  G = Grass M = Monster P = Paralyzed monster<br/>
+  ■ ■ ■ ■　　 　　■ ■ ■ ■　　 　　■ ■ ■ ■<br/>
+  □ □ G ■　　→　　□ □ M ■　　→　　□ □ P ■<br/>
+  □ □ □ ■　　 　　□ □ □ ■　　 　　□ □ □ ■
+</pre>
+
+The number of grass items a Grass Kid monster can carry increases based on level,<br/>
+so they'll continuously approach the grass under the paralyzed monster, but won't be able to pick it up.<br/>
+They'll still throw grass when you're lined up, and there's no worry of the Grass Poppa approaching.<br/>
+They also won't attack you unless you move adjacent to them.
+
+However, other enemies hit by Confusion Grass, Blinding Grass, or Rage Grass can cause trouble.<br/>
+They might level up by defeating other enemies, or undo the paralysis of the monster in the corner.<br/>
+Lots of Grass Kid and Pin Kid monsters will gather in the corner while performing this method,<br/>
+so it's good to periodically approach them and thin them out to try and prevent accidents.<br/>
+※ Confusion Grass and Rage Grass don't appear in Pitfall of Life or Underground Manor.
+
+##### Method 3
+
+Use items like Fort. Staff, Wall Clip Bracelet, and Rusty Pickaxe to wall yourself in.
+
+Make use of a Grass Poppa as shown in the example diagrams below.<br/>
+It's more efficient than methods 1 and 2, since you'll mostly get hit by its spreading grass<br/>special attack (100% accuracy) rather than hoping thrown grass will hit you (84% accuracy).
+
+The setup is ruined if you get hit by Warp Grass unless you have a Wall Clip Bracelet or Pinning Staff,<br/>so it's highly recommended to equip a Steady Shield if you have one on hand.<br/>Only use this method when you're able to defeat other monsters from inside the wall.<br/>(Examples: Breeze Blade or <span class="greenText">Tri-direction</span> rune, Wall Clip Bracelet, arrows, etc.)
+
+It's generally safe to use this method without an Immunity Scroll if other monsters on the floor<br/>don't have long-range attacks or the ability to attack through walls.
+
+Example 1:
+<pre class="diagram">
+  S = Shiren F = Fort. Staff wall<br/>
+  □ □ □ □ ■<br/>
+  □ □ □ F ■<br/>
+  □ □ F S ■<br/>
+  ■ ■ ■ ■ ■
+</pre>
+
+This method consumes 2 uses of a Fort. Staff, but keeps you inside the room.<br/>
+Place grass on the ground under Shiren to attract Pin Kid monsters and increase efficiency.<br/>
+You can build it around the stairs to eliminate the need to defeat enemies when you're ready to move on,<br/>but remember that you can't place grass under Shiren while standing on the stairs.
+
+Example 2:
+<pre class="diagram">
+  S = Shiren F = Fort. Staff wall<br/>
+  ■ ■ □ □ □<br/>
+  ■ F □ □ □<br/>
+  ■ S ■ ■ ■<br/>
+  ■ ■ ■ ■ ■<br/>
+  ※ Can use Wall Clip Bracelet instead of Fort. Staff.
+</pre>
+
+The idea is to dig out the corner of a room, and stand inside the dug out tile.<br/>
+Inefficient if you're unable to defeat enemies from inside the wall, and since you're outside of the room,<br/>
+you won't be able to attract Pin Kid monsters by placing grass on the ground under Shiren.<br/>
+Enemies can spawn in the adjacent room too, so there are a lot of drawbacks.
+
+The main advantage is that you only consume 1 use of a Fort. Staff,<br/>
+and it can be performed without a Fort. Staff if you have a Wall Clip Bracelet.
+
+##### Method 3-2
+
+Similar to method 3, but trap a Grass Poppa inside a wall instead of Shiren.<br/>
+Easiest way to accomplish this is to use items like Knockback Staff or Swap Staff.
+
+It's not as efficient since you're relying on a single Grass Boy family monster rather than a rotation,<br/>
+but it's very consistent because you can defeat other monsters that approach you.<br/>
+Steady Shield isn't required, since you can just walk back to the room if you're hit by Warp Grass.
 
 #### Maneater Hunting
 
@@ -939,58 +1157,362 @@ The Rotten Onigiri can be grilled using an Explosion Trap or Pop Tank monster,<b
   <img src="../images/monsters/maneater.png"/>
 </div>
 
+##### Generating Maneaters
+
+An Ominous Aura can occur after a set number of turns on select floors of specific dungeons.<br/>
+Once the ominous aura warning occurs, Maneaters get added to the monster table of that floor.<br/>
+From that point, every time a new monster is generated and Maneater is selected, it rolls a check.<br/>
+If it succeeds, a Maneater appearance message occurs, the BGM changes, and a Maneater spawns.<br/>
+If it fails, the new monster won't be generated. (So new monster spawns are reduced after the warning)<br/>
+So depending on your luck, you can end up waiting until the wind blows without seeing a Maneater.<br/>
+※ The roll occurs each time a new monster spawns and Maneater is selected, even if it previously failed.<br/>※ Once the roll succeeds, Maneaters will spawn without any further checks.
+
+##### Benefits
+
+Maneaters have a 31% item drop rate, and the item is selected from the dungeon's shop table.<br/>They provide lots of experience points and skill points, especially compared to early game monsters.<br/>
+Defeating the same monster in a row grants bonus skill points, so you can rapidly level up equipment,<br/>
+especially when combined with Tinkerer status to gain x4.0 skill points per Maneater.<br/>
+※ Tinkerer status from blessed Upgrade Seed or Super status lasts for the duration of the floor.
+
+##### Characteristics
+
+Maneater = 100 HP, Villeater = 120 HP, Mounteater = 140 HP, Isleater = 160 HP.<br/>
+Attack, defense, and experience points increases based on depth.<br/>
+Normal speed while exploring, increases to Swift 1 when Shiren is in view.<br/>
+Chance to roar while inside rooms, which inflicts Paralyzed status on Shiren.<br/>
+Only takes a max of 10 damage from Gitan, and ignores Sanctuary Scroll.
+
+##### Hunting Methods
+
+The biggest danger is its roar that inflicts Paralyzed status, since it guarantees that the Maneater<br/>gets the first hit and you can lose Super status - <span class="blueText">so Immune status gives you a great advantage.</span><br/>Immune status is gained from using an Immunity Scroll or blessed Peach.
+
+1. Disable using status inflicting items
+    - Slow status is ineffective, since it changes to Swift 1 when Shiren is visible.
+    - Ailments wear off in half the duration when it's Swift 1, so it's best to stay out of their view.
+    - Staves: Clone Staff (30 turns) or Mage Staff (Asleep is 6 turns).
+    - Talismans: Confusion (20 turns), Fear (15 turns), Slumber (12 turns), Inaccurate (10 turns).
+2. Create a safe space
+    - Hallways are safe if you have a Navigation Scroll or Monster Detector.
+    - You can wall yourself in and attack through a corner using <span class="greenText">Tri-direction</span>, <span class="greenText">Flame Shot</span>, or arrows.
+    - If you don't have a Fort. Staff, dig the corner of a room from a hallway to lure Maneaters in the room.<br/>※ Dig in a T shape instead of L shape so that you don't get attacked from behind.
+    <pre class="diagram">
+      S = Shiren　M = Maneater　X = Stairs<br/>
+      ■ ■ ■ ■ ■ ■ ■ ■ ■ ■<br/>
+      ■ ■ ■ ■ □ □ □ □ □ ■<br/>
+      ■ ■ □ □ □ □ □ X □ ■<br/>
+      ■ ■ □ ■ □ □ □ □ □ ■<br/>
+      □ □ □ ■ □ □ □ □ □ ■<br/>
+      ■ □ ■ ■ □ □ □ □ □ ■<br/>
+      ■ □ ■ ■ M □ □ □ □ ■<br/>
+      ■ □ □ S ■ ■ ■ □ ■ ■<br/>
+      ■ □ ■ ■ ■ ■ ■ □ ■ ■<br/>
+      ■ ■ ■ ■ ■ ■ ■ □ ■ ■
+    </pre>
+3. Change its focus to Chow
+    - Maneaters will prioritize Chow or Cloned status monsters if they're in the room,<br/>and its roars won't affect Shiren when it's focused on another monster.
+    - Don't let the Maneater defeat the Chow - use status inflicting items or create a barricade.
+    - Maneaters can still hit Shiren if they become afflicted with Blind, Confused, or Berserk.
+    <pre class="diagram">
+      Ex1.Walled in Chow    Ex2.Outside of room   Ex3.Violent Blade<br/>
+      Fort. Staff           Rusty Pickaxe         or Obsessive rune<br/>
+      ■ ■ ■ ■ □ ■ ■ ■ ■     ■ ■ ■ ■ □ ■ ■ ■ ■     ■ ■ ■ ■ □ ■ ■ ■ ■<br/>
+      ■ □ □ □ □ □ □ □ ■     ■ □ □ □ □ □ □ □ ■     ■ □ □ □ □ □ □ □ ■<br/>
+      ■ □ □ □ X □ □ □ ■     ■ □ □ □ X □ □ □ ■     ■ □ □ □ X □ □ □ ■<br/>
+      ■ □ □ □ □ □ □ □ ■     ■ □ □ □ □ □ □ □ ■     ■ M □ □ □ □ □ □ ■<br/>
+      ■ ■ M □ □ □ □ □ ■     ■ □ □ M ★ □ □ □ ■     ■ □ S □ □ □ □ □ ■<br/>
+      ■ C ★ □ □ □ □ □ ■     ■ ■ ■ ■ C ■ ■ ■ ■     ■ C □ □ □ □ □ □ ■<br/>
+      ■ ■ ■ ■ ■ ■ ■ ■ ■     ■ ■ ■ ■ ■ ■ ■ ■ ■     ■ ■ ■ ■ ■ ■ ■ ■ ■<br/>
+      C = Chow M = Maneater S = Shiren X = Stairs<br/>
+      ★ = Shiren, Paralyzed or Hiding enemy, or wall tile
+    </pre>
+4. Disable using traps
+    - Onigiri Trap makes it trivial to defeat Maneaters using direct attacks.
+    - Gen's Turf is the most practical location, but Trapper Bracelet + carry-in dungeon also works.
+    - Traps can break if you relocate them, so don't pick up or set the Onigiri Trap.
+    <pre class="diagram">
+      Ex1.Pretty safe:     Ex2.Trap is next to wall<br/>
+      No items needed      Pickaxe / Boring Staff<br/>
+      ■ ■ ■ ■ ■ ■ ■ ■ ■    ■ ■ ■ ■ ■ ■ ■ ■ ■<br/>
+      ■ ■ ■ □ □ X □ □ ■    ■ ■ ■ □ □ X □ □ ■<br/>
+      ■ ■ ■ □ □ □ □ □ ■    ■ ■ ■ □ □ □ □ □ ■<br/>
+      □ M □ □ □ □ □ □ ■    ■ M □ □ □ □ □ □ ■<br/>
+      ■ ■ ■ □ □ □ T S ■    ■ □ ■ □ □ □ □ □ ■<br/>
+      ■ ■ ■ □ □ □ □ □ ■    □ □ ■ □ □ T □ □ ■<br/>
+      ■ ■ ■ □ □ □ □ □ ■    ■ ■ ■ ■ ■ S ■ ■ ■<br/>
+      ■ ■ ■ ■ ■ ■ ■ ■ ■    ■ ■ ■ ■ ■ ■ ■ ■ ■<br/>
+      T = Trap M = Maneater S = Shiren X = Stairs<br/>
+    </pre>
+
 #### FO-UZZ for Revival Grass
 
 <div class="relativeImage monsterImage">
   <img src="../images/other/fo_uzz.png"/>
 </div>
 
+FO-UZZ is a rare enemy that always drops 1\~3 Revival Grass when defeated.<br/>
+6 HP, Swift 2 speed, warps when it takes damage or sees Shiren, and reduces damage received to 1 point.<br/>Having a type effective rune raises damage dealt to 2 points, and Empathy or Seal staves can be used.<br/>However, it has high attack power and hits twice per turn, so be careful if you seal it.
+
 # Earning
 
 #### Ally Level Ups
 
+##### Angel Seed Method
 
+By far the fastest way to level up allies to Lv99, and works on 3 allies at a time.
+
+- Obtain Angel Seeds from [Madam Ateska](/system/npcs)'s fortune.
+- Duplicate the Angel Seeds using Fever Pots.
+- Bless the Angel Seeds (Blessing Pot + Extraction Scroll).
+- Equip True Knife + Anti-Parry Brce. to activate an effect that ensures thrown items always hit.<br/>※ Can be skipped if you don't mind missing.
+- Bring Dracon Grass, or equip a Can. Arm Bracelet if you're not using 100% accuracy resonance.
+- Go to Destiny Trail with 3 allies you want to level up, and line them up in a hallway.
+- Eat the Dracon Grass and throw blessed Angel Seeds to raise ally levels by 6 per throw until Lv99.
+
+※ Koharu levels up through equipment level instead of experience points.<br/>
+※ Glorious Staff and Glorious Talisman only grant 500 experience points.<br/>
+※ Angel Seed can be registered as a [New Item](/system/new-items) if you don't want to use Fever Pots.
+
+See [Rescue Passwords](/guides/rescue-passwords) to obtain Fever Pots.
 
 #### Equipment, Upgrade Value, Synthesis Pots
 
+##### Merchant's Hideout + Wanderer Awaiting Rescue
 
+Intentionally collapse on 1F of Merchant's Hideout, and request a rescue.<br/>
+Choose the Wanderer awaiting rescue option from the main menu, and head to Merchant's Hideout.<br/>
+The dungeon will only have a depth of 1F, so you can quickly find weapons, shields, bracelets, and pots.<br/>
+※ Don't forget to deposit items between runs if you find items you want to keep.
 
 #### Blessed Extraction Scroll Loop
 
+A blessed Extraction Scroll blesses all items that are extracted from a pot, and the scroll is consumed,<br/>
+so as long as there's at least 1 Blank Scroll or Extraction Scroll in the pot, you can continue to bless items.
 
+There are many uses for this technique, like rapidly upgrading equipment (Fate, Earth, Gambler's scrolls),<br/>
+blessing items like Pot God Scroll, Fixer Scroll, Expulsion Scroll, Angel Seed, Revival Grass, Undo Grass, etc.
+
+Gen's Turf and Page of Youth offer many opportunities to obtain Blank Scrolls through monster licenses,<br/>
+so this technique isn't necessarily limited to dungeons that allow carry-in items.<br/>
+(Write Blessing and Extraction on 2 Blank Scrolls to get started)
+
+※ You can skip having to bless Extraction Scrolls if you obtain a Blessing Pot.<br/>
+※ Blank Scrolls can be obtained from the Point Shop for 200 points each.
 
 #### Points
 
+##### Destiny Trail
 
+This can be done once you have a Point Card and 2 Trap Bracelets.
+
+1~2F of Destiny Trail only has Point Switches for traps, so the idea is to generate<br/>
+lots of Point Switches by passing turns while having both Trap Bracelets equipped.<br/>
+You usually get somewhere around 3,000 ~ 4,000 points per trip.
+
+Needed Items:
+
+- Trap Bracelet x 2
+- Escape Scroll or Undo Grass
+
+Steps:
+
+1. Equip a weapon and shield that grants 2 bracelet resonance, and equip the Trap Bracelets.
+2. Ensure you have an Escape Scroll or Undo Grass in your inventory.
+3. Go to Destiny Trail, step in place to spawn Point Switches, and step on them to collect points.
+4. Repeat until Wind of Kron blows.
+5. Read the Escape Scroll or use the Undo Grass to return to Nekomaneki Village.
+
+##### Gorger's Manor
+
+This can be done once you've significantly upgraded your equipment.
+
+Gorger's Manor offers 200 points per Point Switch near the end. (47~50F)<br/>
+Bring Trap Scrolls, Trap Deletion Scrl, Extraction Scrolls, and Blessing Pot to generate Point Switches.<br/>
+You usually get somewhere around 30,000 ~ 50,000 points per trip.
+
+Needed Items:
+
+- Preservation Pot[5] --- blessed Trap Scroll x 4, blessed Trap Deletion Scrl x 1
+- Preservation Pot[5] --- Extraction Scroll x 5 (Bring lots of these pots)
+- Blessing Pot x 1
+- Undo Grass
+
+Steps:
+
+1. Go to 47F of Gorger's Manor.
+2. Read 4 Trap Scrolls (once per scroll), then read Trap Deletion Scrl.
+3. Insert the 4 Trap Scrolls and 1 Trap Deletion Scrl into the Blessing Pot.
+4. Read an Extraction Scroll to retrieve the 4 Trap Scrolls and 1 Trap Deletion Scroll.
+5. Repeat 1\~2 times if you want, and then step on all Point Switches.
+6. Do this over and over until Wind of Kron blows.
+7. Use the Undo Grass or clear the dungeon to return to Nekomaneki Village.
 
 #### Blank Scrolls
 
+##### Monster Licenses → Blank Scrolls
 
+Far inferior method compared to exchanging points, but doesn't require any preparations.
+
+- Be able to write Escape on Blank Scrolls.
+- Go to Gen's Turf and obtain lots of monster licenses, and escape from the dungeon.
+    - Aim for Mamel, Seedie, and Chintala licenses.
+- Go to Destiny Trail to turn the licenses into Blank Scrolls.
 
 #### Upgrade Value
 
+##### Undergound Manor - District 4 (31-40F)
 
+Repeat district 4 to take home a Dotanuki+8 and Wolfshead+10 each run, then synthesize them.
+
+##### Blessing Pot + Extraction Scrolls
+
+Needed Items:
+
+- Preservation Pot[5] --- blessed Fate or Earth Scroll x 5
+- Preservation Pot[5] --- Extraction Scroll x 5 (Bring lots of these pots)
+- Blessing Pot x 1
+- Weapons and shields --- Whichever ones you want to upgrade.
+
+※ Fate and Earth scrolls can be found in Explosion Rocks.
+
+Steps:
+
+1. Go inside the Nekomaneki Village warehouse, and ensure there's 5 tiles of space on the ground.
+2. Read 5 Fate or Earth scrolls (once per scroll).
+3. Insert the Fate or Earth scrolls into the Blessing Pot.
+4. Read an Extraction Scroll to retrieve the 5 Fate or Earth scrolls.
+5. Repeat until upgrade value reaches +99, or you run out of Extraction Scrolls.
 
 #### Skill Points
 
+##### Gambler's Scroll
 
+The idea is to read lots of Gambler's Scrolls in Destiny Trail for the weapon and shield level up effect.<br/>This technique can also be used to level Koharu.
+
+Needed Items:
+
+- Preservation Pot[5] --- blessed Gambler's Scroll x 5
+- Preservation Pot[5] --- Extraction Scroll x 5 (Bring lots of these pots)
+- Blessing Pot x 1
+- Shield with Anti-Blast rune --- Keep this equipped.
+- Weapons and shields --- Whichever ones you want to level up.
+- Undo Grass
+
+Steps:
+
+1. Place whatever weapons and shields you want to level up in your inventory. (Outside of pots)
+2. Go to Destiny Trail 5F.
+3. Read 5 Gambler's Scrolls (once per scroll).
+4. Insert the 5 Gambler's Scrolls into the Blessing Pot.
+5. Read an Extraction Scroll to retrieve the 5 Gambler's Scrolls.
+6. Repeat until all of your weapons and shields reach Lv8, or you run out of Extraction Scrolls.
+7. Use the Undo Grass to return to Nekomaneki Village.
 
 #### Gitan - Coupon Scroll
 
+##### Coupon Scroll
 
+1. Be able to write Coupon on Blank Scrolls. (See [Tanuki Passwords](/system/tanuki-passwords))
+2. Stock up on Coupon Scrolls. (Blank Scrolls = 200 points, bless them for efficiency)
+3. Insert high-value items into Preservation Pots, and search for shops in story dungeons.<br/>※ Don't forget an Escape Scroll.
+4. Sell all of your high value items → read Coupon Scroll → repeat until Gitan total reaches 999,999.
+
+Repeat 100 times to max out your bank, which rewards you with a Fuuma Sword.<br/>PS Vita and Steam versions also reward you with a trophy.
 
 #### Catstones
 
+##### Before Entering Post-Game Dungeons
 
+The Tanuki who sells Catstones will only go to Destiny Trail, Tower of the Past, Tower of the Present,<br/>
+Tower of the Future, and Tower of Fortune, so you can easily collect Catstones using Sparrow's Shuttle.
+
+##### After Entering Post-Game Dungeons
+
+Collect Catstones by cheating at Pick-A-Choice shops in Lost Well. (Read Collection Scrolls)<br/>This is by far the most efficient method to obtain Catstones.
+
+
+##### Soft-Resetting for Location
+
+Quit the game without saving to change the Tanuki's location when it changes after purchasing a Catstone.<br/><span class="redText">※ Save once after depositing all items and Gitan before using this method. (Point Card will be set to 0)</span>
 
 #### Always Win Pick-A-Choice
 
+Reading a Collection Scroll after paying lets you collect the prize without having to step on a launch pad,<br/>so the idea is to bring lots of blessed Collection Scrolls to rapidly collect items.<br/>The best dungeons for rare items are Lost Well and Merchant's Hideout.
 
+Check [Rescue Passwords](/guides/rescue-passwords) to see if there are passwords you can use to locate Pick-A-Choice shops.
+
+Needed items:
+
+- Strong equipment
+    - 2 bracelet resonance is ideal, and important for Lost Well in particular.
+- Something to get rid of unneeded items
+    - Blazing Shield --- Burn selected items.
+    - Can. Arm Bracelet --- Throw items out of the map.
+    - Explosion Bracelet --- Place items on the ground and blow them up.
+- Scout Bracelet or Monster Detector
+    - Required in Lost Well.
+- Time Stop Bracelet
+    - For Lost Well. Bring Night-Day Scrolls if you don't have it.
+- Identify Bracelet
+    - Items are unidentified in both dungeons, but unnecessary if you're aiming for Catstones.
+- Preservation Pot (blessed Collection Scroll x 5)
+    - Only need to bring 1 if you're using the blessed Extraction Scroll loop technique.
+- Preservation Pot (blessed Extraction Scroll x 5)
+    - Bring lots of these, though only 2\~3 if you're aiming for Catstones in Lost Well.
+- Preservation Pot (Blank Scroll x 5)
+    - Write Navigation, Extinction, Trap Deletion, etc.
+- Preservation Pot (blessed Undo Grass x 5)
+    - Just in case you run into accidents.
+- Fort. Staff or Sanctuary Scroll or Hide Pot
+    - Block the Pick-A-Choice shop's entrance.
+- Gitan
+    - Required amount varies based on the number of Extraction Scrolls you bring.
+
+Steps:
+
+1. Proceed until you reach the Pick-A-Choice shop floor.
+2. Read Fixer Scroll at night without light or Navigation Scroll, and then Trap Deletion Scrl.
+3. Change time of day if needed using Night-Day Scroll, and equip a Time Stop Bracelet if you have one.
+4. Throw an Extinction Scroll (Lost Well)
+    - 4-6F: Throw an Extinction Scroll at Dark Grass Poppa (night) if you don't have Time Stop Bracelet.
+    - 7-9F: Throw an Extinction Scroll at Horrabbit (day) or Evil Archdragon (night)
+5. Read a Collection Scroll to gather and get rid of floor items.
+6. Enter the Pick-A-Choice shop and block the entrance.
+7. Repeat paying Gitan, reading Collection Scrolls, and blessing Collection Scrolls.
+8. Eat an Undo Grass when you're ready to escape from the dungeon.
+
+※ Pick up the prize if you want to keep it, otherwise leave it on the ground and it'll vanish when you pay again.
 
 #### Experience Points - Past Lv99
 
+Reading Gambler's Scroll makes it trivial to reach level 99.<br/>
+However, maxing experience points requires over double the amount needed to reach level 99.<br/>
+(About 1,000 Abyssal Dragons worth)
 
+##### Monster Summoner
+
+Equip 2 Monster Summoners and go through a 99F dungeon defeating higher level monsters.
+
+##### Inori Cave Porgon + Blazebird
+
+This method achieves 9,999 monsters defeated at the same time, but it's a [complicated setup](https://seesaawiki.jp/w/shiren5/d/1%a5%d5%a5%ed%a5%a2%a4%cb%c5%dd%a4%b7%a4%bf%a5%e2%a5%f3%a5%b9%a5%bf%a1%bcX%c2%ce%a4%cb%b4%d8%a4%b9%a4%eb%b9%cd%bb%a1).
 
 #### New Item Bracelet for +99 Items
 
+Unlike Shiren 4, Upgrade Pots have a random chance of breaking when changing floors in Shiren 5,<br/>
+so use the "Boost buff rates and # of usable items" new item bracelet effect instead, which selects<br/>1 item at random when you change floors and increases upgrade value or use count by 1.
 
+Required:
+
+- 2 new item bracelets with the "Boost buff rates and # of usable items" effect.
+- New item staves with the Transient → Swap effect. (Ideally, enough staves to last 99 floors)
+- Weapon and shield set that grants 2 bracelet resonance.
+- An ally NPC. (Max level Koharu is best for consistency)
+
+Steps:
+
+1. Head to Inori Cave, and insert all items except for the above equipment and staves into pots.
+2. Equip the weapon and shield set, and both new item bracelets.
+3. Set the new item staff, and swing it at your ally to warp to the stairs → repeat 99 floors. (~10 minutes)
+    - This increases upgrade value or use count by 99 x 2 = 198 per run, since there are 2 bracelets.
+5. Repeat until you have a nice stock of 99 use new item staves with the Transient → Swap effect.
+6. Repeat the process, this time carrying other staves.
