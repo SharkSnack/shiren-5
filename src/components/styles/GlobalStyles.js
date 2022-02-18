@@ -679,10 +679,16 @@ export const baseStyles = css`
     background-color: #ddfff7;
   }
   .monsterTable th {
-    padding: 4px;
+    text-align: center;
+    padding: 2.5px;
   }
   .monsterTable td {
-    padding: 4px;
+    text-align: center;
+    padding-left: 2.5px;
+    padding-right: 2.5px;
+    padding-top: 3.5px;
+    padding-bottom: 3.5px;
+    font-size: 13.5px;
   }
   .monsterTableSmall th {
     padding: 2px;
@@ -1047,18 +1053,6 @@ export const baseStyles = css`
   .highlightBlue {
     background-color: #a3e0fd !important;
   }
-  .highlightWater {
-    background-color: #3366ff;
-    color: white;
-  }
-  .highlightLava {
-    background-color: #e33f3f;
-    color: white;
-  }
-  .highlightNoWalls {
-    background-color: lightsteelblue;
-    color: white;
-  }
   .highlightBlack {
     background-color: #333333 !important;
     color: white;
@@ -1108,6 +1102,46 @@ export const baseStyles = css`
   }
   .highlightBronze {
     background-color: #ffd4bf !important;
+  }
+  .highlightFarming {
+    background-color: #c3ecff !important;
+  }
+  .highlightUseful {
+    background-color: #aeffda !important;
+  }
+  .highlightItem {
+    background-color: #ddc4ec !important;
+  }
+  .highlightOffense {
+    background-color: #fff09f !important;
+  }
+  .highlightDanger {
+    background-color: #ffd0f4 !important;
+  }
+  .highlightExtreme {
+    background-color: #ffb1b1 !important;
+  }
+  .highlightWater {
+    background-color: #3366ff;
+    color: white;
+  }
+  .highlightLava {
+    background-color: #e33f3f;
+    color: white;
+  }
+  .highlightNoWalls {
+    background-color: lightsteelblue;
+    color: white;
+  }
+  .highlightNoWallsLava {
+    background-color: #e6e6e6;
+    color: #e33f3f;
+  }
+  .monsterDay {
+    background-color: #fffff6;
+  }
+  .monsterNight {
+    background-color: #edf4ff;
   }
   .itemPageImage {
     background-color: #555;
@@ -1167,6 +1201,42 @@ export const baseStyles = css`
   }
   .purpleText2 {
     color: #a256bd;
+  }
+  .farmingDay {
+    color: #0076df;
+  }
+  .farmingNight {
+    color: #006cdf;
+  }
+  .usefulDay {
+    color: #299b5b;
+  }
+  .usefulNight {
+    color: #059300;
+  }
+  .itemDay {
+    color: #8b3ed9;
+  }
+  .itemNight {
+    color: #70008e;
+  }
+  .strongDay {
+    color: #bf911c;
+  }
+  .strongNight {
+    color: goldenrod;
+  }
+  .dangerDay {
+    color: #f063a9;
+  }
+  .dangerNight {
+    color: #c14d86;
+  }
+  .extremeDay {
+    color: #e32a2a;
+  }
+  .extremeNight {
+    color: #d51818;
   }
   .centeredText {
     text-align: center;

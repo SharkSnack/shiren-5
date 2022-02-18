@@ -796,16 +796,38 @@ Key monsters appear one after the next, including Grass Kids (3-5F), Karakuroids
 Generally check every room for items, then advance to the next floor.<br/>There isn't a whole lot you can do yet, but there are a few things to watch for.
 
 - Step on Gitan and swap it with an inventory item instead of picking it up.<br/>
+    - Can be thrown to one-shot Gitan Mamel or Grass Kid.
+    - Froggos can't steal from you if you stay at 0 Gitan.
+    - It's not a complete waste if an unidentified scroll was Fixer Scroll.
 
 - Use staves and talismans to identify them soon after picking them up.<br/>
+    - These categories remain in your inventory even after you use them once to identify them.
+    - Pit Mamel is the best target, since level changes are visible and higher levels are easy to defeat.
 
 - Level up a Pit Mamel (3\~5F) and defeat it to gain lots of experience points.<br/>
+    - Use Glorious Staff, Glorious Talisman, Fear Scroll, Clone Staff, Rage Grass, etc. to create a Gitan Mamel,<br/>then defeat it by throwing a bag of Gitan or a Rock to gain lots of experience points.
+    - Projectiles can miss, so it's best to keep some distance or use a staff.
+    - Save 1 Glorious Staff or Glorious Talisman use for Nigiri Baby on 6F to perform Nigiri Morph Factory.
 
 - Hunt Grass Kids (3\~5F) for grass items.<br/>
+    - Grass Kids always drop grass, so hunt them to help with identification and synthesis.
+    - Throw 280+ Gitan to one-shot it, or use arrows and rocks in a hallway to ensure you get the grass.
+    - If you have extra food, it's worth lingering until the wind blows. (Spawn rates are 5F > 4F > 3F)
 
 ##### 6-8F
 
+6F is great for collecting arrows and performing Nigiri Morph Factory.<br/>
+Test unidentified pots with 2\~4 capacity on 6F in case it's a Dodger Pot, which lets you trap monsters.<br/>Perceptive Pot is also nice, since you can hunt Froggos without losing Gitan.<br/>Don't read unidentified scrolls - Grounded or Muzzled scroll can instantly ruin your plans.
 
+
+- Karakuroids (6\~8F)
+    - 
+
+- Froggo (6\~7F)
+    - 
+
+- Nigiri Morph Factory (6\~8F)
+    - 
 
 ##### 8-10F
 
