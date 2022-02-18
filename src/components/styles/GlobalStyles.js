@@ -1140,11 +1140,30 @@ export const baseStyles = css`
   .highlightShop {
     background-color: #fffac5 !important;
   }
+  .highlightFog {
+    background-color: #dbdbdb;
+  }
   .monsterDay {
     background-color: #fffff6;
   }
   .monsterNight {
     background-color: #edf4ff;
+  }
+  .monsterTableManeater {
+    color: white;
+    background-color: #b94c45;
+  }
+  .monsterTableVilleater {
+    color: white;
+    background-color: #d9c656;
+  }
+  .monsterTableMounteater {
+    color: white;
+    background-color: #349c53;
+  }
+  .monsterTableIsleater {
+    color: white;
+    background-color: #4d45cb;
   }
   .itemPageImage {
     background-color: #555;
@@ -1190,6 +1209,12 @@ export const baseStyles = css`
   .blueText2 {
     color: blue;
   }
+  .darkblueText {
+    color: #0000cd;
+  }
+  .lightblueText {
+    color: #6495ed;
+  }
   .redText {
     color: #f66;
   }
@@ -1230,7 +1255,7 @@ export const baseStyles = css`
     color: goldenrod;
   }
   .dangerDay {
-    color: #ce9c1c;
+    color: #b3830a;
   }
   .dangerNight {
     color: #bd8700;
