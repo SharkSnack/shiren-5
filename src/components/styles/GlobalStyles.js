@@ -1137,6 +1137,9 @@ export const baseStyles = css`
     background-color: #e6e6e6;
     color: #e33f3f;
   }
+  .highlightShop {
+    background-color: #fffac5 !important;
+  }
   .monsterDay {
     background-color: #fffff6;
   }
@@ -1227,10 +1230,10 @@ export const baseStyles = css`
     color: goldenrod;
   }
   .dangerDay {
-    color: #f063a9;
+    color: #ce9c1c;
   }
   .dangerNight {
-    color: #c14d86;
+    color: #bd8700;
   }
   .extremeDay {
     color: #e32a2a;
