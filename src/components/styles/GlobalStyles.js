@@ -846,6 +846,15 @@ export const baseStyles = css`
   .dungeonTable th {
     font-weight: normal;
   }
+  .dungeonItems th {
+    font-weight: normal;
+    text-align: center;
+    padding: 4px;
+  }
+  .dungeonItems td {
+    text-align: center;
+    padding: 4px;
+  }
   .clearIcon {
     padding: 0px;
   }
