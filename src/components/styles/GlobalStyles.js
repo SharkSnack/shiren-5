@@ -1255,7 +1255,7 @@ export const baseStyles = css`
     color: goldenrod;
   }
   .dangerDay {
-    color: #b3830a;
+    color: #ea8c29;
   }
   .dangerNight {
     color: #bd8700;

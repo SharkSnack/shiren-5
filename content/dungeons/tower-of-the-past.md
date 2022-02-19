@@ -355,150 +355,80 @@ Save Stomach Expanders for Mixers to increase the number of items they can eat i
 
 # Monster Table
 
-<table class="dungeonMonsters">
+<table class="monsterTable">
   <tr>
-    <th colspan="8">Day</th>
+    <th>F</th>
+    <th colspan="7">Monsters</th>
   </tr>
   <tr>
-    <th>1</th>
-    <td class="highlightBlue">Grass Kid</td>
-    <td class="highlightYellow">Pin Kid</td>
-    <td class="highlightYellow">Sweet Nut</td>
-    <td class="highlightYellow">Karakuroid</td>
-    <td class="highlightYellow">Nigiri Baby</td>
-    <td class="highlightBlue">Froggo</td>
-    <td></td>
+    <td>1</td>
+    <td class="farmingDay monsterDay">Grass Kid</td>
+    <td class="monsterDay">Pin Kid</td>
+    <td class="monsterDay">Sweet Nut</td>
+    <td class="monsterDay">Karakuroid</td>
+    <td class="monsterDay">Nigiri Baby</td>
+    <td class="farmingDay monsterDay">Froggo</td>
+    <td class="highlightGray"></td>
   </tr>
   <tr>
-    <th>2</th>
-    <td class="highlightYellow">Tiger Tosser</td>
-    <td class="highlightYellow">Curse Girl</td>
-    <td class="highlightYellow">Sweet Nut</td>
-    <td class="highlightYellow">Karakuroid</td>
-    <td class="highlightYellow">Nigiri Baby</td>
-    <td class="highlightBlue">Froggo</td>
-    <td></td>
+    <td>2</td>
+    <td class="monsterDay">Tiger Tosser</td>
+    <td class="monsterDay">Curse Girl</td>
+    <td class="monsterDay">Sweet Nut</td>
+    <td class="monsterDay">Karakuroid</td>
+    <td class="monsterDay">Nigiri Baby</td>
+    <td class="farmingDay monsterDay">Froggo</td>
+    <td class="highlightGray"></td>
   </tr>
   <tr>
-    <th>3</th>
-    <td class="highlightYellow">Tiger Tosser</td>
-    <td class="highlightYellow">Curse Girl</td>
-    <td></td>
-    <td class="highlightYellow">Karakuroid</td>
-    <td class="highlightYellow">Nigiri Baby</td>
-    <td class="highlightYellow">Fearabbit</td>
-    <td></td>
+    <td>3</td>
+    <td class="monsterDay">Tiger Tosser</td>
+    <td class="monsterDay">Curse Girl</td>
+    <td class="highlightGray"></td>
+    <td class="monsterDay">Karakuroid</td>
+    <td class="monsterDay">Nigiri Baby</td>
+    <td class="monsterDay">Fearabbit</td>
+    <td class="highlightGray"></td>
   </tr>
   <tr>
-    <th>4</th>
-    <td class="highlightYellow">Tiger Tosser</td>
-    <td class="highlightYellow">Curse Girl</td>
-    <td class="highlightYellow">Pumphantasm</td>
-    <td class="highlightYellow">Floaty</td>
-    <td class="highlightYellow">Gyaza</td>
-    <td class="highlightYellow">Fearabbit</td>
-    <td></td>
+    <td>4</td>
+    <td class="monsterDay">Tiger Tosser</td>
+    <td class="monsterDay">Curse Girl</td>
+    <td class="monsterDay">Pumphantasm</td>
+    <td class="monsterDay">Floaty</td>
+    <td class="monsterDay">Gyaza</td>
+    <td class="monsterDay">Fearabbit</td>
+    <td class="highlightGray"></td>
   </tr>
   <tr>
-    <th>5</th>
-    <td class="highlightOrange2">Naptapir</td>
-    <td class="highlightYellow">N'dubba</td>
-    <td class="highlightYellow">Pumphantasm</td>
-    <td class="highlightYellow">Floaty</td>
-    <td class="highlightYellow">Gyaza</td>
-    <td></td>
-    <td></td>
+    <td>5</td>
+    <td class="dangerDay monsterDay">Naptapir</td>
+    <td class="monsterDay">N'dubba</td>
+    <td class="monsterDay">Pumphantasm</td>
+    <td class="monsterDay">Floaty</td>
+    <td class="monsterDay">Gyaza</td>
+    <td class="highlightGray"></td>
+    <td class="highlightGray"></td>
   </tr>
   <tr>
-    <th>6</th>
-    <td class="highlightOrange2">Naptapir</td>
-    <td class="highlightYellow">N'dubba</td>
-    <td class="highlightYellow">Pumphantasm</td>
-    <td class="highlightYellow">Floaty</td>
-    <td></td>
-    <td class="highlightYellow">Mutaikon</td>
-    <td></td>
+    <td>6</td>
+    <td class="dangerDay monsterDay">Naptapir</td>
+    <td class="monsterDay">N'dubba</td>
+    <td class="monsterDay">Pumphantasm</td>
+    <td class="monsterDay">Floaty</td>
+    <td class="highlightGray"></td>
+    <td class="monsterDay">Mutaikon</td>
+    <td class="highlightGray"></td>
   </tr>
   <tr>
-    <th>7</th>
-    <td class="highlightOrange2">Naptapir</td>
-    <td class="highlightYellow">Metalhead</td>
-    <td class="highlightYellow">Pumphantasm</td>
-    <td class="highlightYellow">Floaty</td>
-    <td class="highlightOrange2">Swordsman</td>
-    <td class="highlightYellow">Mutaikon</td>
-    <td class="highlightYellow">Mudkin</td>
-  </tr>
-</table>
-
-<br/>
-
-<table class="dungeonMonsters">
-  <tr>
-    <th colspan="10" class="highlightBlack">Night</th>
-  </tr>
-  <tr>
-    <th>1</th>
-    <td class="highlightPurple">Evil Kid Squid</td>
-    <td class="highlightPurple">Dark Flamebird</td>
-    <td class="highlightPurple">Dark Pop Tank</td>
-    <td class="highlightPurple">Sinister Porky</td>
-    <td class="highlightPurple">Shady Mudkin</td>
-    <td class="highlightPurple">Dark Kumonigiri</td>
-  </tr>
-  <tr>
-    <th>2</th>
-    <td class="highlightPurple">Evil Kid Squid</td>
-    <td class="highlightPurple">Dark Flamebird</td>
-    <td class="highlightPurple">Dark Pop Tank</td>
-    <td class="highlightPurple">Sinister Porky</td>
-    <td class="highlightPurple">Shady Mudkin</td>
-    <td class="highlightPurple">Dark Kumonigiri</td>
-  </tr>
-  <tr>
-    <th>3</th>
-    <td class="highlightPurple">Plump Chow</td>
-    <td class="highlightPurple">Dark DJ Mage</td>
-    <td class="highlightPurple">Wicked Scoopie</td>
-    <td></td>
-    <td class="highlightPurple">Shady Mudkin</td>
-    <td class="highlightPurple">Dark Kumonigiri</td>
-  </tr>
-  <tr>
-    <th>4</th>
-    <td class="highlightPurple">Plump Chow</td>
-    <td class="highlightPurple">Dark DJ Mage</td>
-    <td class="highlightPurple">Wicked Scoopie</td>
-    <td class="highlightPurple">Evil Gazer</td>
-    <td class="highlightPurple">Dark Mutaikon</td>
-    <td class="highlightPurple">Foul Nigiri Baby</td>
-  </tr>
-  <tr>
-    <th>5</th>
-    <td class="highlightPurple">Dark N'dubba</td>
-    <td class="highlightPurple">Evil Mid Chintala</td>
-    <td class="highlightPurple">Evil Firepuff</td>
-    <td class="highlightPurple">Evil Gazer</td>
-    <td class="highlightPurple">Dark Mutaikon</td>
-    <td class="highlightPurple">Foul Nigiri Baby</td>
-  </tr>
-  <tr>
-    <th>6</th>
-    <td class="highlightPurple">Dark N'dubba</td>
-    <td class="highlightPurple">Evil Mid Chintala</td>
-    <td class="highlightPurple">Evil Firepuff</td>
-    <td></td>
-    <td></td>
-    <td class="highlightPurple">Foul Nigiri Baby</td>
-  </tr>
-  <tr>
-    <th>7</th>
-    <td class="highlightPurple">Dark Blade Bee</td>
-    <td class="highlightPurple">Evil Mid Chintala</td>
-    <td class="highlightPurple">Evil Firepuff</td>
-    <td class="highlightPurple">Mean Cheer-Ham</td>
-    <td></td>
-    <td></td>
+    <td>7</td>
+    <td class="dangerDay monsterDay">Naptapir</td>
+    <td class="monsterDay">Metalhead</td>
+    <td class="monsterDay">Pumphantasm</td>
+    <td class="monsterDay">Floaty</td>
+    <td class="dangerDay monsterDay">Swordsman</td>
+    <td class="monsterDay">Mutaikon</td>
+    <td class="monsterDay">Mudkin</td>
   </tr>
 </table>
 

@@ -42,22 +42,30 @@ Once cleared, you can never return to this dungeon.
 
 # Monster Table
 
-<table>
-  <tr>
-    <th>1</th>
-    <td>Mamel</td>
-    <td></td>
-  </tr>
-  <tr>
-    <th>2</th>
-    <td>Mamel</td>
-    <td>Sproutant</td>
-  </tr>
-  <tr>
-    <th>3</th>
-    <td>Mamel</td>
-    <td>Sproutant</td>
-  </tr>
+<table class="monsterTable">
+  <thead>
+    <tr>
+      <th>F</th>
+      <th colspan="2">Monsters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td class="monsterDay">Mamel</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td class="monsterDay">Mamel</td>
+      <td class="monsterDay">Sproutant</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td class="monsterDay">Mamel</td>
+      <td class="monsterDay">Sproutant</td>
+    </tr>
+  </tbody>
 </table>
 
 # Items

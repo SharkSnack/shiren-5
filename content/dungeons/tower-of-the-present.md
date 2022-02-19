@@ -360,164 +360,80 @@ A regular Peach restores strength to max, so it's not that bad if you lose stren
 
 # Monster Table
 
-<table class="dungeonMonsters">
+<table class="monsterTable">
   <tr>
-    <th colspan="8">Day</th>
+    <th>F</th>
+    <th colspan="7">Monsters</th>
   </tr>
   <tr>
     <td>1</td>
-    <td class="highlightYellow">Gyaza</td>
-    <td class="highlightYellow">Curse Girl</td>
-    <td class="highlightOrange2">Fearabbit</td>
-    <td class="highlightBlue">Mixer</td>
-    <td class="highlightYellow">Scorpion</td>
-    <td class="highlightYellow">Mutaikon</td>
-    <td></td>
+    <td class="monsterDay">Gyaza</td>
+    <td class="monsterDay">Curse Girl</td>
+    <td class="dangerDay monsterDay">Fearabbit</td>
+    <td class="farmingDay monsterDay">Mixer</td>
+    <td class="monsterDay">Scorpion</td>
+    <td class="monsterDay">Mutaikon</td>
+    <td class="highlightGray"></td>
   </tr>
   <tr>
     <td>2</td>
-    <td class="highlightYellow">Gyaza</td>
-    <td class="highlightYellow">Curse Girl</td>
-    <td></td>
-    <td class="highlightBlue">Mixer</td>
-    <td class="highlightYellow">Scorpion</td>
-    <td class="highlightYellow">Mutaikon</td>
-    <td></td>
+    <td class="monsterDay">Gyaza</td>
+    <td class="monsterDay">Curse Girl</td>
+    <td class="highlightGray"></td>
+    <td class="farmingDay monsterDay">Mixer</td>
+    <td class="monsterDay">Scorpion</td>
+    <td class="monsterDay">Mutaikon</td>
+    <td class="highlightGray"></td>
   </tr>
   <tr>
     <td>3</td>
-    <td class="highlightYellow">Gyaza</td>
-    <td class="highlightYellow">Naptapir</td>
-    <td></td>
-    <td class="highlightBlue">Mixer</td>
-    <td class="highlightYellow">Scorpion</td>
-    <td class="highlightYellow">Pumphantasm</td>
-    <td></td>
+    <td class="monsterDay">Gyaza</td>
+    <td class="monsterDay">Naptapir</td>
+    <td class="highlightGray"></td>
+    <td class="farmingDay monsterDay">Mixer</td>
+    <td class="monsterDay">Scorpion</td>
+    <td class="monsterDay">Pumphantasm</td>
+    <td class="highlightGray"></td>
   </tr>
   <tr>
     <td>4</td>
-    <td class="highlightYellow">Mid Chintala</td>
-    <td class="highlightYellow">Naptapir</td>
-    <td class="highlightYellow">Mudkin</td>
-    <td class="highlightOrange2">Swordsman</td>
-    <td class="highlightYellow">Polygon Spinna</td>
-    <td class="highlightYellow">Pumphantasm</td>
-    <td class="highlightYellow">Cololum</td>
+    <td class="monsterDay">Mid Chintala</td>
+    <td class="monsterDay">Naptapir</td>
+    <td class="monsterDay">Mudkin</td>
+    <td class="dangerDay monsterDay">Swordsman</td>
+    <td class="monsterDay">Polygon Spinna</td>
+    <td class="monsterDay">Pumphantasm</td>
+    <td class="monsterDay">Cololum</td>
   </tr>
   <tr>
     <td>5</td>
-    <td class="highlightYellow">Mid Chintala</td>
-    <td class="highlightYellow">Metalhead</td>
-    <td class="highlightYellow">Mudkin</td>
-    <td class="highlightOrange2">Swordsman</td>
-    <td class="highlightYellow">Polygon Spinna</td>
-    <td class="highlightYellow">Pumphantasm</td>
-    <td class="highlightYellow">Cololum</td>
+    <td class="monsterDay">Mid Chintala</td>
+    <td class="monsterDay">Metalhead</td>
+    <td class="monsterDay">Mudkin</td>
+    <td class="dangerDay monsterDay">Swordsman</td>
+    <td class="monsterDay">Polygon Spinna</td>
+    <td class="monsterDay">Pumphantasm</td>
+    <td class="monsterDay">Cololum</td>
   </tr>
   <tr>
     <td>6</td>
-    <td class="highlightYellow">Mid Chintala</td>
-    <td class="highlightYellow">Metalhead</td>
-    <td class="highlightYellow">Mudkin</td>
-    <td class="highlightOrange2">Swordsman</td>
-    <td class="highlightYellow">Acrid Nut</td>
-    <td class="highlightOrange2">Cheer-Ham</td>
-    <td class="highlightYellow">Cololum</td>
+    <td class="monsterDay">Mid Chintala</td>
+    <td class="monsterDay">Metalhead</td>
+    <td class="monsterDay">Mudkin</td>
+    <td class="dangerDay monsterDay">Swordsman</td>
+    <td class="monsterDay">Acrid Nut</td>
+    <td class="dangerDay monsterDay">Cheer-Ham</td>
+    <td class="monsterDay">Cololum</td>
   </tr>
   <tr>
     <td>7</td>
-    <td class="highlightYellow">Bored Kappa</td>
-    <td class="highlightYellow">Metalhead</td>
-    <td></td>
-    <td class="highlightYellow">Kid Squid</td>
-    <td class="highlightYellow">Acrid Nut</td>
-    <td class="highlightOrange2">Cheer-Ham</td>
-    <td></td>
-  </tr>
-</table>
-
-<br/>
-
-<table class="dungeonMonsters">
-  <tr>
-    <th colspan="10" class="highlightBlack">Night</th>
-  </tr>
-  <tr>
-    <th>1</th>
-    <td class="highlightPurple">Dark DJ Mage</td>
-    <td class="highlightPurple">Wicked Scoopie</td>
-    <td class="highlightPurple">Evil Gazer</td>
-    <td class="highlightPurple">Dark Mutaikon</td>
-    <td class="highlightPurple">Dark Foly</td>
-    <td class="highlightPurple">Evil Firepuff</td>
-    <td class="highlightPurple">Dark Eligan</td>
-    <td class="highlightPurple">Evil Floaty</td>
-  </tr>
-  <tr>
-    <th>2</th>
-    <td></td>
-    <td></td>
-    <td class="highlightPurple">Evil Gazer</td>
-    <td class="highlightPurple">Dark Mutaikon</td>
-    <td class="highlightPurple">Dark Foly</td>
-    <td class="highlightPurple">Evil Firepuff</td>
-    <td class="highlightPurple">Dark Eligan</td>
-    <td class="highlightPurple">Evil Floaty</td>
-  </tr>
-  <tr>
-    <th>3</th>
-    <td class="highlightPurple">Dark Blade Bee</td>
-    <td class="highlightPurple">Hateful Seedie</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td class="highlightPurple">Evil Firepuff</td>
-    <td class="highlightPurple">Dark Eligan</td>
-    <td class="highlightPurple">Evil Floaty</td>
-  </tr>
-  <tr>
-    <th>4</th>
-    <td class="highlightPurple">Dark Blade Bee</td>
-    <td class="highlightPurple">Hateful Seedie</td>
-    <td class="highlightPurple">Mean Cheer-Ham</td>
-    <td class="highlightPurple">Bad Moseal</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <th>5</th>
-    <td class="highlightPurple">Dark Blade Bee</td>
-    <td class="highlightPurple">Hateful Seedie</td>
-    <td class="highlightPurple">Mean Cheer-Ham</td>
-    <td class="highlightPurple">Bad Moseal</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <th>6</th>
-    <td class="highlightPurple">Evil Hipadile</td>
-    <td class="highlightPurple">Shady Muddy</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <th>7</th>
-    <td class="highlightPurple">Evil Hipadile</td>
-    <td class="highlightPurple">Shady Muddy</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td class="monsterDay">Bored Kappa</td>
+    <td class="monsterDay">Metalhead</td>
+    <td class="highlightGray"></td>
+    <td class="monsterDay">Kid Squid</td>
+    <td class="monsterDay">Acrid Nut</td>
+    <td class="dangerDay monsterDay">Cheer-Ham</td>
+    <td class="highlightGray"></td>
   </tr>
 </table>
 

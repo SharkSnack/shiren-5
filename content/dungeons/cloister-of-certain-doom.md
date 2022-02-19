@@ -4,7 +4,7 @@ metaTitle: "Cloister of Certain Doom - Shiren the Wanderer: Tower of Fortune Wik
 metaDescription: "Cloister of Certain Doom guide for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
 ---
 <div class="pageTopImage screenshot">
-  <img src="../images/overworld/underground_manor.jpg"/>
+  <img src="../images/overworld/cloister_of_certain_doom.jpg"/>
 </div>
 
 [Introduction]

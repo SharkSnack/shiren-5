@@ -340,143 +340,80 @@ Place important pots on the ground in hallways near the stairs room.<br/>(Zalokl
 
 # Monster Table
 
-<table class="dungeonMonsters">
+<table class="monsterTable">
   <tr>
-    <th colspan="8">Day</th>
+    <th>F</th>
+    <th colspan="7">Day</th>
   </tr>
   <tr>
     <td>1</td>
-    <td class="highlightYellow">Mid Chintala</td>
-    <td class="highlightOrange2">Cheer-Ham</td>
-    <td class="highlightYellow">Floaty</td>
-    <td class="highlightYellow">Acrid Nut</td>
-    <td class="highlightYellow">Bored Kappa</td>
-    <td class="highlightYellow">Polygon Spinna</td>
-    <td class="highlightYellow">Fearabbit</td>
+    <td class="monsterDay">Mid Chintala</td>
+    <td class="dangerDay monsterDay">Cheer-Ham</td>
+    <td class="monsterDay">Floaty</td>
+    <td class="monsterDay">Acrid Nut</td>
+    <td class="monsterDay">Bored Kappa</td>
+    <td class="monsterDay">Polygon Spinna</td>
+    <td class="monsterDay">Fearabbit</td>
   </tr>
   <tr>
     <td>2</td>
-    <td class="highlightYellow">Mid Chintala</td>
-    <td class="highlightOrange2">Cheer-Ham</td>
-    <td class="highlightYellow">Floaty</td>
-    <td class="highlightYellow">Acrid Nut</td>
-    <td class="highlightYellow">Bored Kappa</td>
-    <td class="highlightYellow">Polygon Spinna</td>
-    <td class="highlightYellow">Kid Squid</td>
+    <td class="monsterDay">Mid Chintala</td>
+    <td class="dangerDay monsterDay">Cheer-Ham</td>
+    <td class="monsterDay">Floaty</td>
+    <td class="monsterDay">Acrid Nut</td>
+    <td class="monsterDay">Bored Kappa</td>
+    <td class="monsterDay">Polygon Spinna</td>
+    <td class="monsterDay">Kid Squid</td>
   </tr>
   <tr>
     <td>3</td>
-    <td class="highlightYellow">Hopodile</td>
-    <td class="highlightOrange2">Cheer-Ham</td>
-    <td class="highlightYellow">Dagger Bee</td>
-    <td class="highlightYellow">Acrid Nut</td>
-    <td class="highlightYellow">Bored Kappa</td>
-    <td class="highlightYellow">Polygon Spinna</td>
-    <td class="highlightYellow">Kid Squid</td>
+    <td class="monsterDay">Hopodile</td>
+    <td class="dangerDay monsterDay">Cheer-Ham</td>
+    <td class="monsterDay">Dagger Bee</td>
+    <td class="monsterDay">Acrid Nut</td>
+    <td class="monsterDay">Bored Kappa</td>
+    <td class="monsterDay">Polygon Spinna</td>
+    <td class="monsterDay">Kid Squid</td>
   </tr>
   <tr>
     <td>4</td>
-    <td class="highlightYellow">Hopodile</td>
-    <td class="highlightOrange2">Cheer-Ham</td>
-    <td class="highlightYellow">Dagger Bee</td>
-    <td class="highlightOrange3">Foly</td>
-    <td></td>
-    <td class="highlightBlue">Mixer</td>
-    <td class="highlightYellow">Kid Squid</td>
+    <td class="monsterDay">Hopodile</td>
+    <td class="dangerDay monsterDay">Cheer-Ham</td>
+    <td class="monsterDay">Dagger Bee</td>
+    <td class="extremeDay monsterDay">Foly</td>
+    <td class="highlightGray"></td>
+    <td class="farmingDay monsterDay">Mixer</td>
+    <td class="monsterDay">Kid Squid</td>
   </tr>
   <tr>
     <td>5</td>
-    <td class="highlightYellow">Hopodile</td>
-    <td class="highlightBlue">Zalokleft</td>
-    <td class="highlightYellow">Dagger Bee</td>
-    <td class="highlightOrange3">Foly</td>
-    <td class="highlightOrange2">Scoopie</td>
-    <td class="highlightBlue">Mixer</td>
-    <td></td>
+    <td class="monsterDay">Hopodile</td>
+    <td class="farmingDay monsterDay">Zalokleft</td>
+    <td class="monsterDay">Dagger Bee</td>
+    <td class="extremeDay monsterDay">Foly</td>
+    <td class="dangerDay monsterDay">Scoopie</td>
+    <td class="farmingDay monsterDay">Mixer</td>
+    <td class="highlightGray"></td>
   </tr>
   <tr>
     <td>6</td>
-    <td class="highlightYellow">Yanpii</td>
-    <td class="highlightBlue">Zalokleft</td>
-    <td class="highlightYellow">Flamebird</td>
-    <td class="highlightOrange3">Foly</td>
-    <td class="highlightOrange2">Scoopie</td>
-    <td></td>
-    <td></td>
+    <td class="monsterDay">Yanpii</td>
+    <td class="farmingDay monsterDay">Zalokleft</td>
+    <td class="monsterDay">Flamebird</td>
+    <td class="extremeDay monsterDay">Foly</td>
+    <td class="dangerDay monsterDay">Scoopie</td>
+    <td class="highlightGray"></td>
+    <td class="highlightGray"></td>
   </tr>
   <tr>
     <td>7</td>
-    <td class="highlightYellow">Yanpii</td>
-    <td class="highlightBlue">Zalokleft</td>
-    <td class="highlightYellow">Flamebird</td>
-    <td></td>
-    <td class="highlightOrange2">Scoopie</td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
-<br/>
-
-<table class="dungeonMonsters">
-  <tr>
-    <th colspan="10" class="highlightBlack">Night</th>
-  </tr>
-  <tr>
-    <th>1</th>
-    <td class="highlightPurple">Dark Grass Kid</td>
-    <td class="highlightPurple">Foul Pin Kid</td>
-    <td class="highlightPurple">Bad Moseal</td>
-    <td class="highlightPurple">Hateful Seedie</td>
-    <td></td>
-  </tr>
-  <tr>
-    <th>2</th>
-    <td class="highlightPurple">Dark Grass Kid</td>
-    <td class="highlightPurple">Foul Pin Kid</td>
-    <td class="highlightPurple">Bad Moseal</td>
-    <td class="highlightPurple">Hateful Seedie</td>
-    <td></td>
-  </tr>
-  <tr>
-    <th>3</th>
-    <td class="highlightPurple">Vile Sproutant</td>
-    <td class="highlightPurple">Evil Hipadile</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <th>4</th>
-    <td class="highlightPurple">Vile Sproutant</td>
-    <td class="highlightPurple">Evil Hipadile</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <th>5</th>
-    <td class="highlightPurple">Vile Sproutant</td>
-    <td class="highlightPurple">Evil Hipadile</td>
-    <td class="highlightPurple">Dark Pit Mamel</td>
-    <td class="highlightPurple">Violent Gyairas</td>
-    <td></td>
-  </tr>
-  <tr>
-    <th>6</th>
-    <td class="highlightPurple">Dark MC Mage</td>
-    <td class="highlightPurple">Bad Cololum</td>
-    <td class="highlightPurple">Dark Pit Mamel</td>
-    <td class="highlightPurple">Violent Gyairas</td>
-    <td class="highlightPurple">Dark Cross Cart</td>
-  </tr>
-  <tr>
-    <th>7</th>
-    <td class="highlightPurple">Dark MC Mage</td>
-    <td class="highlightPurple">Bad Cololum</td>
-    <td class="highlightPurple">Dark Pit Mamel</td>
-    <td class="highlightPurple">Violent Gyairas</td>
-    <td class="highlightPurple">Dark Cross Cart</td>
+    <td class="monsterDay">Yanpii</td>
+    <td class="farmingDay monsterDay">Zalokleft</td>
+    <td class="monsterDay">Flamebird</td>
+    <td class="highlightGray"></td>
+    <td class="dangerDay monsterDay">Scoopie</td>
+    <td class="highlightGray"></td>
+    <td class="highlightGray"></td>
   </tr>
 </table>
 

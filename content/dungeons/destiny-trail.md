@@ -242,122 +242,55 @@ Lastly, be careful of your remaining fullness and food when performing any of th
 
 # Monster Table
 
-<table class="dungeonMonsters">
+<table class="monsterTable">
   <tr>
-    <th colspan="10" class="highlightGray">Day</th>
+    <th>F</th>
+    <th colspan="9">Monsters</th>
   </tr>
   <tr>
-    <th>1</th>
-    <td class="highlightYellow">Mamel</td>
-    <td class="highlightYellow">Sproutant</td>
-    <td class="highlightOrange2">Seedie</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>1</td>
+    <td class="monsterDay">Mamel</td>
+    <td class="monsterDay">Sproutant</td>
+    <td class="dangerDay monsterDay">Seedie</td>
+    <td class="highlightGray"></td>
+    <td class="highlightGray"></td>
+    <td class="highlightGray"></td>
   </tr>
   <tr>
-    <th>2</th>
-    <td class="highlightYellow">Mamel</td>
-    <td class="highlightYellow">Sproutant</td>
-    <td class="highlightOrange2">Seedie</td>
-    <td class="highlightYellow">Colum</td>
-    <td></td>
-    <td></td>
+    <td>2</td>
+    <td class="monsterDay">Mamel</td>
+    <td class="monsterDay">Sproutant</td>
+    <td class="dangerDay monsterDay">Seedie</td>
+    <td class="monsterDay">Colum</td>
+    <td class="highlightGray"></td>
+    <td class="highlightGray"></td>
   </tr>
   <tr>
-    <th>3</th>
-    <td class="highlightYellow">Pit Mamel</td>
-    <td class="highlightYellow">Sproutant</td>
-    <td></td>
-    <td class="highlightYellow">Colum</td>
-    <td class="highlightYellow">Chintala</td>
-    <td class="highlightOrange2">Blade Bee</td>
+    <td>3</td>
+    <td class="monsterDay">Pit Mamel</td>
+    <td class="monsterDay">Sproutant</td>
+    <td class="highlightGray"></td>
+    <td class="monsterDay">Colum</td>
+    <td class="monsterDay">Chintala</td>
+    <td class="dangerDay monsterDay">Blade Bee</td>
   </tr>
   <tr>
-    <th>4</th>
-    <td class="highlightYellow">Pit Mamel</td>
-    <td class="highlightYellow">Sweet Nut</td>
-    <td class="highlightBlue">Grass Kid</td>
-    <td class="highlightYellow">Pin Kid</td>
-    <td class="highlightYellow">Chintala</td>
-    <td class="highlightOrange2">Blade Bee</td>
+    <td>4</td>
+    <td class="monsterDay">Pit Mamel</td>
+    <td class="monsterDay">Sweet Nut</td>
+    <td class="farmingDay monsterDay">Grass Kid</td>
+    <td class="monsterDay">Pin Kid</td>
+    <td class="monsterDay">Chintala</td>
+    <td class="dangerDay monsterDay">Blade Bee</td>
   </tr>
   <tr>
-    <th>5</th>
-    <td class="highlightYellow">Pit Mamel</td>
-    <td class="highlightYellow">Sweet Nut</td>
-    <td class="highlightBlue">Grass Kid</td>
-    <td class="highlightYellow">Pin Kid</td>
-    <td class="highlightYellow">Chintala</td>
-    <td></td>
-  </tr>
-</table>
-
-<br/>
-
-<table class="dungeonMonsters">
-  <tr>
-    <th colspan="10" class="highlightBlack">Night</th>
-  </tr>
-  <tr>
-    <th>1</th>
-    <td class="highlightPurple">Dark Mamel</td>
-    <td class="highlightPurple">Evil Chintala</td>
-    <td class="highlightPurple">Bad Colum</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td class="highlightPurple">Dark Boy Cart</td>
-    <td class="highlightPurple">Dark Bored Kappa</td>
-    <td></td>
-  </tr>
-  <tr>
-    <th>2</th>
-    <td class="highlightPurple">Dark Mamel</td>
-    <td class="highlightPurple">Evil Chintala</td>
-    <td class="highlightPurple">Bad Colum</td>
-    <td class="highlightPurple">Evil PolySpinna</td>
-    <td></td>
-    <td class="highlightPurple">Putrid Sweet Nut</td>
-    <td class="highlightPurple">Dark Boy Cart</td>
-    <td class="highlightPurple">Dark Bored Kappa</td>
-    <td></td>
-  </tr>
-  <tr>
-    <th>3</th>
-    <td class="highlightPurple">Dark Mamel</td>
-    <td class="highlightPurple">Evil Chintala</td>
-    <td class="highlightPurple">Dark Tosser</td>
-    <td class="highlightPurple">Evil PolySpinna</td>
-    <td class="highlightPurple">Evil Hopodile</td>
-    <td class="highlightPurple">Putrid Sweet Nut</td>
-    <td class="highlightPurple">Dark Naptapir</td>
-    <td class="highlightPurple">Dark Bored Kappa</td>
-    <td></td>
-  </tr>
-  <tr>
-    <th>4</th>
-    <td class="highlightPurple">Dark Mamel</td>
-    <td class="highlightPurple">Sinful Yanpii</td>
-    <td class="highlightPurple">Dark Tosser</td>
-    <td class="highlightPurple">Dark Karakuroid</td>
-    <td class="highlightPurple">Evil Hopodile</td>
-    <td class="highlightPurple">Putrid Sweet Nut</td>
-    <td class="highlightPurple">Dark Naptapir</td>
-    <td class="highlightPurple">Violent Gyadon</td>
-    <td class="highlightPurple">Dark Absorbiphant</td>
-  </tr>
-  <tr>
-    <th>5</th>
-    <td class="highlightPurple">Dark Mamel</td>
-    <td class="highlightPurple">Sinful Yanpii</td>
-    <td class="highlightPurple">Dark Tosser</td>
-    <td class="highlightPurple">Dark Karakuroid</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td class="highlightPurple">Violent Gyadon</td>
-    <td class="highlightPurple">Dark Absorbiphant</td>
+    <td>5</td>
+    <td class="monsterDay">Pit Mamel</td>
+    <td class="monsterDay">Sweet Nut</td>
+    <td class="farmingDay monsterDay">Grass Kid</td>
+    <td class="monsterDay">Pin Kid</td>
+    <td class="monsterDay">Chintala</td>
+    <td class="highlightGray"></td>
   </tr>
 </table>
 

@@ -1175,7 +1175,7 @@ You can continue the story even if Jirokichi collapses during the boss fight, so
 
 #### Table (Day)
 
-<table class="dungeonMonsters">
+<table class="monsterTable">
   <tr>
     <th colspan="10">Day</th>
   </tr>
@@ -1351,7 +1351,7 @@ You can continue the story even if Jirokichi collapses during the boss fight, so
 
 #### Table (Night)
 
-<table class="dungeonMonsters">
+<table class="monsterTable">
   <tr>
     <th colspan="11" class="highlightBlack">Night</th>
   </tr>
