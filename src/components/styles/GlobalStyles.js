@@ -1266,6 +1266,9 @@ export const baseStyles = css`
   .extremeNight {
     color: #d51818;
   }
+  .limitBreak {
+    color: #ff46a3;
+  }
   .centeredText {
     text-align: center;
   }

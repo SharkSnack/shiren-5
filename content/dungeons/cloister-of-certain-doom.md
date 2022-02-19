@@ -22,7 +22,7 @@ metaDescription: "Cloister of Certain Doom guide for Shiren the Wanderer: The To
 <table class="dungeonOverview">
   <tr>
     <th>Unlock</th>
-    <td class="highlightYellow">Clear Ouma Shrine and arrive in Nekomaneki Village.</td>
+    <td class="highlightYellow">Clear Ouma Shrine and arrive in Nekomaneki Village.<br/>※ Only available on Switch/Steam versions.</td>
   </tr>
   <tr>
     <th>Entrance</th>
