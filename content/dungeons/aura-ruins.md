@@ -83,7 +83,348 @@ metaDescription: "Aura Ruins guide for Shiren the Wanderer: The Tower of Fortune
 
 # Monsters
 
-[Monster Table]
+See [Monsters](/system/monsters) for individual monster details.
+
+<table class="monsterTable">
+  <thead>
+    <tr>
+      <th>F</th>
+      <th colspan="8">Monsters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td class="">Mamel</td>
+      <td class="">Seedie</td>
+      <td class="">Sproutant</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td class="">Mamel</td>
+      <td class="">Seedie</td>
+      <td class="">Sproutant</td>
+      <td class="">Nigiri Baby</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td class="">Pit Mamel</td>
+      <td class="">Seedie</td>
+      <td class="">Sproutant</td>
+      <td class="">Nigiri Baby</td>
+      <td class="">Colum</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td class="">Pit Mamel</td>
+      <td class="">Fearabbit</td>
+      <td class="">Tiger Tosser</td>
+      <td class="highlightGray"></td>
+      <td class="">Colum</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td class="">Pit Mamel</td>
+      <td class="">Fearabbit</td>
+      <td class="">Tiger Tosser</td>
+      <td class="">Chintala</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td class="">Gazer</td>
+      <td class="">Fearabbit</td>
+      <td class="">Blade Bee</td>
+      <td class="">Chintala</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td class="">Gazer</td>
+      <td class="">Sweet Nut</td>
+      <td class="">Blade Bee</td>
+      <td class="">Kumonigiri</td>
+      <td class="">Gyaza</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td class="">Gazer</td>
+      <td class="">Sweet Nut</td>
+      <td class="">Blade Bee</td>
+      <td class="">Kumonigiri</td>
+      <td class="">Swordsman</td>
+      <td class="">Flamebird</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td class="">Mixer</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="">Kumonigiri</td>
+      <td class="">Swordsman</td>
+      <td class="">Flamebird</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td class="">Mixer</td>
+      <td class="">Crow Tengu</td>
+      <td class="">Floaty</td>
+      <td class="">Pop Tank</td>
+      <td class="">Polygon Spinna</td>
+      <td class="">Flamebird</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td class="">Cheer-Ham</td>
+      <td class="">Crow Tengu</td>
+      <td class="">Floaty</td>
+      <td class="">Pop Tank</td>
+      <td class="">Polygon Spinna</td>
+      <td class="">Zapdon</td>
+      <td class="">Chow</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td class="">Mid Chintala</td>
+      <td class="">Crow Tengu</td>
+      <td class="">Floaty</td>
+      <td class="">Mutaikon</td>
+      <td class="">Polygon Spinna</td>
+      <td class="">Pumphantasm</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td class="">Mid Chintala</td>
+      <td class="">Metalhead</td>
+      <td class="">Curse Girl</td>
+      <td class="">Mutaikon</td>
+      <td class="highlightGray"></td>
+      <td class="">Pumphantasm</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td class="">Mid Chintala</td>
+      <td class="">Huistdon</td>
+      <td class="">Curse Girl</td>
+      <td class="">Mutaikon</td>
+      <td class="">Bored Kappa</td>
+      <td class="">Pumphantasm</td>
+      <td class="">DJ Mage</td>
+      <td class="">Hopodile</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td class="">Cololum</td>
+      <td class="">Huistdon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="">Bored Kappa</td>
+      <td class="highlightGray"></td>
+      <td class="">DJ Mage</td>
+      <td class="">Hopodile</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td class="">Cololum</td>
+      <td class="">Acrid Nut</td>
+      <td class="">Yanpii</td>
+      <td class="">Snacky</td>
+      <td class="">Bored Kappa</td>
+      <td class="highlightGray"></td>
+      <td class="">DJ Mage</td>
+      <td class="">Hopodile</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td class="">Squidfficial</td>
+      <td class="">Acrid Nut</td>
+      <td class="">Yanpii</td>
+      <td class="">Snacky</td>
+      <td class="">Scoopie</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td class="">Mixermon</td>
+      <td class="">Acrid Nut</td>
+      <td class="">Yanpii</td>
+      <td class="">Big Chintala</td>
+      <td class="">Scoopie</td>
+      <td class="">Sproutyrant</td>
+      <td class="">Firepuff</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td class="">Mixermon</td>
+      <td class="">Nigiri Morph</td>
+      <td class="">Punisher</td>
+      <td class="">Big Chintala</td>
+      <td class="">Porky</td>
+      <td class="">Sproutyrant</td>
+      <td class="">Firepuff</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td class="">Scarabbit</td>
+      <td class="">Nigiri Morph</td>
+      <td class="">Curspinster</td>
+      <td class="">Big Chintala</td>
+      <td class="">Porky</td>
+      <td class="">Sproutyrant</td>
+      <td class="">Firepuff</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td class="">Scarabbit</td>
+      <td class="">Nigiri Morph</td>
+      <td class="">Curspinster</td>
+      <td class="">Kid Squid</td>
+      <td class="">Fencer</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td class="">Scarabbit</td>
+      <td class="">Ironhead</td>
+      <td class="">Curspinster</td>
+      <td class="">Kid Squid</td>
+      <td class="">Kappa Pest</td>
+      <td class="">Grass Dude</td>
+      <td class="">Pin Dude</td>
+      <td class="">Munchy</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td class="">Falcon Tengu</td>
+      <td class="">Ironhead</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="">Kappa Pest</td>
+      <td class="">Grass Dude</td>
+      <td class="">Pin Dude</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td class="">Falcon Tengu</td>
+      <td class="">Dagger Bee</td>
+      <td class="">Dazikon</td>
+      <td class="">Rally Ham</td>
+      <td class="">Kappa Pest</td>
+      <td class="">Grass Dude</td>
+      <td class="">Pin Dude</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td class="">Bunchukdon</td>
+      <td class="">Dagger Bee</td>
+      <td class="">Dazikon</td>
+      <td class="">Rally Ham</td>
+      <td class="">Explochin</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td class="">MC Mage</td>
+      <td class="">Dagger Bee</td>
+      <td class="">Dazikon</td>
+      <td class="">Rally Ham</td>
+      <td class="">Explochin</td>
+      <td class="">Polygon Shaka</td>
+      <td class="">Boy Cart</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td class="">MC Mage</td>
+      <td class="">Eligan</td>
+      <td class="">Scorpion</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="">Polygon Shaka</td>
+      <td class="">Boy Cart</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td class="">MC Mage</td>
+      <td class="">Dragon</td>
+      <td class="">Scorpion</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="">Polygon Shaka</td>
+      <td class="">Boy Cart</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td class="">Tiger Chucker</td>
+      <td class="">Dragon</td>
+      <td class="">Porko</td>
+      <td class="">Colocolum</td>
+      <td class="">Sparkbird</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td class="">Tiger Chucker</td>
+      <td class="">Debaser</td>
+      <td class="">Porko</td>
+      <td class="">Colocolum</td>
+      <td class="">Sparkbird</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+  </tbody>
+</table>
 
 # Items
 
@@ -1275,7 +1616,7 @@ metaDescription: "Aura Ruins guide for Shiren the Wanderer: The Tower of Fortune
     <td></td>
   </tr>
   <tr>
-    <td class="leftText highlightGray">Cnf. Talisman</td>
+    <td class="leftText highlightGray">Conf. Talisman</td>
     <td></td>
     <td></td>
     <td></td>

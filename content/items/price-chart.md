@@ -80,7 +80,7 @@ Example: Bladite-1 (Cursed): 0.8 x {3000 x (1 - 0.05)} = 3000 x 0.8 x 0.95 = 300
     <td rowspan="2">50</td>
     <td rowspan="2">17</td>
     <td class="highlightGray">Can. Arm Bracelet</td>
-    <td class="highlightGray">Cnf. Talisman</td>
+    <td class="highlightGray">Conf. Talisman</td>
   </tr>
   <tr>
     <td class="highlightGray">Escape Scroll</td>

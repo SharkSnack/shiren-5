@@ -1221,7 +1221,7 @@ metaDescription: "Perilous Rocks guide for Shiren the Wanderer: The Tower of For
     <td></td>
   </tr>
   <tr>
-    <td class="leftText highlightGray">Cnf. Talisman</td>
+    <td class="leftText highlightGray">Conf. Talisman</td>
     <td></td>
     <td></td>
     <td></td>

@@ -19,7 +19,61 @@ metaDescription: "Gorger's Manor guide for Shiren the Wanderer: The Tower of For
 
 # Overview
 
-[Overview Tables]
+<table class="dungeonOverview">
+  <tr>
+    <th>Unlock</th>
+    <td class="highlightYellow">Clear Ouma Shrine and arrive in Nekomaneki Village.</td>
+  </tr>
+  <tr>
+    <th>Entrance</th>
+    <td class="highlightYellow">Nekomaneki Village (Woman in Dungeon Center)</td>
+  </tr>
+</table>
+
+<table class="dungeonTable">
+  <tr>
+    <th>Floors</th>
+    <td>50F</td>
+    <th>Day / Night</th>
+    <td>Day</td>
+  </tr>
+  <tr>
+    <th>Bring Items</th>
+    <td>Yes</td>
+    <th>Allies</th>
+    <td>3</td>
+  </tr>
+  <tr>
+    <th>Unidentified</th>
+    <td>All except talismans</td>
+    <th>New Items</th>
+    <td>No</td>
+  </tr>
+  <tr>
+    <th>Shops</th>
+    <td>Regular, Elite,<br/>Pick-A-Choice</td>
+    <th>Monster Houses</th>
+    <td>Regular, Special, Sudden</td>
+  </tr>
+  <tr>
+    <th>Initial Enemies</th>
+    <td></td>
+    <th>Spawn Rate</th>
+    <td>30</td>
+  </tr>
+  <tr>
+    <th>Ominous aura</th>
+    <td>No</td>
+    <th>Wind of Kron</th>
+    <td>1st: 1700 / 4th: 2000</td>
+  </tr>
+  <tr>
+    <th>Clear Icon</th>
+    <td>None</td>
+    <th>Reward</th>
+    <td>Frangible Shld</td>
+  </tr>
+</table>
 
 # Strategy
 
@@ -29,7 +83,518 @@ metaDescription: "Gorger's Manor guide for Shiren the Wanderer: The Tower of For
 
 # Monsters
 
-[Monster Table]
+See [Monsters](/system/monsters) for individual monster details.
+
+<table class="monsterTable">
+  <thead>
+    <tr>
+      <th>F</th>
+      <th colspan="7">Monsters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Froggon</td>
+      <td>Big Chintala</td>
+      <td>Rally Ham</td>
+      <td>Colocolum</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Froggon</td>
+      <td>Big Chintala</td>
+      <td>Rally Ham</td>
+      <td>Colocolum</td>
+      <td>Doztapir</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Froggon<br/>Nigiri Boss</td>
+      <td>Big Chintala<br/>Cave Mamel</td>
+      <td>Rally Ham</td>
+      <td>Colocolum</td>
+      <td>Doztapir</td>
+      <td>Tiger Chucker</td>
+      <td>Curspinster</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Froggon<br/>Nigiri Boss</td>
+      <td>Big Chintala<br/>Cave Mamel</td>
+      <td>Rally Ham<br/>Sensei</td>
+      <td>Colocolum</td>
+      <td>Doztapir</td>
+      <td>Tiger Chucker</td>
+      <td>Curspinster</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Onigirizzly</td>
+      <td>Bunchukdon</td>
+      <td>Item Knave</td>
+      <td>Jouncy</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Onigirizzly</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td>Jouncy</td>
+      <td>Lt. Yanpii</td>
+      <td>Mixergon</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Onigirizzly<br/>Strong Cart</td>
+      <td class="highlightGray"></td>
+      <td>Item Knave</td>
+      <td>Jouncy</td>
+      <td>Lt. Yanpii</td>
+      <td class="highlightGray"></td>
+      <td>Ruiner</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Onigirizzly<br/>Strong Cart</td>
+      <td>Bunchukdon<br/>Eligagon</td>
+      <td>Item Knave<br/>Porkon</td>
+      <td>Jouncy</td>
+      <td>Lt. Yanpii</td>
+      <td>Mixergon</td>
+      <td>Ruiner</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Pumpanshee</td>
+      <td>Nuttie</td>
+      <td>Spicy Nut</td>
+      <td>Sprouterror</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Pumpanshee</td>
+      <td>Nuttie</td>
+      <td>Spicy Nut</td>
+      <td>Sprouterror</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>Pumpanshee</td>
+      <td>Nuttie</td>
+      <td>Spicy Nut</td>
+      <td>Sprouterror</td>
+      <td>Grass Poppa</td>
+      <td>Pin Poppa</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>Pumpanshee</td>
+      <td>Nuttie</td>
+      <td>Spicy Nut</td>
+      <td>Sprouterror</td>
+      <td>Grass Poppa</td>
+      <td>Pin Poppa</td>
+      <td>Dozikon</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>Pumpanshee</td>
+      <td>Nuttie</td>
+      <td>Spicy Nut</td>
+      <td>Sprouterror</td>
+      <td>Grass Poppa</td>
+      <td>Pin Poppa</td>
+      <td>Dozikon</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>FO-UZ</td>
+      <td>Munchy</td>
+      <td>Falcon Tengu</td>
+      <td>Pumpanshee</td>
+      <td>Blazepuff</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>FO-UZ<br/>Spongiderm</td>
+      <td>Munchy<br/>Foly</td>
+      <td>Falcon Tengu</td>
+      <td>Pumpanshee</td>
+      <td>Blazepuff</td>
+      <td>Katana Bee</td>
+      <td>Flarebird</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>FO-UZ<br/>Spongiderm</td>
+      <td>Munchy<br/>Foly</td>
+      <td>Falcon Tengu<br/>Trillman</td>
+      <td>Pumpanshee<br/>StunScorp</td>
+      <td>Blazepuff<br/>Gyandora</td>
+      <td>Katana Bee</td>
+      <td>Flarebird</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>FO-UZ<br/>Spongiderm</td>
+      <td>Munchy<br/>Foly</td>
+      <td>Falcon Tengu<br/>Trillman</td>
+      <td>Pumpanshee<br/>StunScorp</td>
+      <td>Blazepuff<br/>Gyandora</td>
+      <td>Katana Bee<br/>Polygon Singa</td>
+      <td>Flarebird</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>FO-UZ</td>
+      <td>N'mach</td>
+      <td>Hyper Gazer</td>
+      <td>Polygon Singa</td>
+      <td>Trowelie</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>FO-UZ</td>
+      <td>N'mach</td>
+      <td>Hyper Gazer</td>
+      <td>Polygon Singa</td>
+      <td>Trowelie</td>
+      <td>Electroid</td>
+      <td>Steelhead</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>FO-UZ<br/>MC Wizard</td>
+      <td>N'mach<br/>Horrabbit</td>
+      <td>Hyper Gazer<br/>Fulminachin</td>
+      <td>Polygon Singa</td>
+      <td>Trowelie</td>
+      <td>Electroid</td>
+      <td>Steelhead</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>FO-UZ<br/>MC Wizard</td>
+      <td>N'mach<br/>Horrabbit</td>
+      <td>Hyper Gazer<br/>Fulminachin</td>
+      <td>Polygon Singa<br/>Foly</td>
+      <td>Trowelie</td>
+      <td>Electroid</td>
+      <td>Steelhead</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>Iron Zalokleft</td>
+      <td>Momomoseal</td>
+      <td>Blazepuff</td>
+      <td>Archdragon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>Iron Zalokleft</td>
+      <td>Momomoseal</td>
+      <td>Blazepuff</td>
+      <td class="highlightGray"></td>
+      <td>Mudster</td>
+      <td>Hell Gyaza</td>
+      <td>Lashagga</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>Iron Zalokleft<br/>Vexing Kappa</td>
+      <td>Momomoseal<br/>Fulminachin</td>
+      <td>Blazepuff<br/>King Squid</td>
+      <td class="highlightGray"></td>
+      <td>Mudster</td>
+      <td>Hell Gyaza</td>
+      <td>Lashagga</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>Iron Zalokleft<br/>Vexing Kappa</td>
+      <td>Momomoseal<br/>Fulminachin</td>
+      <td>Blazepuff<br/>King Squid</td>
+      <td>Archdragon<br/>Oingodile</td>
+      <td>Mudster</td>
+      <td>Hell Gyaza</td>
+      <td>Lashagga</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>Kleptoad</td>
+      <td>Huge Chintala</td>
+      <td>Spirit Ham</td>
+      <td>Comatapir</td>
+      <td>Cursenior</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>Kleptoad</td>
+      <td>Huge Chintala</td>
+      <td>Spirit Ham</td>
+      <td>Comatapir</td>
+      <td>Cursenior</td>
+      <td>Tiger Ace</td>
+      <td>Colocolocolum</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>Kleptoad<br/>Nigiri King</td>
+      <td>Huge Chintala<br/>Gitan Mamel</td>
+      <td>Spirit Ham<br/>Swordmaster</td>
+      <td>Comatapir</td>
+      <td>Cursenior</td>
+      <td>Tiger Ace</td>
+      <td>Colocolocolum</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>Kleptoad<br/>Nigiri King</td>
+      <td>Huge Chintala<br/>Gitan Mamel</td>
+      <td>Spirit Ham<br/>Swordmaster</td>
+      <td>Comatapir</td>
+      <td>Cursenior</td>
+      <td>Tiger Ace</td>
+      <td>Colocolocolum</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>Kodionigiri</td>
+      <td>Zotdon</td>
+      <td>Knave King</td>
+      <td>Despoiler</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>Kodionigiri</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td>Boss Yanpii</td>
+      <td>Mixerdon</td>
+      <td>Bouncy</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>Kodionigiri<br/>Pierce Cart</td>
+      <td class="highlightGray"></td>
+      <td>Knave King</td>
+      <td class="highlightGray"></td>
+      <td>Boss Yanpii</td>
+      <td class="highlightGray"></td>
+      <td>Bouncy</td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>Kodionigiri<br/>Pierce Cart</td>
+      <td>Zotdon<br/>Elizgagon</td>
+      <td>Knave King<br/>Porgon</td>
+      <td>Despoiler</td>
+      <td>Boss Yanpii</td>
+      <td>Mixerdon</td>
+      <td>Bouncy</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>Pumpanshee</td>
+      <td>Grainie</td>
+      <td>Bitter Nut</td>
+      <td>Sproutitan</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>Pumpanshee</td>
+      <td>Grainie</td>
+      <td>Bitter Nut</td>
+      <td>Sproutitan</td>
+      <td>Grass Gramps</td>
+      <td>Pin Gramps</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>Pumpanshee</td>
+      <td>Grainie</td>
+      <td>Bitter Nut</td>
+      <td>Sproutitan</td>
+      <td>Grass Gramps</td>
+      <td>Pin Gramps</td>
+      <td>Mesmerikon</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>Pumpanshee</td>
+      <td>Grainie</td>
+      <td>Bitter Nut</td>
+      <td>Sproutitan</td>
+      <td>Grass Gramps</td>
+      <td>Pin Gramps</td>
+      <td>Mesmerikon</td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>FO-UZZ</td>
+      <td>Mealy</td>
+      <td>Phoenix Tengu</td>
+      <td>Pumptergeist</td>
+      <td>Pyrepuff</td>
+      <td>Gyandoron</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>FO-UZZ<br/>Osmammoth</td>
+      <td>Mealy</td>
+      <td>Phoenix Tengu</td>
+      <td>Pumptergeist</td>
+      <td>Pyrepuff</td>
+      <td>Gyandoron</td>
+      <td>Blazebird</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>FO-UZZ<br/>Osmammoth</td>
+      <td>Mealy<br/>Zanbeeto</td>
+      <td>Phoenix Tengu<br/>Googoman</td>
+      <td>Pumptergeist<br/>BlightScorp</td>
+      <td>Pyrepuff</td>
+      <td>Gyandoron</td>
+      <td>Blazebird</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>FO-UZZ<br/>Osmammoth</td>
+      <td>Mealy<br/>Zanbeeto</td>
+      <td>Phoenix Tengu<br/>Googoman</td>
+      <td>Pumptergeist<br/>BlightScorp</td>
+      <td>Pyrepuff<br/>Foly</td>
+      <td>Gyandoron<br/>Polygon Stunna</td>
+      <td>Blazebird</td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>FO-UZZ</td>
+      <td>N'dup</td>
+      <td>Ultra Gazer</td>
+      <td>Polygon Stunna</td>
+      <td>MC Sorceror</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>FO-UZZ<br/>Shovelie</td>
+      <td>N'dup<br/>Terrabbit</td>
+      <td>Ultra Gazer</td>
+      <td>Polygon Stunna</td>
+      <td>MC Sorceror</td>
+      <td>Cyberoid</td>
+      <td>Doomhead</td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>FO-UZZ<br/>Shovelie</td>
+      <td>N'dup<br/>Terrabbit</td>
+      <td>Ultra Gazer<br/>Detonachin</td>
+      <td>Polygon Stunna<br/>Foly</td>
+      <td>MC Sorceror</td>
+      <td>Cyberoid</td>
+      <td>Doomhead</td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>FO-UZZ<br/>Shovelie</td>
+      <td>N'dup<br/>Terrabbit</td>
+      <td>Ultra Gazer<br/>Detonachin</td>
+      <td>Polygon Stunna<br/>Foly</td>
+      <td>MC Sorceror</td>
+      <td>Cyberoid</td>
+      <td>Doomhead</td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>Zalokleftis King</td>
+      <td>Momomomoseal</td>
+      <td>Pyrepuff</td>
+      <td>Detonachin</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>Zalokleftis King</td>
+      <td>Momomomoseal</td>
+      <td>Pyrepuff</td>
+      <td class="highlightGray"></td>
+      <td>Mudder</td>
+      <td>Doom Gyaza</td>
+      <td>Bashagga</td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>Zalokleftis King<br/>Kappa Troll</td>
+      <td>Momomomoseal<br/>Abyssal Dragon</td>
+      <td>Pyrepuff<br/>Boingodile</td>
+      <td class="highlightGray"></td>
+      <td>Mudder</td>
+      <td>Doom Gyaza</td>
+      <td>Bashagga</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>Zalokleftis King<br/>Kappa Troll</td>
+      <td>Momomomoseal<br/>Abyssal Dragon</td>
+      <td>Pyrepuff<br/>Boingodile</td>
+      <td>Detonachin<br/>Squidperor</td>
+      <td>Mudder</td>
+      <td>Doom Gyaza</td>
+      <td>Bashagga</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>Zalokleftis King<br/>Kappa Troll</td>
+      <td>Momomomoseal<br/>Abyssal Dragon</td>
+      <td>Pyrepuff<br/>Boingodile</td>
+      <td>Detonachin<br/>Squidperor</td>
+      <td>Mudder</td>
+      <td>Doom Gyaza</td>
+      <td>Bashagga</td>
+    </tr>
+  </tbody>
+</table>
 
 # Items
 
@@ -1221,7 +1786,7 @@ metaDescription: "Gorger's Manor guide for Shiren the Wanderer: The Tower of For
     <td></td>
   </tr>
   <tr>
-    <td class="leftText highlightGray">Cnf. Talisman</td>
+    <td class="leftText highlightGray">Conf. Talisman</td>
     <td></td>
     <td></td>
     <td></td>
