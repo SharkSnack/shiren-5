@@ -718,6 +718,18 @@ export const baseStyles = css`
   .dungeonMonsterList td {
     padding: 3px;
   }
+  .monsterListDay td:nth-of-type(1) {
+    background-color: #f7f7f7;
+    text-align: left;
+  }
+  .monsterListDay td:nth-of-type(2) {
+    background-color: #fffff6;
+    text-align: left;
+  }
+  .monsterListDay td {
+    text-align: center;
+    padding: 4px;
+  }
   .monsterPageTable th {
     font-weight: normal;
     text-align: center;

@@ -1123,7 +1123,7 @@ Floor Colors: <span class="highlightGreen">Shuffle Dungeon</span> <span class="h
       <td class="highlightGray"></td>
       <td class="">Pumptergeist</td>
       <td class="">Phoenix Tengu</td>
-      <td class="highlightGray">?</td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
     </tr>
     <tr>
       <td class="highlightGreen">81</td>
@@ -1136,7 +1136,6 @@ Floor Colors: <span class="highlightGreen">Shuffle Dungeon</span> <span class="h
       <td class="highlightGray"></td>
       <td class="">Pumptergeist</td>
       <td class="">Phoenix Tengu</td>
-      <td class="highlightGray">?</td>
     </tr>
     <tr>
       <td class="highlightOrange2">82</td>
@@ -1214,7 +1213,7 @@ Floor Colors: <span class="highlightGreen">Shuffle Dungeon</span> <span class="h
       <td class="">Despoiler</td>
       <td class="">Sproutitan</td>
       <td class="">Doom Gyaza<br/>BlightScorp</td>
-      <td class="highlightGray">?</td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
     </tr>
     <tr>
       <td class="highlightGreen">88</td>
@@ -1227,7 +1226,6 @@ Floor Colors: <span class="highlightGreen">Shuffle Dungeon</span> <span class="h
       <td class="">Despoiler</td>
       <td class="">Sproutitan</td>
       <td class="">Doomhead</td>
-      <td class="highlightGray">?</td>
     </tr>
     <tr>
       <td class="limitBreak highlightOrange2">89</td>
@@ -1305,7 +1303,7 @@ Floor Colors: <span class="highlightGreen">Shuffle Dungeon</span> <span class="h
       <td class="">Detonachin</td>
       <td class="">Boss Yanpii<br/>Googoman</td>
       <td class="">Polygon Stunna<br/>BlightScorp</td>
-      <td class="highlightGray">?</td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
     </tr>
     <tr>
       <td class="limitBreak highlightGreen">95</td>
@@ -1318,7 +1316,6 @@ Floor Colors: <span class="highlightGreen">Shuffle Dungeon</span> <span class="h
       <td class="">Detonachin</td>
       <td class="">Boss Yanpii<br/>Googoman</td>
       <td class="">Polygon Stunna<br/>BlightScorp</td>
-      <td class="highlightGray">?</td>
     </tr>
     <tr>
       <td class="limitBreak highlightOrange2">96</td>
