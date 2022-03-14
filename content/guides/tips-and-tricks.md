@@ -1486,7 +1486,7 @@ Steps:
 
 Reading Gambler's Scroll makes it trivial to reach level 99.<br/>
 However, maxing experience points requires over double the amount needed to reach level 99.<br/>
-(About 1,000 Abyssal Dragons worth)
+(About 1,000 Abyss Dragons worth)
 
 ##### Monster Summoner
 

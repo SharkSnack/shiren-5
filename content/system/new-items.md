@@ -322,7 +322,7 @@ Some players limit the number of items they create to 6 to ensure they're availa
 - May reflect an attack back
     - Potentially one-shot limit broken monsters.
 - May reflect back flame breaths
-    - Nice for dungeons that have lots of Archdragon and Abyssal Dragon floors.
+    - Nice for dungeons that have lots of Archdragon and Abyss Dragon floors.
 - Grants immunity to explosive damage
     - Can be hard to synthesize in a run.
 

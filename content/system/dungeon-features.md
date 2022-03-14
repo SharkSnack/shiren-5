@@ -225,7 +225,7 @@ If there's already a monster house, the next floor turns into a single room mons
   <tr>
     <td>Explosive</td>
     <td>Pop Tank, Dragon, Flamebird,<br/>Explochin, Firepuff, Sweet Nut</td>
-    <td>Monsters deal explosion and fire damage. Zen Pot helps.<br/>Flamebirds can quickly multiply due to explosions.<br/>Exit the room right away, but that's not enough to ensure<br/>safety if there are Cranky Tanks and Abyssal Dragons.</td>
+    <td>Monsters deal explosion and fire damage. Zen Pot helps.<br/>Flamebirds can quickly multiply due to explosions.<br/>Exit the room right away, but that's not enough to ensure<br/>safety if there are Cranky Tanks and Abyss Dragons.</td>
   </tr>
   <tr>
     <td>Greed</td>

@@ -1760,7 +1760,7 @@ Flame Shot, Blue Flame, Dragon Grass will be ineffective against monsters.<br/>
 Onigiri can still be grilled, and the fragrance remains even if you collapse.
 
 Prevents collapsing when hit by fire or explosion damage while you're an onigiri.<br/>
-Fantastic on floors with monsters like Cranky Tank and Abyssal Dragon.<br/>
+Fantastic on floors with monsters like Cranky Tank and Abyss Dragon.<br/>
 Flamebird family monsters won't multiply while the fragrance is in effect.
 
 <table class="itemDetailsTable">

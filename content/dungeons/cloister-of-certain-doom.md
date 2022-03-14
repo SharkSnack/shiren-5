@@ -1161,7 +1161,7 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
     <tr>
       <td class="highlightFog">97</td>
       <td class="">Nigiri Master</td>
-      <td class="">Abyssal Dragon</td>
+      <td class="">Abyss Dragon</td>
       <td class="">Terrabbit</td>
       <td class="">Huge Chintala</td>
       <td class="">Cyberoid</td>
@@ -1172,7 +1172,7 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
     <tr>
       <td class="highlightFog">98</td>
       <td class="">Nigiri Master</td>
-      <td class="">Abyssal Dragon</td>
+      <td class="">Abyss Dragon</td>
       <td class="">Terrabbit</td>
       <td class="highlightGray"></td>
       <td class="">Cyberoid</td>
@@ -1183,7 +1183,7 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
     <tr>
       <td class="highlightFog">99</td>
       <td class="">Nigiri Master</td>
-      <td class="">Abyssal Dragon</td>
+      <td class="">Abyss Dragon</td>
       <td class="">Terrabbit</td>
       <td class="highlightGray"></td>
       <td class="">Cyberoid</td>

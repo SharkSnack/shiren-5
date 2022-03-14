@@ -452,7 +452,7 @@ Weapons found on the ground are typically Rusty Pickaxes or status inflicting we
 - Dodger Pot
     - Counters Mutaikon and Porky monsters, and is also used to collect arrows from Boy Carts.<br/>Field of view isn't limited, so collecting Knockback Arrows makes your adventure much easier.
 - Zen Pot
-    - Makes you immune to Dragon and Pop Tank special attacks.<br/>Also lets you destroy walls using an Explosion Bracelet without taking damage.<br/>However, Abyssal Dragons doesn't appear, and Pop Tank monsters only appear on 5 floors.
+    - Makes you immune to Dragon and Pop Tank special attacks.<br/>Also lets you destroy walls using an Explosion Bracelet without taking damage.<br/>However, Abyss Dragons doesn't appear, and Pop Tank monsters only appear on 5 floors.
 - Water Pot
     - Shop-exclusive. One splash of water shuts down dangerous monsters like Shaggas and Punishers.<br/>Ripens a peach by 1 stage. Water tiles are a bit uncommon, so it can be a struggle to refill it.
 

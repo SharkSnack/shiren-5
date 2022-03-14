@@ -209,7 +209,7 @@ It's common to end up maining a status weapon early on, and since grasses are id
 - Hatchet
     - It can be found on the ground so it's an option, but its base attack and rune count are lacking.<br/>It's fine if you land critical hits, but if it doesn't activate, you might find yourself getting worn down.<br/>Think carefully whether you want to use it as a main weapon if you have other options on hand.
 - Type effective weapons
-    - Shop-exclusive.<br/>Roughly: Water > Scythe >> Drain > Lizard > Copper > Magic > Myopic > Sky > Crescent.<br/>Water Cutter in particular has fast growth, high rune count, decent attack, and a wide range of effectiveness.<br/>Water Cutter and Scythe are solid options, but consider switching off of others if you find a better weapon.<br/>Lizard Lasher isn't as valuable in this dungeon, since Abyssal Dragons don't appear during the day.
+    - Shop-exclusive.<br/>Roughly: Water > Scythe >> Drain > Lizard > Copper > Magic > Myopic > Sky > Crescent.<br/>Water Cutter in particular has fast growth, high rune count, decent attack, and a wide range of effectiveness.<br/>Water Cutter and Scythe are solid options, but consider switching off of others if you find a better weapon.<br/>Lizard Lasher isn't as valuable in this dungeon, since Abyss Dragons don't appear during the day.
 - Red Blade, Bladite, Dotanuki
     - Shop-exclusive. Ideally used with a corresponding shield to activate 2 bracelet resonance.<br/>However, be wary of <span class="greenText">Flame Shot</span> if you go with Red Blade, since it can cause accidents.
 - Beast Fang and lower

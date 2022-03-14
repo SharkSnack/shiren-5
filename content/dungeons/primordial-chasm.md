@@ -442,7 +442,7 @@ Pots can shatter even if they're sealed, so go ahead and seal full pots other th
     - Shop-exclusive, but quite powerful.
     - Shuts down monsters like Shagga, Punisher, Pop Tank, and Karakuroid.
 - Zen Pot
-    - Designed to counter Abyssal Dragon and Cranky Tank.
+    - Designed to counter Abyss Dragon and Cranky Tank.
     - Can be used on Archdragon and Ornery Tank floors if needed, and be careful of Scoopies.
     - It also nullifies Flame Shot, Dragon Grass, 4-2-8 Pot, Nonary Bracelet, other explosions.
     - Don't worry about carrying it all the way until the end if you find it near the start.
@@ -512,7 +512,7 @@ This section only lists the scrolls that are worth carrying.
     - Use it to safely synthesize on Mixermon floors + gain experience points and skill points.
 - Nixer Scroll
     - Essentially a 50% chance to flip the dungeon's balance on its head.
-    - Use it on Porkys or Dragons to turn Porgon, Archdragon, Abyssal Dragon floors into bonus zones.
+    - Use it on Porkys or Dragons to turn Porgon, Archdragon, Abyss Dragon floors into bonus zones.
     - Some players write Nixer on any Blank Scrolls they obtain without a second thought,<br/>since it's possible to get the Blank Scroll back from a Monster License when changing floors.
 - Extinction Scroll
     - Throw it at a monster to make that monster family not spawn for the remainder of the adventure.
@@ -560,7 +560,7 @@ This section only lists the scrolls that are worth carrying.
     - Significantly reduces risk when synthesizing your main shield using Mixers.
 - Seal Staff
     - Shuts down special abilities and removes auras.
-    - The target's attack power stays the same, so it's pointless against power monsters.<br/>Cranky Tank and Abyssal Dragon have high stats, so they remain a threat even when sealed.
+    - The target's attack power stays the same, so it's pointless against power monsters.<br/>Cranky Tank and Abyss Dragon have high stats, so they remain a threat even when sealed.
     - Great against the long-ranged abilities of DJ Mage, Mutaikon, and Bored Kappa monsters.
 - Mage Staff
     - Generally useful as a way to disable a single target, despite its randomness.
@@ -1960,7 +1960,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
   <tr>
     <td>95</td>
     <td class="highlightRed">Cranky Tank</td>
-    <td class="highlightRed">Abyssal Dragon</td>
+    <td class="highlightRed">Abyss Dragon</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1971,7 +1971,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
   <tr>
     <td>96</td>
     <td class="highlightRed">Cranky Tank</td>
-    <td class="highlightRed">Abyssal Dragon</td>
+    <td class="highlightRed">Abyss Dragon</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1982,7 +1982,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
   <tr>
     <td>97</td>
     <td></td>
-    <td class="highlightRed">Abyssal Dragon</td>
+    <td class="highlightRed">Abyss Dragon</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1993,7 +1993,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
   <tr>
     <td>98</td>
     <td></td>
-    <td class="highlightRed">Abyssal Dragon</td>
+    <td class="highlightRed">Abyss Dragon</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2004,7 +2004,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
   <tr>
     <td>99</td>
     <td></td>
-    <td class="highlightRed">Abyssal Dragon</td>
+    <td class="highlightRed">Abyss Dragon</td>
     <td></td>
     <td></td>
     <td></td>

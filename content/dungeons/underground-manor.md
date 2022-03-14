@@ -204,7 +204,7 @@ Be careful not to sort your inventory afterward, as that will move any Gitan out
 - Items: Shoddy Edge+27, Shoddy Heater+27, Strength Bracelet, Invincible Grass, Revival Grass, Fixer Scroll
 
 Elizgagon and Despoiler appear on all floors, and Ultra Gazer (89-91F), Cranky Tank (95-96F),<br/>
-and Abyssal Dragon (97-99F) can easily finish you off when you're weakened after an encounter.<br/>
+and Abyss Dragon (97-99F) can easily finish you off when you're weakened after an encounter.<br/>
 There's a very high chance to encounter a single room Monster House,<br/>
 so try to save the supplied Invincible Grass as long as possible.
 
@@ -1194,7 +1194,7 @@ Certain shields gain useful runes as they level up, so aim to level them if poss
 - Anti-Blast
     - Reduces damage from Pop Tanks, Explochins, and explosion traps.
 - Anti-Fire
-    - Can only be obtained by synthesizing a Snake Shield or leveling up a Red Shield.<br/>Some prefer to level a Snake Shield to use as a secondary shield on Archdragon and Abyssal Dragon floors,<br/>especially if they weren't able to obtain a Zen Pot or Extinction Scroll.
+    - Can only be obtained by synthesizing a Snake Shield or leveling up a Red Shield.<br/>Some prefer to level a Snake Shield to use as a secondary shield on Archdragon and Abyss Dragon floors,<br/>especially if they weren't able to obtain a Zen Pot or Extinction Scroll.
 - Bit
     - Reduces damage when last digit of current HP is 1 or 0.
 - Anti-Hypno
@@ -4229,7 +4229,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
   </tr>
   <tr>
     <td>97</td>
-    <td class="highlightRed">Abyssal Dragon</td>
+    <td class="highlightRed">Abyss Dragon</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4243,7 +4243,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
   </tr>
   <tr>
     <td>98</td>
-    <td class="highlightRed">Abyssal Dragon</td>
+    <td class="highlightRed">Abyss Dragon</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4257,7 +4257,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
   </tr>
   <tr>
     <td>99</td>
-    <td class="highlightRed">Abyssal Dragon</td>
+    <td class="highlightRed">Abyss Dragon</td>
     <td></td>
     <td></td>
     <td></td>

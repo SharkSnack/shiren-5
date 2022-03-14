@@ -1165,7 +1165,7 @@ Floor Colors: <span class="highlightGreen">Shuffle Dungeon</span> <span class="h
     </tr>
     <tr>
       <td class="highlightOrange2">84</td>
-      <td class="">Abyssal Dragon</td>
+      <td class="">Abyss Dragon</td>
       <td class="">Ultra Gazer</td>
       <td class="">Mesmerikon</td>
       <td class="">Gitan Mamel</td>
@@ -1178,7 +1178,7 @@ Floor Colors: <span class="highlightGreen">Shuffle Dungeon</span> <span class="h
     </tr>
     <tr>
       <td class="highlightOrange2">85</td>
-      <td class="">Abyssal Dragon</td>
+      <td class="">Abyss Dragon</td>
       <td class="">MC Sorceror</td>
       <td class="">Mesmerikon</td>
       <td class="">Gitan Mamel</td>
@@ -1191,7 +1191,7 @@ Floor Colors: <span class="highlightGreen">Shuffle Dungeon</span> <span class="h
     </tr>
     <tr>
       <td class="highlightOrange2">86</td>
-      <td class="">Abyssal Dragon</td>
+      <td class="">Abyss Dragon</td>
       <td class="">MC Sorceror</td>
       <td class="highlightGray"></td>
       <td class="">Gitan Mamel</td>
@@ -1229,7 +1229,7 @@ Floor Colors: <span class="highlightGreen">Shuffle Dungeon</span> <span class="h
     </tr>
     <tr>
       <td class="limitBreak highlightOrange2">89</td>
-      <td class="">Abyssal Dragon</td>
+      <td class="">Abyss Dragon</td>
       <td class="">Mesmerikon</td>
       <td class="">Osmammoth<br/>Kodionigiri</td>
       <td class="">Gitan Mamel<br/>Squidperor</td>
@@ -1242,7 +1242,7 @@ Floor Colors: <span class="highlightGreen">Shuffle Dungeon</span> <span class="h
     </tr>
     <tr>
       <td class="limitBreak highlightOrange2">90</td>
-      <td class="">Abyssal Dragon</td>
+      <td class="">Abyss Dragon</td>
       <td class="">Mesmerikon<br/>Kappa Troll</td>
       <td class="">Osmammoth<br/>Kodionigiri</td>
       <td class="">Gitan Mamel<br/>Squidperor</td>
@@ -1255,7 +1255,7 @@ Floor Colors: <span class="highlightGreen">Shuffle Dungeon</span> <span class="h
     </tr>
     <tr>
       <td class="limitBreak highlightOrange2">91</td>
-      <td class="">Abyssal Dragon</td>
+      <td class="">Abyss Dragon</td>
       <td class="">Mesmerikon<br/>Kappa Troll</td>
       <td class="">Osmammoth</td>
       <td class="">Gitan Mamel</td>
@@ -1268,7 +1268,7 @@ Floor Colors: <span class="highlightGreen">Shuffle Dungeon</span> <span class="h
     </tr>
     <tr>
       <td class="limitBreak highlightOrange2">92</td>
-      <td class="">Abyssal Dragon</td>
+      <td class="">Abyss Dragon</td>
       <td class="">Mesmerikon</td>
       <td class="">Osmammoth<br/>Gyandoron</td>
       <td class="">Gitan Mamel</td>
@@ -1281,7 +1281,7 @@ Floor Colors: <span class="highlightGreen">Shuffle Dungeon</span> <span class="h
     </tr>
     <tr>
       <td class="limitBreak highlightOrange2">93</td>
-      <td class="">Abyssal Dragon</td>
+      <td class="">Abyss Dragon</td>
       <td class="">Mesmerikon</td>
       <td class="">Gyandoron</td>
       <td class="">Gitan Mamel<br/>Nigiri King</td>
@@ -1332,7 +1332,7 @@ Floor Colors: <span class="highlightGreen">Shuffle Dungeon</span> <span class="h
     </tr>
     <tr>
       <td class="limitBreak highlightOrange2">97</td>
-      <td class="">Abyssal Dragon</td>
+      <td class="">Abyss Dragon</td>
       <td class="">MC Sorceror</td>
       <td class="">Mesmerikon</td>
       <td class="">Gitan Mamel</td>
@@ -1345,7 +1345,7 @@ Floor Colors: <span class="highlightGreen">Shuffle Dungeon</span> <span class="h
     </tr>
     <tr>
       <td class="limitBreak highlightOrange2">98</td>
-      <td class="">Abyssal Dragon</td>
+      <td class="">Abyss Dragon</td>
       <td class="">MC Sorceror</td>
       <td class="">Mesmerikon</td>
       <td class="">Gitan Mamel</td>
@@ -1358,7 +1358,7 @@ Floor Colors: <span class="highlightGreen">Shuffle Dungeon</span> <span class="h
     </tr>
     <tr>
       <td class="limitBreak highlightOrange2">99</td>
-      <td class="">Abyssal Dragon</td>
+      <td class="">Abyss Dragon</td>
       <td class="">MC Sorceror</td>
       <td class="highlightGray"></td>
       <td class="">Gitan Mamel</td>

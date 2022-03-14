@@ -1577,7 +1577,7 @@ Locations:
 </table>
 
 Great base defense and good rune count.<br/>
-The best part of this shield is that it gains <span class="greenText">Anti-Fire</span> and <span class="greenText">Anti-Peck</span> at Lv8.<br/>It's worth leveling if you weren't able to synthesize Snake Shield or Dragon Grass<br/>before getting close to Archdragon or Abyssal Dragon floors.<br/>Some use it as a main shield even without set resonance.
+The best part of this shield is that it gains <span class="greenText">Anti-Fire</span> and <span class="greenText">Anti-Peck</span> at Lv8.<br/>It's worth leveling if you weren't able to synthesize Snake Shield or Dragon Grass<br/>before getting close to Archdragon or Abyss Dragon floors.<br/>Some use it as a main shield even without set resonance.
 
 <table class="itemDetailsTable">
   <tbody>
@@ -4328,7 +4328,7 @@ Locations:
 </table>
 
 Decent starting base defense, and reduces fire damage by 50% at Lv1, or 85% at Lv8.<br/>
-However, it's very slow to level up, and its defense only increases by 1 per level.<br/>Still, some players like to level it as a secondary shield for Abyssal Dragon floors.
+However, it's very slow to level up, and its defense only increases by 1 per level.<br/>Still, some players like to level it as a secondary shield for Abyss Dragon floors.
 
 <table class="itemDetailsTable">
   <tbody>

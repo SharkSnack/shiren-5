@@ -1401,7 +1401,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td>90</td>
       <td class="highlightYellow">Elizgagon</td>
       <td class="highlightOrange2">Vexing Kappa<br/>Despoiler</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightYellow">Doom Gyaza</td>
       <td class="highlightPurple3">Swordmaster</td>
       <td class="highlightRed">Ultra Gazer</td>
@@ -1413,7 +1413,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td>91</td>
       <td class="highlightYellow">Elizgagon</td>
       <td class="highlightYellow">Despoiler</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightYellow">Doom Gyaza</td>
       <td class="highlightPurple3">Swordmaster</td>
       <td class="highlightRed">Ultra Gazer</td>
@@ -1425,7 +1425,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td>92</td>
       <td class="highlightYellow">Elizgagon</td>
       <td class="highlightYellow">Despoiler</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightYellow">Doom Gyaza</td>
       <td class="highlightPurple3">Swordmaster</td>
       <td></td>
@@ -1437,7 +1437,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td>93</td>
       <td class="highlightYellow">Elizgagon</td>
       <td class="highlightYellow">Despoiler</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightYellow">Doom Gyaza</td>
       <td></td>
       <td></td>
@@ -1449,7 +1449,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td>94</td>
       <td class="highlightYellow">Elizgagon</td>
       <td class="highlightYellow">Despoiler</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightRed">Cranky Tank</td>
       <td></td>
       <td></td>
@@ -1461,7 +1461,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td>95</td>
       <td class="highlightYellow">Elizgagon</td>
       <td class="highlightYellow">Despoiler</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightRed">Cranky Tank</td>
       <td class="highlightOrange2">Osmammoth</td>
       <td></td>
@@ -1473,7 +1473,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td>96</td>
       <td class="highlightYellow">Elizgagon</td>
       <td class="highlightYellow">Despoiler</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightRed">Cranky Tank</td>
       <td class="highlightOrange2">Osmammoth</td>
       <td></td>
@@ -1485,7 +1485,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td>97</td>
       <td class="highlightYellow">Elizgagon</td>
       <td class="highlightYellow">Despoiler</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1497,7 +1497,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td>98</td>
       <td class="highlightYellow">Elizgagon</td>
       <td class="highlightYellow">Despoiler</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1509,7 +1509,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td>99</td>
       <td class="highlightYellow">Elizgagon</td>
       <td class="highlightYellow">Despoiler</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td></td>
       <td></td>
       <td></td>

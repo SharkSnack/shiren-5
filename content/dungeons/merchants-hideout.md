@@ -920,7 +920,7 @@ Floor Colors: <span class="limitBreak">Limit break monsters</span><br/>Enemy Col
       <td class="limitBreak">95</td>
       <td>Elizgagon2</td>
       <td>Despoiler2</td>
-      <td>Abyssal Dragon2</td>
+      <td>Abyss Dragon2</td>
       <td>Cranky Tank2</td>
       <td class="highlightGray"></td>
       <td class="highlightBlack"></td>
@@ -929,7 +929,7 @@ Floor Colors: <span class="limitBreak">Limit break monsters</span><br/>Enemy Col
       <td class="limitBreak">96</td>
       <td>Elizgagon2</td>
       <td>Despoiler2</td>
-      <td>Abyssal Dragon2</td>
+      <td>Abyss Dragon2</td>
       <td>Cranky Tank2</td>
       <td class="highlightGray"></td>
       <td class="highlightBlack"></td>
@@ -938,7 +938,7 @@ Floor Colors: <span class="limitBreak">Limit break monsters</span><br/>Enemy Col
       <td class="limitBreak">97</td>
       <td>Elizgagon2</td>
       <td>Despoiler2</td>
-      <td>Abyssal Dragon2</td>
+      <td>Abyss Dragon2</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightBlack"></td>
@@ -947,7 +947,7 @@ Floor Colors: <span class="limitBreak">Limit break monsters</span><br/>Enemy Col
       <td class="limitBreak">98</td>
       <td>Elizgagon2</td>
       <td>Despoiler2</td>
-      <td>Abyssal Dragon2</td>
+      <td>Abyss Dragon2</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightBlack"></td>
@@ -956,7 +956,7 @@ Floor Colors: <span class="limitBreak">Limit break monsters</span><br/>Enemy Col
       <td class="limitBreak">99</td>
       <td>Elizgagon2</td>
       <td>Despoiler2</td>
-      <td>Abyssal Dragon2</td>
+      <td>Abyss Dragon2</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightBlack"></td>

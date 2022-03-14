@@ -162,7 +162,7 @@ The hardest challenge among item restrictions, and makes you aware how powerful 
     - Peaches ripen and spoil if they're not inside a pot as you advance floors.
     - Ideal to perform Nigiri Morph Factory to increase max fullness to 200.
 - Zen, Dodger, and Heal pots can't be used to counter late game threats.
-    - Cranky Tank and Abyssal Dragon can be a nightmare in particular.
+    - Cranky Tank and Abyss Dragon can be a nightmare in particular.
 - Dodger Pot can't be used to collect arrows from Boy Cart monsters.
     - HP regeneration slows as your max HP increases, so arrows are key to avoiding damage.
     - Use Tri-direction rune, Mojo Bracelet for critical hits, or Super status to avoid damage.

@@ -272,7 +272,7 @@ Progress: Day
 It's best to proceed at night with Super Torch or Monsterphobic.<br/>
 Check the monster table and inventory items to decide when to safely cycle time of day.
 
-The deciding factor usually comes down to how you deal with Abyssal Dragons (90-99F):
+The deciding factor usually comes down to how you deal with Abyss Dragons (90-99F):
 
 - Have Extinction Scroll
     - Basically don't need to worry, so progress like normal.
@@ -1923,7 +1923,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <tr>
       <td rowspan="2">90</td>
       <td class="monsterDay">Despoiler</td>
-      <td class="extremeDay monsterDay">Abyssal Dragon</td>
+      <td class="extremeDay monsterDay">Abyss Dragon</td>
       <td class="monsterDay">Elizgagon</td>
       <td class="extremeDay monsterDay">Mesmerikon</td>
       <td class="monsterDay"><span class="extremeDay">Ultra Gazer</span><br/><span class="itemDay">Swordmaster</span></td>
@@ -1940,7 +1940,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <tr>
       <td class="highlightNoWalls" rowspan="2">91</td>
       <td class="monsterDay">Despoiler</td>
-      <td class="extremeDay monsterDay">Abyssal Dragon</td>
+      <td class="extremeDay monsterDay">Abyss Dragon</td>
       <td class="monsterDay">Elizgagon</td>
       <td class="extremeDay monsterDay">Mesmerikon</td>
       <td class="monsterDay"><span class="extremeDay">Ultra Gazer</span><br/><span class="itemDay">Swordmaster</span></td>
@@ -1957,7 +1957,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <tr>
       <td class="highlightNoWalls" rowspan="2">92</td>
       <td class="monsterDay">Despoiler</td>
-      <td class="extremeDay monsterDay">Abyssal Dragon</td>
+      <td class="extremeDay monsterDay">Abyss Dragon</td>
       <td class="monsterDay">Elizgagon</td>
       <td class="extremeDay monsterDay">Mesmerikon</td>
       <td class="monsterDay"><span class="itemDay">Swordmaster</span></td>
@@ -1974,7 +1974,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <tr>
       <td class="highlightNoWalls" rowspan="2">93</td>
       <td class="monsterDay">Despoiler</td>
-      <td class="extremeDay monsterDay">Abyssal Dragon</td>
+      <td class="extremeDay monsterDay">Abyss Dragon</td>
       <td class="monsterDay">Elizgagon</td>
       <td class="extremeDay monsterDay">Mesmerikon</td>
       <td class="highlightGray"></td>
@@ -1991,7 +1991,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <tr>
       <td class="highlightNoWalls" rowspan="2">94</td>
       <td class="monsterDay">Despoiler</td>
-      <td class="extremeDay monsterDay">Abyssal Dragon</td>
+      <td class="extremeDay monsterDay">Abyss Dragon</td>
       <td class="monsterDay">Elizgagon</td>
       <td class="extremeDay monsterDay">Mesmerikon</td>
       <td class="highlightGray"></td>
@@ -2008,7 +2008,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <tr>
       <td class="highlightNoWalls" rowspan="2">95</td>
       <td class="monsterDay">Despoiler</td>
-      <td class="extremeDay monsterDay">Abyssal Dragon</td>
+      <td class="extremeDay monsterDay">Abyss Dragon</td>
       <td class="monsterDay">Elizgagon</td>
       <td class="extremeDay monsterDay">Cranky Tank</td>
       <td class="highlightGray"></td>
@@ -2025,7 +2025,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <tr>
       <td rowspan="2">96</td>
       <td class="monsterDay">Despoiler</td>
-      <td class="extremeDay monsterDay">Abyssal Dragon</td>
+      <td class="extremeDay monsterDay">Abyss Dragon</td>
       <td class="monsterDay">Elizgagon</td>
       <td class="extremeDay monsterDay">Cranky Tank</td>
       <td class="highlightGray"></td>
@@ -2042,7 +2042,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <tr>
       <td rowspan="2">97</td>
       <td class="monsterDay">Despoiler</td>
-      <td class="extremeDay monsterDay">Abyssal Dragon</td>
+      <td class="extremeDay monsterDay">Abyss Dragon</td>
       <td class="monsterDay">Elizgagon</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -2059,7 +2059,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <tr>
       <td rowspan="2">98</td>
       <td class="monsterDay">Despoiler</td>
-      <td class="extremeDay monsterDay">Abyssal Dragon</td>
+      <td class="extremeDay monsterDay">Abyss Dragon</td>
       <td class="monsterDay">Elizgagon</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -2076,7 +2076,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <tr>
       <td rowspan="2">99</td>
       <td class="monsterDay">Despoiler</td>
-      <td class="extremeDay monsterDay">Abyssal Dragon</td>
+      <td class="extremeDay monsterDay">Abyss Dragon</td>
       <td class="monsterDay">Elizgagon</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>

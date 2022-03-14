@@ -5261,7 +5261,7 @@ Element Order
     <td>120</td>
     <td>22%</td>
     <td>Breathes 20 damage fire<br/>at a target in the room.<br/>High item drop rate.</td>
-    <td>Lowest fire damage in the series,<br/>but breathes fire more often than<br/>Archdragon or Abyssal Dragon,<br/>so it's dangerous in large rooms.</td>
+    <td>Lowest fire damage in the series,<br/>but breathes fire more often than<br/>Archdragon or Abyss Dragon,<br/>so it's dangerous in large rooms.</td>
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
@@ -5277,7 +5277,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>Abyssal Dragon</td>
+    <td>Abyss Dragon</td>
     <td>120</td>
     <td>106</td>
     <td>50</td>
@@ -5547,7 +5547,7 @@ Element Order
     <td>400</td>
     <td>6%</td>
     <td>Same as Porky,<br/>but range of 10 tiles.</td>
-    <td>Uses special attacks more than<br/>Archdragon and Abyssal Dragon.<br/>If you see it on a maze floor, use<br/>a Dodger Pot or Extinction Scroll.</td>
+    <td>Uses special attacks more than<br/>Archdragon and Abyss Dragon.<br/>If you see it on a maze floor, use<br/>a Dodger Pot or Extinction Scroll.</td>
   </tr>
   <tr>
     <th>Lv</th>
@@ -5809,7 +5809,7 @@ Element Order
     <td>2%</td>
     <td>Swift 2<br/>Rust<br/>Explode<br/>Metal<br/>Power<br/>Explosive</td>
     <td>Same as Pop Tank,<br/>but blasts deal 50 damage<br/>and double speed (2 attacks).</td>
-    <td>Rivals Abyssal Dragon in<br/>its ability to cause dread.<br/>You'll take 100 damage<br/>per turn without Anti-Blast<br/>rune, and with 62 attack,<br/>it hits hard even if <span class="green_text">Sealed</span>.<br/>Use an Extinction Scroll.</td>
+    <td>Rivals Abyss Dragon in<br/>its ability to cause dread.<br/>You'll take 100 damage<br/>per turn without Anti-Blast<br/>rune, and with 62 attack,<br/>it hits hard even if <span class="green_text">Sealed</span>.<br/>Use an Extinction Scroll.</td>
   </tr>
   <tr>
     <th>Lv</th>
@@ -8103,7 +8103,7 @@ Element Order
     <td>2777</td>
   </tr>
   <tr>
-    <td>Abyssal Dragon2</td>
+    <td>Abyss Dragon2</td>
     <td>120</td>
     <td>212</td>
     <td>62</td>

@@ -279,9 +279,9 @@ Dark Mesmerikon (32-33F), Foul Cursenior (35-36F), Dark Terrabbit (37-38F), Evil
 
 Both day and night are mostly a repeat of the 1-25F monster table.<br/>
 However, Maneater monsters appear as regular enemies, and some monsters appear until 99F from this point on,<br/>
-including Cyberoid (46F+), Gitan Mamel (50F+), Abyssal Dragon (60F+), and MC Sorceror (52-54F, 70F+).
+including Cyberoid (46F+), Gitan Mamel (50F+), Abyss Dragon (60F+), and MC Sorceror (52-54F, 70F+).
 
-Abyssal Dragon has a low spawn rate, but is still worth making extinct since Evil Abyss Dragon also appears at night.
+Abyss Dragon has a low spawn rate, but is still worth making extinct since Evil Abyss Dragon also appears at night.
 
 Keep in mind that Maneater roars can paralyze you, turning you into a sitting duck against monsters that ruin items.<br/>
 Item ruining monsters include Mudster (53-54F), Curspinster (56-58F), Item Knave (59-60F), and Mudder (69-72F).<br/>
@@ -1091,7 +1091,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightOrange2">Lashagga</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightPurple3">Item Knave</td>
       <td class="highlightBlue">Iron Zalokleft</td>
       <td></td>
@@ -1104,7 +1104,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightYellow">Polygon Singa</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightBlue">Grass Gramps</td>
       <td class="highlightOrange2">Flarebird</td>
       <td class="highlightYellow">Bunchukdon</td>
@@ -1117,7 +1117,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightYellow">Polygon Singa</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightBlue">Grass Gramps</td>
       <td class="highlightOrange2">Flarebird</td>
       <td class="highlightYellow">Bunchukdon</td>
@@ -1130,7 +1130,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightYellow">Polygon Singa</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightYellow">Spirit Ham</td>
       <td class="highlightOrange2">Flarebird</td>
       <td class="highlightYellow">Bunchukdon</td>
@@ -1143,7 +1143,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightYellow">Bitter Nut</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightYellow">Spirit Ham</td>
       <td class="highlightPurple3">Hyper Gazer</td>
       <td></td>
@@ -1156,7 +1156,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightYellow">Bitter Nut</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightYellow">Spirit Ham</td>
       <td class="highlightPurple3">Hyper Gazer</td>
       <td class="highlightYellow">Fulminachin</td>
@@ -1169,7 +1169,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightYellow">Bitter Nut</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightYellow">Phoenix Tengu</td>
       <td class="highlightPurple3">Hyper Gazer</td>
       <td class="highlightYellow">Fulminachin</td>
@@ -1182,7 +1182,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">Dozikon</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightYellow">Phoenix Tengu</td>
       <td class="highlightPurple3">Hyper Gazer</td>
       <td></td>
@@ -1195,7 +1195,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">Dozikon</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightYellow">Phoenix Tengu</td>
       <td class="highlightYellow">Comatapir</td>
       <td></td>
@@ -1208,7 +1208,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">Dozikon</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightPurple3">Mudder</td>
       <td class="highlightYellow">Comatapir</td>
       <td></td>
@@ -1221,7 +1221,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">MC Sorceror</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightPurple3">Mudder</td>
       <td class="highlightYellow">Huge Chintala</td>
       <td class="highlightBlue">Mixerdon</td>
@@ -1234,7 +1234,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">MC Sorceror</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightPurple3">Mudder</td>
       <td class="highlightYellow">Huge Chintala</td>
       <td class="highlightBlue">Mixerdon</td>
@@ -1247,7 +1247,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">MC Sorceror</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightPurple3">Mudder</td>
       <td class="highlightYellow">Huge Chintala</td>
       <td class="highlightBlue">FO-UZZ</td>
@@ -1260,7 +1260,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">MC Sorceror</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightYellow">Detonachin</td>
       <td class="highlightPurple3">Cursenior</td>
       <td class="highlightBlue">FO-UZZ</td>
@@ -1273,7 +1273,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">MC Sorceror</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightYellow">Detonachin</td>
       <td class="highlightPurple3">Cursenior</td>
       <td class="highlightRed">Porgon</td>
@@ -1286,7 +1286,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">MC Sorceror</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightOrange2">N'dup</td>
       <td class="highlightPurple3">Cursenior<br/>Knave King</td>
       <td class="highlightRed">Porgon</td>
@@ -1299,7 +1299,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">MC Sorceror</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightOrange2">N'dup</td>
       <td class="highlightPurple3">Knave King</td>
       <td class="highlightRed">Porgon</td>
@@ -1312,7 +1312,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">MC Sorceror</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightOrange2">N'dup</td>
       <td class="highlightYellow">Pumptergeist</td>
       <td class="highlightRed">Porgon</td>
@@ -1325,7 +1325,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">MC Sorceror</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightOrange2">N'dup<br/>Squidperor</td>
       <td class="highlightYellow">Pumptergeist</td>
       <td class="highlightYellow">Colocolocolum</td>
@@ -1338,7 +1338,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">MC Sorceror</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightYellow">Squidperor</td>
       <td class="highlightYellow">Pumptergeist</td>
       <td class="highlightYellow">Colocolocolum</td>
@@ -1351,7 +1351,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">MC Sorceror</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightOrange2">Osmammoth</td>
       <td class="highlightGreen">Kleptoad</td>
       <td class="highlightYellow">Colocolocolum</td>
@@ -1364,7 +1364,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">MC Sorceror</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightOrange2">Osmammoth</td>
       <td class="highlightGreen">Kleptoad</td>
       <td></td>
@@ -1377,7 +1377,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">MC Sorceror</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightOrange2">Osmammoth</td>
       <td class="highlightGreen">Kleptoad</td>
       <td class="highlightOrange2">Bashagga</td>
@@ -1390,7 +1390,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">MC Sorceror</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightOrange2">Osmammoth</td>
       <td class="highlightPurple3">Gyandoron</td>
       <td class="highlightOrange2">Bashagga</td>
@@ -1403,7 +1403,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">MC Sorceror</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightOrange2">Blazebird</td>
       <td class="highlightPurple3">Gyandoron</td>
       <td class="highlightOrange2">Bashagga</td>
@@ -1416,7 +1416,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">MC Sorceror</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightOrange2">Blazebird</td>
       <td class="highlightPurple3">Gyandoron</td>
       <td class="highlightOrange2">Bashagga</td>
@@ -1429,7 +1429,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">MC Sorceror</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightOrange2">Nigiri King</td>
       <td></td>
       <td class="highlightYellow">Boss Yanpii</td>
@@ -1442,7 +1442,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">MC Sorceror</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightOrange2">Nigiri King</td>
       <td class="highlightYellow">Doom Gyaza</td>
       <td class="highlightYellow">Boss Yanpii</td>
@@ -1455,7 +1455,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">MC Sorceror</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightOrange2">Nigiri King</td>
       <td class="highlightYellow">Doom Gyaza</td>
       <td class="highlightYellow">Boss Yanpii</td>
@@ -1468,7 +1468,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">MC Sorceror</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightYellow">Elizgagon</td>
       <td class="highlightYellow">Doom Gyaza<br/>Despoiler</td>
       <td class="highlightYellow">Boss Yanpii</td>
@@ -1481,7 +1481,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">MC Sorceror</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightYellow">Elizgagon</td>
       <td class="highlightYellow">Despoiler</td>
       <td></td>
@@ -1494,7 +1494,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">MC Sorceror</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightYellow">Elizgagon</td>
       <td class="highlightYellow">Despoiler</td>
       <td class="highlightBlue">Chow</td>
@@ -1507,7 +1507,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">MC Sorceror</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightYellow">Elizgagon</td>
       <td class="highlightYellow">Despoiler</td>
       <td class="highlightBlue">Chow</td>
@@ -1520,7 +1520,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">MC Sorceror</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightYellow">Elizgagon</td>
       <td class="highlightYellow">Despoiler</td>
       <td class="highlightBlue">Chow</td>
@@ -1533,7 +1533,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">MC Sorceror</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightYellow">Elizgagon</td>
       <td class="highlightYellow">Despoiler</td>
       <td class="highlightBlue">Chow</td>
@@ -1546,7 +1546,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">MC Sorceror</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightYellow">Elizgagon</td>
       <td class="highlightYellow">Despoiler</td>
       <td class="highlightBlue">Chow</td>
@@ -1559,7 +1559,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">MC Sorceror</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightYellow">Elizgagon</td>
       <td class="highlightYellow">Despoiler</td>
       <td class="highlightBlue">Chow</td>
@@ -1572,7 +1572,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">MC Sorceror</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightYellow">Elizgagon</td>
       <td class="highlightYellow">Despoiler</td>
       <td class="highlightBlue">Chow</td>
@@ -1585,7 +1585,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">MC Sorceror</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightYellow">Elizgagon</td>
       <td class="highlightYellow">Despoiler</td>
       <td class="highlightBlue">Chow</td>
@@ -1598,7 +1598,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Cyberoid</td>
       <td class="highlightOrange2">Gitan Mamel</td>
       <td class="highlightRed">MC Sorceror</td>
-      <td class="highlightRed">Abyssal Dragon</td>
+      <td class="highlightRed">Abyss Dragon</td>
       <td class="highlightYellow">Elizgagon</td>
       <td class="highlightYellow">Despoiler</td>
       <td class="highlightBlue">Chow</td>

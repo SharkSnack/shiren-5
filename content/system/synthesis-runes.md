@@ -2285,7 +2285,7 @@ Priority: <span class="highlightRed">Top</span>
   </tr>
 </table>
 
-The amount of damage dealt by Dragon's fire breath is lower than previous games,<br/>but it's definitely still worth synthesizing, especially since Archdragons appears earlier<br/>and Abyssal Dragons can appear for a long stretch of floors in some dungeons.
+The amount of damage dealt by Dragon's fire breath is lower than previous games,<br/>but it's definitely still worth synthesizing, especially since Archdragons appears earlier<br/>and Abyss Dragons can appear for a long stretch of floors in some dungeons.
 
 #### Anti-Blast
 
