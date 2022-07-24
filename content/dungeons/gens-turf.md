@@ -1370,7 +1370,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Tiger Ace</td>
       <td></td>
       <td class="highlightOrange2">Nigiri King</td>
-      <td class="highlightBlue">Zalokleftis King</td>
+      <td class="highlightBlue">Zalokleft King</td>
       <td></td>
     </tr>
     <tr>
@@ -1382,7 +1382,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Tiger Ace</td>
       <td></td>
       <td class="highlightOrange2">Nigiri King</td>
-      <td class="highlightBlue">Zalokleftis King</td>
+      <td class="highlightBlue">Zalokleft King</td>
       <td></td>
     </tr>
     <tr>
@@ -1394,7 +1394,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Tiger Ace</td>
       <td class="highlightRed">Ultra Gazer</td>
       <td class="highlightOrange2">Nigiri King</td>
-      <td class="highlightBlue">Zalokleftis King</td>
+      <td class="highlightBlue">Zalokleft King</td>
       <td class="highlightYellow">Fulminachin</td>
     </tr>
     <tr>

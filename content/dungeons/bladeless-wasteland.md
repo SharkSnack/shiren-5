@@ -1059,7 +1059,7 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="darkblueText">W
       <td class="darkblueText">81</td>
       <td class="">Terrabbit</td>
       <td class="">Steelhead</td>
-      <td class="">Zalokleftis King</td>
+      <td class="">Zalokleft King</td>
       <td class="">Detonachin</td>
       <td class="highlightGray"></td>
       <td class="">Ruiner</td>
@@ -1071,7 +1071,7 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="darkblueText">W
       <td class="darkblueText">82</td>
       <td class="">Terrabbit</td>
       <td class="">Steelhead</td>
-      <td class="">Zalokleftis King</td>
+      <td class="">Zalokleft King</td>
       <td class="">Detonachin</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -1083,7 +1083,7 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="darkblueText">W
       <td class="darkblueText">83</td>
       <td class="">Terrabbit</td>
       <td class="">Steelhead</td>
-      <td class="">Zalokleftis King</td>
+      <td class="">Zalokleft King</td>
       <td class="">Detonachin</td>
       <td class="">Grass Gramps</td>
       <td class="highlightGray"></td>
@@ -1095,7 +1095,7 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="darkblueText">W
       <td class="darkblueText">84</td>
       <td class="">Terrabbit</td>
       <td class="">Polygon Singa</td>
-      <td class="">Zalokleftis King</td>
+      <td class="">Zalokleft King</td>
       <td class="highlightGray"></td>
       <td class="">Grass Gramps</td>
       <td class="highlightGray"></td>
@@ -1107,7 +1107,7 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="darkblueText">W
       <td class="darkblueText">85</td>
       <td class="">Terrabbit</td>
       <td class="">Polygon Singa</td>
-      <td class="">Zalokleftis King</td>
+      <td class="">Zalokleft King</td>
       <td class="">Nigiri King</td>
       <td class="">Grass Gramps</td>
       <td class="highlightGray"></td>

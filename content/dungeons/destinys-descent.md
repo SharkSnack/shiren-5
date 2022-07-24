@@ -1872,7 +1872,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <tr>
       <td rowspan="2">87</td>
       <td class="monsterDay"><span class="dangerDay">Nigiri King</span></td>
-      <td class="monsterDay"><span class="farmingDay">Zalokleftis King</span></td>
+      <td class="monsterDay"><span class="farmingDay">Zalokleft King</span></td>
       <td class="monsterDay">Boss Yanpii</td>
       <td class="monsterDay">Zotdon</td>
       <td class="highlightGray"></td>
@@ -1889,7 +1889,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <tr>
       <td rowspan="2">88</td>
       <td class="monsterDay"><span class="dangerDay">Nigiri King</span></td>
-      <td class="monsterDay"><span class="farmingDay">Zalokleftis King</span></td>
+      <td class="monsterDay"><span class="farmingDay">Zalokleft King</span></td>
       <td class="monsterDay">Boss Yanpii</td>
       <td class="monsterDay">Zotdon</td>
       <td class="highlightGray"></td>
@@ -1906,7 +1906,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <tr>
       <td rowspan="2">89</td>
       <td class="monsterDay">Despoiler</td>
-      <td class="monsterDay"><span class="farmingDay">Zalokleftis King</span></td>
+      <td class="monsterDay"><span class="farmingDay">Zalokleft King</span></td>
       <td class="monsterDay">Boss Yanpii<br/>Elizgagon</td>
       <td class="extremeDay monsterDay">Mesmerikon</td>
       <td class="extremeDay monsterDay">Ultra Gazer</td>

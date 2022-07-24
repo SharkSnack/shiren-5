@@ -782,7 +782,7 @@ Hunt Zalokleft monsters for item drops.
 - 17\~18F - Zalokleft
 - 21\~23F - Green Zalokleft
 - 59\~60F - Iron Zalokleft
-- 87\~89F - Zalokleftis King
+- 87\~89F - Zalokleft King
 
 ### Floor Guide
 
@@ -1871,7 +1871,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
   </tr>
   <tr>
     <td>87</td>
-    <td class="highlightBlue">Zalokleftis King</td>
+    <td class="highlightBlue">Zalokleft King</td>
     <td class="highlightOrange2">Blazebird</td>
     <td class="highlightPurple3">Gyandoron</td>
     <td class="highlightYellow">Polygon Stunna</td>
@@ -1882,7 +1882,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
   </tr>
   <tr>
     <td>88</td>
-    <td class="highlightBlue">Zalokleftis King</td>
+    <td class="highlightBlue">Zalokleft King</td>
     <td class="highlightRed">Ultra Gazer</td>
     <td class="highlightPurple3">Gyandoron</td>
     <td class="highlightYellow">Polygon Stunna</td>
@@ -1893,7 +1893,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
   </tr>
   <tr>
     <td>89</td>
-    <td class="highlightBlue">Zalokleftis King</td>
+    <td class="highlightBlue">Zalokleft King</td>
     <td class="highlightRed">Ultra Gazer</td>
     <td class="highlightPurple3">Gyandoron</td>
     <td class="highlightYellow">Polygon Stunna</td>

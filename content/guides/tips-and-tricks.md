@@ -453,7 +453,7 @@ and visible traps can be created by dragging a Karakuroid along the wall in a ro
 
 If a trap is visible, you can throw an item onto the trap to trigger it.<br/>
 Rocks can be thrown from 3 tiles away, and other items can be thrown from 10 tiles away.<br/>
-If the trap is against a wall, you can simple throw an item at the wall to trigger the trap.
+If the trap is against a wall, you can simply throw an item at the wall to trigger the trap.
 
 It's also possible to trap monsters by luring them onto a trap and then missing with a projectile.<br/>Standard methods to trap monsters:
 
@@ -620,7 +620,7 @@ This ruins pots like Blessing Pot and fragrance pots, so place important pots do
 
 #### Use Book when Naming
 
-It's faster to name unidentified items by selecing the name from the item book,<br/>and you can also see what has already been named or identified when selecting the name.
+It's faster to name unidentified items by selecting the name from the item book,<br/>and you can also see what has already been named or identified when selecting the name.
 
 <div class="relativeImage smallScreenshot">
   <img src="../images/other/naming_book.png"/>

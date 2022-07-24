@@ -805,7 +805,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightOrange2">Nigiri King</td>
       <td class="highlightYellow">Boss Yanpii</td>
       <td class="highlightYellow">Tiger Ace</td>
-      <td class="highlightBlue">Zalokleftis King</td>
+      <td class="highlightBlue">Zalokleft King</td>
       <td class="highlightYellow">Zotdon</td>
       <td></td>
       <td></td>
@@ -818,7 +818,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightOrange2">Nigiri King</td>
       <td class="highlightYellow">Boss Yanpii</td>
       <td class="highlightYellow">Tiger Ace</td>
-      <td class="highlightBlue">Zalokleftis King</td>
+      <td class="highlightBlue">Zalokleft King</td>
       <td class="highlightYellow">Zotdon</td>
       <td></td>
       <td></td>
@@ -831,7 +831,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Doom Gyaza</td>
       <td class="highlightYellow">Boss Yanpii</td>
       <td class="highlightYellow">Tiger Ace</td>
-      <td class="highlightBlue">Zalokleftis King</td>
+      <td class="highlightBlue">Zalokleft King</td>
       <td class="highlightYellow">Elizgagon</td>
       <td class="highlightYellow">Despoiler</td>
       <td class="highlightRed">Ultra Gazer</td>
@@ -1448,7 +1448,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Boss Yanpii</td>
       <td class="highlightYellow">Tiger Ace</td>
       <td class="highlightYellow">Zotdon</td>
-      <td class="highlightBlue">Zalokleftis King</td>
+      <td class="highlightBlue">Zalokleft King</td>
     </tr>
     <tr>
       <td>88</td>
@@ -1461,7 +1461,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Boss Yanpii</td>
       <td class="highlightYellow">Tiger Ace</td>
       <td class="highlightYellow">Zotdon</td>
-      <td class="highlightBlue">Zalokleftis King</td>
+      <td class="highlightBlue">Zalokleft King</td>
     </tr>
     <tr>
       <td>89</td>
@@ -1474,7 +1474,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Boss Yanpii</td>
       <td class="highlightYellow">Tiger Ace</td>
       <td class="highlightRed">Ultra Gazer</td>
-      <td class="highlightBlue">Zalokleftis King</td>
+      <td class="highlightBlue">Zalokleft King</td>
     </tr>
     <tr>
       <td>90</td>

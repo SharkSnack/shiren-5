@@ -665,7 +665,7 @@ If you use a Dodger Pot, you won't need to worry about Kappa Trolls and Kleptoad
 but you won't be able to use projectiles against Gitan Mamels, so it's not recommended unless<br/>
 you also have items like Electric Staff or Seal Staff. (Boring Staff only deals 10 damage)
 
-Tiger Ace (84-92F), Gyandoron (82-86F), Zalokleftis King (87-89F), Swordmaster (90-96F), Nigiri King (86-91F)<br/>
+Tiger Ace (84-92F), Gyandoron (82-86F), Zalokleft King (87-89F), Swordmaster (90-96F), Nigiri King (86-91F)<br/>
 Being adjacent to any of these monsters is dangerous, so consider throwing an Extinction Scroll at Tiger Ace<br/>
 if you have other ways to deal with Ultra Gazers such as Immunity Scrolls or Reflection Pots.<br/>If you plan on hunting Isleaters for Wonder Pick, stock up on onigiri using a Nigiri King.<br/>
 (Use an Unlucky Staff to create a Nigiri Morph and perform Nigiri Morph Factory)
@@ -1648,7 +1648,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Zotdon</td>
       <td></td>
       <td></td>
-      <td class="highlightBlue">Zalokleftis King</td>
+      <td class="highlightBlue">Zalokleft King</td>
       <td class="highlightYellow">Tiger Ace</td>
       <td class="highlightRed">Boss Yanpii</td>
       <td class="highlightOrange2">Nigiri King</td>
@@ -1659,7 +1659,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightYellow">Zotdon</td>
       <td></td>
       <td></td>
-      <td class="highlightBlue">Zalokleftis King</td>
+      <td class="highlightBlue">Zalokleft King</td>
       <td class="highlightYellow">Tiger Ace</td>
       <td class="highlightRed">Boss Yanpii</td>
       <td class="highlightOrange2">Nigiri King</td>
@@ -1670,7 +1670,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
       <td class="highlightRed">Ultra Gazer</td>
       <td class="highlightYellow">Elizgagon</td>
       <td class="highlightYellow">Despoiler</td>
-      <td class="highlightBlue">Zalokleftis King</td>
+      <td class="highlightBlue">Zalokleft King</td>
       <td class="highlightYellow">Tiger Ace</td>
       <td class="highlightRed">Boss Yanpii</td>
       <td class="highlightOrange2">Nigiri King</td>

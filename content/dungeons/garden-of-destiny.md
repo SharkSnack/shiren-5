@@ -799,7 +799,7 @@ Floor Colors: <span class="highlightGreen">Shuffle Dungeon</span> <span class="h
       <td class="">Lashagga</td>
       <td class="">Gyandoron</td>
       <td class="">Kleptoad</td>
-      <td class="">Zalokleftis King<br/>N'mach</td>
+      <td class="">Zalokleft King<br/>N'mach</td>
       <td class="">Momomomoseal</td>
       <td class="highlightGray">?</td>
     </tr>
@@ -812,7 +812,7 @@ Floor Colors: <span class="highlightGreen">Shuffle Dungeon</span> <span class="h
       <td class="">Lashagga</td>
       <td class="">Gyandoron</td>
       <td class="">Nigiri Boss<br/>FO-UZ</td>
-      <td class="">Zalokleftis King<br/>N'mach</td>
+      <td class="">Zalokleft King<br/>N'mach</td>
       <td class="">Grass Gramps<br/>Pin Gramps</td>
       <td class="highlightGray">?</td>
     </tr>
@@ -851,7 +851,7 @@ Floor Colors: <span class="highlightGreen">Shuffle Dungeon</span> <span class="h
       <td class="">Detonachin</td>
       <td class="">King Squid</td>
       <td class="">Hell Gyaza</td>
-      <td class="">Zalokleftis King</td>
+      <td class="">Zalokleft King</td>
       <td class="">Momomomoseal</td>
       <td rowspan="2" class="monsterTableMounteater">3</td>
     </tr>
@@ -864,7 +864,7 @@ Floor Colors: <span class="highlightGreen">Shuffle Dungeon</span> <span class="h
       <td class="">Detonachin</td>
       <td class="">King Squid</td>
       <td class="">Hell Gyaza</td>
-      <td class="">Zalokleftis King</td>
+      <td class="">Zalokleft King</td>
       <td class="">Momomomoseal</td>
     </tr>
     <tr>
@@ -979,7 +979,7 @@ Floor Colors: <span class="highlightGreen">Shuffle Dungeon</span> <span class="h
       <td class="">Tiger Ace</td>
       <td class="highlightGray"></td>
       <td class="">Bunchukdon</td>
-      <td class="">Zalokleftis King</td>
+      <td class="">Zalokleft King</td>
       <td class="highlightGray"></td>
       <td class="highlightGray">?</td>
     </tr>
@@ -992,7 +992,7 @@ Floor Colors: <span class="highlightGreen">Shuffle Dungeon</span> <span class="h
       <td class="">Eligagon</td>
       <td class="highlightGray"></td>
       <td class="">Bunchukdon</td>
-      <td class="">Zalokleftis King</td>
+      <td class="">Zalokleft King</td>
       <td class="">Hyper Gazer</td>
       <td class="highlightGray">?</td>
     </tr>

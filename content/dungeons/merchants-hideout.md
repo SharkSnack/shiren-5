@@ -855,7 +855,7 @@ Floor Colors: <span class="limitBreak">Limit break monsters</span><br/>Enemy Col
       <td>Gyandoron2</td>
       <td>Blazebird2</td>
       <td>Polygon Stunna2<br/>Boss Yanpii2</td>
-      <td>Zotdon2<br/>Zalokleftis King2</td>
+      <td>Zotdon2<br/>Zalokleft King2</td>
       <td class="highlightBlack"></td>
     </tr>
     <tr>
@@ -864,7 +864,7 @@ Floor Colors: <span class="limitBreak">Limit break monsters</span><br/>Enemy Col
       <td>Gyandoron2</td>
       <td>Ultra Gazer2</td>
       <td>Polygon Stunna2<br/>Boss Yanpii2</td>
-      <td>Zotdon2<br/>Zalokleftis King2</td>
+      <td>Zotdon2<br/>Zalokleft King2</td>
       <td rowspan="6" class="monsterTableIsleater">4</td>
     </tr>
     <tr>
@@ -873,7 +873,7 @@ Floor Colors: <span class="limitBreak">Limit break monsters</span><br/>Enemy Col
       <td>Gyandoron2<br/>Despoiler2</td>
       <td>Ultra Gazer2</td>
       <td>Polygon Stunna2<br/>Boss Yanpii2</td>
-      <td>Doom Gyaza2<br/>Zalokleftis King2</td>
+      <td>Doom Gyaza2<br/>Zalokleft King2</td>
     </tr>
     <tr>
       <td class="limitBreak">90</td>

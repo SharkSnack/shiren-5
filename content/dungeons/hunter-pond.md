@@ -520,7 +520,7 @@ See [Monsters](/system/monsters) for individual monster details.
       <td>48</td>
       <td class="highlightGray"></td>
       <td>Pumpanshee</td>
-      <td>Zalokleftis King</td>
+      <td>Zalokleft King</td>
       <td>Vexing Kappa</td>
       <td>Doom Gyaza</td>
       <td>King Squid</td>
@@ -529,7 +529,7 @@ See [Monsters](/system/monsters) for individual monster details.
       <td>49</td>
       <td>Oingodile</td>
       <td>Boingodile</td>
-      <td>Zalokleftis King</td>
+      <td>Zalokleft King</td>
       <td>Vexing Kappa</td>
       <td>Doom Gyaza</td>
       <td>King Squid</td>
@@ -538,7 +538,7 @@ See [Monsters](/system/monsters) for individual monster details.
       <td>50</td>
       <td>Oingodile</td>
       <td>Boingodile</td>
-      <td>Zalokleftis King</td>
+      <td>Zalokleft King</td>
       <td>Vexing Kappa</td>
       <td>Doom Gyaza</td>
       <td>King Squid</td>

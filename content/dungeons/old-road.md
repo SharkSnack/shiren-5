@@ -1667,7 +1667,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
     <td>87</td>
     <td class="highlightYellow">Boss Yanpii</td>
     <td class="highlightOrange2">Nigiri King</td>
-    <td class="highlightBlue">Zalokleftis King</td>
+    <td class="highlightBlue">Zalokleft King</td>
     <td class="highlightYellow">Polygon Stunna</td>
     <td></td>
     <td class="highlightYellow">Zotdon</td>
@@ -1679,7 +1679,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
     <td>88</td>
     <td class="highlightYellow">Boss Yanpii</td>
     <td class="highlightOrange2">Nigiri King</td>
-    <td class="highlightBlue">Zalokleftis King</td>
+    <td class="highlightBlue">Zalokleft King</td>
     <td class="highlightYellow">Polygon Stunna</td>
     <td></td>
     <td class="highlightYellow">Zotdon</td>
@@ -1691,7 +1691,7 @@ Enemy Colors: <span class="highlightBlue">Farming</span> <span class="highlightG
     <td>89</td>
     <td class="highlightYellow">Boss Yanpii</td>
     <td class="highlightOrange2">Nigiri King</td>
-    <td class="highlightBlue">Zalokleftis King</td>
+    <td class="highlightBlue">Zalokleft King</td>
     <td class="highlightRed">Ultra Gazer</td>
     <td class="highlightYellow">Doom Gyaza</td>
     <td class="highlightYellow">Zotdon</td>

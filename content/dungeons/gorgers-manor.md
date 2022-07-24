@@ -545,7 +545,7 @@ See [Monsters](/system/monsters) for individual monster details.
     </tr>
     <tr>
       <td>46</td>
-      <td>Zalokleftis King</td>
+      <td>Zalokleft King</td>
       <td>Momomomoseal</td>
       <td>Pyrepuff</td>
       <td>Detonachin</td>
@@ -555,7 +555,7 @@ See [Monsters](/system/monsters) for individual monster details.
     </tr>
     <tr>
       <td>47</td>
-      <td>Zalokleftis King</td>
+      <td>Zalokleft King</td>
       <td>Momomomoseal</td>
       <td>Pyrepuff</td>
       <td class="highlightGray"></td>
@@ -565,7 +565,7 @@ See [Monsters](/system/monsters) for individual monster details.
     </tr>
     <tr>
       <td>48</td>
-      <td>Zalokleftis King<br/>Kappa Troll</td>
+      <td>Zalokleft King<br/>Kappa Troll</td>
       <td>Momomomoseal<br/>Abyss Dragon</td>
       <td>Pyrepuff<br/>Boingodile</td>
       <td class="highlightGray"></td>
@@ -575,7 +575,7 @@ See [Monsters](/system/monsters) for individual monster details.
     </tr>
     <tr>
       <td>49</td>
-      <td>Zalokleftis King<br/>Kappa Troll</td>
+      <td>Zalokleft King<br/>Kappa Troll</td>
       <td>Momomomoseal<br/>Abyss Dragon</td>
       <td>Pyrepuff<br/>Boingodile</td>
       <td>Detonachin<br/>Squidperor</td>
@@ -585,7 +585,7 @@ See [Monsters](/system/monsters) for individual monster details.
     </tr>
     <tr>
       <td>50</td>
-      <td>Zalokleftis King<br/>Kappa Troll</td>
+      <td>Zalokleft King<br/>Kappa Troll</td>
       <td>Momomomoseal<br/>Abyss Dragon</td>
       <td>Pyrepuff<br/>Boingodile</td>
       <td>Detonachin<br/>Squidperor</td>

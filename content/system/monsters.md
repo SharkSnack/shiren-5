@@ -1813,7 +1813,7 @@ Element Order
     <td>170</td>
     <td>4%</td>
     <td>Same as Tiger Tosser, but range<br/>of 20 tiles, and deals 20 damage.</td>
-    <td>Often appears with enemies you<br/>don't want to be next to like<br/>Swordmaster, Zalokleftis King,<br/>Nigiri King, Gyandoron, Ultra Gazer.</td>
+    <td>Often appears with enemies you<br/>don't want to be next to like<br/>Swordmaster, Zalokleft King,<br/>Nigiri King, Gyandoron, Ultra Gazer.</td>
   </tr>
   <tr>
     <th>Lv</th>
@@ -4644,7 +4644,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>Zalokleftis King</td>
+    <td>Zalokleft King</td>
     <td>80</td>
     <td>61</td>
     <td>15</td>
@@ -8068,7 +8068,7 @@ Element Order
     <td>2931</td>
   </tr>
   <tr>
-    <td>Zalokleftis King2</td>
+    <td>Zalokleft King2</td>
     <td>80</td>
     <td>122</td>
     <td>18</td>
