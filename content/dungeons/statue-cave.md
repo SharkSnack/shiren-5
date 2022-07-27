@@ -61,7 +61,7 @@ You'll receive 1 random item upon clearing a puzzle, and harder puzzles often gi
     <th>Ominous aura</th>
     <td>No</td>
     <th>Wind of Kron</th>
-    <td>No</td>
+    <td>4th: 2000 turns</td>
   </tr>
   <tr>
     <th>Clear Icon</th>

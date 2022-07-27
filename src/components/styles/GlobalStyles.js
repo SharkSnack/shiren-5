@@ -1171,6 +1171,22 @@ export const baseStyles = css`
   .monsterNight {
     background-color: #edf4ff;
   }
+  .monsterTableNdubba {
+    color: white;
+    background-color: #bb976a;
+  }
+  .monsterTableNtwyn {
+    color: white;
+    background-color: #99bfab;
+  }
+  .monsterTableNmach {
+    color: white;
+    background-color: #aaaaa0;
+  }
+  .monsterTableNdup {
+    color: white;
+    background-color: #cece7e;
+  }
   .monsterTableManeater {
     color: white;
     background-color: #b94c45;

@@ -9,11 +9,11 @@ metaDescription: "Explosion Rocks guide for Shiren the Wanderer: The Tower of Fo
 
 Minesweeper style mini-game dungeon.
 
-HP doesn't regenerate, so you have a limited number of incorrect guesses before you collapse.<br/>The 5th floor features lots of reward items and significantly fewer bombs,<br/>so it's usually safe to use up your items in an effort to get to the stairs on 4F.
+HP doesn't regenerate, so you have a limited number of incorrect guesses before you collapse.<br/>The 5th floor features lots of reward items and significantly fewer mine traps,<br/>so it's usually safe to use up your items in an effort to get to the stairs on 4F.
 
 Explosion Rocks:
 
-|Difficulty|Floors|Map Size|Bombs|Density|
+|Difficulty|Floors|Map Size|Mines|Density|
 |-|-|-|-|-|
 |Novice|5|6x9|7~8|14.815%|
 |Veteran|5|9x13|21~22|18.803%|
@@ -21,7 +21,7 @@ Explosion Rocks:
 
 Minesweeper, for reference:
 
-|Difficulty|Map Size|Bombs|Density|
+|Difficulty|Map Size|Mines|Density|
 |-|-|-|-|
 |Beginner|9x9|10|12.346%|
 |Intermediate|16x16|40|15.625%|
@@ -89,9 +89,9 @@ Minesweeper, for reference:
 
 #### Basic Rules
 
-- Wall tiles break when punched, and bombs can be hidden inside wall tiles.
-- Tiles with numbers indicate the number of bombs adjacent to that tile. (1 tile radius)
-- The goal is to reach the stairs while avoiding punching wall tiles with bombs.
+- Wall tiles break when punched, and mine traps can be hidden inside wall tiles.
+- Tiles with numbers indicate the number of mines adjacent to that tile. (1 tile radius)
+- The goal is to reach the stairs while avoiding punching wall tiles with mines.
 
 #### Controls
 
@@ -102,7 +102,7 @@ Minesweeper, for reference:
 
 - Onigiri --- Start with 1. Basically an extra life. (Explosion → Grilled Onigiri → Restore HP)
 - 4-2-8 Pot --- Start with 2. Break wall tiles in a 1-tile radius without risk.
-- Navigation Scroll --- Rare. Reveals bomb tiles where enemies are hidden on the map.
+- Navigation Scroll --- Rare. Reveals mine tiles where enemies are hidden on the map.
     - Can be used to level up and restore HP when you're at 1 HP.
 - Invincible Grass --- Rare. Become invincible for 10 turns. Plan carefully when using it.
 - Gitan --- Throw to deal 15 damage, or one-shot if it misses and target is standing on an Explosion Trap.
