@@ -7,7 +7,7 @@ metaDescription: "Page of Youth guide for Shiren the Wanderer: The Tower of Fort
   <img src="../images/overworld/page_of_youth.jpg"/>
 </div>
 
-[Introduction]
+Dungeon where you utilize Friendship Licenses, similar to [Gen's Turf](/dungeons/gens-turf).<br/>Nixer Scrolls are used instead of Duelist Traps, so it's not as easy to stock up on Blank Scrolls.<br/>Nixer Scroll has a 50% success rate, and if it fails, your current HP gets halved.<br/>However, the monster vanishes whether it succeeds or fails, so it's not a very dangerous item.<br/>Once you have a Friendship License, all monsters of that type become your ally.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
@@ -19,7 +19,61 @@ metaDescription: "Page of Youth guide for Shiren the Wanderer: The Tower of Fort
 
 # Overview
 
-[Overview Tables]
+<table class="dungeonOverview">
+  <tr>
+    <th>Unlock</th>
+    <td class="highlightYellow">Clear Ouma Shrine and arrive in Nekomaneki Village.</td>
+  </tr>
+  <tr>
+    <th>Entrance</th>
+    <td class="highlightYellow">Nekomaneki Village (Woman in Dungeon Center)</td>
+  </tr>
+</table>
+
+<table class="dungeonTable">
+  <tr>
+    <th>Floors</th>
+    <td>29F (first) / 50F</td>
+    <th>Day</th>
+    <td>Day</td>
+  </tr>
+  <tr>
+    <th>Bring Items</th>
+    <td>No</td>
+    <th>Allies</th>
+    <td>No</td>
+  </tr>
+  <tr>
+    <th>Unidentified</th>
+    <td>None</td>
+    <th>New Items</th>
+    <td>No</td>
+  </tr>
+  <tr>
+    <th>Shops</th>
+    <td>Regular</td>
+    <th>Monster Houses</th>
+    <td>Regular</td>
+  </tr>
+  <tr>
+    <th>Initial Enemies</th>
+    <td></td>
+    <th>Spawn Rate</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Ominous aura</th>
+    <td>No</td>
+    <th>Wind of Kron</th>
+    <td>1st:  / 4th: </td>
+  </tr>
+  <tr>
+    <th>Clear Icon</th>
+    <td>None</td>
+    <th>Reward</th>
+    <td>Lucky Pot</td>
+  </tr>
+</table>
 
 # Strategy
 
@@ -29,7 +83,510 @@ metaDescription: "Page of Youth guide for Shiren the Wanderer: The Tower of Fort
 
 # Monsters
 
-[Monster Table]
+See [Monsters](/system/monsters) for individual monster details.
+
+- N = N'dubba <span class="monsterTableNdubba">Lv1</span> <span class="monsterTableNtwyn">Lv2</span> <span class="monsterTableNmach">Lv3</span> <span class="monsterTableNdup">Lv4</span>
+
+Enemy Colors: <span class="farmingDay">Farming</span> <span class="usefulDay">Useful</span> <span class="itemDay">Destroys Items</span> <span class="dangerDay">Dangerous</span> <span class="extremeDay">Very Dangerous</span>
+
+<table class="monsterTable">
+  <thead>
+    <tr>
+      <th>F</th>
+      <th colspan="6">Monsters</th>
+      <th>N</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td class="">Mamel</td>
+      <td class="">Sproutant</td>
+      <td class="">Seedie</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td class="">Mamel</td>
+      <td class="">Sproutant</td>
+      <td class="">Seedie</td>
+      <td class="">Colum</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td class="">Mamel</td>
+      <td class="">Sproutant</td>
+      <td class="">Grass Kid</td>
+      <td class="">Colum</td>
+      <td class="">Chintala</td>
+      <td class="">Blade Bee</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td class="">Sweet Nut</td>
+      <td class="">Pit Mamel</td>
+      <td class="">Grass Kid</td>
+      <td class="">Colum</td>
+      <td class="">Chintala</td>
+      <td class="">Blade Bee</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td class="">Sweet Nut<br/>Karakuroid</td>
+      <td class="">Pit Mamel</td>
+      <td class="">Grass Kid</td>
+      <td class="">Tiger Tosser</td>
+      <td class="">Chintala</td>
+      <td class="">Blade Bee</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td class="">Sweet Nut<br/>Karakuroid</td>
+      <td class="">Pit Mamel</td>
+      <td class="">Floaty</td>
+      <td class="">Tiger Tosser</td>
+      <td class="">Nigiri Baby</td>
+      <td class="">Moseal</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td class="">Naptapir<br/>Karakuroid</td>
+      <td class="">Fearabbit</td>
+      <td class="">Floaty</td>
+      <td class="">Tiger Tosser</td>
+      <td class="">Nigiri Baby</td>
+      <td class="">Moseal</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td class="">Naptapir<br/>Kumonigiri</td>
+      <td class="">Fearabbit</td>
+      <td class="">Floaty<br/>Pumphantasm</td>
+      <td class="">Tiger Tosser<br/>Gyaza</td>
+      <td class="">Nigiri Baby<br/>Mutaikon</td>
+      <td class="">Moseal</td>
+      <td rowspan="7" class="monsterTableNdubba">1</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td class="">Naptapir<br/>Kumonigiri</td>
+      <td class="">Fearabbit</td>
+      <td class="">Scorpion<br/>Pumphantasm</td>
+      <td class="">Mixer<br/>Gyaza</td>
+      <td class="">Mudkin<br/>Mutaikon</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td class="">Curse Girl<br/>Kumonigiri</td>
+      <td class="highlightGray"></td>
+      <td class="">Scorpion<br/>Pumphantasm</td>
+      <td class="">Mixer<br/>Gyaza</td>
+      <td class="">Mudkin<br/>Mutaikon</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td class="">Curse Girl<br/>Metalhead</td>
+      <td class="">Polygon Spinna</td>
+      <td class="">Scorpion<br/>Mid Chintala</td>
+      <td class="">Mixer<br/>Cheer-Ham</td>
+      <td class="">Mudkin</td>
+      <td class="">Froggo</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td class="">Curse Girl<br/>Metalhead</td>
+      <td class="">Polygon Spinna</td>
+      <td class="">Kid Squid<br/>Mid Chintala</td>
+      <td class="">Cololum<br/>Cheer-Ham</td>
+      <td class="highlightGray"></td>
+      <td class="">Froggo</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td class="">Zalokleft<br/>Metalhead</td>
+      <td class="">Polygon Spinna</td>
+      <td class="">Kid Squid<br/>Mid Chintala</td>
+      <td class="">Cololum<br/>Cheer-Ham</td>
+      <td class="">Acrid Nut</td>
+      <td class="">Froggo</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td class="">Zalokleft<br/>Metalhead</td>
+      <td class="highlightGray"></td>
+      <td class="">Kid Squid<br/>Momoseal</td>
+      <td class="">Cololum<br/>Cheer-Ham</td>
+      <td class="">Acrid Nut</td>
+      <td class="">Yanpii</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td class="">Zalokleft<br/>Metalhead</td>
+      <td class="">Dagger Bee</td>
+      <td class="">Kid Squid<br/>Momoseal</td>
+      <td class="">Hopodile<br/>Cheer-Ham</td>
+      <td class="">Acrid Nut</td>
+      <td class="">Yanpii</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td class="">Zalokleft<br/>Metalhead</td>
+      <td class="">Dagger Bee<br/>Flamebird</td>
+      <td class="">Kid Squid<br/>Momoseal</td>
+      <td class="">Hopodile<br/>Foly</td>
+      <td class="">Beanie</td>
+      <td class="">Yanpii</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td class="">Zalokleft<br/>Bored Kappa</td>
+      <td class="">Dagger Bee<br/>Flamebird</td>
+      <td class="">Scoopie<br/>Eligan</td>
+      <td class="">Hopodile<br/>Swordsman</td>
+      <td class="">Beanie</td>
+      <td class="">DJ Mage</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td class="">Zalokleft<br/>Bored Kappa</td>
+      <td class="">Boy Cart<br/>Flamebird</td>
+      <td class="">Scoopie<br/>Eligan</td>
+      <td class="">Hopodile<br/>Swordsman</td>
+      <td class="">Beanie<br/>Mixer</td>
+      <td class="">DJ Mage<br/>Gazer</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td class="">Sproutyrant<br/>Bored Kappa</td>
+      <td class="">Boy Cart<br/>Flamebird</td>
+      <td class="">Scoopie<br/>Eligan</td>
+      <td class="">Hopodile<br/>Swordsman</td>
+      <td class="">Mixer</td>
+      <td class="">DJ Mage<br/>Gazer</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td class="">Sproutyrant</td>
+      <td class="">Boy Cart<br/>Flamebird</td>
+      <td class="">Green Zalokleft<br/>Eligan</td>
+      <td class="">Grass Dude<br/>Swordsman</td>
+      <td class="">Steamroid<br/>Mixer</td>
+      <td class="">Gazer</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td class="">Sproutyrant<br/>Poofy</td>
+      <td class="">Boy Cart<br/>Pandanigiri</td>
+      <td class="">Green Zalokleft<br/>Crow Tengu</td>
+      <td class="">Grass Dude<br/>Swordsman</td>
+      <td class="">Steamroid<br/>Absorbiphant</td>
+      <td class="">Nigiri Morph</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td class="">Grampa Tank<br/>Poofy</td>
+      <td class="">Gyadon<br/>Pandanigiri</td>
+      <td class="">Green Zalokleft<br/>Crow Tengu</td>
+      <td class="">Grass Dude</td>
+      <td class="">Steamroid<br/>Absorbiphant</td>
+      <td class="">Nigiri Morph</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td class="">Grampa Tank<br/>Poofy</td>
+      <td class="">Gyadon<br/>Pandanigiri</td>
+      <td class="">Green Zalokleft<br/>Crow Tengu</td>
+      <td class="">Punisher<br/>Snooztapir</td>
+      <td class="">Steamroid<br/>Absorbiphant</td>
+      <td class="">Nigiri Morph<br/>Ironhead</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td class="">Grampa Tank<br/>Muddy</td>
+      <td class="">Gyadon<br/>Pandanigiri</td>
+      <td class="">Green Zalokleft<br/>Crow Tengu</td>
+      <td class="">Punisher<br/>Snooztapir</td>
+      <td class="">Hipadile<br/>Absorbiphant</td>
+      <td class="">Nigiri Morph<br/>Ironhead</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td class="">Grampa Tank<br/>Muddy</td>
+      <td class="">Gyadon<br/>Acrid Nut</td>
+      <td class="">Green Zalokleft<br/>Crow Tengu</td>
+      <td class="">Punisher<br/>Snooztapir</td>
+      <td class="">Hipadile</td>
+      <td class="">Spadie<br/>Ironhead</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td class="">Firepuff<br/>Muddy</td>
+      <td class="">Gyadon<br/>Acrid Nut</td>
+      <td class="">Go-Ham!<br/>Sr. Yanpii</td>
+      <td class="">Punisher<br/>Cursister</td>
+      <td class="">Hipadile</td>
+      <td class="">Spadie<br/>Ironhead</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td class="">Firepuff<br/>Kappa Pest</td>
+      <td class="">Explochin<br/>Acrid Nut</td>
+      <td class="">Go-Ham!<br/>Sr. Yanpii</td>
+      <td class="">Zapdon<br/>Cursister</td>
+      <td class="">Hipadile</td>
+      <td class="">Spadie<br/>Ironhead</td>
+      <td rowspan="8" class="monsterTableNtwyn">2</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td class="">Firepuff<br/>Kappa Pest</td>
+      <td class="">Explochin</td>
+      <td class="">Go-Ham!<br/>Sr. Yanpii</td>
+      <td class="">Zapdon<br/>Cursister</td>
+      <td class="highlightGray"></td>
+      <td class="">Cross Cart<br/>Scarabbit</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td class="">MC Mage?<br/>Kappa Pest</td>
+      <td class="">Explochin</td>
+      <td class="">Go-Ham!</td>
+      <td class="">Zapdon<br/>Cursister</td>
+      <td class="">Digestiphant</td>
+      <td class="">Cross Cart<br/>Scarabbit</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td class="">MC Mage<br/>Kappa Pest</td>
+      <td class="">Dazikon</td>
+      <td class="">Go-Ham!</td>
+      <td class="">Katana Bee</td>
+      <td class="">Digestiphant</td>
+      <td class="">Cross Cart<br/>Scarabbit</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td class="">MC Mage<br/>Falcon Tengu</td>
+      <td class="">Dazikon<br/>Polygon Shaka</td>
+      <td class="">Shagga<br/>VeniScorp</td>
+      <td class="">Katana Bee<br/>Pumphantom</td>
+      <td class="">Digestiphant</td>
+      <td class="">Froggo<br/>Scarabbit</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td class="">MC Mage<br/>Falcon Tengu</td>
+      <td class="">Dazikon<br/>Polygon Shaka</td>
+      <td class="">Shagga<br/>VeniScorp</td>
+      <td class="">Katana Bee<br/>Pumphantom</td>
+      <td class="">Digestiphant</td>
+      <td class="">Froggo<br/>Ornery Tank</td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td class="">Acrid Nut<br/>Falcon Tengu</td>
+      <td class="">Cave Mamel<br/>Polygon Shaka</td>
+      <td class="">Shagga<br/>VeniScorp</td>
+      <td class="">Katana Bee<br/>Pumphantom</td>
+      <td class="highlightGray"></td>
+      <td class="">Froggo<br/>Ornery Tank</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td class="">Acrid Nut<br/>Falcon Tengu</td>
+      <td class="">Cave Mamel<br/>Polygon Shaka</td>
+      <td class="">Grass Poppa</td>
+      <td class="">Death Gyaza<br/>Pumphantom</td>
+      <td class="">Flamepuff</td>
+      <td class="">Froggo<br/>Ornery Tank</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td class="">Acrid Nut<br/>Falcon Tengu</td>
+      <td class="">Cave Mamel<br/>Tiger Hurler</td>
+      <td class="">Grass Poppa</td>
+      <td class="">Death Gyaza<br/>Pumphantom</td>
+      <td class="">Flamepuff</td>
+      <td class="">MC Wizard?<br/>Ornery Tank</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td class="">Eligagan</td>
+      <td class="">Sparkbird<br/>Tiger Hurler</td>
+      <td class="">Grass Poppa</td>
+      <td class="">Death Gyaza</td>
+      <td class="">Flamepuff</td>
+      <td class="">MC Wizard</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td class="">Eligagan</td>
+      <td class="">Sparkbird<br/>Tiger Hurler</td>
+      <td class="">Huistdon</td>
+      <td class="">Gyairas</td>
+      <td class="">Dragon</td>
+      <td class="">MC Wizard</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td class="">Eligagan<br/>Momomoseal</td>
+      <td class="">Sparkbird<br/>Tiger Hurler</td>
+      <td class="">Huistdon<br/>Nashagga</td>
+      <td class="">Gyairas</td>
+      <td class="">Dragon</td>
+      <td class="">MC Wizard</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td class="">Eligagan<br/>Momomoseal</td>
+      <td class="">Sparkbird</td>
+      <td class="">Huistdon<br/>Nashagga</td>
+      <td class="">Gyairas</td>
+      <td class="">Dragon</td>
+      <td class="">Fencer</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td class="">Steelhead<br/>Momomoseal</td>
+      <td class="">Sparkbird<br/>Spicy Nut</td>
+      <td class="">Mixermon<br/>Nashagga</td>
+      <td class="">Gyairas</td>
+      <td class="">Dragon</td>
+      <td class="">Fencer</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td class="">Steelhead<br/>Big Chintala</td>
+      <td class="">King Squid<br/>Spicy Nut</td>
+      <td class="">Mixermon<br/>Nashagga</td>
+      <td class="">Gyairas<br/>Rally Ham</td>
+      <td class="">Froggucci</td>
+      <td class="">Fencer</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td class="">Steelhead<br/>Big Chintala</td>
+      <td class="">King Squid<br/>Spicy Nut</td>
+      <td class="">Nuttie<br/>Nashagga</td>
+      <td class="">Rally Ham</td>
+      <td class="">Froggucci</td>
+      <td class="">Fencer</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td class="">Steelhead<br/>Big Chintala</td>
+      <td class="">King Squid<br/>Spicy Nut</td>
+      <td class="">Nuttie</td>
+      <td class="">Oingodile<br/>Rally Ham</td>
+      <td class="">Froggucci</td>
+      <td class="">Concusschin</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td class="">Super Gazer<br/>Trowelie</td>
+      <td class="">King Squid</td>
+      <td class="">Nuttie</td>
+      <td class="">Oingodile<br/>Rally Ham</td>
+      <td class="">Froggucci</td>
+      <td class="">Concusschin</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td class="">Super Gazer<br/>Trowelie</td>
+      <td class="">Colocolum</td>
+      <td class="">Nuttie</td>
+      <td class="">Oingodile<br/>Rally Ham</td>
+      <td class="">Blazepuff</td>
+      <td class="">Concusschin</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td class="">Super Gazer<br/>Trowelie</td>
+      <td class="">Colocolum<br/>Flarebird</td>
+      <td class="">Debaser</td>
+      <td class="">Oingodile</td>
+      <td class="">Blazepuff<br/>Strong Cart</td>
+      <td class="">Concusschin</td>
+      <td rowspan="3" class="monsterTableNmach">3</td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td class="">Super Gazer</td>
+      <td class="">Colocolum<br/>Flarebird</td>
+      <td class="">Porkon<br/>Debaser</td>
+      <td class="">Sky Dragon</td>
+      <td class="">Blazepuff<br/>Strong Cart</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td class="">Super Gazer</td>
+      <td class="">Colocolum<br/>Flarebird</td>
+      <td class="">Porkon<br/>Debaser</td>
+      <td class="">Sky Dragon</td>
+      <td class="">Eagle Tengu<br/>Strong Cart</td>
+      <td class="">Doztapir</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td class="">Electroid</td>
+      <td class="">Flarebird</td>
+      <td class="">Porkon<br/>Debaser</td>
+      <td class="">Sky Dragon</td>
+      <td class="">Eagle Tengu<br/>Strong Cart</td>
+      <td class="">Doztapir</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td class="">Electroid</td>
+      <td class="">Flarebird</td>
+      <td class="">Debaser</td>
+      <td class="">Sky Dragon</td>
+      <td class="">Eagle Tengu</td>
+      <td class="">Doztapir</td>
+      <td class="highlightGray"></td>
+    </tr>
+  </tbody>
+</table>
+
+※ Monster Table might be incomplete.
 
 # Items
 
