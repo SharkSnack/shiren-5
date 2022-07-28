@@ -7,7 +7,7 @@ metaDescription: "Rousing Paradise guide for Shiren the Wanderer: The Tower of F
   <img src="../images/overworld/rousing_paradise.jpg"/>
 </div>
 
-Dungeon where new monsters spawn extremely fast - 1 new monster every 10 turns.<br/>In addition, the monster table includes 1 out-of-depth monster and 1 swarm monster per floor.<br/>It's easy to gain Super status by defeating enemies, but there are also many hidden traps.<br/>Wind of Kron blows earlier than most other dungeons, so farming techniques are less viable.
+Dungeon where new monsters spawn extremely fast - 1 new monster every 15 turns.<br/>In addition, the monster table includes 1 out-of-depth monster and 1 swarm monster per floor.<br/>It's easy to gain Super status by defeating enemies, but there are also many hidden traps.<br/>Wind of Kron blows earlier than most other dungeons, so farming techniques are less viable.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
@@ -59,7 +59,7 @@ Dungeon where new monsters spawn extremely fast - 1 new monster every 10 turns.<
     <th>Initial Enemies</th>
     <td></td>
     <th>Spawn Rate</th>
-    <td>10</td>
+    <td>15</td>
   </tr>
   <tr>
     <th>Ominous aura</th>

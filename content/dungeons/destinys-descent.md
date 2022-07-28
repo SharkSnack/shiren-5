@@ -621,7 +621,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="monsterDay">Acrid Nut</td>
     </tr>
     <tr>
-      <td class="monsterNight"><span class="itemNight">Viloent Gyairas</span></td>
+      <td class="monsterNight"><span class="itemNight">Violent Gyairas</span></td>
       <td class="monsterNight"><span class="farmingNight">Dark Grass Kid</span></td>
       <td class="monsterNight">Hateful Seedie</td>
       <td class="monsterNight">Bad Moseal</td>
@@ -638,7 +638,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="monsterDay">Acrid Nut</td>
     </tr>
     <tr>
-      <td class="monsterNight"><span class="itemNight">Viloent Gyairas</span></td>
+      <td class="monsterNight"><span class="itemNight">Violent Gyairas</span></td>
       <td class="monsterNight"><span class="usefulNight">Dark Mixer</span></td>
       <td class="monsterNight">Evil Hipadile</td>
       <td class="monsterNight">Vile Sproutant</td>
@@ -655,7 +655,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="monsterDay">Acrid Nut</td>
     </tr>
     <tr>
-      <td class="monsterNight"><span class="itemNight">Viloent Gyairas</span></td>
+      <td class="monsterNight"><span class="itemNight">Violent Gyairas</span></td>
       <td class="monsterNight"><span class="usefulNight">Dark Mixer</span></td>
       <td class="monsterNight">Evil Hipadile</td>
       <td class="monsterNight">Vile Sproutant</td>
@@ -672,7 +672,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="monsterDay">Acrid Nut</td>
     </tr>
     <tr>
-      <td class="monsterNight"><span class="itemNight">Viloent Gyairas</span></td>
+      <td class="monsterNight"><span class="itemNight">Violent Gyairas</span></td>
       <td class="monsterNight"><span class="usefulNight">Dark Mixer</span></td>
       <td class="monsterNight">Evil Hipadile</td>
       <td class="monsterNight">Vile Sproutant</td>
@@ -689,7 +689,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="monsterDay">Acrid Nut</td>
     </tr>
     <tr>
-      <td class="monsterNight"><span class="itemNight">Viloent Gyairas</span></td>
+      <td class="monsterNight"><span class="itemNight">Violent Gyairas</span></td>
       <td class="monsterNight"><span class="farmingNight">Snide Froggo</span></td>
       <td class="monsterNight">Dark Cross Cart</td>
       <td class="monsterNight"><span class="dangerNight">Dark MC Mage</span></td>
@@ -706,7 +706,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="monsterDay">Acrid Nut</td>
     </tr>
     <tr>
-      <td class="monsterNight"><span class="itemNight">Viloent Gyairas</span></td>
+      <td class="monsterNight"><span class="itemNight">Violent Gyairas</span></td>
       <td class="monsterNight"><span class="farmingNight">Snide Froggo</span></td>
       <td class="monsterNight">Dark Cross Cart</td>
       <td class="monsterNight"><span class="dangerNight">Dark MC Mage</span></td>

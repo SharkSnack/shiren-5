@@ -11,6 +11,7 @@ This page offers explanations for dungeon features and gimmicks.
   <li><a href="#monster-house">Monster House</a></li>
   <li><a href="#traps">Traps</a></li>
   <li><a href="#wind-of-kron">Wind of Kron</a></li>
+  <li><a href="#ominous-aura">Ominous Aura</a></li>
   <li><a href="#hidden-room">Hidden Room</a></li>
   <li><a href="#hidden-hallway">Hidden Hallway</a></li>
   <li><a href="#shiny-object">Shiny Object</a></li>
@@ -158,7 +159,6 @@ Changes to Actions:
 - Cannot return to Nekomaneki Village via Escape Scroll or Undo Grass.
 - Cannot request a rescue if you collapse.
 - Cannot talk to allies or wandering NPCs.
-- Equipment tags are nullified.
 - Floor warp effect of Gambler's Scroll is still effective.
 
 ### Monster House
@@ -342,6 +342,22 @@ Warning Messages:
 2. The wind blows harder.
 3. The wind gusts vigorously!
 
+### Ominous Aura
+
+Dungeons can have a 2nd anti-linger mechanic besides Wind of Kron called Ominous Aura on certain floors.<br/>If enabled, a warning is displayed and a Maneater roll flag gets set after a set number of turns elapse.<br/>From that point, every time a new monster is generated, the game rolls for Maneater.
+
+If the Maneater roll:
+
+- Succeeds - Music changes, Maneaters are added to the monster table, and a Maneater appears.
+- Fails - Monster table remains unchanged, roll again next spawn.
+
+About Maneaters:
+
+- Very high attack power, swift action speed when Shiren is in view, and roars inflict Paralyzed status.
+- Offer lots of experience points and skill points, high item drop rate (Shop table).
+- Dark Maneaters spawn at night in dungeons with a day and night cycle.
+    - None of the initial monsters will be Maneaters when time of day changes.
+
 ### Hidden Room
 
 Room buried inside a wall, which can be revealed by attacking the room's edge.<br/>
@@ -482,7 +498,7 @@ Tile where lava flows out and deals 30 damage to characters in a 1 tile radius a
   <img src="../images/other/lava.png"/>
 </div>
 
-It's fire damage, so Zen Pot and the Anti-Fire rune are effective, and Flamebirds will be healed.<br/>Lava won't flow out inside a Monster House until all initially placed monsters are defeated,<br/>and if the entire floor was a monster house, lava won't flow out at all.<br/>
+It's fire damage, so Zen Pot and the <span class="greenText">Anti-Fire</span> rune are effective, and Flamebirds will be healed.<br/>Lava won't flow out inside a Monster House until all initially placed monsters are defeated,<br/>and if the entire floor was a monster house, lava won't flow out at all.<br/>
 
 ### Tidal Wave
 

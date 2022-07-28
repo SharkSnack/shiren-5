@@ -7,7 +7,8 @@ metaDescription: "Cloister of Certain Doom guide for Shiren the Wanderer: The To
   <img src="../images/overworld/cloister_of_certain_doom.jpg"/>
 </div>
 
-[Introduction]
+Popular dungeon where you set your own turn limit (1,000\~99,999) before entering the dungeon.<br/>Wind of Kron first blows when 300 turns remain, but Ominous Aura pressures you to keep moving forward.<br/>Leveled up equipment and rare items like Kaburagi, True Knife, Helix Shield can be found on deeper floors.<br/>There are many characteristics to this dungeon, including single room mazes, Mixers every 8 floors,<br/>Escape Scrolls being disabled, etc. --- Check <a href="#dungeon-mechanics">Dungeon Mechanics</a> for a full list with explanations.
+
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
@@ -78,6 +79,8 @@ metaDescription: "Cloister of Certain Doom guide for Shiren the Wanderer: The To
 # Strategy
 
 [Quick Links]
+
+### Dungeon Mechanics
 
 [Content]
 
