@@ -1141,7 +1141,7 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
     </tr>
     <tr>
       <td class="highlightFog">95</td>
-      <td class="">Nigiri Master</td>
+      <td class="">Nigiri King</td>
       <td class="highlightGray"></td>
       <td class="">Terrabbit</td>
       <td class="">Huge Chintala</td>
@@ -1152,7 +1152,7 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
     </tr>
     <tr>
       <td class="highlightFog">96</td>
-      <td class="">Nigiri Master</td>
+      <td class="">Nigiri King</td>
       <td class="highlightGray"></td>
       <td class="">Terrabbit</td>
       <td class="">Huge Chintala</td>
@@ -1163,7 +1163,7 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
     </tr>
     <tr>
       <td class="highlightFog">97</td>
-      <td class="">Nigiri Master</td>
+      <td class="">Nigiri King</td>
       <td class="">Abyss Dragon</td>
       <td class="">Terrabbit</td>
       <td class="">Huge Chintala</td>
@@ -1174,7 +1174,7 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
     </tr>
     <tr>
       <td class="highlightFog">98</td>
-      <td class="">Nigiri Master</td>
+      <td class="">Nigiri King</td>
       <td class="">Abyss Dragon</td>
       <td class="">Terrabbit</td>
       <td class="highlightGray"></td>
@@ -1185,7 +1185,7 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
     </tr>
     <tr>
       <td class="highlightFog">99</td>
-      <td class="">Nigiri Master</td>
+      <td class="">Nigiri King</td>
       <td class="">Abyss Dragon</td>
       <td class="">Terrabbit</td>
       <td class="highlightGray"></td>

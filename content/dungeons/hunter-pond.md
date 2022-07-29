@@ -7,7 +7,7 @@ metaDescription: "Hunter Pond guide for Shiren the Wanderer: The Tower of Fortun
   <img src="../images/overworld/hunter_pond.jpg"/>
 </div>
 
-[Introduction]
+Dungeon where items can't be found on the ground, but monsters have a higher item drop rate.<br/>Enemies like Mudkin and Shopkeeper that normally never drop items can also drop items in this dungeon.<br/>There are lots of initial enemies, but new monsters require 180 turns to spawn, so there's little reason to linger.<br/>Every floor is a water floor, so Gazers, Swordsmans, and Zaloklefts can easily cause item loss.<br/>Shops can be generated, but there are usually fewer items for sale.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>

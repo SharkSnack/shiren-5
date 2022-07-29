@@ -7,7 +7,7 @@ metaDescription: "Merchant's Hideout guide for Shiren the Wanderer: The Tower of
   <img src="../images/overworld/merchants_hideout.jpg"/>
 </div>
 
-[Introduction]
+Dungeon where only weapons, shields, bracelets, pots, and Gitan can be found on the ground.<br/>Consumable items can generally only be obtained from Presto Pots, shops, and fixed monster drops.<br/>Carry-in items are allowed, so the limited item pool isn't a problem unless you're entering empty-handed.<br/>Limit broken enemies appear from 75F, but if you bring powerful items, they aren't very threatening.<br/>Overall, it's a nice place to visit to collect equipment and pots to prepare for post-game content.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>

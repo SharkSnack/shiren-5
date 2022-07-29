@@ -7,7 +7,7 @@ metaDescription: "Destiny's Descent guide for Shiren the Wanderer: The Tower of 
   <img src="../images/overworld/destinys_descent.jpg"/><img src="../images/overworld/destinys_descent_2.jpg"/>
 </div>
 
-[Introduction]
+Standard unidentified items post-game dungeon, but with a day and night cycle.<br/>Only basic weapons and shields can be found on the ground, and Mixers only spawn at night.<br/>The monster table is on the harsh side, Ominous Aura occurs earlier, enemies can have auras from 3F, etc.<br/>The easiest strategy is to cycle time of day on safe floors, and rush stairs at night on dangerous floors,<br/>as opposed to strengthening Shiren and fighting enemies like a standard dungeon.<br/>Abilities like Stairlight, Pot Party, and Transmogrification are highly recommended.<br/>Lastly, there are guaranteed shops on 25F and 51F.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>

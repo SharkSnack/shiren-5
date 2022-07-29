@@ -7,7 +7,7 @@ metaDescription: "Warning Valley guide for Shiren the Wanderer: The Tower of For
   <img src="../images/overworld/warning_valley.jpg"/>
 </div>
 
-[Introduction]
+Dungeon where Wind of Kron blows extremely fast - <span class="redText">You have 199 turns to make it to the stairs.</span><br/>There's a red bar indicating remaining turns in the lower right corner to help you keep track of the wind.<br/>Ominous Aura occurs after just 50 turns, so there's a constant threat of encountering Maneater types.<br/>Strong monsters appear from 1F, and time wasters like Mesmerikon and Terrabbit also appear.<br/>It's easy if you bring powerful items, but don't forget to bring an Escape Scroll just in case.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>

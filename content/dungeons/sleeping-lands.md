@@ -7,7 +7,7 @@ metaDescription: "Sleeping Lands guide for Shiren the Wanderer: The Tower of For
   <img src="../images/overworld/sleeping_lands.jpg"/>
 </div>
 
-[Introduction]
+Dungeon where it's always night, and new monsters spawn quickly.<br/>Unlike Cave of Endless Night (Shiren 4), this dungeon doesn't allow carry-in items.<br/>However, the necklace abilities Stairlight and Transmogrification remove any semblence of difficulty,<br/>along with powerful items like Monster Detecter, Revival Grass, and Juicy Peaches.<br/>Rare music tracks can be heard on deeper floors, so it's nice for encyclopedia completionists.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
@@ -19,7 +19,61 @@ metaDescription: "Sleeping Lands guide for Shiren the Wanderer: The Tower of For
 
 # Overview
 
-[Overview Tables]
+<table class="dungeonOverview">
+  <tr>
+    <th>Unlock</th>
+    <td class="highlightYellow">Reach Hermit's Hermitage.</td>
+  </tr>
+  <tr>
+    <th>Entrance</th>
+    <td class="highlightYellow">Nekomaneki Village (Woman in Dungeon Center)</td>
+  </tr>
+</table>
+
+<table class="dungeonTable">
+  <tr>
+    <th>Floors</th>
+    <td>29F (first) / 50F</td>
+    <th>Day / Night</th>
+    <td>Night</td>
+  </tr>
+  <tr>
+    <th>Bring Items</th>
+    <td>No</td>
+    <th>Allies</th>
+    <td>No</td>
+  </tr>
+  <tr>
+    <th>Unidentified</th>
+    <td>Bracelets</td>
+    <th>New Items</th>
+    <td>No</td>
+  </tr>
+  <tr>
+    <th>Shops</th>
+    <td>Regular, Elite,<br/>Pick-A-Choice</td>
+    <th>Monster Houses</th>
+    <td>Regular, Special, Sudden</td>
+  </tr>
+  <tr>
+    <th>Initial Enemies</th>
+    <td></td>
+    <th>Spawn Rate</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Ominous aura</th>
+    <td>No</td>
+    <th>Wind of Kron</th>
+    <td>1st: / 4th: </td>
+  </tr>
+  <tr>
+    <th>Clear Icon</th>
+    <td>None</td>
+    <th>Reward</th>
+    <td>Midnight Shield</td>
+  </tr>
+</table>
 
 # Strategy
 
@@ -29,7 +83,421 @@ metaDescription: "Sleeping Lands guide for Shiren the Wanderer: The Tower of For
 
 # Monsters
 
-[Monster Table]
+- N = Dark N'dubba <span class="monsterTableNdubba">Lv1</span> <span class="monsterTableNtwyn">Lv2</span> <span class="monsterTableNmach">Lv3</span> <span class="monsterTableNdup">Lv4</span>
+
+Enemy Colors: <span class="farmingDay">Farming</span> <span class="usefulDay">Useful</span> <span class="itemDay">Destroys Items</span> <span class="dangerDay">Dangerous</span> <span class="extremeDay">Very Dangerous</span>
+
+<table class="monsterTable">
+  <thead>
+    <tr>
+      <th>F</th>
+      <th colspan="4">Monsters</th>
+      <th>N</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Dark Mamel</td>
+      <td>Vile Sproutant</td>
+      <td>Hateful Seedie</td>
+      <td>Evil Chintala</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Dark Mamel<br/>Bad Colum</td>
+      <td>Vile Sproutant</td>
+      <td>Hateful Seedie</td>
+      <td>Evil Chintala</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Dark Mamel<br/>Bad Colum</td>
+      <td>Vile Sproutant<br/>Putrid Sweet Nut</td>
+      <td>Hateful Seedie<br/>Dark Naptapir</td>
+      <td>Evil Chintala</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Dark Mamel<br/>Violent Gyadon</td>
+      <td>Vile Sproutant<br/>Putrid Sweet Nut</td>
+      <td>Dark Tosser<br/>Dark Naptapir</td>
+      <td>Dark Karakuroid<br/>Dark Absorbiphant</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Sinister Porky<br/>Violent Gyadon</td>
+      <td>Sinful Yanpii<br/>Putrid Sweet Nut</td>
+      <td>Dark Tosser<br/>Dark Naptapir</td>
+      <td>Dark Karakuroid<br/>Dark Absorbiphant</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Sinister Porky<br/>Violent Gyadon</td>
+      <td>Evil Kid Squid<br/>Hell's Punisher</td>
+      <td>Dark Tosser<br/>Dark Kumonigiri</td>
+      <td>Shady Mudkin</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Wicked Scoopie</td>
+      <td>Evil Kid Squid<br/>Hell's Punisher</td>
+      <td>Foul Curse Girl<br/>Dark Kumonigiri</td>
+      <td>Shady Mudkin</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Wicked Scoopie<br/>Dark Eligan</td>
+      <td>Evil Kid Squid<br/>Evil Hopodile</td>
+      <td>Foul Curse Girl<br/>Foul Nigiri Baby</td>
+      <td>Dark DJ Mage</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Evil Floaty<br/>Dark Eligan</td>
+      <td>Evil Kid Squid<br/>Evil Hopodile</td>
+      <td>Foul Curse Girl<br/>Foul Nigiri Baby</td>
+      <td>Dark DJ Mage<br/>Dark Mutaikon</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Evil Floaty<br/>Dark Eligan</td>
+      <td>Evil Mid Chintala</td>
+      <td>Evil Firepuff<br/>Foul Nigiri Baby</td>
+      <td>Evil Gazer<br/>Dark Mutaikon</td>
+      <td rowspan="2" class="monsterTableNdubba">1</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>Dark Blade Bee<br/>Putrid Acrid Nut</td>
+      <td>Evil Mid Chintala</td>
+      <td>Evil Firepuff</td>
+      <td>Evil Gazer<br/>Dark Mutaikon</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>Dark Blade Bee<br/>Putrid Acrid Nut</td>
+      <td>Dark Grass Kid<br/>Evil Mid Chintala</td>
+      <td>Dark Bored Kappa</td>
+      <td>Evil PolySpinna</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>Bad Moseal<br/>Putrid Acrid Nut</td>
+      <td>Dark Grass Kid<br/>Snide Froggo</td>
+      <td>Dark Bored Kappa<br/>Dark Foly</td>
+      <td>Evil PolySpinna</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>Bad Moseal<br/>Evil Hipadile</td>
+      <td>Dark Mixer<br/>Snide Froggo</td>
+      <td>Dark Bored Kappa<br/>Dark Foly</td>
+      <td>Dark Boy Cart</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>Bad Moseal<br/>Evil Hipadile</td>
+      <td>Dark Mixer<br/>Dark Pit Mamel</td>
+      <td>Bad Cololum<br/>Bad Crow Tengu</td>
+      <td>Dark Boy Cart</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>Dark MC Mage</td>
+      <td>Dark Mixer<br/>Dark Pit Mamel</td>
+      <td>Bad Cololum<br/>Bad Crow Tengu</td>
+      <td>Violent Gyairas</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>Dark MC Mage</td>
+      <td>Dark Cross Cart<br/>Dark Pit Mamel</td>
+      <td>Bad Cololum<br/>Bad Crow Tengu</td>
+      <td>Violent Gyairas</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>Foul Nigiri Morph</td>
+      <td>Dark Cross Cart<br/>Dark Pit Mamel</td>
+      <td>Evil Swordsman</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>Foul Nigiri Morph</td>
+      <td>Evil Super Gazer</td>
+      <td>Evil Swordsman</td>
+      <td>Evil Gyaza</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>Foul Nigiri Morph<br/>Shady Muddy</td>
+      <td>Evil Super Gazer<br/>Evil Dragon</td>
+      <td>Evil Swordsman</td>
+      <td>Evil Gyaza</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>Dark Fearabbit<br/>Shady Muddy</td>
+      <td>Dark Zapdon<br/>Evil Dragon</td>
+      <td class="highlightGray"></td>
+      <td>Evil Gyaza</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>Dark Fearabbit<br/>Shady Muddy</td>
+      <td>Dark Zapdon</td>
+      <td>Vile Pumphantasm</td>
+      <td>Wicked Spadie</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>Dark Fearabbit</td>
+      <td>Dark Zapdon</td>
+      <td>Vile Pumphantasm</td>
+      <td>Wicked Spadie</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>Filthy Shagga</td>
+      <td>Sinful Sr. Yanpii</td>
+      <td>Vile Pumphantasm</td>
+      <td>Wicked Spadie</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>Filthy Shagga<br/>Dark Kappa Pest</td>
+      <td>Sinful Sr. Yanpii</td>
+      <td>Vile Pumphantasm</td>
+      <td>Evil Explochin</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>Dark Pandanigiri<br/>Dark Kappa Pest</td>
+      <td>Sinful Sr. Yanpii</td>
+      <td>Mean Cheer-Ham</td>
+      <td>Evil Explochin</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>Dark Pandanigiri<br/>Dark Kappa Pest</td>
+      <td>Dark Sparkbird</td>
+      <td>Mean Cheer-Ham</td>
+      <td>Evil Flamepuff</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>Dark Pandanigiri<br/>Dark Dagger Bee</td>
+      <td>Dark Sparkbird<br/>Evil PolyShaka</td>
+      <td>Mean Cheer-Ham</td>
+      <td>Evil Flamepuff</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>Filthy Nashagga<br/>Dark Dagger Bee</td>
+      <td>Dark Sparkbird<br/>Evil PolyShaka</td>
+      <td>Dark Digestiphant</td>
+      <td>Evil Flamepuff</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>Filthy Nashagga<br/>Dark Dagger Bee</td>
+      <td>Sinister Porko<br/>Evil PolyShaka</td>
+      <td>Dark Digestiphant</td>
+      <td>Dark Dazikon</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>Bad Momoseal<br/>Dark Snooztapir</td>
+      <td>Sinister Porko<br/>Evil PolyShaka</td>
+      <td>Dark Digestiphant</td>
+      <td>Dark Dazikon</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>Bad Momoseal<br/>Dark Snooztapir</td>
+      <td>Dark VeniScorp<br/>Dark MC Wizard</td>
+      <td>Vile Pumphantom</td>
+      <td>Dark Dazikon</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>Bad Momoseal<br/>Dark Snooztapir</td>
+      <td>Dark VeniScorp<br/>Dark MC Wizard</td>
+      <td>Vile Pumphantom</td>
+      <td>Evil Poofy</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>Shady Mudster</td>
+      <td>Dark VeniScorp</td>
+      <td>Vile Pumphantom</td>
+      <td>Evil Poofy</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>Shady Mudster</td>
+      <td>Dark Cave Mamel</td>
+      <td>Evil Death Gyaza</td>
+      <td>εFO-Uβ</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>Shady Mudster</td>
+      <td>Dark Cave Mamel</td>
+      <td>Evil Death Gyaza</td>
+      <td>εFO-Uβ</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>Evil Sky Dragon</td>
+      <td>Dark Cave Mamel</td>
+      <td>Evil Death Gyaza</td>
+      <td>Dark Grass Dude</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>Evil Sky Dragon</td>
+      <td>Vile Sproutyrant</td>
+      <td>Bad G. Zalokleft</td>
+      <td>Dark Grass Dude</td>
+      <td rowspan="2" class="monsterTableNtwyn">2</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>Evil Fencer</td>
+      <td>Vile Sproutyrant</td>
+      <td>Bad G. Zalokleft</td>
+      <td>Dark Grass Dude</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>Evil Fencer</td>
+      <td>Vile Sproutyrant</td>
+      <td>Bad G. Zalokleft</td>
+      <td>Hateful Beanie</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>Evil Fencer</td>
+      <td>Hell's Debaser</td>
+      <td>Bad Falcon Tengu</td>
+      <td>Hateful Beanie</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>Dark Eligagan<br/>Dark Steamroid</td>
+      <td>Hell's Debaser</td>
+      <td>Bad Falcon Tengu</td>
+      <td>Hateful Beanie</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>Dark Eligagan<br/>Dark Steamroid</td>
+      <td>Mean Go-Ham!</td>
+      <td>Putrid Spicy Nut</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>Dark Mixergon<br/>Dark Steamroid</td>
+      <td>Mean Go-Ham!<br/>Bad Colocolum</td>
+      <td>Putrid Spicy Nut</td>
+      <td>Snide Froggucci</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>Dark Mixergon<br/>Dark Steamroid</td>
+      <td>Mean Go-Ham!<br/>Bad Colocolum</td>
+      <td>Dark Spongiderm<br/>Dark Katana Bee</td>
+      <td>Snide Froggucci<br/>Foul Cursister</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>Dark Mixergon</td>
+      <td>Dark Ironhead</td>
+      <td>Dark Spongiderm<br/>Dark Katana Bee</td>
+      <td>Dark Huistdon<br/>Foul Cursister</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>Hateful Nuttie<br/>Sinister Porkon</td>
+      <td>Dark Ironhead<br/>Evil Concusschin</td>
+      <td>Wicked Trowelie<br/>Dark Katana Bee</td>
+      <td>Dark Huistdon</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>Hateful Nuttie<br/>Sinister Porkon</td>
+      <td>Dark Chucker<br/>Evil Concusschin</td>
+      <td>Wicked Trowelie<br/>Evil Blazepuff</td>
+      <td>Vile Pumpanshee<br/>εFO-UZ</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>Hateful Nuttie<br/>Evil Sensei</td>
+      <td>Dark Chucker<br/>Dark Vexing Kappa</td>
+      <td>Evil Squidfficial<br/>Evil Blazepuff</td>
+      <td>Vile Pumpanshee<br/>εFO-UZ</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>Hateful Nuttie<br/>Evil Sensei</td>
+      <td>Dark Chucker<br/>Dark Vexing Kappa</td>
+      <td>Evil Squidfficial<br/>Dark Scarabbit</td>
+      <td>Vile Pumpanshee</td>
+      <td class="highlightGray"></td>
+    </tr>
+  </tbody>
+</table>
+
+※ Monster Table might be incomplete.
 
 # Items
 
