@@ -7,7 +7,7 @@ metaDescription: "The Pinnacle guide for Shiren the Wanderer: The Tower of Fortu
   <img src="../images/overworld/the_pinnacle.jpg"/>
 </div>
 
-[Introduction]
+Dungeon where you run away from enemies instead of fighting them.<br/>Mid game monsters appear from 1F, and defeating monsters doesn't grant experience points.<br/>You start with 3 Hide Pots in your inventory, and items you throw are guaranteed to hit the target.<br/>[Wanderer Awaiting Rescue](/system/wanderer-rescue#wanderer-awaiting-rescue) can be used to easily obtain Scout Bracelets if you haven't made a deep run.<br/>Generally, the first clear is easy, but 99F is a bit much to maintain focus and avoid starvation and traps.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
