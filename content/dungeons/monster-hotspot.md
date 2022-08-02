@@ -61,7 +61,7 @@ All item categories except bracelets are found identified, and negative effect i
     <th>Initial Enemies</th>
     <td></td>
     <th>Spawn Rate</th>
-    <td></td>
+    <td>30</td>
   </tr>
   <tr>
     <th>Ominous aura</th>

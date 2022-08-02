@@ -92,184 +92,854 @@ Standard unidentified items post-game dungeon, but with a day and night cycle.<b
   <li><a href="#equipment">Equipment</a></li>
   <li><a href="#other-items">Other Items</a></li>
   <li><a href="#farming">Farming</a></li>
-  <li><a href="#floor-guide">Floor Guide</a></li>
 </ul>
 
 ### General
 
+Monsterphobic has a chance to appear from 12F, and greatly lowers the difficulty. (Monster Detector doesn't exist)<br/>Ominous Aura occurs after 700 turns, so you can't linger on a floor for a very long time to level equipment or such.<br/>Therefore, the most common strategy is to cycle time of day on safe floors, and rush stairs at night.
+
+##### Time cycle event turns
+
+|Day Begins (Start)|Sunset Notice|Night Begins|Sunrise Notice|Day Begins|
+|-|-|-|-|-|
+|0|620|90|410|58|
+
+So after 620 turns, the sunset notice is displayed, and then after another 90 turns, it switches to night, and so on.
+
+##### Other notes
+
+- Day lasts 710 turns, and night lasts 468 turns.
+- Torches dim by 1 stage after 250 turns (500 if blessed).
+- FG (1 fullness = 10 turns) or Live Display view can be used to keep track of elapsed turns if desired.
+- Fort. Staff, Paralysis Staff, and other items used for cycling time of day should be conserved.
+- Spring room floors can be used to safely cycle time of day without items.
+
 ### Abilities
 
-[Note: This section will be expanded later]
+#### Recommended sets
 
-Recommended sets:
+#### 1. Crawling Electrocute + Support
 
-#### 1. Crawling Electrocute
-
-- Crawling Confusion
-- Electrocute
 - Stairlight
+- Sticky Shot or Kaboom Bullet or Transmogrification x 2
 - Pot Party x 2
+- Electrocute
+- Crawling Confusion
+- Chakra Cleanse or Room Healing Flash
+
+#### 2. No Crawling Electrocute
+
+- Stairlight
 - Sticky Shot or Kaboom Bullet or Transmogrification x 3
-
-#### 2. Crawling Electrocute + HP Recovery
-
-- Crawling Confusion
-- Electrocute
-- Stairlight
-- Room Healing Flash
 - Pot Party x 2
-- Kaboom Bullet or Transmogrification x 2
-
-#### 3. No Crawling Electrocute
-
-- Stairlight
-- Chakra Cleanse
 - Room Healing Flash or Self-Help
-- Pot Party x 2
-- Sticky Shot or Kaboom Bullet or Transmogrification x 3
+- Chakra Cleanse
+
+#### Notes
+
+##### Stairlight
+
+- Reveals where the stairs are located - Essential for rushing stairs on late game floors.
+- Only reveals real stairs, so it makes Stairs? Trap a non-issue.
+
+##### Pot Party
+
+- Deals a bit of damage and inflicts Hiding status on all enemies in the room.
+- Hiding status has an infinite duration, and works on Shopkeepers and Pumphantasms inside walls.
+    - Status is canceled by lava, Cure Monster Trap, Flarebird, Absorbiphant.
+- Can be used to block off a hallway and safely cycle to daytime.
+
+##### Crawling Confusion
+
+- Powerful with Electrocute, but using it introduces a lot of risk - Don't use it on every floor.
+- Always have a torch equipped beforehand to reduce damage if a confused monster hits you.
+- Never use it on floors where Filthy Shagga, Evil Explochin, and Dark Absorbiphant types appear.
+- Safer if you're adjacent to a wall, but then you might not gather all enemies.
+    - Initial enemies increases the deeper you progress, Floaty floors / Monster Houses, etc.
+- Aim for the Cross [formation](/system/necklace-abilities#formations) on Bad Zalokleft and Dark Grass Kid floors.
+- Use it immediately on floors where Dark Fearabbit and higher level DJ Mage / Mutaikons appear.
+- Dark Zapdon types act on the first turn, so use it on turn 2 for added safety.
+    - Similarly, if you have swift action speed from Super status, use it on turn 2 for added safety.
+
+##### Electrocute
+
+- Mostly used after Crawling Confusion - Gain experience points, Super status, and shop table drops.
+- Range of 1 tile in front, and can't go through corners, so lackluster without Crawling Confusion.
+
+##### Transmogrification
+
+- One-shots an enemy in front of you by turning them into an item. (Floor table, never cursed or blessed)
+- Since the item is never cursed, it's safe to immediately equip bracelets obtained using this ability.
+    - This is true even for bracelets that are normally found cursed, such as Itemphobic.
+
+##### Kaboom Bullet
+
+- Highest power among long-ranged, single-target abilities.
+- Some end game monsters like Evil Abyss Dragon and Filthy Bashagga can survive 1 hit.
+
+##### Sticky Shot
+
+- Not as strong as Kaboom Bullet, but leaves the target paralyzed if they survive.
+    - Great against blue aura monsters in particular, but avoid Dark Absorbiphant types.
+
+##### Chakra Cleanse
+
+- Automatically cures the status if you become afflicted with a negative status condition at night.
+- Offers safety while identifying items, since it works for Rage Grass, Grounded Scroll, Sticky Pot, etc.
+
+##### Room Healing Flash
+
+- Often paired with Crawling Electrocute by players who like to keep using that combo on deeper floors.
+- Nice to have as insurance against surprise attacks, and Evil Abyss Dragon's fire near the end.
+
+##### Self-Help
+
+- Adds +1 to the amount of HP naturally regenerated per turn for the duration of the floor.
+- It's a quick way to increase survivability against day monsters.
 
 ### Identifying Items
 
+See [Identifying Items](/guides/identifying-items) for additional tips.
+
+#### 3 Key Points
+
+- Unidentified items are auto-identified if they're used to synthesize a rune using Dark Mixers.
+- Items dropped by night monsters are always blessed <span class="blueText">shop table</span> items.
+- Imitation (joke) items like Dog Onigiri, Rightstone, Suicide Arrow can only be found starting from 12F.
+    - <span class="redText">Bracelets found between 1〜11F are never Monsterphobic or Itemphobic.</span>
+
+#### Grass
+
+- Identify by synthesis or [price](/items/price-chart#scrolls-/-bracelets-/-grass-/-talismans).
+- If you have duplicates, it's best to eat them during the day when there are no nearby enemies.
+    - Nymph Grass wastes a torch if you eat it at night.
+    - Rage Grass will likely cause a game over if you don't have Chakra Cleanse.
+- Never eat grasses dropped by night monsters starting from 12F.
+    - 12F〜 - Imabikiso, Amnesia Grass
+    - 24F〜 - SuperUnlucky Seed
+
+#### Scroll
+
+- Identify by [price](/items/price-chart#scrolls-/-bracelets-/-grass-/-talismans).
+- Read scrolls in the dark or while afflicted with Blind status to check for selection-based scrolls.
+- Elite and Pick-A-Choice shops only have 4 possibilities - Extinction, Sanctuary, Fate, and Earth.
+
+#### Pot
+
+- Identify by inserting items or [price](/items/price-chart#pots).
+- Insert unidentified weapons or shields, since talismans can't be blessed or sealed.
+    - Unless it's a 1150G pot in a shop, which could be a Fever Pot, so insert talismans or arrows.
+- If inserting at night, beware of Sticky Pot if you don't have Immune status or Chakra Cleanse.
+    - Equipped torch will be lost, and you won't be able to use any abilities.
+    - Hit or get hit by enemies, step on a Strip Trap, or advance to the next floor to free your hand.
+- Fragrance pots can only be found between 1〜41F.
+
 ### Equipment
+
+#### Torch
+
+Torches reduce damage from night monsters while equipped, so don't be stingy.<br/>Without a torch, you can collapse from a single Lv2 monster's attack.
+
+<ul>
+  <li><span class="orangeText">Super Torch</span>
+    <ul>
+      <li>Stock up on these for the 2nd half of the dungeon if you don't have a Monsterphobic.<br/>Seriously, don't discard Super Torches - you need them to rush stairs at night late game.</li>
+    </ul>
+  </li>
+  <li>Fine Torch
+    <ul>
+      <li>Use these early to mid game instead of Super Torches.<br/>1 Fine Torch lasts the entire night, but beware of Strip Trap, Rust Trap, and Shady Mudkins.<br/>Somewhat risky to use instead of Super Torch on floors where Vile Pumphantasms appear.</li>
+    </ul>
+  </li>
+  <li>Torch
+    <ul>
+      <li>Unneeded - Only obtainable from Presto Pot or Zaloklefts.<br/>Good item to insert into unidentified pots.</li>
+    </ul>
+  </li>
+</ul>
+
+#### Weapon
+
+Only basic weapons can be found on the ground, so choose one based on your shield.<br/>Don't needlessly equip unidentified weapons, since a cursed weapon means you can't equip a torch.
+
+##### Basic
+
+<ul>
+  <li><span class="">Red Blade</span>
+    <ul>
+      <li>Low starting rune slots, slow growth can be a problem.</li>
+    </ul>
+  </li>
+  <li><span class="">Bladite</span>
+    <ul>
+      <li>High attack, plenty of rune slots, faster growth than Red Blade.<br/>Pretty solid option for those who like to synthesize a lot by mid game.</li>
+    </ul>
+  </li>
+  <li><span class="">Dotanuki</span>
+    <ul>
+      <li>Weaker than the above, but very fast growth and lots of rune slots.<br/>Likely your best option if you don't go out of your way to level equipment.</li>
+    </ul>
+  </li>
+  <li><span class="">Kabura Katana</span>
+    <ul>
+      <li>Strong, but low starting rune slots and very slow growth, gains <span class="greenText">Quick Hitting</span> at Lv8.</li>
+    </ul>
+  </li>
+</ul>
+
+##### Night drop / Shop exclusive
+
+<ul>
+  <li><span class="">Baffle Axe</span>
+    <ul>
+      <li>Lots of rune slots, extremely fast growth.</li>
+    </ul>
+  </li>
+  <li><span class="">Nap Rattle</span>
+    <ul>
+      <li>Powerful ability, but Absorbiphants are a big problem, and only 11 rune slots at Lv8.</li>
+    </ul>
+  </li>
+  <li><span class="">Shockuto</span>
+    <ul>
+      <li>Paralyzed enemies can be used to block off hallways and safely wait for night.<br/>Absorbiphants are a big problem, and only 12 rune slots at Lv8.</li>
+    </ul>
+  </li>
+  <li><span class="">Hatchet</span>
+    <ul>
+      <li>Elite shop exclusive - Fast growth, strong ability, but only 11 rune slots at Lv8.</li>
+    </ul>
+  </li>
+  <li><span class="">Blurry Stick</span>
+    <ul>
+      <li>Not recommended - Basically a worse Baffle Axe in both ability and growth rate.</li>
+    </ul>
+  </li>
+  <li><span class="">Water Cutter, Scythe</span>
+    <ul>
+      <li>Wide range of effectiveness, lots of rune slots, fast growth.</li>
+    </ul>
+  </li>
+</ul>
+
+##### Runes
+
+Shield runes should be prioritized over weapon runes in terms of carrying synthesis ingredients,<br/>but you need to be able to fight daytime enemies to some degree, so don't completely neglect your weapon.
+
+|Rune|Items|Notes|
+|-|-|-|
+|Anti-Floating|Warp Grass<br/>Sky Splitter|Effective against a wide variety of monster families.<br/>Dagger Bee (16-18F) appears after Dark Mixer (14-16F), so it helps with leveling equipment.|
+|Anti-Plant|Weeds<br/>Scythe|Helps against Plant types like Grass Kid and Pumphantasm.<br/>Field Knave (15F) appears during the day alongside Dark Mixer (14-16F).|
+|Anti-Aquatic|Desert Scroll<br/>Water Cutter|Great against monsters like Gyaza and Hipadile.|
+|Anti-Drain|Antidote Grass<br/>Drain Dagger|Nice to have against Absorbiphants if you use status inflicting runes.<br/>Also effective against Myriman types.|
+|Anti-Metal|Iron Arrow<br/>Copper Cleaver|Handy against monsters like N'dubba, Pop Tank, Scoopie, Karakuroid, FO-U.<br/>Use a Karakuroid (6-8F) to obtain an Iron Arrow.|
+|Anti-Dragon|Dragon Grass<br/>Lizard Lasher|Nice against mid game threats like Dragon, Hipadile, Shagga.<br/>Dragon Grass should be synthesized into your shield first.|
+|Paralyzing|Paralysis Staff<br/>Shockuto|Lets you safely cycle time of day if you block off a hallway.<br/>Helps in general with run-away play on late game floors.|
+|Sedating<br/>Confusing<br/>Blinding|Sleepy Grass<br/>Confusion Grass<br/>Blinding Grass|Makes it easier to fight daytime monsters early to mid game.<br/>Obtain ingredients from Grass Kid or Scoopie.|
+|Redeeming|Bright Blade|Reduces risk involved with missing direct attacks.|
+
+#### Shield
+
+Only basic shields can be found on the ground, so choose one with high defense.<br/>Special shields like Blazing Shield, Day Shield, Glass Buckler are night monster drop / shop exclusive.
+
+##### Basic
+
+- Red Shield
+    - Use this if you plan on fighting during the day, unless you find a Day Shield.
+    - Gains <span class="greenText">Anti-Fire</span> and <span class="greenText">Anti-Peck</span> at Lv8, but very slow growth rate.
+- Targite
+    - Second best option among basic shields.
+- Fuuma Shield
+    - High defense, but very slow growth rate.
+    - Nice as a secondary shield for night if you're using a Day Shield.
+
+##### Night drop / Shop exclusive
+
+- Day Shield
+    - Reduces damage from day monsters, fast growth rate, but increases risk at night.
+    - Worth using as a main shield despite this dungeon having night.
+- Midnight Shield
+    - Greatly reduces accidents involving Crawling Confusion, resonates with torches (raise evasion).
+    - Use it as a secondary shield for night, and synthesize <span class="greenText">Anti-Fire</span> if possible.
+- Pauper's Plank
+    - Reduces damage from both day and night monsters, so it's easier to level than Midnight Shield.
+    - Beware of Bankruptcy Scroll.
+- Binary Shield
+    - Works well with Crawling Confusion, gains <span class="greenText">Magi-Twister</span> at Lv6, but slow growth rate.
+- Steady Shield
+    - Use it as a secondary shield for higher level Fearabbit and Dark Fearabbit floors.
+- Blazing Shield
+    - Its resonance effect is a balance breaker as a secondary shield for night.<br/>Synthesize <span class="greenText">Anti-Fire</span> if possible.
+- Snake Shield
+    - Slow growth rate, but some like to level it as a secondary shield for Evil Abyss Dragon floors.
+- Glass Buckler, Shoddy Plank
+    - Use it as a secondary shield for night if you're using a Day Shield.
+    - Seal it by synthesizing a sealed grass item if you want to use it during the day.
+
+##### Runes
+
+Shields often end up having spare slots compared to weapons, so don't be super conservative.<br/>For example, it's fine to synthesize max HP increasing runes if you have Life Grass or Heal Grass on hand.
+
+|Rune|Items|Notes|
+|-|-|-|
+|Anti-Fire|Dragon Grass<br/>Snake Shield|Archdragon and Abyss Dragon floors are a nightmare without this.<br/>Synthesize it early - 2 chances to farm grass (3-5F and 13F) before Dark Mixers (14-16F).|
+|Anti-Blast|Blast Shield|Shop exclusive - Significant help against Pop Tanks, Explochins, Explosion Traps.|
+|Costly|Pauper's Plank|Spend 30 Gitan per hit to reduce damage received by 15%.<br/>Beware of Commend. Letter and Bankruptcy Scroll.|
+|Rustproof|Plating Scroll<br/>Gold Shield|Protects against loss of upgrade value.|
+|Enhancing|Cheery Grass|Every bit of defense helps.|
+|Agile|2 Perception Grass<br/>Spry Shield|Nice when you need to trade hits or use Crawling Confusion.|
+|CR Diet|Diet Shield|Particularly nice for early game.<br/>Halved fullness depletion means you don't need to carry as much food late game.|
+|Anti-Peck<br/>Magi-Twister<br/>Anti-Hypno|Gyadon Blocker<br/>Swap Shield<br/>Anti-Gaze Trge|Not as important since you can choose between day and night monsters.<br/>Swap Shield and Anti-Gaze Trge are elite shop exclusive.|
+|Retribution|Counter Shield|Helps against Cave Mamel, Gitan Mamel.<br/>Lets you use Dodger Pot without much of a downside on Gitan Mamel floors.|
+
+#### Bracelet
+
+Monsterphobic and Itemphobic can only be found starting from 12F.<br/>Elite and Pick-A-Choice shops only have 3 possibilities - Heal, Waterwalk, VIP.
+
+##### Regular
+
+<ul>
+  <li><span class="redText">Monsterphobic</span>
+    <ul>
+      <li>Words can't describe how much this item reduces accidents at night.<br/>The drawback of 10 damage per turn when an enemy is in view is a non-issue at night.</li>
+    </ul>
+  </li>
+  <li><span class="orangeText">Itemphobic</span>
+    <ul>
+      <li>Reduces the amount of time spent checking rooms for items, lets you see shops at a glance.<br/>Avoid damage by stepping on an item and inserting it directly into a Preservation Pot.<br/>Be warned that this bracelet is often found cursed.</li>
+    </ul>
+  </li>
+  <li>Alert Bracelet
+    <ul>
+      <li>Protects against Sleep Traps, Dozikons, and Naptapirs.</li>
+    </ul>
+  </li>
+  <li>Can. Arm Bracelet
+    <ul>
+      <li>Throw talismans or blessed Gitan, shoot Knockback Arrows, etc.</li>
+    </ul>
+  </li>
+  <li>Inacc. Bracelet
+    <ul>
+      <li>Mass produce Rotten Onigiri if you find it around Karakuroid (6-8F) floors.<br/>Level equipment and safely cycle time of day if you find a trap that disables a monster.<br/>Use with Navigation Scroll or Immunity Scroll to trap and hunt Maneaters.</li>
+    </ul>
+  </li>
+  <li>Explosion Bracelet
+    <ul>
+      <li>Synthesis ingredient for <span class="greenText">Anti-Blast※</span>, which nullifies explosion damage.<br/>Pair it with a Paralysis Staff to one-shot FO-Uβ.</li>
+    </ul>
+  </li>
+  <li>Blink Bracelet
+    <ul>
+      <li>Save time if the stairs is far away while rushing at night.</li>
+    </ul>
+  </li>
+  <li>Monster Summoner
+    <ul>
+      <li>Equip it at night in hopes of night monsters defeating each other for item drops.</li>
+    </ul>
+  </li>
+</ul>
+
+##### Elite or Pick-A-Choice Shop exclusive
+
+- Heal Bracelet
+    - Quickly recover after fighting a strong day monster, even on deeper floors.
+- Waterwalk Bracelet
+    - Safely cycle time of day without using other items.
 
 ### Other Items
 
+#### Food
+
+- Juicy Peach
+    - Refreshes 8 used abilities, grants Enduring status for 2 floors.
+    - Provides an added layer of safety at night, especially when using Crawling Confusion.
+- Peach
+    - Refreshes 5 used abilities, cures ailments and restores lost strength.
+    - Basically a better Antidote Grass, and also grants Immune status if blessed.
+- Hard Peach
+    - Refreshes 3 used abilities, boosts defense for the duration of the floor.
+    - Can be used to increase survivability during the day.
+- Rotten Onigiri
+    - Chakra Cleanse protects against all negative effects except for strength loss.
+    - Can be grilled using Pop Tank (8-10F), lava (16-20F), Explosion Trap, Explosion Bracelet, etc.
+    - Throw at a Kid Squid (14-16F) to obtain Squid Sushi Scroll.
+
+#### Projectile
+
+- Wood Arrow
+    - The most common arrow found on the ground.
+- Iron Arrow
+    - Obtain from Cross Cart (28-29F) using Dodger Pot.
+    - Aim for 300-500 arrows if you don't have a Monsterphobic.
+- Knockback Arrow
+    - Obtain from Strong Cart (50-51F) using Dodger Pot.
+    - Win most 1 vs 1 encounters, as long as there's some distance between you and the target.
+- Porky Rock
+    - Mostly for Cave Mamel (35-36F) and Gitan Mamel (80-82F) floors.
+- Gitan (Blessed)
+    - Obtain from Snide Froggo types, Dark Gitan Mamel, Evil Ultra Gazer.
+    - One-shots most enemies, and plays well with Can. Arm Bracelet.
+- Killer Arrow
+    - Lure an enemy onto a trap, and shoot this in hopes of it missing.
+
+#### Staff
+
+##### Combat
+
+- Paralysis Staff
+    - Block off a hallway to safely wait for night, or synthesize it for the <span class="greenText">Paralyzing</span> rune.
+    - Not recommended on Absorbiphant floors.
+- Clone Staff
+    - Cloned status can cause accidents early game if this hasn't been identified.
+- Transient Staff
+    - Pair it with Monsterphobic to locate the stairs during the day.
+    - Can be used with a Reflection Pot to steal from a shop.
+- Mage Staff
+    - Reliable single-target option, even against late game monsters.
+- Slow Staff
+    - Similar to Mage Staff, but not useful for <span class="blueText">Swift 2</span> enemies like Gitan Mamel or Cranky Tank.
+- Knockback Staff
+    - Particularly good on water or air tile floors that don't have walls.
+    - Plays well with arrows and talismans.
+- Seal Staff
+    - Makes it easier to hunt FO-Uβ types.
+- Empathy Staff
+    - Easily defeat FO-Uβ and Dark Mixer types.
+- Unlucky Staff
+    - Level down powerful monsters like Ornery Tank, Cranky Tank, Gitan Mamel.
+    - Use it to create a Lv1 monster to use as a wall if you run out of time of day cycling items late game.
+
+##### Movement
+
+- Swap Staff
+    - Can be used to skip past an incoming monster in a hallway, since they only chase if they discover you.
+- Pinning Staff
+    - Run from enemies, spend fewer turns to move around, escape Monster Houses, etc.
+    - Land on a water or air tile to warp.
+- Staff of Sacrifice
+    - The log flies at you from the left of the direction Shiren is facing, and deals 10 tiles of knockback.
+    - Similar to Pinning Staff, land on a water or air tile to warp.
+
+##### Other
+
+- Fort. Staff
+    - Similar to Paralysis Staff, block off a hallway to safely wait for day or night.
+    - Synthesis ingredient for <span class="greenText">Anti-Blast※</span>, which nullifies explosion damage.
+- Boring Staff
+    - Mostly used to cycle time of day early game, since some of the later floors lack walls.
+- Glorious Staff
+    - Level up a Pit Mamel or Nigiri Baby and defeat it for experience points.
+    - Create a Strong Cart and collect Knockback Arrows.
+
+#### Talisman
+
+In this game, all talismans have the secondary effect of removing monster auras.<br/>It's good to keep at least 1 type on hand for Floaty monsters in particular.
+
+- Fear Talisman
+    - Shuts down both direct attacks and special attacks, and lasts 15 turns.
+    - Can cause accidents if there are many monsters bunched up.
+
+#### Grass
+
+Undo Grass can't be found, so any 1500G grass you see in shops is guaranteed to be Repeat Grass.
+
+- Revival Grass
+    - Super high priority item - Don't eat unidentified grass until it's been identified.
+    - Save Blessing Scroll and Blessing Pot for Revival Grass.
+- Invincible Grass
+    - 2000G grass found on the ground which couldn't be synthesized is likely to be this grass.<br/>Handy for Cranky Tanks and Abyss Dragons, but Absorbiphants can cancel the status.
+- Swift Grass
+    - Use it before Crawling Confusion to safely wipe out all enemies on a floor.
+- Heal Grass, Otogiriso
+    - Keep your HP topped up on dangerous floors if you don't have Enduring status.
+
+#### Scroll
+
+#### Pot
+
 ### Farming
 
-### Floor Guide
+#### Gitan Mamel
 
-[Note: This section will be expanded later]
+#### Nigiri Morph Factory
 
-This section lists arrival and progressing times with the assumption you're using Fine Torches.<br/>Monsterphobic, Super Torches, and Navigation Scrolls can be used to progress at night until mid game if preferred.
+#### εFO-UZZ
 
-The easiest strategy is to cycle time of day using items, and rush stairs at night.<br/>Powerful equipment like Day Shield and Dirk of Debts are shop exclusive and it's hard to upgrade equipment,<br/>so you likely won't be able to trade hits with late game monsters.
+#### Maneater
 
-So all said, aim to progress at night for most of the dungeon after 16F.<br/>
-Use Transmogrification or search for floor items if you're running low on items.
+# Floor Guide
 
-#### Early Game
+### General
 
-The road to Dark Mixers (14-16F), and the key is to avoid night if possible.<br/>
+The table under floor ranges lists notable monsters, not necessarily all monsters.
+
+The easiest strategy is to cycle time of day using items, and rush stairs at night.<br/>Powerful equipment like Day Shield and Dirk of Debts are shop exclusive and it's hard to upgrade equipment,<br/>so it's common to not be able to trade hits with day monsters from around 25F.
+
+Therefore, it's probably easier to progress at night for most of the dungeon after 25F.<br/>Use Transmogrification or search for floor items if you're running low on items.
+
+### Early Game
+
+The road to Dark Mixers (14-16F).<br/>
 Inventory space is limited, so prioritize shields with positive upgrade value as synthesis fodder.
 
 ##### 1-2F
 
-Arrive: Day<br/>
-Progress: Day<br/>
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td>Seedie (1-2F), <span class="blueText">Chow</span> (2-3F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td>-</td>
+  </tr>
+</table>
+
+Seedie is dangerous until you level up or find a shield.<br/>Take your time - if you descend too fast, Maneaters will spawn on 3F while waiting for daytime.<br/>If you find Gitan, swap it with an inventory item to prepare for a potential Cave Mamel on 3F.<br/>No traps on 1F, and no ominous auras between 1-2F.
 
 ##### 3F
 
-Arrive: Day<br/>
-Progress: Day
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td><span class="greenText">Pit Mamel</span> (3-5F), <span class="blueText">Grass Kid</span> (3-5F), <span class="blueText">Chow</span> (2-3F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td>Putrid Sweet Nut (2-4F)</td>
+  </tr>
+</table>
+
+Test unidentified talismans and staves on Pit Mamels.<br/>You're far less likely to collapse at night early game if you defeat a Cave Mamel or Gitan Mamel to level up.
+
+After checking for items, search for a safe-looking hallway or room where you can cycle time of day.<br/>It should be near the stairs to reduce the risk of encountering Maneaters if Ominous Aura occurs.<br/>Once it's night, step in place in the spot you chose (hold B and tap A) until it switches back to daytime.<br/>If you weren't able to find a safe spot in time, equip a Fine Torch, but don't descend to 4F at night,<br/>since you risk collapsing from a Filthy Shagga between 4-6F if you do so.
+
+1 Large Onigiri will likely be consumed at this point, unless you found a Diet Shield.<br/>If you arrived on 3F too early, Ominous Aura will occur while cycling time of day - rush to the stairs.<br/><span class="orangeText">Crawling Confusion is risky due to Putrid Sweet Nuts, but it's only 3F, so you could gamble for experience points.</span>
 
 ##### 4-6F
 
-Arrive: Day<br/>
-Progress: Day
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td><span class="greenText">Pit Mamel</span> (3-5F), <span class="blueText">Grass Kid</span> (3-5F), <span class="greenText">Karakuroid</span> (6-8F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="orangeText">Filthy Shagga</span> (4-6F), Dark Karakuroid (4-5F), <span class="orangeText">Dark Absorbiphant</span> (4-5F), Dark Field Knave (5-6F)</td>
+  </tr>
+</table>
+
+Filthy Shaggas (4-6F) will end your run from a single missed input, so it's best to progress during the day.<br/>If you're confident that you won't make a mistake, or you want to farm items using Transmogrification,<br/>go ahead and try progressing at night - <span class="redText">don't use Crawling Confusion.</span>
+
+If you're doing fine on time, hunt a few Grass Kids (4-5F) and/or have a Karakuroid (6F) create a Strip Trap<br/>and check weapons and shields for curses and bracelets for effects.
 
 ##### 7F
 
-Arrive: Day or Night<br/>
-Progress: Day or Night
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td><span class="greenText">Karakuroid</span> (6-8F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="greenText">Dark Kumonigiri</span> (6-8F)</td>
+  </tr>
+</table>
+
+It should be night if you progressed through 4-6F during the day - <span class="blueText">Crawling Confusion is fine.</span><br/>Your inventory is likely packed at this point, so it's time to start identifying if you haven't done so already.<br/>Identify grass and pots during the day, since you don't want to waste a torch from Nymph Grass or Sticky Pot.
 
 ##### 8-9F
 
-Arrive: Day or Night<br/>
-Progress: Day or Night
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td>Pop Tank (8-10F), <span class="orangeText">Curse Girl</span> (8-9F), <span class="greenText">Karakuroid</span> (6-8F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="greenText">Dark Kumonigiri</span> (6-8F), Evil Gazer (9-10F), <span class="blueText">Plump Chow</span> (8-9F), εFO-Uβ (9F)</td>
+  </tr>
+</table>
+
+Karakuroid appears until 8F, so daytime of 8F is your last chance to check equipment using a Strip Trap.<br/>If Curse Girl curses your equipped weapon, you won't be able to equip a torch, which might be game over.<br/>Night might be best, since you can skip Pop Tanks and hunt Plump Chows - <span class="blueText">Crawling Confusion is fine.</span>
 
 ##### 10-13F
 
-Arrive: Day<br/>
-Progress: Day or Night
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td>Pop Tank (8-10F), N'dubba (10-11F), Mutaikon (11-12F), <span class="greenText">Kumonigiri</span> (11-12F),<br/>Swordsman (12-13F), <span class="blueText">Snacky</span> (13-15F), <span class="blueText">FO-Uβ</span> (13F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td>Evil Gazer (9-10F), <span class="orangeText">Dark N'dubba</span> (10-11F), <span class="blueText">Dark Grass Kid</span> (13F)</td>
+  </tr>
+</table>
+
+N'dubba spawns both day and night between 10-11F, so it's best to check items during the day.<br/>If you have an unknown bracelet (non-cursed), equip it in hopes of it being Cleansing Bracelet.<br/>You can fully replenish fullness and identify Poison Grass using Mutaikons (11-12F) if you have that bracelet.<br/>Kumonigiri 11-12F can help replenish fullness with Onigiri drops.
+
+Hunt Dark Grass Kids (13F) to obtain grass for the upcoming Dark Mixer floors - <span class="blueText">Crawling Confusion is fine.</span><br/>Ominous Aura doesn't occur between 11-13F.
 
 ##### 14-16F
 
-Arrive: Day or Night<br/>
-Progress: Day or Night
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td><span class="blueText">Snacky</span> (13-15F), <span class="greenText">Kid Squid</span> (14-16F), Field Knave (15F), <span class="orangeText">Foly</span> (15-17F), Dagger Bee (16-18F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="greenText">Dark Mixer</span> (14-16F)</td>
+  </tr>
+</table>
 
-#### Mid Game
+Dark Mixers appear, so it's time to synthesize as much as possible.<br/><span class="blueText">Use Crawling Confusion → Pot Party, then throw items at Dark Mixers in pots to synthesize.</span><br/>This goes without saying, but make note of where Dark Mixers are positioned before using Pot Party.<br/>Dark Mixers might not survive Pot Party if you have Super status, so disable Super status beforehand.
+
+Field Knave spawns during the day on 15F, so arrive during the night if you want to ensure item collection.<br/>Have Field Knave turn an unneeded item into Weeds, then synthesize Weeds into your weapon for <span class="greenText">Anti-Plant</span>.
+
+Floors 16-20F have lava and lack walls, so avoid synthesizing outside of the stairs room.<br/>If you don't synthesize here, you likely won't be able to trade hits with day monsters going forward.<br/>Pit Traps and Floor Warp Traps can appear, so consider checking for traps.
+
+### Mid Game
 
 Floor range where the focus is on collecting items.<br/>
 Aim for 3 Super Torches or a Monsterphobic before reaching late game.
 
 ##### 17-18F
 
-Arrive: Day or Night<br/>
-Progress: Day
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td><span class="blueText">Zalokleft</span> (17-18F), Scoopie (17-19F), Dagger Bee (16-18F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="orangeText">Dark MC Mage</span> (17-18F), <span class="greenText">Snide Froggo</span> (17-18F), Dark Cross Cart (17-18F), Bad Cololum (17-18F)</td>
+  </tr>
+</table>
+
+Hunt Dagger Bees to level up equipment.<br/>Navigation Scroll or Perceptive Pot make it easier to farm items from Zaloklefts.<br/>Have Scoopie fill unneeded pots with dirt in hopes of obtaining Revival Grass.<br/>There's a guaranteed shop on 25F, so hunt Snide Froggos if you're short on cash - <span class="blueText">Crawling Confusion is fine.</span>
 
 ##### 19F
 
-Arrive: Day or Night<br/>
-Progress: Night
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td><span class="orangeText">Gazer</span> (19-21F), Scoopie (17-19F), <span class="greenText">Boy Cart</span> (19-20F), DJ Mage (19-21F), Beanie (19-20F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td>Dark Zapdon (19-20F), Foul Nigiri Morph (19-20F), Evil Dragon (19-21F), Evil Super Gazer (19-20F)</td>
+  </tr>
+</table>
 
-##### 20-23F
+If you found a Dodger Pot, collect arrows from a Boy Cart in the stairs room. (or wait until 28F for Cross Cart)<br/>
+The combination of no walls + Gazer hypnosis can cause item loss, so it's likely safer at night.<br/>Beware of Dark Zapdon's high attack power - <span class="redText">don't use Crawling Confusion.</span>
 
-Arrive: Day or Night<br/>
-Progress: Day
+##### 20-24F
 
-##### 24-25F
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td><span class="orangeText">Gazer</span> (19-21F), <span class="blueText">Green Zalokleft</span> (21-23F), <span class="blueText">Grass Dude</span> (20-22F), Nigiri Morph (22-23F),<br/>Grampa Tank (23-24F), Absorbiphant (23-25F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="orangeText">Filthy Nashagga</span> (21-23F), <span class="orangeText">Evil Explochin</span> (22-23F), <span class="orangeText">Dark Fearabbit</span> (21-22F),<br/><span class="orangeText">Dark Digestiphant</span> (23-24F), Vile Pumphantasm (23-24F)</td>
+  </tr>
+</table>
 
-Arrive: Day<br/>
-Progress: Day or Night
+Probably safer to progress during the day - some prefer to rush stairs instead of lingering in this range.<br/>Place items in the stairs room (keep grass in pots) and hunt Green Zaloklefts and Grass Dudes for items if you want.<br/>If you've been hunting Grass Kids up to this point, grass identification should be nearly finished.
+
+If performing Nigiri Morph Factory, cycle to sunrise on 21F, then descend and finish up before sunset on 22F.<br/>If time of day switches mid-factory, Nigiri Morph vanishes, and there's a higher risk of encountering Ominous Aura.<br/>That said, 21-22F is very dangerous at night due to the combination of Filthy Nashagga and Dark Fearabbit.<br/>Avoid cycling time of day in rooms - <span class="redText">don't use Crawling Confusion.</span> (23-24F has Digestiphants instead of Fearabbits)
+
+##### 25F
+
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td><span class="orangeText">Hipadile</span> (25-27F), Absorbiphant (23-25F), <span class="orangeText">Cursister</span> (25-26F), Punisher (25-27F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="blueText">Bad Zalokleft</span> (24-25F), Dark Kappa Pest (25-26F), Dark Grampa Tank (25-26F)</td>
+  </tr>
+</table>
+
+A shop is always generated on 25F, so be sure to check it out - <span class="blueText">Crawling Confusion is fine.</span><br/>Night is safer from 26-30F, so cycle to night before descending if possible.
 
 ##### 26-27F
 
-Arrive: Night<br/>
-Progress: Night
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td><span class="orangeText">Hipadile</span> (25-27F), Muddy (26-28F), Spadie (26-28F), <span class="orangeText">Cursister</span> (25-26F), Explochin (27-29F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="blueText">εFO-U</span> (26-27F), Dark Kappa Pest (25-26F), <span class="blueText">Plump Snacky</span> (27-29F), Dark Dazikon (26-27F),<br/>Dark Grampa Tank (25-26F)</td>
+  </tr>
+</table>
+
+26-30F are water floors with lots of Aquatic and Floating types during the day, so it's best to arrive at night.<br/>Many players rush to the stairs instead of farming monsters for drops - <span class="blueText">Crawling Confusion is fine.</span><br/>εFO-U drops blessed Cheery Grass, so it can't be used to create a Strong Cart on 28F.
 
 ##### 28-29F
 
-Arrive: Night<br/>
-Progress: Night
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td><span class="greenText">Cross Cart</span> (28-29F), Muddy (26-28F), Spadie (26-28F), Explochin (27-29F),<br/><span class="orangeText">Kappa Pest</span> (29-31F), MC Mage (29-31F), Digestiphant (29-30F), Scarabbit (29-30F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="blueText">Plump Snacky</span> (27-29F), Vile Pumphantom (28-29F)</td>
+  </tr>
+</table>
+
+If you have a Dodger Pot, you can collect arrows from Cross Cart during the day on 28F.<br/>Otherwise, continue descending during the night - <span class="blueText">Crawling Confusion is fine.</span>
 
 ##### 30F
 
-Arrive: Night<br/>
-Progress: Night
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td>N'twyn (30-31F), <span class="orangeText">Kappa Pest</span> (29-31F), MC Mage (29-31F), Digestiphant (29-30F), Scarabbit (29-30F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="orangeText">Dark N'twyn</span> (30-31F), <span class="blueText">Dark Grass Dude</span> (30-31F)</td>
+  </tr>
+</table>
+
+The last water floor for now - <span class="blueText">Crawling Confusion is fine.</span><br/>N'twyn appears, so it's best to ignore items found on the ground between 30-31F.<br/>Dark MC Wizard appears between 31-32F, so you might want to switch to daytime before advancing.
 
 ##### 31-32F
 
-Arrive: Day<br/>
-Progress: Day
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td>N'twyn (30-31F), <span class="orangeText">Kappa Pest</span> (29-31F), MC Mage (29-31F), Dragon (31-32F), Death Gyaza (31-33F),<br/>Porko (31-33F), Katana Bee (31-33F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="redText">Dark MC Wizard</span> (31-32F), <span class="orangeText">Dark N'twyn</span> (30-31F), <span class="blueText">Dark Grass Dude</span> (30-31F), <span class="blueText">Bad G. Zalokleft</span> (32-33F),<br/>Dark Pot Knave (32-33F)</td>
+  </tr>
+</table>
 
-##### 33-35F
+N'twyn appears until 31F, so continue to ignore items found on the ground.<br/>
+Strong day monsters, but it's usually safer than night since Dark MC Wizard's Berserk status can end runs.<br/>Keep 1 slot open in a Preservation Pot if you're carrying fragrance pots to try and guard against Kappa Pests.
 
-Arrive: Day<br/>
-Progress: Day or Night
+If you decide to progress at night regardless, <span class="blueText">use Crawling Confusion</span> to wipe out initial Dark MC Wizards.<br/>Players are usually struggling against day monsters by now, so avoid moving around during the day<br/>aside from searching for the stairs or securing a spot to safely cycle time of day.
 
-##### 36-37F
+##### 33-36F
 
-Arrive: Night<br/>
-Progress: Night
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td>Porko (31-33F), Pot Knave (33-34F), Pumphantom (34-35F), Dazikon (34-35F), Cave Mamel (35-36F), Shagga (34-36F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="blueText">Bad G. Zalokleft</span> (32-33F), <span class="orangeText">Evil Sky Dragon</span> (34-36F), Dark Pot Knave (32-33F)</td>
+  </tr>
+</table>
 
-##### 38-39F
+Night is likely safer, but Porko and Pumphantom make it difficult to cycle time of day.<br/>Evil Sky Dragon is dangerous in rooms - <span class="blueText">Crawling Confusion is fine.</span>
 
-Arrive: Night<br/>
-Progress: Night
+##### 37-38F
 
-##### 40-43F
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td><span class="redText">MC Wizard</span> (37-38F), <span class="blueText">Grass Poppa</span> (37-38F), Eligagan (38-40F), Huistdon (38-41F), Gyairas (38-39F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="greenText">Dark Mixermon</span> (38-39F), <span class="greenText">Dark Steamroid</span> (36-37F), Bad Colocolum (37-38F)</td>
+  </tr>
+</table>
 
-Arrive: Day or Night<br/>
-Progress: Both are dangerous
+MC Wizard appears during the day, so most players rush stairs at night - <span class="blueText">Crawling Confusion is fine.</span><br/>Dark Mixermon appears on 38F, so synthesize items if you want - this is likely your last realistic chance.
+
+##### 39-40F
+
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td>Eligagan (38-40F), Huistdon (38-41F), Gyairas (38-39F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="greenText">Dark Mixermon</span> (38-39F), <span class="orangeText">Evil Concusschin</span> (39-40F), Wicked Trowelie (39-41F), Bad Colocolum (37-38F)</td>
+  </tr>
+</table>
+
+Dark Mixermon appears on 39F, but <span class="redText">don't use Crawling Confusion</span> since Evil Concusschin spawns.
+
+##### 41-43F
+
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td><span class="orangeText">Sky Dragon</span> (41-43F), Steelhead (41-43F), Huistdon (38-41F), <span class="orangeText">Fencer</span> (41-43), <span class="orangeText">Nashagga</span> (43-45)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td>Wicked Trowelie (39-41F), <span class="orangeText">Sinister Porkon</span> (41-43F), <span class="orangeText">Dark Scarabbit</span> (41-42F), Vile Pumpanshee (41-43F)</td>
+  </tr>
+</table>
+
+Hallways are dangerous without Monsterphobic - shoot arrows to check for monsters.<br/>Rooms are also dangerous at night due to Dark Scarabbits between 41-42F - <span class="blueText">Crawling Confusion is fine.</span>
 
 ##### 44-46F
 
-Arrive: Night<br/>
-Progress: Both are dangerous
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td><span class="redText">MC Wizard</span> (45-46F), <span class="orangeText">Nashagga</span> (43-45), <span class="orangeText">Nigiri Boss</span> (44-45F), <span class="orangeText">Concusschin</span> (44-46F), Rally Ham (44-46F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="redText">Dark Ornery Tank</span> (44-46F), <span class="orangeText">Dark Spongiderm</span> (44-46F), Evil Hyper Gazer (45-46F), Bad Colocolum (45-46F)</td>
+  </tr>
+</table>
+
+Very dangerous both day and night - Dark Spongiderm appears, so <span class="redText">don't use Crawling Confusion.</span><br/>46-50F are water floors and Oingodile appears, so cycle to night before descending to 46F.<br/>The ideal pace is to reach 51F (guaranteed shop) before it switches back to daytime.
 
 ##### 47-49F
 
-Arrive: Night<br/>
-Progress: Night
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td><span class="redText">Ornery Tank</span> (47-49F), <span class="orangeText">Oingodile</span> (46-48F), Trowelie (47-49F), Super Gazer (47-49F), <span class="orangeText">Porkon</span> (49-50F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="orangeText">Evil Concusschin</span> (47-48F), Dark Huistdon (47-48F), <span class="greenText">Dark Mixermon</span> (46-47F), Dark Item Knave (49-50F)</td>
+  </tr>
+</table>
+
+Daytime is extremely dangerous, so rush stairs at night - <span class="redText">don't use Crawling Confusion.</span> (<span class="blueText">49F is fine</span>)<br/>εFO-UZ appears between 48-49F and drops Strength Grass, but don't go out of your way to hunt them.<br/>Remember, night only lasts 468 turns, so don't waste time synthesizing.
 
 ##### 50-51F
 
-Arrive: Day<br/>
-Progress: Day
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td><span class="greenText">Strong Cart</span> (49-51F), <span class="orangeText">N'mach</span> (50-51F), <span class="orangeText">Porkon</span> (49-50F), <span class="orangeText">Jouncy</span> (51-53F), Debaser (51-54F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td>Dark Item Knave (49-50F), <span class="redText">Dark N'mach</span> (50-51F), <span class="orangeText">Dark Vexing Kappa</span> (50-51F)</td>
+  </tr>
+</table>
 
-#### Late Game
+A shop is always generated on 51F, so be sure to check it out - <span class="blueText">Crawling Confusion is fine.</span><br/>N'mach appears both day and night, so it's best to ignore items on the ground.<br/>Moving around at night is dangerous - Dark Vexing Kappa can potentially throw Dark N'machs at you.<br/>If you have a Dodger Pot, collect Knockback Arrows from Strong Cart.<br/>52-60F is safer at night, so cycle to night before descending to 52F.
 
-It's best to proceed at night with Super Torch or Monsterphobic.<br/>
+### Late Game
+
+It's generally best to proceed at night with Super Torch or Monsterphobic.<br/>
 Check the monster table and inventory items to decide when to safely cycle time of day.
 
 The deciding factor usually comes down to how you deal with Abyss Dragons (90-99F):
@@ -288,108 +958,275 @@ The deciding factor usually comes down to how you deal with Abyss Dragons (90-99
 
 ##### 52-54F
 
-Arrive: Night<br/>
-Progress: Night
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td><span class="redText">MC Sorceror</span> (52-54F), <span class="orangeText">Jouncy</span> (51-53F), <span class="orangeText">Vexing Kappa</span> (52-53F), Mudster (53-54F), Pierce Cart (54-55F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="orangeText">Dark Flarebird</span> (52-53F), <span class="blueText">Dark Grass Poppa</span> (53-55F), <span class="orangeText">Dark Strong Cart</span> (54-55F), Sinful Lt. Yanpii (53-55F)</td>
+  </tr>
+</table>
+
+MC Sorceror without Monsterphobic, Reflection Pot, or Swap Shield during daytime is asking for a game over.<br/>Dark Flarebird appears at night, so be cautious with Pot Party - <span class="blueText">Crawling Confusion is fine.</span><br/>Rooms are dangerous if a Dark Strong Cart levels up.
 
 ##### 55F
 
-Arrive: Day or Night<br/>
-Progress: Day
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td>Pierce Cart (54-55F), Tiger Chucker (55-57F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="redText">Dark Dozikon</span> (55-56F), <span class="blueText">Dark Grass Poppa</span> (53-55F), <span class="orangeText">Dark Strong Cart</span> (54-56F), Vile Sprouterror (55-57F)</td>
+  </tr>
+</table>
+
+Horrabbit appears from 56-58F, so cycle to night before descending to 56F if you don't have a Steady Shield.<br/>It might even be worth refreshing night here if you took a long time to get through 52-54F.<br/>If you don't have a counter to Dark Dozikon, <span class="blueText">use Crawling Confusion right away.</span>
 
 ##### 56-58F
 
-Arrive: Night (Day with Steady Shield)<br/>
-Progress: Night (Day with Steady Shield)
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td><span class="redText">Horrabbit</span> (56-58F), <span class="orangeText">Spongiderm</span> (57-59F), Curspinster (56-57F), <span class="orangeText">Lashagga</span> (58-60F), Pumpanshee (56-58F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="redText">Dark Dozikon</span> (55-56F), <span class="redText">Evil Archdragon</span> (56-57F), <span class="orangeText">Dark Strong Cart</span> (54-56F), Vile Sprouterror (55-57F)</td>
+  </tr>
+</table>
 
-##### 59-62F
+Both day and night are dangerous, but night is usually safer if you don't have a Steady Shield.<br/><span class="blueText">Use Crawling Confusion to wipe out initial Dark Dozikons and Evil Archdragons.</span>
 
-Arrive: Night<br/>
-Progress: Day or Night
+##### 59-60F
 
-##### 63F
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td><span class="orangeText">Spongiderm</span> (57-59F), <span class="orangeText">Lashagga</span> (58-60F), Item Knave (59-60F), <span class="blueText">Iron Zalokleft</span> (59-60F), Gyandora (59-60F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="orangeText">Evil Fulminachin</span> (59-60F), <span class="greenText">Dark Mixerdon</span> (60-62F), <span class="blueText">Plump Mealy</span> (60-61F)</td>
+  </tr>
+</table>
 
-Arrive: Day or Night<br/>
-Progress: Day or Night
+If you have a Perceptive Pot, it might be good to hunt a few Iron Zaloklefts for items.<br/>Dark Mixerdon appears on 60F, but <span class="redText">don't use Crawling Confusion</span> since Evil Fulminachin is still around.
+
+##### 61-63F
+
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td><span class="orangeText">Flarebird</span> (61-63F), <span class="orangeText">Sensei</span> (62-64F), <span class="blueText">Grass Gramps</span> (61-62F), Polygon Singa (61-63F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="greenText">Dark Mixerdon</span> (60-62F), <span class="blueText">Plump Mealy</span> (60-61F), Evil King Squid (61-62F)</td>
+  </tr>
+</table>
+
+If it's daytime and you can't defeat Flarebird in a single hit, just hurry to the stairs.<br/>Plump Mealy can be hunted at night for items - <span class="blueText">Crawling Confusion is fine.</span><br/>It depends on your items, but 64-71F is usually safer at night, so cycle to night before descending to 64F.
 
 ##### 64-66F
 
-Arrive: Day (Night with Steady Shield or Crawling Confusion)<br/>
-Progress: Day (Night with Steady Shield or Crawling Confusion)
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td><span class="redText">Archdragon</span> (66-68F), <span class="orangeText">Bouncy</span> (63-66F), <span class="orangeText">Sensei</span> (62-64F), <span class="orangeText">Hyper Gazer</span> (65-67F), Fulminachin (65-66F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="redText">Dark Horrabbit</span> (64-66F), Vile Pumptergeist (64-66F), <span class="blueText">Bad I. Zalokleft</span> (64-66F), Dark Ace (66-67F)</td>
+  </tr>
+</table>
+
+66-70F are water floors, so Sensei and Hyper Gazer can cause item loss - it's usually safer at night.<br/><span class="blueText">Use Crawling Confusion right away if you don't have a Steady Shield.</span>
 
 ##### 67-68F
 
-Arrive: Night<br/>
-Progress: Both are dangerous
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td><span class="redText">Archdragon</span> (66-68F), <span class="redText">Dozikon</span> (67-68F), <span class="orangeText">Hyper Gazer</span> (65-67F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="redText">Dark MC Sorceror</span> (67-69F), Bad Colocolocolum (67-69F), Dark Ace (66-67F)</td>
+  </tr>
+</table>
+
+Both day and night are dangerous, but night is typically safer than daytime.<br/><span class="blueText">Use Crawling Confusion to wipe out initial Dark MC Sorcerors.</span>
 
 ##### 69-71F
 
-Arrive: Night<br/>
-Progress: Day or Night
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td><span class="orangeText">N'dup</span> (70-73F), Mudder (69-72F), Hell Gyaza (70-72F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="orangeText">Dark N'dup</span> (70-73F), <span class="redText">Dark MC Sorceror</span> (67-69F), <span class="orangeText">Filthy Lashagga</span> (69-70F), <span class="orangeText">Sinister Porgon</span> (70-71F)</td>
+  </tr>
+</table>
+
+N'dup appears both day and night, so it's best to ignore items on the ground.<br/>Mudder and Hell Gyaza will rush at you if you arrive on 70F (water floor) during the day.<br/>Dark MC Sorceror still spawns on 69F, but <span class="redText">don't use Crawling Confusion</span> - Filthy Lashagga will one-shot you.<br/>Crawling Confusion is quite risky to use in general from this point forward due to higher enemy stats.<br/>Daytime is usually safer than night between 72-74F, so cycle to day on 71F if possible.
 
 ##### 72-74F
 
-Arrive: Day<br/>
-Progress: Day
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td><span class="orangeText">N'dup</span> (70-73F), <span class="redText">Porgon</span> (74-77F), <span class="blueText">FO-UZZ</span> (72-73F), Detonachin (73-74F), Cursenior (73-75F), Shovelie (74-75F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="orangeText">Dark N'dup</span> (70-73F), <span class="orangeText">Dark Osmammoth</span> (72-74F), <span class="redText">Evil Ultra Gazer</span> (73-74F), <span class="orangeText">Dark Pierce Cart</span> (72-73F)</td>
+  </tr>
+</table>
+
+Mudder and Hell Gyaza are still a threat on 72F, and keep ignoring items until 74F.<br/>Dangerous combination of Dark Osmammoth and Evil Ultra Gazer at night - be cautious with Pot Party.<br/>If you have a way to deal with Evil Ultra Gazer, you might want to cycle to night on 72-73F and rush to 79F.<br/>Leveled up Dark Pierce Carts have the potential to one-shot you inside rooms.
 
 ##### 75-76F
 
-Arrive: Night<br/>
-Progress: Night
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td><span class="redText">Porgon</span> (74-77F), Knave King (75-76F), Cursenior (73-75F), Shovelie (74-75F), <span class="blueText">Mealy</span> (75-76F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="orangeText">Dark Blazebird</span> (75-76F), <span class="orangeText">Dark Kappa Troll</span> (75-76F), Dark Knave King (75-76F), <span class="blueText">εFO-UZZ</span> (76-77F)</td>
+  </tr>
+</table>
+
+Porky Rocks fly at you during the day, and floor items at night.<br/>Terrabbit and Boingodiles are up next, so cycle to night before descending to 77F.
 
 ##### 77-78F
 
-Arrive: Night<br/>
-Progress: Night
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td><span class="redText">Terrabbit</span> (77-78F), <span class="redText">Porgon</span> (74-77F), <span class="orangeText">Boingodile</span> (77-79F), Pumptergeist (77-79F), Squidperor (78-79F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="blueText">Dark Grass Gramps</span> (77-78F), <span class="blueText">εFO-UZZ</span> (76-77F), <span class="orangeText">Evil Detonachin</span> (78-79F)</td>
+  </tr>
+</table>
+
+Daytime is a nightmare, but 77F is safe at night - hunt εFO-UZZ for blessed Revival Grass.<br/>It's best to descend to 79F before it switches to daytime.
 
 ##### 79F
 
-Arrive: Day or Night<br/>
-Progress: Day or Night
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td><span class="orangeText">Boingodile</span> (77-79F), Pumptergeist (77-79F), Squidperor (78-79F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="orangeText">Evil Detonachin</span> (78-79F), Vile Sproutitan (79-80F)</td>
+  </tr>
+</table>
 
-##### 80F
+Pumptergeist is annoying, but it's usually safer to cycle to night on this floor, then rush to 85F.<br/>Otherwise you'll have to deal with Kappa Troll + Gitan Mamel + Osmammoth + Kleptoad during the day.<br/>However, if you feel like Dark Mesmerikon is a bigger threat, go ahead and try daytime.
 
-Arrive: Night<br/>
-Progress: Night
+##### 80-83F
 
-##### 81-82F
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td><span class="orangeText">Gitan Mamel</span> (80-82F), <span class="orangeText">Kappa Troll</span> (80-81F), <span class="orangeText">Osmammoth</span> (80-83F), <span class="orangeText">Kleptoad</span> (80-82F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="redText">Dark Mesmerikon</span> (81-82F), Vile Sproutitan (79-80F), Snide Kleptoad (80-81F)</td>
+  </tr>
+</table>
 
-Arrive: Day or Night<br/>
-Progress: Both are dangerous
+There's risk of getting one-shot by Gitan during the day on 80-82F, so most proceed at night.<br/><span class="blueText">Clear out initial Dark Mesmerikons using Crawling Confusion</span>, then rush to the stairs.
 
-##### 83-85F
+##### 84-85F
 
-Arrive: Night<br/>
-Progress: Night
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td><span class="orangeText">Blazebird</span> (84-85F), Gyandoron (83-85F), Tiger Ace (84-86F), Polygon Stunna (84-85F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td>Foul Cursenior (84-85F)</td>
+  </tr>
+</table>
+
+If daytime, rush to the stairs without attacking monsters - otherwise you'll be overwhelmed by Blazebirds.<br/>Dark Terrabbit appears next, so you might want to cycle to daytime before descending to 86F.
 
 ##### 86-87F
 
-Arrive: Day (Night with Steady Shield or Crawling Confusion)<br/>
-Progress: Day (Night with Steady Shield or Crawling Confusion)
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td><span class="orangeText">Nigiri King</span> (86-88F), Tiger Ace (84-86F), Boss Yanpii (86-88F), Zalokleft King (87-89F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="redText">Dark Terrabbit</span> (86-87F), <span class="blueText">Bad Zalokleft King</span> (86-87F)</td>
+  </tr>
+</table>
+
+Nigiri King is a bit scary during the day, but should be better than Dark Terrabbit at night.<br/>If night, <span class="blueText">use Crawling Confusion right away if you don't have a Steady Shield.</span>
 
 ##### 88F
 
-Arrive: Day<br/>
-Progress: Day
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td><span class="orangeText">Nigiri King</span> (86-88F), Boss Yanpii (86-88F), Zalokleft King (87-89F), Zotdon (85-88F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="redText">Evil Abyss Dragon</span> (88-99F), <span class="orangeText">Evil Squidperor</span> (88-90F)</td>
+  </tr>
+</table>
 
-##### 89-91F
+This is the last floor where you can safely cycle time of day without Zen Pot, Immunity Scroll, etc.<br/>It's best to cycle to a fresh night before descending to 89F, since it's typically non-stop until 99F from here.<br/>Don't waste any turns after descending - ignore floor items unless they're directly in your path.
 
-Arrive: Night<br/>
-Progress: Night
+##### 89-94F
 
-##### 92-94F
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td><span class="redText">Ultra Gazer</span> (89-91F), <span class="redText">Mesmerikon</span> (89-94F), <span class="redText">Abyss Dragon</span> (90-99F), Doom Gyaza (89-91F), Swordmaster (90-92F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="redText">Evil Abyss Dragon</span> (88-99F), <span class="redText">Dark Cranky Tank</span> (89-90F), <span class="orangeText">Evil Squidperor</span> (88-90F), <span class="orangeText">Filthy Bashagga</span> (90-99F),<br/><span class="orangeText">Dark Gitan Mamel</span> (89-91F)</td>
+  </tr>
+</table>
 
-Arrive: Night<br/>
-Progress: Night
+Use Stairlight and rush to the stairs - don't waste a single movement on anything other than going for the stairs.<br/>If daytime, use an applicable defensive item like Immunity Scroll or blessed Peach - but save Zen Pot for 95-96F.<br/>91-95F don't have walls, so you might be able to throw Swap Staff to take a shortcut.
 
-##### 95-96F
+##### 95-99F
 
-Arrive: Night<br/>
-Progress: Night
+<table class="dungeonTable">
+  <tr>
+    <th>Day</th>
+    <td><span class="redText">Abyss Dragon</span> (90-99F), <span class="redText">Cranky Tank</span> (95-96F), Despoiler (89-99F), Elizgagon (89-99F)</td>
+  </tr>
+  <tr>
+    <th>Night</th>
+    <td><span class="redText">Evil Abyss Dragon</span> (88-99F), <span class="orangeText">Filthy Bashagga</span> (90-99F), Dark Zotdon (92-99F)</td>
+  </tr>
+</table>
 
-##### 97-99F
+If daytime, use a Zen Pot if you have one to make Cranky Tanks and Abyss Dragon's flame a non-issue.<br/>Otherwise, just keep going with Stairlight and efficient movement - you're almost finished!
 
-Arrive: Night<br/>
-Progress: Night
+<br/>
 
 # Monsters
 
@@ -503,7 +1340,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     </tr>
     <tr>
       <td class="monsterNight">Dark Kumonigiri</td>
-      <td class="monsterNight"><span class="dangerNight">Filthy Shagga</span><br/><span class="itemNight">Shady <span class="itemDay">Mudkin</span></span></td>
+      <td class="monsterNight"><span class="dangerNight">Filthy Shagga</span><br/><span class="itemNight">Shady Mudkin</span></td>
       <td class="monsterNight">Evil Kid Squid<br/>Dark Myriman</td>
       <td class="monsterNight">Hell's Punisher<br/>Dark Flamebird</td>
       <td class="monsterNight"><span class="itemNight">Dark Field Knave</span><br/>Sinister Porky</td>
@@ -520,7 +1357,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     </tr>
     <tr>
       <td class="monsterNight">Dark Kumonigiri</td>
-      <td class="monsterNight"><span class="itemNight">Shady <span class="itemDay">Mudkin</span></span></td>
+      <td class="monsterNight"><span class="itemNight">Shady Mudkin</span></td>
       <td class="monsterNight">Evil Kid Squid</td>
       <td class="monsterNight">Hell's Punisher<br/>Dark Flamebird</td>
       <td class="monsterNight">Sinister Porky</td>
@@ -537,7 +1374,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     </tr>
     <tr>
       <td class="monsterNight">Dark Kumonigiri</td>
-      <td class="monsterNight"><span class="itemNight">Shady <span class="itemDay">Mudkin</span></span></td>
+      <td class="monsterNight"><span class="itemNight">Shady Mudkin</span></td>
       <td class="monsterNight"><span class="farmingNight">Plump Chow</span></td>
       <td class="monsterNight"><span class="itemNight">Wicked Scoopie</span></td>
       <td class="monsterNight">Dark DJ Mage</td>
