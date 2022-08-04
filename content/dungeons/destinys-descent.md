@@ -12,6 +12,7 @@ Standard unidentified items post-game dungeon, but with a day and night cycle.<b
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
   <li><a href="#strategy">Strategy</a></li>
+  <li><a href="#floor-guide">Floor Guide</a></li>
   <li><a href="#monsters">Monsters</a></li>
   <li><a href="#items">Items</a></li>
   <li><a href="#traps">Traps</a></li>
@@ -557,17 +558,96 @@ Undo Grass can't be found, so any 1500G grass you see in shops is guaranteed to 
 
 #### Scroll
 
+- Navigation Scroll
+    - Makes it safe to search for items on floors that would otherwise be dangerous. (Filthy Shagga, etc.)
+    - Greatly increases the success rate of stealing from a shop.
+- Identify Scroll
+    - Give an Identify Scroll (identified) to a Shopkeeper to identify all merchandise.
+    - Otherwise, prioritize pots, bracelets, and grass.
+- Blessing Scroll
+    - Use it on Revival Grass.
+- Fixer Scroll
+    - Powerful effects, and can be read without a torch at night.
+- Immunity Scroll
+    - Useful for Dozikon, Mesmerikon, MC Wizard, MC Sorceror, and Ultra Gazer floors.
+    - Can be used alongside other items to hunt Maneaters early game.
+- Extinction Scroll
+    - Shop exclusive - most throw it at Mutaikon or Dragon, but it depends on your other items.
+    - It's best to skip throwing it on floors where Crow Tengu types appear.
+- Nixer Scroll
+    - Similar to Extinction, most use it on higher level Mutaikons or Dragons.
+- Confusion Scroll, Slumber Scroll
+    - Keep 1 on hand for daytime Monster Houses - Confusion Scroll is better.
+- Sanctuary Scroll
+    - Lets you safely cycle time of day, and makes it safe to use Crawling Confusion.
+
 #### Pot
+
+- Preservation Pot
+    - Carry more items, manage peach ripeness.
+- Identify Pot
+    - Identify bracelets obtained from sources besides Transmogrification to avoid equipping cursed ones.<br/>If you found Monsterphobic, switch to identifying grass for Revival Grass.<br/>
+- Hide Pot
+    - Throw it at an enemy to block off a hallway and safely cycle time of day.
+- Black Hole Pot
+    - Steal from a shop, or skip a dangerous floor like a maze floor with Porgons.<br/>Unlike most other dungeons, it can be used to skip past 99F in Destiny's Descent.
+- Blessing Pot
+    - Revival Grass works inside pots in this game, so there's no need to break the pot right away.
+    - Other good options include Blessing Scroll, Immunity Scroll, Peach.
+- Heal Pot
+    - Great to have on late game floors, but don't hesitate to use it earlier if needed.
+- Hilarious Pot
+    - Laughter spreads to other enemies, but the duration is quite short so it's mostly a 1 vs 1 item.
+    - An open type pot with an initial capacity of 2 is always this pot.
+- Synthesis Pot
+    - Dark Mixers appear in this dungeon, so it's fine to use these pots whenever.
+    - Prioritize increasing shield upgrade value.
+- Dodger Pot
+    - Collect arrows from Cross Cart (28-29F) or Strong Cart (49-51F).
+    - Great for Dozikon, Mesmerikon, and Porgon floors.
+    - This pot can only be found until 41F.
+- Zen Pot
+    - Excellent for Archdragon, Abyss Dragon, and Cranky Tank floors.
+    - This pot can only be found until 41F.
+- Perceptive Pot
+    - Helps with hunting Zaloklefts, protects against Trip Traps, Swordsman, and Field Knave.
+- Reflection Pot
+    - Ensures safety on MC Wizard, MC Sorceror, and Ultra Gazer floors.
+    - Use alongside Transient Staff and either Starving or Immune status to safely steal from a shop.
+- Fever Pot
+    - Shop exclusive - It's easiest to duplicate talismans or arrows.
 
 ### Farming
 
 #### Gitan Mamel
 
+Level up a Pit Mamel (3-5F) using items like Fear, Berserker, or Glorious talisman and defeat it to level up.<br/>Gitan, Knockback Staff, Boring Staff, Electric Staff can be used to safely defeat it.
+
 #### Nigiri Morph Factory
+
+Technique to raise max fullness and stock up on food - See [Nigiri Morph Factory](/guides/tips-and-tricks#nigiri-morph-factory) for an explanation.<br/>If you find the needed items early, Nigiri Baby (6-8F) can be used for it.
 
 #### εFO-UZZ
 
+Hunt εFO-UZZ (76-77F) to obtain 1〜3 blessed Revival Grass.
+
+1. Equip a Super Torch and position yourself like the following:
+<pre class="diagram">
+  S = Shiren A = Air Tile<br/>
+  <br/>
+  A □ □ □      □ S □<br/>
+  A □ S □  or  □ □ □<br/>
+  A □ □ □      A A A
+</pre>
+2. Use Crawling Confusion, and check if εFO-UZZ is present.
+3. Wait until εFO-UZZ moves to one of the air tiles in the diagram, then use Pot Party.
+4. εFO-UZZ will plummet and be instantly defeated, but will still drop Revival Grass.
+
+Transmogrification and fixed damage like Electrocute Staff <span class="redText">cannot be used.</span><br/>4-2-8 Pot, Explosion Bracelet, and Three Screams <span class="blueText">can be used.</span>
+
 #### Maneater
+
+Defeat Maneaters for shop items, experience points, and skill points - See [Maneater Hunting](/guides/tips-and-tricks#maneater-hunting) for an explanation.
 
 # Floor Guide
 
