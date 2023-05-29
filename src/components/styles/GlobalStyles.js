@@ -29,7 +29,7 @@ export const baseStyles = css`
       'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
 
     font-size: 16px;
-    scroll-behavior: smooth;
+    /* scroll-behavior: smooth; */
   }
 
   a {

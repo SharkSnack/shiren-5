@@ -20,10 +20,6 @@ There are a total of 900 items, 468 monsters, and 79 music tracks.<br/>As you ca
   <img src="../images/other/book_item.png"/>
 </div>
 
-### Preparations
-
-
-
 ### Weapon (41 types)
 
 Each weapon type has 8 entries, corresponding to weapon level.
@@ -589,6 +585,146 @@ The Floramorph Pot in Statue Cave (<span class="orangeText">What you need is...?
 <div class="relativeImage smallScreenshot">
   <img src="../images/other/book_monster.png"/>
 </div>
+
+### Rare Monster Locations
+
+Most monsters can be encountered in Inori Cave, but some require other dungeons.<br/>The listed locations are not necessarily the only locations where the monster can be found.<br/>※ Use Glorious Staff and Unlucky Staff to quickly fill out day monster entries.
+
+##### Misc
+
+- Dark Foly - Inori Cave (13-14F)
+- Dark Mixergon - Old Road (46-47F), Heavenly Lake (46-47F)
+- Dark Pot Knave - Destiny's Descent (32-33F)
+
+##### FO-Uβ
+
+Defeating εFO-Uβ types with Transmogrification does count for the Monster Book.
+
+- FO-Uβ - Inori Cave (80-85F), Destiny's Descent (13F)
+- FO-U - Inori Cave (86-90F), Destiny's Descent (23F)
+- FO-UZ - Inori Cave (91-95F), Destiny's Descent (43F)
+- FO-UZZ - Inori Cave (96-99F), Destiny's Descent (72-73F)
+- εFO-Uβ - Inori Cave (80-85F), Destiny's Descent (9F)
+- εFO-U - Inori Cave (34-35F, 86-90F), Destiny's Descent (26-27F)
+- εFO-UZ - Inori Cave (91-95F), Destiny's Descent (48-49F)
+- εFO-UZZ - Inori Cave (96-99F), Destiny's Descent (76-77F)
+
+##### Myriman
+
+Quickest method is to hit a FO-Uβ type and have it summon a Myriman type corresponding to its level.
+
+- Myriman - Destiny's Descent (12F)
+- Billman - Destiny's Descent (20F)
+- Trillman - Inori Cave (53F), Lost Well (4F, 53F), Destiny's Descent (53F)
+- Googoman - Lost Well (33-34F), Destiny's Descent (82-83F)
+- Dark Myriman - Destiny's Descent (6F)
+- Dark Billman - Destiny's Descent (18F)
+- Dark Trillman - Destiny's Descent (40F)
+- Dark Googoman - Inori Cave (65-67F), Lost Well (16-18F)
+
+##### Maneater
+
+Linger on a single floor until Ominous Aura occurs and Maneater types begin to spawn.<br/>Dark Maneater types spawn on the same floors as daytime counterparts.
+
+- Maneater - Inori Cave (5-20F)
+- Villeater - Inori Cave (21-45F)
+- Mounteater - Inori Cave (46-70F)
+- Isleater - Inori Cave (71-99F)
+
+##### Jack Wand
+
+Each Jack Wand monster requires wishing to fight them via Catstones in Inori Cave.<br/>Yes, you really do need 7 sets of Catstones in order to register all Jack Wand monsters.
+
+### Pages (Monster Family)
+
+#### Page 1
+
+- Mamel
+- Sproutant
+- Colum
+- Seedie
+- Chintala
+- Grass Kid
+- Pin Kid
+
+#### Page 2
+
+- Sweet Nut
+- Blade Bee
+- Nigiri Baby
+- Froggo
+- Karakuroid
+- Tiger Tosser
+- Curse Girl
+
+#### Page 3
+
+- Fearabbit
+- Gyaza
+- Pumphantasm
+- Floaty
+- N'dubba
+- Mixer
+- Scorpion
+
+#### Page 4
+
+- Mutaikon
+- Naptapir
+- Swordsman
+- Mudkin
+- Polygon Spinna
+- Metalhead
+- Cheer-Ham
+
+#### Page 5
+
+- Kid Squid
+- Foly
+- Bored Kappa
+- Hopodile
+- Flamebird
+- Yanpii
+- Scoopie
+
+#### Page 6
+
+- Zalokleft
+- Eligan
+- Gyadon
+- Gazer
+- Zapdon
+- Dragon
+- DJ Mage
+
+#### Page 7
+
+- Porky
+- Boy Cart
+- Pop Tank
+- Absorbiphant
+- Punisher
+- Firepuff
+- Crow Tengu
+
+#### Page 8
+
+- FO-Uβ
+- Myriman
+- Moseal
+- Kumonigiri
+- Shagga
+- Explochin
+- Chow
+
+#### Page 9
+
+- Field Knave
+- Maneater
+- Jack Wand
+- Reeva Statue
+- Gr. Reeva Statue
+- Gendolucika
 
 # Music Collection
 
