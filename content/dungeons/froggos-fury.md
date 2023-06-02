@@ -530,7 +530,7 @@ Enemy Colors: <span class="farmingDay">Farming</span> <span class="usefulDay">Us
     </tr>
     <tr>
       <td>49</td>
-      <td>Froggon</td>
+      <td>Froggon<br/>Sprouterror</td>
       <td class="highlightGray"></td>
       <td>Debaser<br/>Eagle Tengu</td>
       <td>Doztapir</td>

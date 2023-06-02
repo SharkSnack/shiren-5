@@ -7,7 +7,7 @@ metaDescription: "Aura Ruins guide for Shiren the Wanderer: The Tower of Fortune
   <img src="../images/overworld/aura_ruins.jpg"/>
 </div>
 
-[Introduction]
+Dungeons where all naturally generated monsters have special auras.<br/>Unlike regular auras, you don't gain boosted experience points, and aura effects are stronger.<br/><span class="redText">Red aura → x3.0 damage multiplier</span> - <span class="blueText">Blue aura → Reduce damage by 80%</span>.<br/>Shiren gains Awakened-ish and Super status much more easily - Usually within defeating 1\~3 monsters.<br/>However, Shiren loses Super status when you advance floors, so you have to earn it again each floor.<br/>Overall, it can feel a little unfair at times, but it's a shorter, thrilling dungeon.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>

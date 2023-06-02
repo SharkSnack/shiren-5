@@ -225,7 +225,7 @@ Transformation List:
 |14|DJ Mage|Fires a magic bullet in a straight line that either knocks a target back,<br/>or warps them to a different location on the same floor.|
 |20|Curse Girl|Inflicts Sealed status to a monster in front.|
 |27|Scoopie|Inflicts Blind status from a distance.<br/>However, it can miss, and Flamebirds burn the dirt on contact.|
-|35|Grass Boy|Throws a random grass with piercing properties.<br/>It can miss, and it won't hit Shiren if he's visible to Okon.|
+|35|Grass Kid|Throws a random grass with piercing properties.<br/>It can miss, and it won't hit Shiren if he's visible to Okon.|
 |44|Absorbiphant|Cures ailments for allies, and erases enemy auras and positive effects.<br/>Okon's HP will be fully restored, and she'll gain the Buffed status.|
 |54|Naptapir|Infclits Asleep status to all monsters within a 1 tile radius.|
 |65|Flamebird|Restores 30 HP when Shiren, an ally, or Okon has Danger status.|
@@ -242,7 +242,7 @@ If you're worried, it's best to only leave Naptapir (or Gazer) enabled for gener
 - DJ Mage can be handy to avoid fights at night or in single-room Monster Houses.
 - Curse Girl should be disabled at all times, since Okon will easily collapse if she's attacked.
 - Scoopie is excellent at disabling enemies in rooms, though note that it can miss.
-- Grass Boy is a decent long range option, but enemies can level up if she throws Rage Grass.
+- Grass Kid is a decent long range option, but enemies can level up if she throws Rage Grass.
     - Throws Poison, Confusion, Sleepy, Blinding, Rage, Dragon, Amnesia, or Warp grass.
 - Absorbiphant offers fantastic support for Shiren, and greatly increases Okon's offense.
 - Naptapir should be enabled at all times, since it completely shuts down most enemies.

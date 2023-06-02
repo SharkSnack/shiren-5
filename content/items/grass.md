@@ -249,7 +249,7 @@ metaDescription: "Complete grass and seed details for Shiren the Wanderer: The T
     <tr>
       <td class="highlightYellow"><a href="#undo-grass">Undo Grass</a></td>
       <td rowspan="2">1500</td>
-      <td rowspan="2">250</td>
+      <td rowspan="2">525</td>
       <td>-</td>
       <td>-</td>
       <td class="leftText">Grants an option to either revive (Revival Grass effect)<br/>or escape from the dungeon with your items if you collapse.<br/>Only grants an option to escape from the dungeon if eaten.<br/>Undo Grass is prioritzed if you're also carrying Revival Grass.</td>
@@ -2163,7 +2163,7 @@ Locations:
 Inflicts Berserk status for 30 turns when used or thrown. (60 turns if blessed)<br/>
 This grass is the main reason why you shouldn't use unidentified 500G grass items,<br/>
 especially at night or when a shop is present on the floor.<br/>
-Grass Boy monsters in Lost Well have a higher chance of carrying this grass.
+Grass Kid monsters in Lost Well have a higher chance of carrying this grass.
 
 <table class="itemDetailsTable">
   <tbody>

@@ -1147,7 +1147,7 @@ and it can be performed without a Fort. Staff if you have a Wall Clip Bracelet.
 Similar to method 3, but trap a Grass Poppa inside a wall instead of Shiren.<br/>
 Easiest way to accomplish this is to use items like Knockback Staff or Swap Staff.
 
-It's not as efficient since you're relying on a single Grass Boy family monster rather than a rotation,<br/>
+It's not as efficient since you're relying on a single Grass Kid family monster rather than a rotation,<br/>
 but it's very consistent because you can defeat other monsters that approach you.<br/>
 Steady Shield isn't required, since you can just walk back to the room if you're hit by Warp Grass.
 

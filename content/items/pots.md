@@ -1591,7 +1591,7 @@ Always found identified, even in dungeons where pots are unidentified.
   </tr>
   <tr>
     <td><a href="/shiren-5/system/status-conditions#weakened">Weakened</a> by 8 stages</td>
-    <td>Swordsman, Shagga, Punisher, Scoopie, Grass Boy, Pin Kid families</td>
+    <td>Swordsman, Shagga, Punisher, Scoopie, Grass Kid, Pin Kid families</td>
   </tr>
   <tr>
     <td>Inflicts <a href="/shiren-5/system/status-conditions#sealed">Sealed</a> status</td>
@@ -2256,7 +2256,7 @@ All other Monster Pots will be identified if you break an unidentified one.<br/>
 The pot vanishes when opened, so keep that in mind when shopping.<br/>
 If thrown against a wall, the monsters will have Confused status.
 
-Use it to generate Grass Boys to obtain some extra grass items,<br/>
+Use it to generate Grass Kids to obtain some extra grass items,<br/>
 increase your defeated enemy count to activate Super status / gain bonuses,<br/>
 or activate the Cross formation in a hallway intersection to replenish abilities, etc.<br/>
 If opened in storage buildings, Bashaggas, Doom Gyazas, and Despoilers appear.

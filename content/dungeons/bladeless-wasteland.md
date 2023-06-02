@@ -7,7 +7,7 @@ metaDescription: "Bladeless Wasteland guide for Shiren the Wanderer: The Tower o
   <img src="../images/overworld/bladeless_wasteland.jpg"/>
 </div>
 
-[Introduction]
+Dungeon where your direct attacks always deal 1 damage, and weapons can't be found.<br/>The idea is to get creative with projectiles and other items instead of relying on direct attacks.<br/>You start with 20 Wood Arrows and 20 Rocks, so you won't end up in a game over situation right away.<br/>Gyaza types spawn on select floors in a special slot where 1 is always present on the floor.<br/>The rules might sound tough, but the item table is very generous so it ends up being very easy.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>

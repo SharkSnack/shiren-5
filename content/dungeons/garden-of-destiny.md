@@ -7,7 +7,7 @@ metaDescription: "Garden of Destiny guide for Shiren the Wanderer: The Tower of 
   <img src="../images/overworld/garden_of_destiny.jpg"/>
 </div>
 
-[Introduction]
+Dungeon where defeating an enemy in 1 hit grants x2.5 experience points.<br/>However, the more hits you take to defeat an enemy, the less experience points you gain.<br/>To give an idea, defeating an enemy in 2 hits grants x0.75 experience points, or x0.3 with 3 hits.<br/>Allies can be recruited inside the dungeon, shuffle style maps are used, and NPCs appear.<br/>[New Items](/system/new-items) can appear from 51F+, and leveled up equipment can be found from 18F+.<br/>Overall, it's like a challenging B-side to Tower of Fortune.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
@@ -3178,7 +3178,7 @@ Floor Colors: <span class="highlightGreen">Shuffle Dungeon</span> <span class="h
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Amnesia Grass</td>
-    <td></td>
+    <td>24+</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3198,7 +3198,7 @@ Floor Colors: <span class="highlightGreen">Shuffle Dungeon</span> <span class="h
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Imabikiso</td>
-    <td></td>
+    <td>24+</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3238,7 +3238,7 @@ Floor Colors: <span class="highlightGreen">Shuffle Dungeon</span> <span class="h
     <td></td>
     <td></td>
     <td class="leftText highlightGray">SuperUnlucky Seed</td>
-    <td></td>
+    <td>24+</td>
     <td></td>
     <td></td>
     <td></td>

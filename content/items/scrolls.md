@@ -3125,7 +3125,7 @@ Locations:
 
 ### Muzzled Scroll
 
-Inflicts Shiren with Muzzled status for the duration of the current floor.<br/>You can't use scrolls, grass, food, peaches, or abilities, and you can't talk to NPCs.<br/>Don't read unidentified 800G scrolls in shops, since you can't pay if it's this scroll.<br/>Mutaikon's grass throw won't restore fullness, but Grass Boy's throw will do so.
+Inflicts Shiren with Muzzled status for the duration of the current floor.<br/>You can't use scrolls, grass, food, peaches, or abilities, and you can't talk to NPCs.<br/>Don't read unidentified 800G scrolls in shops, since you can't pay if it's this scroll.<br/>Mutaikon's grass throw won't replenish fullness, but Grass Kid's throw will do so.
 
 Can be blocked by Immune status, or cured by the Chakra Cleanse ability at night.<br/>
 Otherwise, it's best to hurry to the next floor if you accidentally read it.

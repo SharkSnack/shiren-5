@@ -82,7 +82,33 @@ Popular dungeon where you set your own turn limit (1,000\~99,999) before enterin
 
 ### Dungeon Mechanics
 
-[Content]
+#### Turn Limit
+
+Once the remaining turn count reaches 0, you auto-fail the dungeon via Winds of Kron.<br/>However, Winds of Kron doesn't blow until 300 turns remain, no matter how long you linger on a floor.<br/>This means you can farm monsters as much as you'd like, provided you can deal with Maneaters.<br/>Ominous Aura occurs at 600 turns on any given floor, so act quickly if you want to avoid Maneaters.
+
+#### Monster Table
+
+The dungeon uses Primordial Chasm as a base, but includes changes to give the dungeon its own flavor.<br/>You'll sometimes see stronger enemies earlier (Pit Mamel on 1F), or weaker enemies later (Shagga on 53F).<br/>One notable characteristic is that Terrabbit appears on all floors between 91-99F, making for a frantic finale.<br/>Nigiri King and Abyss Dragon appear alongside it, so you can end up being turned into a Grilled Onigiri.
+
+#### Mixers (Multiple of 8F)
+
+Mixer type monsters appear on floors that are a multiple of 8.<br/>You'll generally have more chances to synthesize items throughout the run compared to other dungeons.<br/>Combined with leveled up equipment being in the item table, it's easier to transfer main equipment if desired.
+
+#### Maze Floors (Odd Number x 10F)
+
+Every floor that is odd and a multiple of 10 is a single giant maze.<br/>Lots of items can be found, and monsters that can break walls are always included in the monster table.<br/>It's a bonus stage if you set a lenient turn limit, but otherwise poses as a challenging turn burner stage.<br/>That said, Porgons and Archdragons both spawn on 90F, so you'll want to skip ahead in either case.<br/>Use Boring Staff or Pickaxe, throw rocks at Explochin or Sweet Nut types to make them explode, etc.
+
+#### Trap Floors (Even Number x 10F)
+
+Every floor that is even and a multiple of 10 is a floor with lots of Monster, Summon, and Multiplication traps.<br/>In addition, a Perception Grass is always generated somewhere on the floor, and a Monster House can appear.<br/>40F and 80F are multiples of 8, so you can use traps to spawn Mixer types without having to wait around.<br/>It's best to keep some rocks on hand for Cave Mamels and Gitan Mamels that exclusively spawn here.
+
+#### Time Switch Trap
+
+Despite being a daytime dungeon, Time Switch Traps can be generated. (Night lasts 100 turns)<br/>Monsters that spawn at night are generally night versions of daytime monsters that appear on that floor.<br/>Since it's a daytime dungeon, you're unlikely to have a Torch equipped when you step on a Time Switch Trap,<br/>so there's risk of receiving heavy damage if a night monster appears next to you.
+
+#### Other
+
+Floors where field of view isn't limited are more common than other dungeons.<br/>Escape Scroll can't be found, and the escape effect is nullified if you write it on a Blank Scroll.<br/>Items (floor, shops, monster drops) are never cursed, but they can be generated in a blessed state.<br/>Number of items per floor decreases as you progress, with there being only \~4 items from 40F or so.<br/>It's likely designed this way to push the player to stock up on maze floors.
 
 # Monsters
 
@@ -1234,259 +1260,259 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
   </tr>
   <tr>
     <td class="leftText highlightGray">Ordinary Stick</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Rusty Pickaxe</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText highlightGray">Shockuto</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Tin Blade</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Old Mallet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Blurry Stick</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Katana</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Sky Splitter</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Sealing Keisaku</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Beast Fang</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Water Cutter</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Baffle Axe</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Dotanuki</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Scythe</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText highlightGray">Hatchet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Bladite</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText highlightGray">Myopic Masher</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText highlightGray">Shoddy Dirk</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Red Blade</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText highlightGray">Magic Masher</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText highlightGray">Glass Dirk</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Kabura Katana</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Drain Dagger</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Dirk of Debts</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Fuuma Sword</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Copper Cleaver</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText highlightGray">Extreme Sword</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Pathetic Blade</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Crescent Katana</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText highlightGray">Violent Blade</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Dull Gold Edge</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Lizard Lasher</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Breeze Blade</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Bright Blade</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Nap Rattle</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Burning Blade</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">True Knife</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Wonder Pick</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Sturdy Hammer</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1494,8 +1520,8 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
   </tr>
   <tr>
     <td class="leftText highlightGray">Kaburagi</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1503,6 +1529,8 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
     <td colspan="6"></td>
   </tr>
 </table>
+
+※ Wonder Pick, True Knife, and other special equipment can be found from 30F+.
 
 #### Shields
 
@@ -1531,27 +1559,27 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
   </tr>
   <tr>
     <td class="leftText highlightGray">Plain Targe</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Heavy Shield</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Gyadon Blocker</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Tin Shield</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1563,162 +1591,162 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Snake Shield</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Iron Targe</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Day Shield</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Steady Shield</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Wolfshead</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Binary Shield</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText highlightGray">Anti-Gaze Trge</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Beast Shield</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Counter Shield</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Swap Shield</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Targite</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText highlightGray">Student Shield</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Shoddy Plank</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Red Shield</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText highlightGray">Bowl Shield</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText highlightGray">Glass Buckler</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Fuuma Shield</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText highlightGray">Spry Shield</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText highlightGray">Pauper's Plank</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Pathetic Shield</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Blast Shield</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Rush Shield</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Gold Shield</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText highlightGray">Lock Shield</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1731,45 +1759,47 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
   </tr>
   <tr>
     <td class="leftText highlightGray">Diet Shield</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText highlightGray">Safe Shield</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText highlightGray">Onigiri Shield</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Helix Shield</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Parry Shield</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Nirvana Board</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
 </table>
+
+※ Helix Shield, Nirvana Board, and other special equipment can be found from 30F+.
 
 #### Bracelets
 
@@ -1798,8 +1828,8 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
   </tr>
   <tr>
     <td class="leftText highlightGray">Strength Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1818,48 +1848,48 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
   </tr>
   <tr>
     <td class="leftText highlightGray">Can. Arm Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Trap Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Growth Bracelet</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Inacc. Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Monster Detector</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText highlightGray">Anti-Parry Brce.</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Bunch Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1878,17 +1908,17 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
   </tr>
   <tr>
     <td class="leftText highlightGray">Cleansing Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Item Detector</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText highlightGray">Floating Bracelet</td>
     <td></td>
     <td></td>
@@ -1898,8 +1928,8 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
   </tr>
   <tr>
     <td class="leftText highlightGray">Anti-Cnf. Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1918,37 +1948,37 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
   </tr>
   <tr>
     <td class="leftText highlightGray">Alert Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Waterwalk Bracelet</td>
     <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText highlightGray">Scout Bracelet</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Anti-Crs. Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Wall Clip Bracelet</td>
     <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText highlightGray">Trapper Bracelet</td>
     <td></td>
     <td></td>
@@ -1958,54 +1988,54 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
   </tr>
   <tr>
     <td class="leftText highlightGray">Staunch Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Heal Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Identify Bracelet</td>
     <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Critical Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Alleyway Bracelet</td>
     <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText highlightGray">VIP Bracelet</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Mojo Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Blink Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2013,14 +2043,14 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
   </tr>
   <tr>
     <td class="leftText highlightGray">Monster Summoner</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Explosion Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2054,13 +2084,13 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
   </tr>
   <tr>
     <td class="leftText highlightGray">Wood Arrow</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText highlightGray">Knockback Arrow</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2074,53 +2104,53 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
   </tr>
   <tr>
     <td class="leftText highlightGray">Iron Arrow</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText highlightGray">Truestrike Arrow</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Rock</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Silver Arrow</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText highlightGray">Killer Arrow</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Porky Rock</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Critical Arrow</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Drain Arrow</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2134,16 +2164,16 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
   </tr>
   <tr>
     <td class="leftText highlightGray">Poison Arrow</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText highlightGray">Random Arrow</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText highlightGray">David's Bullet</td>
     <td></td>
@@ -2181,10 +2211,10 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
   </tr>
   <tr>
     <td class="leftText highlightGray">Swap Staff</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText highlightGray">Drama Staff</td>
     <td></td>
@@ -2193,19 +2223,19 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Seal Staff</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Knockback Staff</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText highlightGray">Nagging Staff</td>
     <td></td>
     <td></td>
@@ -2213,24 +2243,24 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Clone Staff</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Pinning Staff</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText highlightGray">Balance Staff</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText highlightGray">Staff of Sacrifice</td>
     <td></td>
@@ -2241,90 +2271,90 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
   </tr>
   <tr>
     <td class="leftText highlightGray">Mage Staff</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText highlightGray">Empathy Staff</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText highlightGray">Glorious Staff</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Slow Staff</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText highlightGray">Ordinary Staff</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText highlightGray">Unlucky Staff</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Swift Staff</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText highlightGray">Trap Del. Staff</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText highlightGray">Boring Staff</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Transient Staff</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText highlightGray">Electric Staff</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText highlightGray">Fort. Staff</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Paralysis Staff</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText highlightGray">Shocking Staff</td>
     <td></td>
@@ -2368,91 +2398,91 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
   </tr>
   <tr>
     <td class="leftText highlightGray">Shadow Bind Tal.</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText highlightGray">Inacc. Talisman</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText highlightGray">Enraged Talisman</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Conf. Talisman</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText highlightGray">Sleep Talisman</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText highlightGray">Furious Talisman</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Seal Talisman</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText highlightGray">Slumber Talisman</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText highlightGray">Glorious Talisman</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Fear Talisman</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText highlightGray">Slow Talisman</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td rowspan="2" colspan="6"></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Berserker Tal.</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText highlightGray">Swift Talisman</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
 </table>
@@ -2490,54 +2520,54 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Pot God Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Vacuum Slash Scrl</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Navigation Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Extraction Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Dispel Aura Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Oil Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Blessing Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Night-Day Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2550,14 +2580,14 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Curse Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Swift Foe Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2565,19 +2595,19 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
   <tr>
     <td class="leftText highlightGray">Recommend. Letter</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Coupon Scroll</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Mnster House Scrl</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2596,16 +2626,16 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Immunity Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Identify Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2624,8 +2654,8 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
   </tr>
   <tr>
     <td class="leftText highlightGray">Gathering Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2636,28 +2666,28 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Fixer Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Collection Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Fear Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Gambler's Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2670,8 +2700,8 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Trap Deletion Scrl</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2684,14 +2714,14 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
   </tr>
   <tr>
     <td class="leftText highlightGray">Exorcism Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Desert Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2704,60 +2734,60 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
   </tr>
   <tr>
     <td class="leftText highlightGray">Fate Scroll</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText highlightGray">Trap Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Lost Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Earth Scroll</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText highlightGray">Muzzled Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Sanctuary Scroll</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Plating Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Grounded Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Expulsion Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2770,8 +2800,8 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Attraction Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2784,43 +2814,43 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
   </tr>
   <tr>
     <td class="leftText highlightGray">Sale Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Confusion Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Blank Scroll</td>
     <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Onigiri Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Slumber Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Extinction Scroll</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
 </table>
 
@@ -2857,28 +2887,28 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Stomach Expander</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Revival Grass</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Herb</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Stomach Shrinker</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2897,8 +2927,8 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Confusion Grass</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2911,14 +2941,14 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
   </tr>
   <tr>
     <td class="leftText highlightGray">Otogiriso</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Blinding Grass</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2931,8 +2961,8 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
   </tr>
   <tr>
     <td class="leftText highlightGray">Antidote Grass</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2943,116 +2973,116 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Invincible Grass</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Poison Grass</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Life Grass</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText highlightGray">Cheery Grass</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Warp Grass</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Strength Grass</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Unlucky Seed</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Heal Grass</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText highlightGray">Dragon Grass</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Amnesia Grass</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Power Up Grass</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Sleepy Grass</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Imabikiso</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Upgrade Seed</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Rage Grass</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Angel Seed</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Perception Grass</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3063,19 +3093,19 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
     <td></td>
     <td></td>
     <td class="leftText highlightGray">SuperUnlucky Seed</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Swift Grass</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td colspan="6"></td>
     <td colspan="6"></td>
   </tr>
@@ -3108,56 +3138,56 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
   </tr>
   <tr>
     <td class="leftText highlightGray">Preservation Pot</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText highlightGray">Fever Pot</td>
     <td></td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText highlightGray">Monster Pot</td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Ordinary Pot</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Exorcism Pot</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText highlightGray">Hilarious Pot</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Identify Pot</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText highlightGray">Blessing Pot</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText highlightGray">Klein Pot</td>
     <td></td>
@@ -3168,30 +3198,30 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
   </tr>
   <tr>
     <td class="leftText highlightGray">Hide Pot</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText highlightGray">Curse Pot</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText highlightGray">Synthesis Pot</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText highlightGray">4-2-8 Pot</td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText highlightGray">Water Pot</td>
     <td></td>
@@ -3208,43 +3238,43 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
   </tr>
   <tr>
     <td class="leftText highlightGray">Sale Pot</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Zen Pot</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText highlightGray">Upgrade Pot</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Presto Pot</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Dodger Pot</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Degrade Pot</td>
     <td></td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Sticky Pot</td>
@@ -3254,17 +3284,17 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Perceptive Pot</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText highlightGray">Lucky Pot</td>
     <td></td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Unbreakable Pot</td>
@@ -3274,17 +3304,17 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Reflection Pot</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText highlightGray">Unlucky Pot</td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Floramorph Pot</td>
@@ -3294,11 +3324,11 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Heal Pot</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText highlightGray">Grilling Pot</td>
     <td></td>
     <td></td>
@@ -3308,13 +3338,13 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
   </tr>
   <tr>
     <td class="leftText highlightGray">Black Hole Pot</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText highlightGray">Zalokleft Pot</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3350,8 +3380,8 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
   </tr>
   <tr>
     <td class="leftText highlightGray">Onigiri</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3362,62 +3392,62 @@ Floor Colors: <span class="highlightFog">Fog</span> <span class="highlightGreen"
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Hard Peach</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Large Onigiri</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText highlightGray">Special Onigiri</td>
     <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText highlightGray">Peach</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Huge Onigiri</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText highlightGray">Dog Onigiri</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Juicy Peach</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText highlightGray">Rotten Onigiri</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td colspan="6"></td>
     <td class="leftText highlightGray">Rotten Peach</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>

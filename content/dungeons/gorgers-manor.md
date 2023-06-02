@@ -7,7 +7,7 @@ metaDescription: "Gorger's Manor guide for Shiren the Wanderer: The Tower of For
   <img src="../images/overworld/gorgers_manor.jpg"/>
 </div>
 
-[Introduction]
+Dungeon where you can find lots of Special Onigiri on the ground.<br/>That sounds lackluster, but it's actually an excellent dungeon to visit when you need points.<br/>Rush to 47F and read 4 x Trap Scrolls → Trap Deletion Scrl, then step on Point Switches and repeat.<br/>However, you'll want to bring strong equipment and useful items to deal with tougher monsters.<br/>Overall, aside from point collection, this dungeon is mostly forgettable.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>

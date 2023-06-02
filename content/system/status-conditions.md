@@ -287,7 +287,7 @@ Key: <span class="highlightBlue">Positive</span>, <span class="highlightPink">Ne
   <tr>
     <th id="inaccurate" rowspan="3" class="highlightPink">Inaccurate</th>
     <td>Shiren</td>
-    <td>Direct attacks will always miss. (10 turns)<br/>If target is <span class="greenText">Asleep</span> or <span class="greenText">Paralyzed</span>, the attack will still connect.</td>
+    <td>Direct attacks will always miss. (10 turns)</td>
     <td rowspan="3">Inacc. Talisman, Foly</td>
   </tr>
   <tr>
@@ -462,7 +462,7 @@ Key: <span class="highlightBlue">Positive</span>, <span class="highlightPink">Ne
   <tr>
     <th id="tinkerer" class="highlightBlue">Tinkerer,<br/>Reinforcer</th>
     <td>Shiren</td>
-    <td>Gain x4.0 equipment skill points from enemies. (100 turns)<br/>Wears off when you change floors.</td>
+    <td>Gain x4.0 equipment skill points from enemies. (100 turns)<br/>Duration lasts for the entire floor if Upgrade Seed is blessed.<br/>Wears off when you change floors.</td>
     <td>Upgrade Seed</td>
   </tr>
   <tr>
@@ -488,7 +488,7 @@ Key: <span class="highlightBlue">Positive</span>, <span class="highlightPink">Ne
   <tr>
     <th id="klein" rowspan="3" class="highlightBlue">Klein</th>
     <td>Shiren</td>
-    <td>Attack power and defense are switched. (20 turns)<br/>Wears off when you change floors.</td>
+    <td>Attack power and defense are switched. (20 turns)<br/>Swaps the effects of <span class="greenText">Buffed</span> and <span class="greenText">Bolstered</span> with each other.<br/>Wears off when you change floors.</td>
     <td rowspan="3">Klein Pot</td>
   </tr>
   <tr>
@@ -513,7 +513,7 @@ Key: <span class="highlightBlue">Positive</span>, <span class="highlightPink">Ne
   <tr>
     <th id="zen" rowspan="3" class="highlightYellow">Zen,<br/>Reflector</th>
     <td>Shiren</td>
-    <td rowspan="3">Makes characters immune to fire and explosion damage.<br/>Dragon, Firepuff, Pop Tank, Explochin special attacks,<br/>Explosion traps, Explosion Bracelet, 4-2-8 and Fever pots.<br/>Onigiri can still be grilled. Won't collapse if <span class="greenText">Onigiri</span> status.<br/>Wears off if you change floors. (Reviving doesn't remove it)</td>
+    <td rowspan="3">Makes characters immune to fire and explosion damage.<br/>Dragon, Firepuff, Pop Tank, Explochin special attacks,<br/>Explosion traps, Explosion Bracelet, 4-2-8 Pot, Fever Pot, etc.<br/>Onigiri can still be grilled. Won't collapse if <span class="greenText">Onigiri</span> status.<br/>Wears off if you change floors. (Reviving doesn't remove it)</td>
     <td rowspan="3">Zen Pot</td>
   </tr>
   <tr>
@@ -525,7 +525,7 @@ Key: <span class="highlightBlue">Positive</span>, <span class="highlightPink">Ne
   <tr>
     <th id="dodger" rowspan="3" class="highlightYellow">Dodger</th>
     <td>Shiren</td>
-    <td rowspan="3">Projectiles and thrown items always miss.<br/>Bored Kappa, Field Knave, Porky, Scoopie, Mutaikon,<br/>Bow Boy, and Grass Boy special attacks.<br/>Wears off if you change floors. (Reviving doesn't remove it)</td>
+    <td rowspan="3">Projectiles and thrown items always miss.<br/>Bored Kappa, Field Knave, Porky, Scoopie, Mutaikon,<br/>Boy Cart, and Grass Kid special attacks.<br/>Wears off if you change floors. (Reviving doesn't remove it)</td>
     <td rowspan="3">Dodger Pot</td>
   </tr>
   <tr>
@@ -629,7 +629,7 @@ Key: <span class="highlightBlue">Positive</span>, <span class="highlightPink">Ne
   <tr>
     <th id="bolstered" rowspan="3" class="highlightBlue">Bolstered,<br/>Fortified</th>
     <td>Shiren</td>
-    <td rowspan="3">Reduces damage received by about 50%. (8 stages max)<br/>Stages: 50%, 60%, 70%, 80%, 90%, 95%, 97%, 99%</td>
+    <td rowspan="3">Reduces damage received by about 20%. (8 stages max)<br/>Stages: 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%</td>
     <td rowspan="3">Hard Peach</td>
   </tr>
   <tr>

@@ -15,7 +15,7 @@ Being able to successfully identify unidentified items is one of the keys to get
 <ul class="quickLinksUL">
   <li><a href="#methods">Methods</a>
     <ul>
-      <li><a href="#yolo">YOLO</a></li>
+      <li><a href="#trial">Trial</a></li>
       <li><a href="#price">Price</a></li>
       <li><a href="#identify-scroll">Identify Scroll</a></li>
       <li><a href="#identify-pot">Identify Pot</a></li>
@@ -34,9 +34,9 @@ Being able to successfully identify unidentified items is one of the keys to get
 
 Identification of items can be generally categorized into 5 main methods.
 
-### YOLO
+### Trial
 
-"You only live once" technique where you just use the item and determine what it is based on its effect.<br/>
+Technique where you just try using the item and determine what it is based on its effect.<br/>
 It carries the risk of using a negative item, but it's one of the basic methods of identification.
 
 Every item category except bracelets and pots can be identified, but scrolls and grass items are consumed,<br/>
@@ -65,7 +65,7 @@ The ideal way to use an Identify Scroll is to give it to a Shopkeeper to identif
 especially in dungeons where shops always appear on specific floors. (The Identify Scroll must be identified)<br/>
 If you have enough Gitan to buy items back, go ahead and sell your items before giving the scroll.
 
-If you choose to read the scroll, it's best to use it on item categories that are hard to identify using the YOLO method.<br/>
+If you choose to read the scroll, it's best to use it on item categories that are hard to identify using the Trial method.<br/>
 Many pots can be identified by inserting an item, and combined with price identification, you can identify most pots.<br/>
 So the cases in which you read the scroll on a pot are limited:
 

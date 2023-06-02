@@ -252,7 +252,7 @@ This section assumes your shield has runes like Anti-Onigiri, Anti-Hypno, Anti-P
 
 Monsters that typically appear around 50F in other dungeons show up right away on 1F.<br/>
 Strong Cart can quickly make you collapse if you start with 15 HP, so you'll want max HP increasing runes.<br/>
-Grass Boy monsters throw grasses like Rage Grass and Sleepy Grass in this dungeon, so avoid lining up with them.
+Grass Kid monsters throw grasses like Rage Grass and Sleepy Grass in this dungeon, so avoid lining up with them.
 
 You generally won't have problems if your equipment is strong, but be careful around monsters that ruin items,<br/>
 such as Mudster (4-5F), Curspinster (7-9F), Item Knave (10-11F), Sensei (13-15F), and Mudder (20-23F).<br/>

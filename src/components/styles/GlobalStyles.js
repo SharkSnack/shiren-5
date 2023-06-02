@@ -658,6 +658,9 @@ export const baseStyles = css`
   .priceTablePots td {
     font-size: 13.5px;
   }
+  .monsterDivider {
+    background-color: #f9fbff;
+  }
   .tableDivider {
     font-weight: normal;
     background-color: #ececec;
@@ -682,6 +685,7 @@ export const baseStyles = css`
     font-weight: normal;
     text-align: center;
     padding: 2.5px;
+    background-color: #e6e6fa !important;
   }
   .monsterTable td {
     text-align: center;
@@ -1073,7 +1077,7 @@ export const baseStyles = css`
     background-color: #ffd3d3 !important;
   }
   .highlightBlue {
-    background-color: #a3e0fd !important;
+    background-color: #c4ecff !important;
   }
   .highlightBlack {
     background-color: #333333 !important;
@@ -1161,6 +1165,12 @@ export const baseStyles = css`
   }
   .highlightShop {
     background-color: #fffac5 !important;
+  }
+  .highlightShop2 {
+    background-color: #fbe366 !important;
+  }
+  .highlightMH {
+    background-color: #f4dfff !important;
   }
   .highlightFog {
     background-color: #dbdbdb;
@@ -1293,7 +1303,7 @@ export const baseStyles = css`
     color: goldenrod;
   }
   .dangerDay {
-    color: #ea8c29;
+    color: #db7d1a;
   }
   .dangerNight {
     color: #bd8700;
