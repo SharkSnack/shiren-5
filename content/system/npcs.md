@@ -68,7 +68,7 @@ Ally characters can also appear as wandering NPCs, and can be recruited by talki
     <td class="highlightYellow"><img src="../images/npc/upgrader.png"/><br/>Upgrader</td>
     <td>Destiny Trail: 1-5<br/>Tower of the Past: 1-7<br/>Tower of the Present: 1-7<br/>Tower of the Future: 1-7</td>
     <td>Lost Well: 1-14<br/>Inori Cave: 70-83</td>
-    <td>Deposit equipment, and she'll return it to you the next time<br/>you meet her with the item having gained 50,000 skill exp.<br/>※ Equipment can only level up 1 level at a time.<br/>※ This service can't be used with Koharu.</td>
+    <td>Deposit equipment, and she'll return it to you the next time<br/>you meet her with the item having gained 50,000 skill points.<br/>※ Equipment can only level up 1 level at a time.<br/>※ This service can't be used with Koharu.</td>
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/tag_master.png"/><br/>Tag Master</td>

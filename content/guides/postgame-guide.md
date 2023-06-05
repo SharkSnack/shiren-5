@@ -426,7 +426,7 @@ See [Runes](/system/synthesis-runes) for details.
 |Diurnal|Day Shield|Reduce damage from day monsters by 25%.|
 |Bit|Binary Shield|Reduce damage by 50% if last digit of HP is 0 or 1.|
 |Anti-Fire|Snake Shield<br/>or Dragon Grass|Reduces fire damage by 50%.|
-|Anti-Blast※|Immunity Scroll<br/>+Fort. Staff<br/>+Explosion Bracelet|Nullifies all explosion damage.|
+|Anti-Blast+|Immunity Scroll<br/>+Fort. Staff<br/>+Explosion Bracelet|Nullifies all explosion damage.|
 |Anti-Hypno|Anti-Gaze Trge|Makes you immune to Gazer hypnosis.|
 |Magi-Twister|Swap Shield|Magic bullet effects converted to 10 damage.|
 |Anti-Onigiri|Onigiri Shield|Blocks onigiri-morphing attacks.|

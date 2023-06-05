@@ -1841,7 +1841,7 @@ Locations:
 
 Randomly makes you explode, halving your current HP like an Explosion Trap.<br/>
 The number of turns that elapse before activating varies, and isn't tied to specific actions.<br/>
-Explosion damage can be nullified by a Zen Pot or the Anti-Blast※ shield rune.<br/>
+Explosion damage can be nullified by a Zen Pot or the Anti-Blast+ shield rune.<br/>
 Useful for grilling onigiri, or for creating a safe space inside walls to cycle day and night.<br/>
 Remembering which dungeons it appears in helps avoid accidents in shops.
 
@@ -1857,7 +1857,7 @@ Enemies tend to walk straight, so an inescapable space can be created in a hallw
 </pre>
 
 Synthesize a sword with this + Oil Scroll + Upgrade Seed to create the Blue Flame rune.<br/>
-Synthesize a shield with this + Immunity Scroll + Fort. Staff to create the Anti-Blast※ rune.
+Synthesize a shield with this + Immunity Scroll + Fort. Staff to create the Anti-Blast+ rune.
 
 <table class="itemDetailsTable">
   <tbody>
@@ -1873,7 +1873,7 @@ Synthesize a shield with this + Immunity Scroll + Fort. Staff to create the Anti
       <th>Sell</th>
       <td>1750</td>
       <th>Rune</th>
-      <td>Blue Flame<br/>Anti-Blast※</td>
+      <td>Blue Flame<br/>Anti-Blast+</td>
     </tr>
   </tbody>
 </table>
@@ -2102,7 +2102,7 @@ Locations:
 
 Makes you explode like stepping on a Big Explosion Trap when you pass through a door.<br/>
 Also prevents special doors from closing when you enter a room with a monster in it.<br/>
-Can be utilized to some degree if you have the Anti-Blast※ shield rune.<br/>
+Can be utilized to some degree if you have the Anti-Blast+ shield rune.<br/>
 This bracelet is always found cursed.
 
 The name is a reference to Nine Hours, Nine Persons, Nine Doors.

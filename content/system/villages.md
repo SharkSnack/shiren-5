@@ -786,7 +786,7 @@ There are 4 villages in the game, each with their own NPCs and facilities.<br/>
 
 1. Filthy Shagga x 10 : Tower of Fortune 3\~4F
 2. Bad Momoseal x 15 : Tower of Fortune 9\~11F
-3. Dark Grass Bro x 20 : Tower of Fortune 12\~13F
+3. Dark Grass Dude x 20 : Tower of Fortune 12\~13F
 
 
 <br/>

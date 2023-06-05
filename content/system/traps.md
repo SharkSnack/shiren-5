@@ -67,14 +67,14 @@ Traps are listed in Item Book order.
   </tr>
   <tr>
     <td id="explosion-trap"><img src="../images/traps/explosion.png"/><br/>Explosion</td>
-    <td>Halves current HP.<br/>[Anti-Blast] rune reduces<br/>damage to 25%.<br/>[Anti-Blast※] rune makes<br/>you immune to damage.<br/><br/>Onigiri not in pots will<br/>be grilled unless you<br/>have [Anti-Blast※].<br/><br/>Any monsters and items<br/>caught in the blast vanish.<br/><br/>Instantly collapse if you<br/>step on it while you're<br/>an Onigiri.</td>
+    <td>Halves current HP.<br/>[Anti-Blast] rune reduces<br/>damage to 25%.<br/>[Anti-Blast+] rune makes<br/>you immune to damage.<br/><br/>Onigiri not in pots will<br/>be grilled unless you<br/>have [Anti-Blast+].<br/><br/>Any monsters and items<br/>caught in the blast vanish.<br/><br/>Instantly collapse if you<br/>step on it while you're<br/>an Onigiri.</td>
     <td>Trapper:<br/>Halves current HP.<br/>Become a Grilled Onigiri<br/>if they step on it while<br/>they're an Onigiri.<br/><br/>Non-Trapper:<br/>The monster vanishes.<br/>(No experience points)</td>
     <td>The item vanishes.</td>
     <td>Items in a 1 tile radius<br/>around the trap vanish,<br/>even with Zen effect.<br/>Zen can't prevent onigiri<br/>from being grilled.</td>
   </tr>
   <tr>
     <td id="big-explosion-trap"><img src="../images/traps/big_explosion.png"/><br/>Big Explosion</td>
-    <td>Sets current HP to 1.<br/>[Anti-Blast] rune reduces<br/>damage to 50%.<br/>[Anti-Blast※] rune makes<br/>you immune to damage.<br/><br/>Onigiri not in pots will<br/>be grilled unless you<br/>have [Anti-Blast※].<br/><br/>Any monsters and items<br/>caught in the blast vanish.<br/><br/>Instantly collapse if you<br/>step on it while you're<br/>an Onigiri.</td>
+    <td>Sets current HP to 1.<br/>[Anti-Blast] rune reduces<br/>damage to 50%.<br/>[Anti-Blast+] rune makes<br/>you immune to damage.<br/><br/>Onigiri not in pots will<br/>be grilled unless you<br/>have [Anti-Blast+].<br/><br/>Any monsters and items<br/>caught in the blast vanish.<br/><br/>Instantly collapse if you<br/>step on it while you're<br/>an Onigiri.</td>
     <td>Trapper:<br/>Sets current HP to 1.<br/>Become a Grilled Onigiri<br/>if they step on it while<br/>they're an Onigiri.<br/><br/>Non-Trapper:<br/>The monster vanishes.<br/>(No experience points)</td>
     <td>The item vanishes.</td>
     <td>Items in a 1 tile radius<br/>around the trap vanish,<br/>even with Zen effect.<br/>Zen can't prevent onigiri<br/>from being grilled.</td>

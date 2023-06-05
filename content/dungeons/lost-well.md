@@ -186,7 +186,7 @@ so shields that reduce damage by a percentage have more value than raw defense.
 
 Runes that block special attacks like <span class="greenText">Anti-Onigiri</span>, <span class="greenText">Magi-Twister</span>, <span class="greenText">Anti-Hypno</span>, <span class="greenText">Anti-Peck</span>, etc. are top priority,<br/>
 since losing items or getting afflicted by a status condition can quickly lead to being in a bad spot.<br/>
-Damage reduction runes are also very important, such as <span class="greenText">Anti-Fire</span>, <span class="greenText">Anti-Blast※</span>, <span class="greenText">Bit</span>, <span class="greenText">Diurnal</span>, etc.<br/>
+Damage reduction runes are also very important, such as <span class="greenText">Anti-Fire</span>, <span class="greenText">Anti-Blast+</span>, <span class="greenText">Bit</span>, <span class="greenText">Diurnal</span>, etc.<br/>
 Some players like <span class="greenText">Retribution</span> for Gitan Mamels and late game monsters, but it slows down the pace of the game.<br/>
 Fearabbits, Yanpiis, Tiger Tossers, and Strong Cart are easier with <span class="greenText">Unmoving</span>, but it's better on a secondary shield.<br/>
 Runes that increase max HP will help you survive, so don't forget to synthesize them.
@@ -246,7 +246,7 @@ provided you have strong equipment and max HP increasing runes for safety.
 
 ### Floor Guide
 
-This section assumes your shield has runes like Anti-Onigiri, Anti-Hypno, Anti-Peck, Magi-Twister, Anti-Blast※, etc.
+This section assumes your shield has runes like Anti-Onigiri, Anti-Hypno, Anti-Peck, Magi-Twister, Anti-Blast+, etc.
 
 #### Early Game (1-25F)
 

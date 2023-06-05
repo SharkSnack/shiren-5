@@ -47,7 +47,7 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
 
 ### Weapon
 
-<table>
+<table class="runeTable">
   <tr>
     <th>Rune</th>
     <th>Innate</th>
@@ -86,7 +86,7 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
   <tr>
     <td class="highlightYellow">Critical</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/weapons#hatchet">Hatchet</a></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#kaburagi">Kaburasutegi</a> 8<br/><a href="/shiren-5/items/weapons#true-knife">True Striker-X</a> 8<br/><a href="/shiren-5/items/weapons#shoddy-dirk">Worthy Sword</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#kaburagi">Kaburagi</a> L8<br/><a href="/shiren-5/items/weapons#true-knife">True Knife</a> L8<br/><a href="/shiren-5/items/weapons#shoddy-dirk">Shoddy Dirk</a> L8</td>
     <td></td>
     <td>22% chance to deal a critical hit</td>
   </tr>
@@ -100,7 +100,7 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
   <tr>
     <td class="highlightYellow">Redeeming</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/weapons#bright-blade">Bright Blade</a></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#ordinary-stick">Ogre's Club</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#ordinary-stick">Ordinary Stick</a> L8</td>
     <td></td>
     <td>After missing twice, get a charge attack<br/>(100% accuracy + critical hit)</td>
   </tr>
@@ -128,21 +128,21 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
   <tr>
     <td class="highlightYellow">Flame Shot</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/weapons#burning-blade">Burning Blade</a></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#fuuma-sword">Fiery Fuuma</a> 7<br/><a href="/shiren-5/items/weapons#red-blade">Shugouseki</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#fuuma-sword">Fuuma Sword</a> L7<br/><a href="/shiren-5/items/weapons#red-blade">Red Blade</a> L8</td>
     <td></td>
     <td>Shoots a fireball when HP is full<br/>(The fireball deals 8 damage)</td>
   </tr>
   <tr>
     <td class="highlightYellow">Confusing</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/weapons#baffle-axe">Baffle Axe</a></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#sturdy-hammer">Fine Hammer</a> 5<br/><a href="/shiren-5/items/weapons#old-mallet">Fine Mallet</a> 5<br/><a href="/shiren-5/items/weapons#bright-blade">Flash Sword</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#sturdy-hammer">Sturdy Hammer</a> L5<br/><a href="/shiren-5/items/weapons#old-mallet">Old Mallet</a> L5<br/><a href="/shiren-5/items/weapons#bright-blade">Bright Blade</a> L8</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/grass#confusion-grass">Confusion Grass</a></td>
     <td>12% chance to inflict <a href="/shiren-5/system/status-conditions#confused">Confused</a> status</td>
   </tr>
   <tr>
     <td class="highlightYellow">Paralyzing</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/weapons#shockuto">Shockuto</a></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#hatchet">War God's Axe</a> 8<br/><a href="/shiren-5/items/weapons#dull-gold-edge">Pure Gold Blade</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#hatchet">Hatchet</a> L8<br/><a href="/shiren-5/items/weapons#dull-gold-edge">Dull Gold Edge</a> L8</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/staves#paralysis-staff">Paralysis Staff</a></td>
     <td>12% chance to inflict <a href="/shiren-5/system/status-conditions#paralyzed">Paralyzed</a> status</td>
   </tr>
@@ -163,14 +163,14 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
   <tr>
     <td class="highlightYellow">Blinding</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/weapons#blurry-stick">Blurry Stick</a></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#wonder-pick">Wonder Basher</a> 5<br/><a href="/shiren-5/items/weapons#rusty-pickaxe">Sturdy Pickaxe</a> 5<br/><a href="/shiren-5/items/weapons#violent-blade">Muramasa</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#wonder-pick">Wonder Pick</a> L5<br/><a href="/shiren-5/items/weapons#rusty-pickaxe">Rusty Pickaxe</a> L5<br/><a href="/shiren-5/items/weapons#violent-blade">Violent Blade</a> L8</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/grass#blinding-grass">Blinding Grass</a></td>
     <td>12% chance to inflict <a href="/shiren-5/system/status-conditions#blind">Blind</a> status</td>
   </tr>
   <tr>
     <td class="highlightYellow">Anti-Explode</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/weapons#crescent-katana">Crescent Katana</a></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#burning-blade">Hellfire Katana</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#burning-blade">Burning Blade</a> L8</td>
     <td></td>
     <td>Deals x1.35 damage to Exploding types</td>
   </tr>
@@ -191,7 +191,7 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
   <tr>
     <td class="highlightYellow">Anti-Cyclops</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/weapons#myopic-masher">Myopic Masher</a></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#violent-blade">Evil Blade</a> 6</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#violent-blade">Violent Blade</a> L6</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/grass#perception-grass">Perception Grass</a></td>
     <td>Deals x1.35 damage to Cyclopean types</td>
   </tr>
@@ -233,14 +233,14 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
   <tr>
     <td class="highlightYellow">Lively</td>
     <td></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#hatchet">Tomahawk</a> 5<br/><a href="/shiren-5/items/weapons#bright-blade">Spark Sword</a> 5</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#hatchet">Hatchet</a> L5<br/><a href="/shiren-5/items/weapons#bright-blade">Bright Blade</a> L5</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/grass#herb">Herb</a></td>
     <td>Increase max HP by 5</td>
   </tr>
   <tr>
     <td class="highlightYellow">Uplifting</td>
     <td></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#red-blade">Red Dagger</a> 3<br/><a href="/shiren-5/items/weapons#bladite">Fine Swordite</a> 4<br/><a href="/shiren-5/items/weapons#burning-blade">Fire Sword</a> 5</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#red-blade">Red Blade</a> L3<br/><a href="/shiren-5/items/weapons#bladite">Bladite</a> L4<br/><a href="/shiren-5/items/weapons#burning-blade">Burning Blade</a> L5</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/grass#otogiriso">Otogiriso</a></td>
     <td>Increase max HP by 10</td>
   </tr>
@@ -254,14 +254,14 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
   <tr>
     <td class="highlightYellow">Energizing</td>
     <td></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#fox-kodachi">Fox Katana</a> 2<br/><a href="/shiren-5/items/weapons#breeze-blade">Deathwind</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#fox-kodachi">Fox Kodachi</a> L2<br/><a href="/shiren-5/items/weapons#breeze-blade">Breeze Blade</a> L8</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/grass#life-grass">Life Grass</a></td>
     <td>Increase max HP by 20</td>
   </tr>
   <tr>
     <td class="highlightYellow">Stupefying</td>
     <td></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#glass-dirk">Frangible Edge</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#glass-dirk">Glass Dirk</a> L8</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/grass#unlucky-seed">Unlucky Seed</a></td>
     <td>12% chance to lower target's level by 1</td>
   </tr>
@@ -275,7 +275,7 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
   <tr>
     <td class="highlightYellow">Enhancing</td>
     <td></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#dotanuki">Epic Dotanuki</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#dotanuki">Dotanuki</a> L8</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/grass#cheery-grass">Cheery Grass</a></td>
     <td>Increases weapon base attack by 3</td>
   </tr>
@@ -289,7 +289,7 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
   <tr>
     <td class="highlightYellow">Quick Hitting</td>
     <td></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#kaburagi">Kaburasutegi</a> 8<br/><a href="/shiren-5/items/weapons#kabura-katana">S-Class Kabura</a> 8<br/><a href="/shiren-5/items/weapons#shoddy-dirk">Worthy Sword</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#kaburagi">Kaburagi</a> L8<br/><a href="/shiren-5/items/weapons#kabura-katana">Kabura Katana</a> L8<br/><a href="/shiren-5/items/weapons#shoddy-dirk">Shoddy Dirk</a> L8</td>
     <td class="highlightLightblue">Choose 2 from:<br/><a href="/shiren-5/items/grass#swift-grass">Swift Grass</a><br/><a href="/shiren-5/items/talismans#swift-talisman">Swift Talisman</a><br/><a href="/shiren-5/items/staves#swift-staff">Swift Staff</a></td>
     <td>12% chance to attack 2 times</td>
   </tr>
@@ -305,7 +305,7 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
     <td class="highlightLightblue"><a href="/shiren-5/items/weapons#extreme-sword">Extreme Sword</a></td>
     <td></td>
     <td></td>
-    <td>Accuracy falls to 50%, but always critically hit<br/>(Nullifies Accurate and Redeeming runes)</td>
+    <td>Accuracy set to 50%, but always critically hit<br/>(Nullifies Accurate and Redeeming runes)</td>
   </tr>
   <tr>
     <td class="highlightYellow">Costly</td>
@@ -331,7 +331,7 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
   <tr>
     <td class="highlightYellow">Enlightening</td>
     <td></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#fox-kodachi">Shy Sword</a> 5</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#fox-kodachi">Fox Kodachi</a> L5</td>
     <td></td>
     <td>Increases experience points earned (+15%)</td>
   </tr>
@@ -345,14 +345,14 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
   <tr>
     <td class="highlightYellow">Healing</td>
     <td></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#fox-kodachi">Koharu Sword</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#fox-kodachi">Fox Kodachi</a> L8</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/bracelets#heal-bracelet">Heal Bracelet</a><br/>+ <a href="/shiren-5/items/pots#heal-pot">Heal Pot</a></td>
     <td>Restore HP equal to 12% of damage dealt</td>
   </tr>
   <tr>
     <td class="highlightYellow">Anointing</td>
     <td></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#fox-kodachi">Smitten Sword</a> 7</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#fox-kodachi">Fox Kodachi</a> L7</td>
     <td></td>
     <td>20% chance for enemy drops to be blessed</td>
   </tr>
@@ -373,7 +373,7 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
   <tr>
     <td class="highlightYellow">Clutch</td>
     <td></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#fox-kodachi">Fine Fox Katana</a> 3</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/weapons#fox-kodachi">Fox Kodachi</a> L3</td>
     <td></td>
     <td>When HP is low, you'll always hit critically<br/>(Current HP is less than 30% of max HP)</td>
   </tr>
@@ -446,7 +446,7 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
 
 ### Shield
 
-<table>
+<table class="runeTable">
   <tr>
     <th>Rune</th>
     <th>Innate</th>
@@ -457,7 +457,7 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
   <tr>
     <td class="highlightYellow">CR Diet</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/shields#diet-shield">Diet Shield</a></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/shields#onigiri-shield">Ume Onigiri</a> 6<br/><a href="/shiren-5/items/shields#plain-targe">Demon's Guard</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#onigiri-shield">Onigiri Shield</a> L6<br/><a href="/shiren-5/items/shields#plain-targe">Plain Targe</a> L8</td>
     <td></td>
     <td>Fullness depletes at half speed</td>
   </tr>
@@ -471,21 +471,21 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
   <tr>
     <td class="highlightYellow">Anti-Fire</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/shields#snake-shield">Snake Shield</a></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/shields#red-shield">Shugouseki</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#red-shield">Red Shield</a> L8</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/grass#dragon-grass">Dragon Grass</a></td>
     <td>Reduces fire damage by 50%</td>
   </tr>
   <tr>
     <td class="highlightYellow">Retribution</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/shields#counter-shield">Counter Shield</a></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/shields#parry-shield">Untouchable</a> 8<br/><a href="/shiren-5/items/shields#steady-shield">Stalwart Shield</a> 8<br/><a href="/shiren-5/items/shields#snake-shield">Dragonkeeper</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#parry-shield">Parry Shield</a> L8<br/><a href="/shiren-5/items/shields#steady-shield">Steady Shield</a> L8<br/><a href="/shiren-5/items/shields#snake-shield">Snake Shield</a> L8</td>
     <td></td>
     <td>Reflects 28% damage back at enemy</td>
   </tr>
   <tr>
     <td class="highlightYellow">Agile</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/shields#spry-shield">Spry Shield</a></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/shields#gyadon-blocker">Gyad-NON!</a> 8<br/><a href="/shiren-5/items/shields#anti-gaze-trge">Gazebuster</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#gyadon-blocker">Gyadon Blocker</a> L8<br/><a href="/shiren-5/items/shields#anti-gaze-trge">Anti-Gaze Trge</a> L8</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/grass#perception-grass">Perception Grass</a> x2</td>
     <td>Raises your evasion from 12% → 22%</td>
   </tr>
@@ -499,7 +499,7 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
   <tr>
     <td class="highlightYellow">Anti-Blast</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/shields#blast-shield">Blast Shield</a></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/shields#lock-shield">Retina Scan</a> 8<br/><a href="/shiren-5/items/shields#safe-shield">Fort Knox</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#lock-shield">Lock Shield</a> L8<br/><a href="/shiren-5/items/shields#safe-shield">Safe Shield</a> L8</td>
     <td></td>
     <td>Reduces explosive damage by 50%</td>
   </tr>
@@ -513,21 +513,21 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
   <tr>
     <td class="highlightYellow">Unmoving</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/shields#steady-shield">Steady Shield</a></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/shields#parry-shield">Untouchable</a> 8<br/><a href="/shiren-5/items/shields#heavy-shield">Ultimate Aegis</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#parry-shield">Parry Shield</a> L8<br/><a href="/shiren-5/items/shields#heavy-shield">Heavy Shield</a> L8</td>
     <td></td>
     <td>Nullifies movement effects</td>
   </tr>
   <tr>
     <td class="highlightYellow">Anti-Hypno</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/shields#anti-gaze-trge">Anti-Gaze Trge</a></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/shields#helix-shield">Infinautilus</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#helix-shield">Helix Shield</a> L8</td>
     <td></td>
     <td>Grants immunity to hypnosis</td>
   </tr>
   <tr>
     <td class="highlightYellow">Magi-Twister</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/shields#swap-shield">Swap Shield</a></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/shields#binary-shield">Grt. 0/1 Shield</a> 6</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#binary-shield">Binary Shield</a> L6</td>
     <td></td>
     <td>Magic bullet effects change into damage</td>
   </tr>
@@ -541,14 +541,14 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
   <tr>
     <td class="highlightYellow">Tiger Mom</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/shields#student-shield">Student Shield</a></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/shields#helix-shield">Infinautilus</a> 8<br/><a href="/shiren-5/items/shields#fuuma-shield">Fuuma Legend</a> 8<br/><a href="/shiren-5/items/shields#nirvana-board">Nirvana Tower</a> 8<br/><a href="/shiren-5/items/shields#counter-shield">Killer Counter</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#helix-shield">Helix Shield</a> L8<br/><a href="/shiren-5/items/shields#fuuma-shield">Fuuma Shield</a> L8<br/><a href="/shiren-5/items/shields#nirvana-board">Nirvana Board</a> L8<br/><a href="/shiren-5/items/shields#counter-shield">Counter Shield</a> L8</td>
     <td></td>
     <td>Gain exp equal to damage taken when hit</td>
   </tr>
   <tr>
     <td class="highlightYellow">Pain Fueled</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/shields#bowl-shield">Bowl Shield</a></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/shields#gold-shield">24K Gold Shield</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#gold-shield">Gold Shield</a> L8</td>
     <td></td>
     <td>6% chance to restore fullness by 1 when hit</td>
   </tr>
@@ -562,35 +562,35 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
   <tr>
     <td class="highlightYellow">Anti-Theft</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/shields#lock-shield">Lock Shield</a></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/shields#targite">Galaxy Guard</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#targite">Targite</a> L8</td>
     <td></td>
     <td>Your items will never be stolen</td>
   </tr>
   <tr>
     <td class="highlightYellow">Anti-Burgle</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/shields#safe-shield">Safe Shield</a></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/shields#blast-shield">Bomb Shelter</a> 8<br/><a href="/shiren-5/items/shields#heavy-shield">Ultimate Aegis</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#blast-shield">Blast Shield</a> L8<br/><a href="/shiren-5/items/shields#heavy-shield">Heavy Shield</a> L8</td>
     <td></td>
     <td>Your Gitan will never be stolen</td>
   </tr>
   <tr>
     <td class="highlightYellow">Anti-Peck</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/shields#gyadon-blocker">Gyadon Blocker</a></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/shields#red-shield">Shugouseki</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#red-shield">Red Shield</a> L8</td>
     <td></td>
     <td>Your items will never be pecked at</td>
   </tr>
   <tr>
     <td class="highlightYellow">Lively</td>
     <td></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/shields#wolfshead">Rare Wolfshead</a> 4<br/><a href="/shiren-5/items/shields#tin-shield">Fine Tin Shield</a> 4<br/><a href="/shiren-5/items/shields#plain-targe">Nice Wd. Targe</a> 4<br/><a href="/shiren-5/items/shields#student-shield">3.5 GPA Shield</a> 5</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#wolfshead">Wolfshead</a> L4<br/><a href="/shiren-5/items/shields#tin-shield">Tin Shield</a> L4<br/><a href="/shiren-5/items/shields#plain-targe">Plain Targe</a> L4<br/><a href="/shiren-5/items/shields#student-shield">Student Shield</a> L5</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/grass#herb">Herb</a></td>
     <td>Increase max HP by 5</td>
   </tr>
   <tr>
     <td class="highlightYellow">Uplifting</td>
     <td></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/shields#red-shield">Rare Red Shield</a> 3<br/><a href="/shiren-5/items/shields#targite">Good Shieldite</a> 4<br/><a href="/shiren-5/items/shields#beast-shield">Beast King Shld</a> 4<br/><a href="/shiren-5/items/shields#iron-targe">Iron Aspis</a> 4<br/><a href="/shiren-5/items/shields#swap-shield">Mega Prismagic</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#red-shield">Red Shield</a> L3<br/><a href="/shiren-5/items/shields#targite">Targite</a> L4<br/><a href="/shiren-5/items/shields#beast-shield">Beast Shield</a> L4<br/><a href="/shiren-5/items/shields#iron-targe">Iron Targe</a> L4<br/><a href="/shiren-5/items/shields#swap-shield">Swap Shield</a> L8</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/grass#otogiriso">Otogiriso</a></td>
     <td>Increase max HP by 10</td>
   </tr>
@@ -604,14 +604,14 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
   <tr>
     <td class="highlightYellow">Energizing</td>
     <td></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/shields#fox-shield">Good Fox Shield</a> 2<br/><a href="/shiren-5/items/shields#diet-shield">Surfeit Shield</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#fox-shield">Fox Shield</a> L2<br/><a href="/shiren-5/items/shields#diet-shield">Diet Shield</a> L8</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/grass#life-grass">Life Grass</a></td>
     <td>Increase max HP by 20</td>
   </tr>
   <tr>
     <td class="highlightYellow">Stupefying</td>
     <td></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/shields#glass-buckler">Frangible Shld</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#glass-buckler">Glass Buckler</a> L8</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/grass#unlucky-seed">Unlucky Seed</a></td>
     <td>12% chance to reduce attacker's level by 1</td>
   </tr>
@@ -625,7 +625,7 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
   <tr>
     <td class="highlightYellow">Enhancing</td>
     <td></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/shields#swap-shield">Mega Prismagic</a> 8<br/><a href="/shiren-5/items/shields#student-shield">Valedictorian</a> 8<br/><a href="/shiren-5/items/shields#beast-shield">Beastmaster</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#swap-shield">Swap Shield</a> L8<br/><a href="/shiren-5/items/shields#student-shield">Student Shield</a> L8<br/><a href="/shiren-5/items/shields#beast-shield">Beast Shield</a> L8</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/grass#cheery-grass">Cheery Grass</a></td>
     <td>Increase shield base defense by 3</td>
   </tr>
@@ -702,35 +702,35 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
   <tr>
     <td class="highlightYellow">Critproof</td>
     <td></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/shields#fox-shield">Smitten Shield</a> 7</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#fox-shield">Fox Shield</a> L7</td>
     <td></td>
     <td>Converts critical hits received to 1 damage</td>
   </tr>
   <tr>
-    <td class="highlightYellow">Anti-Blast※</td>
+    <td class="highlightYellow">Anti-Blast+</td>
     <td></td>
     <td></td>
     <td class="highlightLightblue"><a href="/shiren-5/items/scrolls#immunity-scroll">Immunity Scroll</a><br/>+ <a href="/shiren-5/items/staves#fort-staff">Fort. Staff</a><br/>+ <a href="/shiren-5/items/bracelets#explosion-bracelet">Explosion Bracelet</a></td>
-    <td>Grants immunity to explosive damage<br/>(※ duplicate name, but it's a different rune)</td>
+    <td>Grants immunity to explosive damage<br/>(Duplicate name, but it's a different rune)</td>
   </tr>
   <tr>
     <td class="highlightYellow">Ability Regen</td>
     <td></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/shields#fox-shield">Shy Shield</a> 5</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#fox-shield">Fox Shield</a> L5</td>
     <td class="highlightLightblue"><a href="/shiren-5/items/scrolls#replenish-scroll">Replenish Scroll</a></td>
     <td>12% chance to refresh 3 abilities when hit</td>
   </tr>
   <tr>
     <td class="highlightYellow">Curative</td>
     <td></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/shields#fox-shield">Koharu Shield</a> 8</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#fox-shield">Fox Shield</a> L8</td>
     <td></td>
     <td>18% chance to cure bad statuses when hit</td>
   </tr>
   <tr>
     <td class="highlightYellow">Adaptive</td>
     <td></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/shields#fox-shield">Fine Fox Shield</a> 3</td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/shields#fox-shield">Fox Shield</a> L3</td>
     <td></td>
     <td>Reduce damage from same monster by 25%</td>
   </tr>
@@ -780,8 +780,8 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
     <td>18% chance to warp the attacker</td>
   </tr>
   <tr>
-    <td class="highlightYellow">Redirecting※</td>
-    <td>Reflects magic bullets, hypnosis, dances<br/>(※ duplicate name, but it's a different rune)</td>
+    <td class="highlightYellow">Redirecting+</td>
+    <td>Reflects magic bullets, hypnosis, dances<br/>(Duplicate name, but it's a different rune)</td>
   </tr>
   <tr>
     <td class="highlightYellow">Escapiing</td>
@@ -1328,7 +1328,7 @@ or the rune is a <a href="/shiren-5/system/new-items">New Item</a> weapon or shi
   </tr>
   <tr>
     <td class="highlightRed">Top</td>
-    <td>Anti-Fire, Anti-Blast, Diurnal, Bit, Anti-Blast※, Magi-Twister, CR Diet</td>
+    <td>Anti-Fire, Anti-Blast, Diurnal, Bit, Anti-Blast+, Magi-Twister, CR Diet</td>
   </tr>
   <tr>
     <td class="highlightPink">High</td>
@@ -1372,10 +1372,10 @@ Priority: <span class="highlightPink">High</span>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="/shiren-5/items/weapons#baffle-axe">Baffle Axe</a><br/><a href="/shiren-5/items/grass#confusion-grass">Confusion Grass</a></td>
-    <td><a href="/shiren-5/items/weapons#sturdy-hammer">Fine Hammer</a> 5<br/><a href="/shiren-5/items/weapons#old-mallet">Fine Mallet</a> 5<br/><a href="/shiren-5/items/weapons#bright-blade">Flash Sword</a> 5</td>
+    <td><a href="/shiren-5/items/weapons#sturdy-hammer">Sturdy Hammer</a> L5<br/><a href="/shiren-5/items/weapons#old-mallet">Old Mallet</a> L5<br/><a href="/shiren-5/items/weapons#bright-blade">Bright Blade</a> L5</td>
     <td>1000</td>
     <td>350</td>
-    <td>12% chance to inflict <a href="/shiren-5/system/status-conditions#confused">Confused</a> status for 20 turns</td>
+    <td>12% chance to inflict <a href="/shiren-5/system/status-conditions#confused">Confused</a> status (20 turns)</td>
   </tr>
 </table>
 
@@ -1396,7 +1396,7 @@ Priority: <span class="highlightRed">Top</span>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="/shiren-5/items/weapons#shockuto">Shockuto</a><br/><a href="/shiren-5/items/staves#paralysis-staff">Paralysis Staff</a></td>
-    <td><a href="/shiren-5/items/weapons#hatchet">War God's Axe</a> 8<br/><a href="/shiren-5/items/weapons#dull-gold-edge">Pure Gold Blade</a> 8</td>
+    <td><a href="/shiren-5/items/weapons#hatchet">Hatchet</a> L8<br/><a href="/shiren-5/items/weapons#dull-gold-edge">Dull Gold Edge</a> L8</td>
     <td>1000</td>
     <td>350</td>
     <td>12% chance to inflict <a href="/shiren-5/system/status-conditions#paralyzed">Paralyzed</a> status</td>
@@ -1445,7 +1445,7 @@ Priority: <span class="highlightRed">Top</span>
     <td>-</td>
     <td>1000</td>
     <td>350</td>
-    <td>12% chance to inflict <a href="/shiren-5/system/status-conditions#asleep">Asleep</a> status for 6 turns</td>
+    <td>12% chance to inflict <a href="/shiren-5/system/status-conditions#asleep">Asleep</a> status (6 turns)</td>
   </tr>
 </table>
 
@@ -1465,10 +1465,10 @@ Priority: <span class="highlightPink">High</span>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="/shiren-5/items/weapons#blurry-stick">Blurry Stick</a><br/><a href="/shiren-5/items/grass#blinding-grass">Blinding Grass</a></td>
-    <td><a href="/shiren-5/items/weapons#wonder-pick">Wonder Basher</a> 5<br/><a href="/shiren-5/items/weapons#rusty-pickaxe">Sturdy Pickaxe</a> 5<br/><a href="/shiren-5/items/weapons#violent-blade">Muramasa</a> 8</td>
+    <td><a href="/shiren-5/items/weapons#wonder-pick">Wonder Pick</a> L5<br/><a href="/shiren-5/items/weapons#rusty-pickaxe">Rusty Pickaxe</a> L5<br/><a href="/shiren-5/items/weapons#violent-blade">Violent Blade</a> L8</td>
     <td>1000</td>
     <td>350</td>
-    <td>12% chance to inflict <a href="/shiren-5/system/status-conditions#blind">Blind</a> status for 10 turns</td>
+    <td>12% chance to inflict <a href="/shiren-5/system/status-conditions#blind">Blind</a> status (10 turns)</td>
   </tr>
 </table>
 
@@ -1491,7 +1491,7 @@ Priority: <span class="highlightRed">Top</span>
     <td>-</td>
     <td>1000</td>
     <td>350</td>
-    <td>12% chance to inflict <a href="/shiren-5/system/status-conditions#apathetic">Apathetic</a> status for 6 turns</td>
+    <td>12% chance to inflict <a href="/shiren-5/system/status-conditions#apathetic">Apathetic</a> status (6 turns)</td>
   </tr>
 </table>
 
@@ -1511,7 +1511,7 @@ Priority: <span class="highlightBlue">Low</span>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="/shiren-5/items/weapons#crescent-katana">Crescent Katana</a></td>
-    <td><a href="/shiren-5/items/weapons#burning-blade">Hellfire Katana</a> 8</td>
+    <td><a href="/shiren-5/items/weapons#burning-blade">Burning Blade</a> L8</td>
     <td>500</td>
     <td>175</td>
     <td>Deal x1.35 damage to Exploding types<br/><br/>Families: Pop Tank, Explochin, Sweet Nut</td>
@@ -1582,7 +1582,7 @@ Priority: <span class="highlightBlue">Low</span>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="/shiren-5/items/weapons#myopic-masher">Myopic Masher</a><br/><a href="/shiren-5/items/grass#perception-grass">Perception Grass</a></td>
-    <td><a href="/shiren-5/items/weapons#violent-blade">Evil Blade</a> 6</td>
+    <td><a href="/shiren-5/items/weapons#violent-blade">Violent Blade</a> L6</td>
     <td>500</td>
     <td>175</td>
     <td>Deal x1.35 damage to Cyclopean types<br/><br/>Families: Explochin, Metalhead, Gazer, Foly</td>
@@ -1743,7 +1743,7 @@ Priority: <span class="highlightPink">High</span>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="/shiren-5/items/weapons#hatchet">Hatchet</a></td>
-    <td><a href="/shiren-5/items/weapons#kaburagi">Kaburasutegi</a> 8<br/><a href="/shiren-5/items/weapons#true-knife">True Striker-X</a> 8<br/><a href="/shiren-5/items/weapons#shoddy-dirk">Worthy Sword</a> 8</td>
+    <td><a href="/shiren-5/items/weapons#kaburagi">Kaburagi</a> L8<br/><a href="/shiren-5/items/weapons#true-knife">True Knife</a> L8<br/><a href="/shiren-5/items/weapons#shoddy-dirk">Shoddy Dirk</a> L8</td>
     <td>1000</td>
     <td>350</td>
     <td>22% chance to deal a critical hit</td>
@@ -1766,7 +1766,7 @@ Priority: <span class="highlightBlue">Low</span>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="/shiren-5/items/weapons#bright-blade">Bright Blade</a></td>
-    <td><a href="/shiren-5/items/weapons#ordinary-stick">Ogre's Club</a> 8</td>
+    <td><a href="/shiren-5/items/weapons#ordinary-stick">Ordinary Stick</a> L8</td>
     <td>500</td>
     <td>175</td>
     <td>Deal a charge attack after missing twice<br/>(100% accuracy + critical hit)</td>
@@ -1789,7 +1789,7 @@ Priority: <span class="highlightBlue">Low</span> (Early game: <span class="highl
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="/shiren-5/items/weapons#burning-blade">Burning Blade</a></td>
-    <td><a href="/shiren-5/items/weapons#fuuma-sword">Fiery Fuuma</a> 7<br/><a href="/shiren-5/items/weapons#red-blade">Shugouseki</a> 8</td>
+    <td><a href="/shiren-5/items/weapons#fuuma-sword">Fuuma Sword</a> L7<br/><a href="/shiren-5/items/weapons#red-blade">Red Blade</a> L8</td>
     <td>2000</td>
     <td>700</td>
     <td>Shoot a fireball that deals 8 damage when HP is full</td>
@@ -1816,7 +1816,7 @@ Priority: <span class="highlightPink">High</span>
   </tr>
   <tr>
     <td class="highlightLightblue">Choose 2 from:<br/><a href="/shiren-5/items/grass#swift-grass">Swift Grass</a><br/><a href="/shiren-5/items/talismans#swift-talisman">Swift Talisman</a><br/><a href="/shiren-5/items/staves#swift-staff">Swift Staff</a></td>
-    <td><a href="/shiren-5/items/weapons#kaburagi">Kaburasutegi</a> 8<br/><a href="/shiren-5/items/weapons#kabura-katana">S-Class Kabura</a> 8<br/><a href="/shiren-5/items/weapons#shoddy-dirk">Worthy Sword</a> 8</td>
+    <td><a href="/shiren-5/items/weapons#kaburagi">Kaburagi</a> L8<br/><a href="/shiren-5/items/weapons#kabura-katana">Kabura Katana</a> L8<br/><a href="/shiren-5/items/weapons#shoddy-dirk">Shoddy Dirk</a> L8</td>
     <td>1000</td>
     <td>350</td>
     <td>12% chance to attack twice</td>
@@ -1869,7 +1869,7 @@ Priority: <span class="highlightYellow">Mid</span>
   </tr>
 </table>
 
-Same pros and cons as Flame Shot, but deals 20 damage instead of 8.<br/>The Quick Hitting rune lets you shoot flames twice in a row when it activates.<br/>It's powerful, but Explosion Bracelet should be used to synthesize Anti-Blast※ instead.<br/>If you already have Anti-Blast※ or have a way to heal lots HP, go ahead and synthesize it.
+Same pros and cons as Flame Shot, but deals 20 damage instead of 8.<br/>The Quick Hitting rune lets you shoot flames twice in a row when it activates.<br/>It's powerful, but Explosion Bracelet should be used to synthesize Anti-Blast+ instead.<br/>If you already have Anti-Blast+ or have a way to heal lots HP, go ahead and synthesize it.
 
 #### Dispersing
 
@@ -1931,14 +1931,14 @@ Priority: <span class="highlightBlue">Low</span>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="/shiren-5/items/grass#herb">Herb</a></td>
-    <td><a href="/shiren-5/items/weapons#hatchet">Tomahawk</a> 5<br/><a href="/shiren-5/items/weapons#bright-blade">Spark Sword</a> 5</td>
+    <td><a href="/shiren-5/items/weapons#hatchet">Hatchet</a> L5<br/><a href="/shiren-5/items/weapons#bright-blade">Bright Blade</a> L5</td>
     <td rowspan="4">500</td>
     <td rowspan="4">175</td>
     <td>Increase max HP by 5</td>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="/shiren-5/items/grass#otogiriso">Otogiriso</a></td>
-    <td><a href="/shiren-5/items/weapons#red-blade">Red Dagger</a> 3<br/><a href="/shiren-5/items/weapons#bladite">Fine Swordite</a> 4<br/><a href="/shiren-5/items/weapons#burning-blade">Fire Sword</a> 5</td>
+    <td><a href="/shiren-5/items/weapons#red-blade">Red Blade</a> L3<br/><a href="/shiren-5/items/weapons#bladite">Bladite</a> L4<br/><a href="/shiren-5/items/weapons#burning-blade">Burning Blade</a> L5</td>
     <td>Increase max HP by 10</td>
   </tr>
   <tr>
@@ -1948,7 +1948,7 @@ Priority: <span class="highlightBlue">Low</span>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="/shiren-5/items/grass#life-grass">Life Grass</a></td>
-    <td><a href="/shiren-5/items/weapons#fox-kodachi">Fox Katana</a> 2<br/><a href="/shiren-5/items/weapons#breeze-blade">Deathwind</a> 8</td>
+    <td><a href="/shiren-5/items/weapons#fox-kodachi">Fox Kodachi</a> L2<br/><a href="/shiren-5/items/weapons#breeze-blade">Breeze Blade</a> L8</td>
     <td>Increase max HP by 20</td>
   </tr>
 </table>
@@ -1973,7 +1973,7 @@ Priority: <span class="highlightBlue">Low</span>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="/shiren-5/items/grass#cheery-grass">Cheery Grass</a></td>
-    <td><a href="/shiren-5/items/weapons#dotanuki">Epic Dotanuki</a> 8</td>
+    <td><a href="/shiren-5/items/weapons#dotanuki">Dotanuki</a> L8</td>
     <td>1000</td>
     <td>350</td>
     <td>Increase weapon base attack by 3</td>
@@ -2092,7 +2092,7 @@ Priority: <span class="highlightGray">Avoid</span>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="/shiren-5/items/grass#unlucky-seed">Unlucky Seed</a></td>
-    <td><a href="/shiren-5/items/weapons#glass-dirk">Frangible Edge</a> 8</td>
+    <td><a href="/shiren-5/items/weapons#glass-dirk">Glass Dirk</a> L8</td>
     <td>8000</td>
     <td>2800</td>
     <td>12% chance to decrease target's level by 1</td>
@@ -2278,7 +2278,7 @@ Priority: <span class="highlightRed">Top</span>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="/shiren-5/items/shields#snake-shield">Snake Shield</a><br/><a href="/shiren-5/items/grass#dragon-grass">Dragon Grass</a></td>
-    <td><a href="/shiren-5/items/shields#red-shield">Shugouseki</a> 8</td>
+    <td><a href="/shiren-5/items/shields#red-shield">Red Shield</a> L8</td>
     <td>5000</td>
     <td>1750</td>
     <td>Reduces fire damage by 50%</td>
@@ -2301,7 +2301,7 @@ Priority: <span class="highlightRed">Top</span>
   </tr>
   <tr>
     <td class="highlight_blue"><a href="/shiren-5/items/shields#blast-shield">Blast Shield</a></td>
-    <td><a href="/shiren-5/items/shields#lock-shield">Retina Scan</a> 8<br/><a href="/shiren-5/items/shields#safe-shield">Fort Knox</a> 8</td>
+    <td><a href="/shiren-5/items/shields#lock-shield">Lock Shield</a> L8<br/><a href="/shiren-5/items/shields#safe-shield">Safe Shield</a> L8</td>
     <td>100</td>
     <td>35</td>
     <td>Reduces explosive damage by 50%</td>
@@ -2403,7 +2403,7 @@ Priority: <span class="highlightRed">Top</span>
 
 Extremely powerful, but you need to manage your current HP to get the most out of it.<br/>Binary Shield gains Magi-Twister at Lv6, so consider leveling it before synthesizing it.
 
-#### Anti-Blast※
+#### Anti-Blast+
 
 Priority: <span class="highlightRed">Top</span>
 
@@ -2440,7 +2440,7 @@ Priority: <span class="highlightRed">Top</span>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="/shiren-5/items/shields#spry-shield">Spry Shield</a><br/><a href="/shiren-5/items/grass#perception-grass">Perception Grass</a> x2</td>
-    <td><a href="/shiren-5/items/shields#gyadon-blocker">Gyad-NON!</a> 8</td>
+    <td><a href="/shiren-5/items/shields#gyadon-blocker">Gyadon Blocker</a> L8</td>
     <td>3000</td>
     <td>1050</td>
     <td>Increases evasion from 12% → 22%</td>
@@ -2514,7 +2514,7 @@ Priority: <span class="highlightPurple2">Situational</span>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="/shiren-5/items/shields#steady-shield">Steady Shield</a></td>
-    <td><a href="/shiren-5/items/shields#parry-shield">Untouchable</a> 8<br/><a href="/shiren-5/items/shields#heavy-shield">Ultimate Aegis</a> 8</td>
+    <td><a href="/shiren-5/items/shields#parry-shield">Parry Shield</a> L8<br/><a href="/shiren-5/items/shields#heavy-shield">Heavy Shield</a> L8</td>
     <td>500</td>
     <td>175</td>
     <td>Nullifies movement effects</td>
@@ -2538,7 +2538,7 @@ Priority: <span class="highlightPink">High</span>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="/shiren-5/items/shields#anti-gaze-trge">Anti-Gaze Trge</a></td>
-    <td><a href="/shiren-5/items/shields#helix-shield">Infinautilus</a> 8</td>
+    <td><a href="/shiren-5/items/shields#helix-shield">Helix Shield</a> L8</td>
     <td>5000</td>
     <td>1750</td>
     <td>Grants immunity to hypnosis</td>
@@ -2561,7 +2561,7 @@ Priority: <span class="highlightRed">Top</span>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="/shiren-5/items/shields#swap-shield">Swap Shield</a></td>
-    <td><a href="/shiren-5/items/shields#binary-shield">Grt. 0/1 Shield</a> 6</td>
+    <td><a href="/shiren-5/items/shields#binary-shield">Binary Shield</a> L6</td>
     <td>500</td>
     <td>175</td>
     <td>Converts magic bullet effects into 10 damage</td>
@@ -2570,7 +2570,7 @@ Priority: <span class="highlightRed">Top</span>
 
 DJ Mage monsters use special attacks often, and their magic bullets have infinite range.<br/>MC Mage, MC Wizard, and MC Sorceror are especially dangerous and can cancel Super status.<br/>It's ideal to synthesize it on Mixer floors instead of waiting until Mixermon floors,<br/>since that grants protection against MC Mages.
 
-Magi-Twister takes priority when a Reflection Pot is active, so you'll receive 10 damage.<br/>The new item rune Redirecting※ takes priority over Magi-Twister and will reflect magic bullets.<br/>(The rune's description is "Reflects magic bullets, hypnosis, dances")
+Magi-Twister takes priority when a Reflection Pot is active, so you'll receive 10 damage.<br/>The new item rune Redirecting+ takes priority over Magi-Twister and will reflect magic bullets.<br/>(The rune's description is "Reflects magic bullets, hypnosis, dances")
 
 #### Anti-Theft
 
@@ -2586,7 +2586,7 @@ Priority: <span class="highlightPink">High</span>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="/shiren-5/items/shields#lock-shield">Lock Shield</a></td>
-    <td><a href="/shiren-5/items/shields#targite">Galaxy Guard</a> 8</td>
+    <td><a href="/shiren-5/items/shields#targite">Targite</a> L8</td>
     <td>1000</td>
     <td>350</td>
     <td>Your items will never be stolen by Zaloklefts</td>
@@ -2610,7 +2610,7 @@ Priority: <span class="highlightBlue">Low</span>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="/shiren-5/items/shields#safe-shield">Safe Shield</a></td>
-    <td><a href="/shiren-5/items/shields#blast-shield">Bomb Shelter</a> 8<br/><a href="/shiren-5/items/shields#heavy-shield">Ultimate Aegis</a> 8</td>
+    <td><a href="/shiren-5/items/shields#blast-shield">Blast Shield</a> L8<br/><a href="/shiren-5/items/shields#heavy-shield">Heavy Shield</a> L8</td>
     <td>1000</td>
     <td>350</td>
     <td>Your Gitan will never be stolen by Froggos</td>
@@ -2633,7 +2633,7 @@ Priority: <span class="highlightYellow">Mid</span>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="/shiren-5/items/shields#gyadon-blocker">Gyadon Blocker</a></td>
-    <td><a href="/shiren-5/items/shields#red-shield">Shugouseki</a> 8</td>
+    <td><a href="/shiren-5/items/shields#red-shield">Red Shield</a> L8</td>
     <td>500</td>
     <td>175</td>
     <td>Your items will never be pecked by Gyadons</td>
@@ -2706,7 +2706,7 @@ Priority: <span class="highlightBlue">Low</span>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="/shiren-5/items/shields#counter-shield">Counter Shield</a></td>
-    <td><a href="/shiren-5/items/shields#parry-shield">Untouchable</a> 8<br/><a href="/shiren-5/items/shields#steady-shield">Stalwart Shield</a> 8<br/><a href="/shiren-5/items/shields#snake-shield">Dragonkeeper</a> 8</td>
+    <td><a href="/shiren-5/items/shields#parry-shield">Parry Shield</a> L8<br/><a href="/shiren-5/items/shields#steady-shield">Steady Shield</a> L8<br/><a href="/shiren-5/items/shields#snake-shield">Snake Shield</a> L8</td>
     <td>5000</td>
     <td>1750</td>
     <td>Reflects ~28% damage back at enemy</td>
@@ -2731,7 +2731,7 @@ Priority: <span class="highlightBlue">Low</span>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="/shiren-5/items/grass#unlucky-seed">Unlucky Seed</a></td>
-    <td><a href="/shiren-5/items/shields#glass-buckler">Frangible Shld</a> 8</td>
+    <td><a href="/shiren-5/items/shields#glass-buckler">Glass Buckler</a> L8</td>
     <td>1000</td>
     <td>350</td>
     <td>12% chance to reduce attacker's level by 1</td>
@@ -2761,7 +2761,7 @@ Priority: <span class="highlightBlue">Low</span>
   </tr>
 </table>
 
-You end up in an advantageous situation more often than when synthesized onto a weapon.<br/>However, this rune ensures that Explochin monsters explode when it takes effect,<br/>making it extremely risky if you don't have Anti-Blast※ synthesized alongside it.<br/>Can be helpful against Absorbiphants and night monsters on rare occasions.
+You end up in an advantageous situation more often than when synthesized onto a weapon.<br/>However, this rune ensures that Explochin monsters explode when it takes effect,<br/>making it extremely risky if you don't have Anti-Blast+ synthesized alongside it.<br/>Can be helpful against Absorbiphants and night monsters on rare occasions.
 
 #### Lively, Uplifting, Vitalizing, Energizing
 
@@ -2777,14 +2777,14 @@ Priority: <span class="highlightBlue">Low</span>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="/shiren-5/items/grass#herb">Herb</a></td>
-    <td><a href="/shiren-5/items/shields#wolfshead">Rare Wolfshead</a> 4<br/><a href="/shiren-5/items/shields#tin-shield">Fine Tin Shield</a> 4<br/><a href="/shiren-5/items/shields#plain-targe">Nice Wd. Targe</a> 4<br/><a href="/shiren-5/items/shields#student-shield">3.5 GPA Shield</a> 5</td>
+    <td><a href="/shiren-5/items/shields#wolfshead">Wolfshead</a> L4<br/><a href="/shiren-5/items/shields#tin-shield">Tin Shield</a> L4<br/><a href="/shiren-5/items/shields#plain-targe">Plain Targe</a> L4<br/><a href="/shiren-5/items/shields#student-shield">Student Shield</a> L5</td>
     <td rowspan="4">500</td>
     <td rowspan="4">175</td>
     <td>Increase max HP by 5</td>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="/shiren-5/items/grass#otogiriso">Otogiriso</a></td>
-    <td><a href="/shiren-5/items/shields#red-shield">Rare Red Shield</a> 3<br/><a href="/shiren-5/items/shields#targite">Good Shieldite</a> 4<br/><a href="/shiren-5/items/shields#beast-shield">Beast King Shld</a> 4<br/><a href="/shiren-5/items/shields#iron-targe">Iron Aspis</a> 4<br/><a href="/shiren-5/items/shields#swap-shield">Mega Prismagic</a> 8</td>
+    <td><a href="/shiren-5/items/shields#red-shield">Red Shield</a> L3<br/><a href="/shiren-5/items/shields#targite">Targite</a> L4<br/><a href="/shiren-5/items/shields#beast-shield">Beast Shield</a> L4<br/><a href="/shiren-5/items/shields#iron-targe">Iron Targe</a> L4<br/><a href="/shiren-5/items/shields#swap-shield">Swap Shield</a> L8</td>
     <td>Increase max HP by 10</td>
   </tr>
   <tr>
@@ -2794,7 +2794,7 @@ Priority: <span class="highlightBlue">Low</span>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="/shiren-5/items/grass#life-grass">Life Grass</a></td>
-    <td><a href="/shiren-5/items/shields#fox-shield">Good Fox Shield</a> 2<br/><a href="/shiren-5/items/shields#diet-shield">Surfeit Shield</a> 8</td>
+    <td><a href="/shiren-5/items/shields#fox-shield">Fox Shield</a> L2<br/><a href="/shiren-5/items/shields#diet-shield">Diet Shield</a> L8</td>
     <td>Increase max HP by 20</td>
   </tr>
 </table>
@@ -2819,7 +2819,7 @@ Priority: <span class="highlightYellow">Mid</span>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="/shiren-5/items/grass#cheery-grass">Cheery Grass</a></td>
-    <td><a href="/shiren-5/items/shields#swap-shield">Mega Prismagic</a> 8<br/><a href="/shiren-5/items/shields#student-shield">Valedictorian</a> 8<br/><a href="/shiren-5/items/shields#beast-shield">Beastmaster</a> 8</td>
+    <td><a href="/shiren-5/items/shields#swap-shield">Swap Shield</a> L8<br/><a href="/shiren-5/items/shields#student-shield">Student Shield</a> L8<br/><a href="/shiren-5/items/shields#beast-shield">Beast Shield</a> L8</td>
     <td>500</td>
     <td>175</td>
     <td>Increase shield base defense by 3</td>
@@ -2865,7 +2865,7 @@ Priority: <span class="highlightRed">Top</span>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="/shiren-5/items/shields#diet-shield">Diet Shield</a></td>
-    <td><a href="/shiren-5/items/shields#onigiri-shield">Ume Onigiri</a> 6<br/><a href="/shiren-5/items/shields#plain-targe">Demon's Guard</a> 8</td>
+    <td><a href="/shiren-5/items/shields#onigiri-shield">Onigiri Shield</a> L6<br/><a href="/shiren-5/items/shields#plain-targe">Plain Targe</a> L8</td>
     <td>500</td>
     <td>175</td>
     <td>Reduces hunger rate by 50% (20 turns / 1 fullness)</td>
@@ -2934,7 +2934,7 @@ Priority: <span class="highlightBlue">Low</span>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="/shiren-5/items/shields#student-shield">Student Shield</a></td>
-    <td><a href="/shiren-5/items/shields#helix-shield">Infinautilus</a> 8<br/><a href="/shiren-5/items/shields#fuuma-shield">Fuuma Legend</a> 8<br/><a href="/shiren-5/items/shields#nirvana-board">Nirvana Tower</a> 8<br/><a href="/shiren-5/items/shields#counter-shield">Killer Counter</a> 8</td>
+    <td><a href="/shiren-5/items/shields#helix-shield">Helix Shield</a> L8<br/><a href="/shiren-5/items/shields#fuuma-shield">Fuuma Shield</a> L8<br/><a href="/shiren-5/items/shields#nirvana-board">Nirvana Board</a> L8<br/><a href="/shiren-5/items/shields#counter-shield">Counter Shield</a> L8</td>
     <td>1000</td>
     <td>350</td>
     <td>Gain experience points equal to damage received</td>
@@ -2957,10 +2957,10 @@ Priority: <span class="highlightBlue">Low</span>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="/shiren-5/items/shields#bowl-shield">Bowl Shield</a></td>
-    <td><a href="/shiren-5/items/shields#gold-shield">24K Gold Shield</a> 8</td>
+    <td><a href="/shiren-5/items/shields#gold-shield">Gold Shield</a> L8</td>
     <td>1000</td>
     <td>350</td>
-    <td>6% chance to restore 1 fullness when hit</td>
+    <td>6% chance to replenish 1 fullness when hit</td>
   </tr>
 </table>
 
@@ -3006,7 +3006,7 @@ Priority: <span class="highlightGray">Avoid</span>
     <td>-</td>
     <td>1000</td>
     <td>350</td>
-    <td>50% to break when you get hit</td>
+    <td>50% chance to break when you get hit</td>
   </tr>
 </table>
 
@@ -3073,7 +3073,7 @@ Priority: <span class="highlightBlue">Low</span> (If you use Onigiri Bonanza: <s
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="/shiren-5/items/scrolls#replenish-scroll">Replenish Scroll</a></td>
-    <td><a href="/shiren-5/items/shields#fox-shield">Shy Shield</a> 5</td>
+    <td><a href="/shiren-5/items/shields#fox-shield">Fox Shield</a> L5</td>
     <td>1000</td>
     <td>350</td>
     <td>12% chance to refresh 3 abilities when hit</td>

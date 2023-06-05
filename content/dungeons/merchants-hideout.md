@@ -53,7 +53,7 @@ Dungeon where only weapons, shields, bracelets, pots, and Gitan can be found on 
     <th>Shops</th>
     <td>Regular, Elite,<br/>Pick-A-Choice</td>
     <th>Monster Houses</th>
-    <td></td>
+    <td>Regular, Special, Sudden</td>
   </tr>
   <tr>
     <th>Initial Enemies</th>
@@ -77,9 +77,40 @@ Dungeon where only weapons, shields, bracelets, pots, and Gitan can be found on 
 
 # Strategy
 
-[Quick Links]
+The floor item table includes weapons, shields, bracelets, and pots. (<span class="purpleText">Heal Pot</span> can't be found)<br/>Consumable items can only be obtained from Presto Pots or shops, excluding fixed monster drops.
 
-[Content]
+If you bring a Trapper Bracelet, you can collect Floor Warp Traps + Pit Traps and use those to skip floors.<br/>Or if you have a [New Item](/system/new-items) staff with Transient + Swap effects, you can just use that to skip to the end.<br/>Otherwise, as long as you bring strong equipment and some useful staves + scrolls, it should be easy.
+
+#### Before Clearing Main Story
+
+This dungeon is a great place to obtain strong equipment like Bladite + Targite or Red Blade + Red Shield.<br/>Rare rune ingredients like Breeze Blade (<span class="greenText">Tri-direction</span>) and Swap Shield (<span class="greenText">Magi-Twister</span>) can also be found.<br/>Unlike [Tower of the Future](/dungeons/tower-of-the-future), Foly doesn't spawn on Mixer floors (8-10F) here, so synthesis is a bit easier.<br/>So if you're struggling with the main story, consider entering here to obtain / upgrade equipment.<br/>※ Don't forget to bring an Undo Grass or Escape Scroll.
+
+#### No Carry-In Items
+
+This dungeon is actually balanced well enough for players to be able to clear it without bringing items.<br/>Limit broken monsters appear from 75F, but it's easy to increase upgrade value so it's more manageable<br/>than in dungeons like Rousing Paradise and Storm Forest - Dirk of Debts and Day Shield can also be found.<br/>In addition, Extinction Scroll can be found in regular shops.
+
+Early game does involve a good amount of luck since food and healing items can only be found in shops,<br/>but you can have Karakuroids (6-8F) create Decay Traps and use Pop Tank (8-10F) to grill Rotten Onigiri.<br/>The best method to turn monsters into Rotten Onigiri via traps is to use an <span class="purpleText">Inacc. Bracelet</span> or <span class="purpleText">Dodger Pot</span>.<br/>Mutaikon (11-12F) can also be used to replenish fullness if you have a <span class="purpleText">Cleansing Bracelet</span>.
+
+Insert unidentified bracelets into Identify or Exorcism pots before equipping them.<br/>This ensures you won't get stuck with a cursed Nonary Bracelet, Monsterphobic, or Itemphobic.
+
+HP restoring items are rare, so you'll want to keep Zen and Dodger pots on hand for fixed damage zones.<br/>Zen: Ornery Tank (47-49F), Archdragon (66-68F), Cranky Tank2 (93-96F), Abyss Dragon2 (95-99F).<br/>Dodger: Porkon (49-50F), Porgon (74-77F).
+
+Weapons, shields, and Gitan are common, so Kappa Troll2 (80-81F) floors are a bit more dangerous.<br/>Save Juicy Peaches for those floors if possible, and if you find Revival Grass in a shop, be sure to bless it.
+
+#### Pick-A-Choice Shop Items
+
+|Category|Items|
+|-|-|
+|Weapon|Glass Dirk, Bladite, Kabura Katana, Red Blade, Hatchet, Burning Blade, Breeze Blade|
+|Shield|Glass Buckler, Spry Shield, Fuuma Shield, Swap Shield, Red Shield, Targite, Anti-Gaze Trge, Onigiri Shield|
+|Bracelet|VIP, Anti-Parry, Wall Clip, Identify, Waterwalk, Monster Detector, Item Detector|
+|Grass|Undo Grass, Revival Grass, Invincible Grass, Cheery Grass, Angel Seed|
+|Scroll|Extinction, Blank, Sanctuary, Fate, Earth|
+|Pot|Upgrade, Degrade, Lucky, Unlucky, Fever, Synthesis|
+|Staff|Clone, Paralysis, Fort.|
+|Talisman|Seal, Slumber, Slow, Inacc.|
+|Projectile|Poison Arrow, Random Arrow, Killer Arrow, Drain Arrow, Silver Arrow|
+|Other|Catstones (Lower chance than Lost Well)|
 
 # Monsters
 
@@ -256,7 +287,7 @@ Floor Colors: <span class="limitBreak">Limit break monsters</span><br/>Enemy Col
       <td>Zalokleft</td>
       <td>Hopodile</td>
       <td>Scoopie<br/>Flamebird</td>
-      <td class="monsterTableManeater">1</td>
+      <td class="highlightBlack"></td>
     </tr>
     <tr>
       <td>19</td>
@@ -750,7 +781,7 @@ Floor Colors: <span class="limitBreak">Limit break monsters</span><br/>Enemy Col
       <td>Ruiner<br/>Sproutitan2</td>
       <td>Knave King2</td>
       <td>Shovelie2</td>
-      <td class="monsterTableIsleater">4</td>
+      <td rowspan="5" class="monsterTableIsleater">4</td>
     </tr>
     <tr>
       <td class="limitBreak">76</td>
@@ -759,7 +790,6 @@ Floor Colors: <span class="limitBreak">Limit break monsters</span><br/>Enemy Col
       <td>Ruiner<br/>Sproutitan2</td>
       <td>Knave King2</td>
       <td class="highlightGray"></td>
-      <td class="highlightGray">?</td>
     </tr>
     <tr>
       <td class="limitBreak">77</td>
@@ -768,7 +798,6 @@ Floor Colors: <span class="limitBreak">Limit break monsters</span><br/>Enemy Col
       <td>Ruiner</td>
       <td>Boingodile2</td>
       <td>Pumptergeist2<br/>BlightScorp2</td>
-      <td rowspan="3" class="monsterTableIsleater">4</td>
     </tr>
     <tr>
       <td class="limitBreak">78</td>
@@ -829,7 +858,7 @@ Floor Colors: <span class="limitBreak">Limit break monsters</span><br/>Enemy Col
       <td>Blazebird2</td>
       <td>Polygon Stunna2</td>
       <td>Tiger Ace2</td>
-      <td class="highlightGray">?</td>
+      <td class="highlightBlack"></td>
     </tr>
     <tr>
       <td class="limitBreak">85</td>
@@ -838,7 +867,7 @@ Floor Colors: <span class="limitBreak">Limit break monsters</span><br/>Enemy Col
       <td>Blazebird2</td>
       <td>Polygon Stunna2</td>
       <td>Zotdon2<br/>Tiger Ace2</td>
-      <td class="highlightGray">?</td>
+      <td class="highlightBlack"></td>
     </tr>
     <tr>
       <td class="limitBreak">86</td>

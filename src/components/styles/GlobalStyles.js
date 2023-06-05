@@ -778,10 +778,12 @@ export const baseStyles = css`
   }
   .trainingTable th {
     font-weight: normal;
+    text-align: center;
     font-size: 13.5px;
     padding: 2.5px;
   }
   .trainingTable td {
+    text-align: center;
     font-size: 13.5px;
     padding: 2.5px;
   }
@@ -862,6 +864,12 @@ export const baseStyles = css`
   }
   .dungeonTable th {
     font-weight: normal;
+  }
+  .runeTable th {
+
+  }
+  .runeTable td {
+    padding: 3px 5px;
   }
   .dungeonItems th {
     font-weight: normal;
@@ -1174,6 +1182,15 @@ export const baseStyles = css`
   }
   .highlightFog {
     background-color: #dbdbdb;
+  }
+  .highlightMonsters {
+    background-color: #6aa7f4;
+  }
+  .highlightItems {
+    background-color: #99f2e2;
+  }
+  .highlightTraps {
+    background-color: #bfbfbf;
   }
   .monsterDay {
     background-color: #fffff6;

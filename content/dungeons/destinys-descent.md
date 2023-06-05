@@ -427,7 +427,7 @@ Monsterphobic and Itemphobic can only be found starting from 12F.<br/>Elite and 
   </li>
   <li>Explosion Bracelet
     <ul>
-      <li>Synthesis ingredient for <span class="greenText">Anti-Blast※</span>, which nullifies explosion damage.<br/>Pair it with a Paralysis Staff to one-shot FO-Uβ.</li>
+      <li>Synthesis ingredient for <span class="greenText">Anti-Blast+</span>, which nullifies explosion damage.<br/>Pair it with a Paralysis Staff to one-shot FO-Uβ.</li>
     </ul>
   </li>
   <li>Blink Bracelet
@@ -527,7 +527,7 @@ Monsterphobic and Itemphobic can only be found starting from 12F.<br/>Elite and 
 
 - Fort. Staff
     - Similar to Paralysis Staff, block off a hallway to safely wait for day or night.
-    - Synthesis ingredient for <span class="greenText">Anti-Blast※</span>, which nullifies explosion damage.
+    - Synthesis ingredient for <span class="greenText">Anti-Blast+</span>, which nullifies explosion damage.
 - Boring Staff
     - Mostly used to cycle time of day early game, since some of the later floors lack walls.
 - Glorious Staff

@@ -317,7 +317,7 @@ it's best to eat food that restores the least amount of fullness first to free u
 Get hit by fire or explosion damage to turn all onigiri that aren't in pots into Grilled Onigiri (60 fullness, 40 HP).<br/>Seals and blessings are removed when onigiri are grilled, so it can be used to unseal onigiri items.<br/>Rotten Onigiri (30 → 60) and Onigiri (50 → 60) are the two best types of onigiri to grill.
 
 Zen Pot can be used to grill onigiri without receiving damage from fire or explosions,<br/>
-but the <span class="greenText">Anti-Blast※</span> rune will make you unable to grill onigiri using explosions.
+but the <span class="greenText">Anti-Blast+</span> rune will make you unable to grill onigiri using explosions.
 
 #### Making Squid Sushi Scroll
 

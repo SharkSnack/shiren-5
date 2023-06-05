@@ -276,8 +276,8 @@ It's recommended to carry two shields - one for day, and one for night.
     - The synthesis ingredients are rare, but it's key to reducing the amount of damage you take from Dragons.<br/><span class="purpleText">Dragon Grass</span> and <span class="purpleText">Snake Shield</span> are rare, so you might have to choose between a day or night shield.<br/>The strongest Dragon during the day is the Lv3 Archdragon, but night goes up to Lv4 Evil Abyss Dragons.<br/>So choose carefully, taking into account your remaining <span class="purpleText">Zen Pot</span> and <span class="purpleText">Extinction Scroll</span> uses.
 - Magi-Twister
     - <span class="purpleText">Swap Shield</span> is shop-exclusive, so it's hard to synthesize this unless you level a <span class="purpleText">Binary Shield</span>.<br/>If you're able to synthesize it, DJ Mage monsters will become a non-issue.<br/>DJ Mages use special attacks more often during the day, so it's best to synthesize it onto a day shield.
-- Anti-Blast, Anti-Blast※
-    - <span class="purpleText">Blast Shield</span> is shop-exclusive. Daytime Pop Tanks have smart AI, so synthesize it onto a day shield first.<br/>Dark Pop Tanks aren't as bad, so synthesizing it onto a night shield is mainly to cover Big Explosion Traps.<br/>Explosion damage immunity from <span class="greenText">Anti-Blast※</span> is extremely good, but don't count on finding the ingredients.
+- Anti-Blast, Anti-Blast+
+    - <span class="purpleText">Blast Shield</span> is shop-exclusive. Daytime Pop Tanks have smart AI, so synthesize it onto a day shield first.<br/>Dark Pop Tanks aren't as bad, so synthesizing it onto a night shield is mainly to cover Big Explosion Traps.<br/>Explosion damage immunity from <span class="greenText">Anti-Blast+</span> is extremely good, but don't count on finding the ingredients.
 - Anti-Hypno
     - Gazers only appear on a few floors, and can be avoided by managing time of day, so it's not essential.<br/>However, Time Switch Traps can mess up your plans, so there's no harm in synthesizing it.
 - Anti-Theft, Anti-Peck
@@ -356,7 +356,7 @@ so simply carry a number of movement related staves, and staves that shut down d
 - Paralysis Staff
     - Shuts down most monsters, and is used to create a safe area to cycle time of day during daytime.<br/>Also helps when cycling time of day at night, but it's less reliable since monsters hit each other.
 - Fort. Staff
-    - The best option to create safe areas to cycle time of day. Pick up any that you come across.<br/>Needed to synthesize <span class="greenText">Anti-Blast※</span>, so keep one on hand even if remaining uses reaches 0.
+    - The best option to create safe areas to cycle time of day. Pick up any that you come across.<br/>Needed to synthesize <span class="greenText">Anti-Blast+</span>, so keep one on hand even if remaining uses reaches 0.
 
 #### Pots
 

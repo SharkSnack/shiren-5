@@ -326,7 +326,7 @@ metaDescription: "Complete scroll details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#immunity-scroll">Immunity Scroll</a></td>
-      <td>Anti-Blast※*</td>
+      <td>Anti-Blast+*</td>
       <td class="leftText">Grants <a href="/shiren-5/system//status-conditions#immune">Immune</a> status, making you and allies immune to ailments.<br/>Also cures any existing ailments when read.</td>
     </tr>
     <tr>
@@ -396,7 +396,7 @@ metaDescription: "Complete scroll details for Shiren the Wanderer: The Tower of 
 <div class="tableNotes">
   <p>
     ※ Blue Flame: Oil Scroll + Upgrade Seed + Explosion Bracelet.<br/>
-    ※ Anti-Blast※: Immunity Scroll + Fort. Staff + Explosion Bracelet.
+    ※ Anti-Blast+: Immunity Scroll + Fort. Staff + Explosion Bracelet.
   </p>
 </div>
 
@@ -3963,7 +3963,7 @@ Defends against monsters like MC Sorceror, Mesmerikon, Ultra Gazer, etc.<br/>
 Also prevents being afflicted with status conditions from stepping on traps.<br/>
 Be careful near Absorbiphants, because they can absorb Immune status.
 
-Synthesize this + Fort. Staff + Explosion Bracelet with a shield for the Anti-Blast※ rune.
+Synthesize this + Fort. Staff + Explosion Bracelet with a shield for the Anti-Blast+ rune.
 
 <table class="itemDetailsTable">
   <tbody>
@@ -3983,7 +3983,7 @@ Synthesize this + Fort. Staff + Explosion Bracelet with a shield for the Anti-Bl
     </tr>
     <tr>
       <th>Rune</th>
-      <td>Anti-Blast※</td>
+      <td>Anti-Blast+</td>
       <th>Blessed</th>
       <td>Reusable</td>
     </tr>

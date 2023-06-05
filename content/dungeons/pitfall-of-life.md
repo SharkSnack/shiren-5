@@ -218,7 +218,7 @@ Alert and Anti-Cnf. bracelets are also important, and should be swapped as neede
 Negative effect bracelets like Monsterphobic and Itemphobic appear, but all items are identified in this dungeon,<br/>
 so there's no worry of unknowingly equipping a cursed bracelet.
 
-Fort. Staff isn't in the item table to synthesize the <span class="greenText">Anti-Blast※</span> rune, so it's fine to discard Explosion Bracelets.<br/>
+Fort. Staff isn't in the item table to synthesize the <span class="greenText">Anti-Blast+</span> rune, so it's fine to discard Explosion Bracelets.<br/>
 Wall Clip Bracelet can appear in regular shops, so purchase it if you happen to come across one.<br/>
 Anti-Parry Brce. is more common in shops than other dungeons, so buy it if you see it in a shop.<br/>
 Losing your main weapon or shield is devastating in this dungeon.

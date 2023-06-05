@@ -25,6 +25,7 @@ This page provides information for Shiren 5's various gameplay systems and mecha
     <ul>
       <li><a href="#point-card">Point Card</a></li>
       <li><a href="#resonance">Resonance</a></li>
+      <li><a href="#equipment-tags">Equipment Tags</a></li>
       <li><a href="#equipment-growth">Equipment Growth</a></li>
       <li><a href="#blessing-/-curse-/-seal">Blessing / Curse / Seal</a></li>
       <li><a href="#synthesis">Synthesis</a></li>

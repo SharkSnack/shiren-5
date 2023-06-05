@@ -161,7 +161,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer: The Tower of 
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#red-shield">Red Shield</a></td>
-      <td class="highlightYellow">Shugouseki</td>
+      <td class="highlightYellow">Shugoseki Shld</td>
       <td>27</td>
       <td>99</td>
       <td>∞</td>
@@ -1668,7 +1668,7 @@ The best part of this shield is that it gains <span class="greenText">Anti-Fire<
     </tr>
     <tr>
       <td>8</td>
-      <td>Shugouseki</td>
+      <td>Shugoseki Shld</td>
       <td>Uplifting<br/>Anti-Fire<br/>Anti-Peck</td>
       <td>27</td>
       <td>99</td>

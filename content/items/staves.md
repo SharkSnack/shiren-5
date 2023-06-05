@@ -214,7 +214,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer: The Tower of F
     </tr>
     <tr>
       <td class="highlightYellow"><a href="#fort.-staff">Fort. Staff</a></td>
-      <td>Anti-Blast※*</td>
+      <td>Anti-Blast+*</td>
       <td class="leftText">Create a wall 1 tile in front of you.<br/>The wall can be destroyed by the player using a regular attack.<br/>Deals 2 damage if thrown at a creature.</td>
     </tr>
     <tr>
@@ -228,7 +228,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer: The Tower of F
 <div class="tableNotes">
   <p>
     ※ Quick Hitting: Swift Staff + Swift Grass or Swift Talisman.<br/>
-    ※ Anti-Blast※: Fort. Staff + Immunity Scroll + Explosion Bracelet.
+    ※ Anti-Blast+: Fort. Staff + Immunity Scroll + Explosion Bracelet.
   </p>
 </div>
 
@@ -2149,7 +2149,7 @@ Locations:
 
 Creates a wall 1 tile ahead, or deals 2 damage if thrown or an enemy is in front of you.<br/>Perform a direct attack to destroy the wall and change it to a ground tile.<br/>(example: create a wall on a water tile near an item island, destroy the wall, cross over)<br/>Also useful for creating safe spaces when cycling day and night, stealing, etc.<br/>If you enter a created wall using a Wall Clip Bracelet, the wall will collapse.
 
-Synthesize this + Immunity Scroll + Explosion Bracelet with a shield for the Anti-Blast※ rune.
+Synthesize this + Immunity Scroll + Explosion Bracelet with a shield for the Anti-Blast+ rune.
 
 <table class="itemDetailsTable">
   <tbody>
@@ -2169,7 +2169,7 @@ Synthesize this + Immunity Scroll + Explosion Bracelet with a shield for the Ant
     </tr>
     <tr>
       <th>Rune</th>
-      <td>Anti-Blast※</td>
+      <td>Anti-Blast+</td>
       <th>Blessed</th>
       <td>4 damage</td>
     </tr>

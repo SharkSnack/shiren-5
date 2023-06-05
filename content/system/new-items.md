@@ -688,7 +688,7 @@ Possible:
   </tr>
   <tr>
     <td>Grants immunity to explosive damage</td>
-    <td>Anti-Blast※</td>
+    <td>Anti-Blast+</td>
     <td class="blueText2">May reflect back flame breaths</td>
     <td>Flame Reflect</td>
   </tr>
@@ -702,7 +702,7 @@ Possible:
     <td>May remove bad statuses when attacked</td>
     <td>Curative</td>
     <td class="blueText2">Reflects magic bullets, hypnosis, dance</td>
-    <td>Redirecting※</td>
+    <td>Redirecting+</td>
   </tr>
   <tr>
     <td class="blueText2">All projectiles aimed at you will miss</td>

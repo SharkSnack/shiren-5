@@ -380,7 +380,7 @@ Weapons found on the ground are typically Rusty Pickaxes or status inflicting we
     - Blast Shield is shop-exclusive, but this can also be obtained by leveling Lock or Safe shield to Lv8.
 - CR Diet
     - Since Diet Shield can't be found, the only way to obtain this is to level a Plain Targe to Lv8.<br/>Hunt enemies like Maneaters while you have Tinkerer status to quickly level the shield,<br/>and then synthesize it once you reach Mixermon floors (31-33F).
-- Anti-Blast※
+- Anti-Blast+
     - Fort. Staff is somewhat common and scrolls are identified, so synthesizing it is realistic.<br/>Explosion Bracelet is useful for avoiding game overs, so think carefully before synthesizing it.
 
 #### Bracelets
@@ -416,7 +416,7 @@ Weapons found on the ground are typically Rusty Pickaxes or status inflicting we
 #### Scrolls
 
 - Immunity Scroll
-    - Makes you immune to Ultra Gazer's hypnosis, the paralyzing effect of Maneater roars, etc.<br/>Keep 1 on hand in case you find the other items needed to synthesize <span class="greenText">Anti-Blast※</span>.
+    - Makes you immune to Ultra Gazer's hypnosis, the paralyzing effect of Maneater roars, etc.<br/>Keep 1 on hand in case you find the other items needed to synthesize <span class="greenText">Anti-Blast+</span>.
 - Vacuum Slash Scrl
     - Useful when you want to avoid retreating into a hallway.
 - Collection Scroll
