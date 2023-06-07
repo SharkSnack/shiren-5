@@ -77,9 +77,98 @@ Dungeon where you utilize Friendship Licenses, similar to [Gen's Turf](/dungeons
 
 # Strategy
 
-[Quick Links]
+### General
 
-[Content]
+The basic strategy is to read [Nixer Scrolls](/items/scrolls#nixer-scroll) to obtain Friendship Licenses (turns monsters into allies),<br/>then make use of Blank Scrolls obtained from Friendship Liecenses turning into Blank Scrolls.<br/>If you can write Fate, Earth, Pot God, Blessing, and Extraction on Blank Scrolls, you can easily upgrade items.<br/>Just be careful not to attack ally monsters, since that destroys that family's Friendship License.
+
+### Monster License
+
+Monster Licenses (Monster-specific Friendship Licenses) cause that monster family to act as allies.<br/>
+(Example: "Mamel Lic." in inventory causes Mamel, Pit Mamel, Cave Mamel, and Gitan Mamel to attack enemies)
+
+Ally monsters won't be attacked by enemies, and won't level up when they defeat enemies. (Shiren won't gain exp)<br/>
+If Shiren deals damage to an ally monster, all Monster Licenses for that family are destroyed, including those in pots.<br/>
+Licenses that are inside pots won't be active, and licenses on the ground won't be active either.
+
+When you're carrying a Monster License for a monster that appears on the current floor, and advance to the next floor,<br/>
+a "Blank Scroll check" occurs, which causes a license to turn into a Blank Scroll if it succeeds. (Including those in pots)<br/>
+For example, if you're carrying a Mamel Lic. early on, a check is performed when you advance from:<br/>
+1F → 2F ・ 2F → 3F ・ 3F → 4F ・ 4F → 5F ・ 5F → 6F ・ 6F → 7F
+
+The chance for a Monster License to turn into a Blank Scroll seems to be somewhere between 10\~20%.
+
+### Other Notes
+
+Only Nixer Scroll and Fixer Scroll can be found on the ground.<br/>Imitation items like Dracon Grass, Gut Grass, and Repeat Grass can be found even early on.<br/>Preservation and Heal pots are the most common type of pot, followed by Zalokleft and Fever pots.<br/>For equipment, weapons and shields that activate 2 bracelet resonance are common.<br/>Bladite + Targite or Red Blade + Red Shield sets are easy to obtain if you utilize Swordsman (17-21F).<br/>However, Red Blade isn't recommended, since <span class="greenText">Flame Shot</span> can cause accidents with ally monsters.
+
+Nixer Scrolls should be used against troublesome monsters like Pop Tank and DJ Mage families,<br/>though you could throw an Extinction Scroll at Pop Tank since its blasts can be a problem even as an ally.<br/>Your current HP will be halved if the Nixer Scroll fails (50% chance), so it gets riskier as you progress.<br/>1-5F and 41-50F don't have dark hallways.
+
+# Floor Guide
+
+### 1-5F
+
+Hallways are visible, and the entire floor has water tiles instead of walls.<br/>Blade Bees (3-5F) can be a problem if you don't find a shield - Read Nixer Scrolls to turn them into allies.<br/>Hunt Grass Kids (3-5F) for synthesis ingredients, but don't worry if you get unlucky with spawns<br/>since you can hunt Grass Dudes or use ally Zaloklefts to collect more ingredients later on.<br/>After this floor range, hallways are dark until 40F.
+
+### 6-10F
+
+<p><span class="highlightPink">Lava Zone</span> - Lava deals 30 damage, which is quite painful this early in the dungeon.<br/>You likely won't find many items thanks to the lava, but you can use Mnster House Scrl in the stairs room.</p>
+
+Mixer (9-11F) provides a chance to synthesize items - be careful not to lose synthesized items due to lava.<br/>Mutaikon (8-10F), Scorpion (9-11F), and Mudkin (9-11F) should be turned into allies using Nixer Scrolls.<br/>Mutaikons can throw Poison Grass at Mixers, so consider turning Mixers into allies as well,<br/>and placing the Mixer License on the ground when you want to defeat one to claim items.<br/>※ Ally Mixers won't turn hostile when they eat thrown items.
+
+If you have a Blank Scroll, write Desert Scroll on it and synthesize the <span class="greenText">Anti-Aquatic</span> weapon rune.<br/>This will make it easier to keep Zaloklefts in check on upcoming floors.
+
+### 11-25F
+
+Floor range with useful monsters even if you don't focus on utilizing Blank Scrolls.
+
+Nice ally monsters:
+
+- Zalokleft (13-19F), Green Zalokleft (20-25F)
+    - Steals an item, places it on the ground, then goes to steal more items.
+    - Stock up on Nixer Scroll and other items, Monster Summoner makes it more efficient.
+- Flamebird (16-20F)
+    - Occasionally heals Shiren's HP when adjacent.
+    - Makes it possible to quickly recover HP after failing a Nixer Scroll.
+    - Can be used to avoid starvation if needed.
+- Swordsman (17-21F)
+    - Knocks away shields from enemies - Parried shields can be cursed.
+    - Synthesize said shields using Mixers (18-20F) to rapidly increase upgrade value.
+    - Level up a Swordsman into a Fencer if you also want weapons.
+- Nigiri Morph (21-24F)
+    - Enemies defeated by ally Nigiri Morphs occasionally drop a Large Onigiri.
+    - Stock up on food without having to perform [Nigiri Morph Factory](/guides/tips-and-tricks#nigiri-morph-factory).
+
+Nice enemy monsters:
+
+- Mixer (18-20F)
+    - Synthesize items obtained from Zaloklefts or equipment parried by Swordsman.
+- Grass Dude (20-22F)
+    - Beware of <span class="purpleText">Dracon Grass</span> if you plan on synthesizing on 20F.
+    - Linger and hunt these for Strength Grass and such if you want.
+
+Dangerous monsters:
+
+- Gazer (18-20F) and Grampa Tank (22-25F)
+    - Both can be troublesome, so it's best to turn them into allies using Nixer Scrolls.
+    - If you don't want Pop Tank types to destroy items, just throw an Extinction Scroll at one.
+
+### 26-38F
+
+MC Mage, VeniScorp, Dazikon, and Ornery Tank appear from around 30F, and MC Wizard between 35-38F.<br/>There's not much to be gained from lingering on these floors, so it's fine to hurry to the stairs.
+
+DJ Mage License is nice, but beware of MC Wizard leveling up other monsters with Clone / Berserk status.<br/>If you have Blank Scrolls, reading an Immunity Scroll might be a better option.
+
+### 39-41F
+
+Sparkbird (36-40F), Fencer (39-42F), Mixermon (40-41F) appear, so upgrade equipment again if you want.<br/>But if your shield is already strong, just keep going since the 2nd clear is only 50F.
+
+### 41-45F
+
+Hallways are visible until the end now.<br/>Super Gazer (44-48F) and Trowelie (44-46F) threaten your items - Keep Gazer License on hand if possible.<br/>Colocolum (45-48F) can cause license loss if it rolls into an ally monster when defeated, so turn it into an ally.<br/>N'mach (46-48F) is around, so it's best to ignore items on the ground.
+
+### 46-50F
+
+Hallways are visible, and there are air tiles instead of walls.<br/>Super Gazer (44-48F) is still around, so use an Immunity Scroll or keep a Gazer License on hand.<br/>Porkon (47-49F) is problematic if you don't have its license - Consider throwing an Extinction Scroll at one.<br/>Flarebird (46-50F) can be used to restore HP if you have a Flamebird License on hand.<br/>Otherwise, be careful of Colocoloums and N'machs like the previous floor range and you should be fine.
 
 # Monsters
 
@@ -230,7 +319,7 @@ Enemy Colors: <span class="farmingDay">Farming</span> <span class="usefulDay">Us
       <td>Kid Squid<br/>Momoseal</td>
       <td>Cololum<br/>Cheer-Ham</td>
       <td>Acrid Nut</td>
-      <td>Yanpii</td>
+      <td>Yanpii<br/>Foly</td>
     </tr>
     <tr>
       <td>15</td>
@@ -239,7 +328,7 @@ Enemy Colors: <span class="farmingDay">Farming</span> <span class="usefulDay">Us
       <td>Kid Squid<br/>Momoseal</td>
       <td>Hopodile<br/>Cheer-Ham</td>
       <td>Acrid Nut</td>
-      <td>Yanpii</td>
+      <td>Yanpii<br/>Foly</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -247,9 +336,9 @@ Enemy Colors: <span class="farmingDay">Farming</span> <span class="usefulDay">Us
       <td>Zalokleft<br/>Metalhead</td>
       <td>Dagger Bee<br/>Flamebird</td>
       <td>Kid Squid<br/>Momoseal</td>
-      <td>Hopodile<br/>Foly</td>
+      <td>Hopodile</td>
       <td>Beanie</td>
-      <td>Yanpii</td>
+      <td>Yanpii<br/>Foly</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>

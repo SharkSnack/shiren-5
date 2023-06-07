@@ -19,17 +19,2057 @@ Dungeon where Wind of Kron blows extremely fast - <span class="redText">You have
 
 # Overview
 
-[Overview Tables]
+<table class="dungeonOverview">
+  <tr>
+    <th>Unlock</th>
+    <td class="highlightYellow">Clear Ouma Shrine and arrive in Nekomaneki Village.</td>
+  </tr>
+  <tr>
+    <th>Entrance</th>
+    <td class="highlightYellow">Nekomaneki Village (Woman in Dungeon Center)</td>
+  </tr>
+</table>
+
+<table class="dungeonTable">
+  <tr>
+    <th>Floors</th>
+    <td>50F (first) / 99F</td>
+    <th>Day / Night</th>
+    <td>Day</td>
+  </tr>
+  <tr>
+    <th>Bring Items</th>
+    <td>Yes</td>
+    <th>Allies</th>
+    <td>No</td>
+  </tr>
+  <tr>
+    <th>Unidentified</th>
+    <td>Bracelets</td>
+    <th>New Items</th>
+    <td>No</td>
+  </tr>
+  <tr>
+    <th>Shops</th>
+    <td>Regular, Elite,<br/>Pick-A-Choice</td>
+    <th>Monster Houses</th>
+    <td>Regular, Special, Sudden</td>
+  </tr>
+  <tr>
+    <th>Initial Enemies</th>
+    <td></td>
+    <th>Spawn Rate</th>
+    <td>50</td>
+  </tr>
+  <tr>
+    <th>Ominous aura</th>
+    <td>Yes (50 turns)</td>
+    <th>Wind of Kron</th>
+    <td>1st: 150 / 4th: 200 </td>
+  </tr>
+  <tr>
+    <th>Clear Icon</th>
+    <td>None</td>
+    <th>Reward</th>
+    <td>Time Stop Bracelet</td>
+  </tr>
+</table>
 
 # Strategy
 
-[Quick Links]
+### General
 
-[Content]
+Similar to Lost Well, bring upgraded equipment along with lots of consumable items and rush stairs.<br/>There's no need to bring torches or a shield for nighttime, since this dungeon is daytime-only.<br/>Bring Pinning, Boring, Swap, and Knockback staves with lots of remaining uses.<br/>Alternatively, a [New Item](/system/new-items) staff with Transient + Swap effects makes the dungeon trivial.
+
+Consider preparing a 2nd set of equipment you don't mind losing instead of bringing your main equipment,<br/>since this dungeon has a tendency to cause accidents leading to permanent item loss.
+
+Items found on the ground can be pretty decent in quality, but you usually don't have time to pick them up.<br/>If you want to collect them, it's best to bring blessed Collection Scrolls.
+
+Abyss Dragon2 appears between 80-99F, so increase your max HP and have healing items on hand.
+
+### Equipment
+
+#### Shield
+
+It's a daytime-only dungeon, so Daytime Queen offers significant defense without any drawbacks.<br/>However, a set with 2 bracelet resonance is probably better unless you're using New Item bracelets.<br/>Don't synthesize <span class="greenText">Unmoving</span> into your main shield, since it prevents Swap Staff and Pinning Staff usage.
+
+If you're using a New Item shield, aim for the following abilities:
+
+1. Reflects magic bullets, hypnosis, dance.
+    - Magic bullets are reflected, so you don't take damage like Swap Shield.
+2. All projectiles aimed at you will miss.
+    - Makes Dozikon, Mesmerikon, Kappa Troll, Porgon, and other projectile monsters a non-issue.
+
+#### Bracelets
+
+Scout Bracelet (Monster Detector) - Use this alongside a Transient Staff to quickly locate the stairs.<br/>Blink Bracelet - Potentially conserve turns by warping to different rooms instead of using hallways.<br/>Wall Clip Bracelet - Cut through corners to conserve turns in hallways.<br/>Floating Bracelet - Avoid traps and take shortcuts along waterways.
 
 # Monsters
 
-[Monster Table]
+See [Monsters](/system/monsters) for individual monster details.
+
+- N = N'dubba <span class="monsterTableNdubba">Lv1</span> <span class="monsterTableNtwyn">Lv2</span> <span class="monsterTableNmach">Lv3</span> <span class="monsterTableNdup">Lv4</span>
+- M = Maneater <span class="highlightBlack">None</span> <span class="monsterTableManeater">Lv1</span> <span class="monsterTableVilleater">Lv2</span> <span class="monsterTableMounteater">Lv3</span> <span class="monsterTableIsleater">Lv4</span>
+
+Floor Colors: <span class="limitBreak">Limit break monsters</span><br/>Enemy Colors: <span class="itemDay">Destroys Items</span> <span class="dangerDay">Dangerous</span> <span class="extremeDay">Very Dangerous</span>
+
+<table class="monsterTable">
+  <thead>
+    <tr>
+      <th>F</th>
+      <th colspan="5">Monsters</th>
+      <th>N</th>
+      <th>M</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">1</td>
+      <td>Electroid</td>
+      <td>Colocolum</td>
+      <td>Rally Ham</td>
+      <td>Spicy Nut</td>
+      <td>Doztapir</td>
+      <td rowspan="2" class="monsterTableNmach">3</td>
+      <td rowspan="2" class="highlightBlack"></td>
+    </tr>
+    <tr>
+      <td class="dangerDay">N'mach</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">2</td>
+      <td>Electroid</td>
+      <td>Colocolum</td>
+      <td>Rally Ham</td>
+      <td>Spicy Nut</td>
+      <td>Doztapir</td>
+      <td rowspan="2" class="monsterTableNmach">3</td>
+      <td rowspan="2" class="highlightBlack"></td>
+    </tr>
+    <tr>
+      <td class="dangerDay">N'mach</td>
+      <td>Debaser</td>
+      <td>Vexing Kappa</td>
+      <td>Mixergon</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">3</td>
+      <td>Jouncy</td>
+      <td><span class="extremeDay">MC Wizard</span></td>
+      <td>Strong Cart</td>
+      <td>Spicy Nut</td>
+      <td>Doztapir</td>
+      <td rowspan="2" class="monsterTableNmach">3</td>
+      <td rowspan="2" class="highlightBlack"></td>
+    </tr>
+    <tr>
+      <td class="dangerDay">N'mach</td>
+      <td>Debaser</td>
+      <td>Vexing Kappa</td>
+      <td>Mixergon</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">4</td>
+      <td>Jouncy</td>
+      <td><span class="extremeDay">MC Wizard</span></td>
+      <td>Strong Cart</td>
+      <td><span class="dangerDay">Porkon</span></td>
+      <td class="highlightGray"></td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="highlightBlack"></td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td>Debaser</td>
+      <td>Vexing Kappa</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">5</td>
+      <td>Jouncy</td>
+      <td><span class="extremeDay">MC Wizard</span></td>
+      <td>Momomoseal</td>
+      <td><span class="dangerDay">Porkon</span></td>
+      <td class="itemDay">Mudster</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableMounteater">3</td>
+    </tr>
+    <tr>
+      <td>StunScorp</td>
+      <td>Debaser</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">6</td>
+      <td>Jouncy</td>
+      <td><span class="extremeDay">Horrabbit</span></td>
+      <td>Momomoseal</td>
+      <td>Froggon</td>
+      <td class="itemDay">Mudster</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableMounteater">3</td>
+    </tr>
+    <tr>
+      <td>StunScorp</td>
+      <td>Debaser</td>
+      <td class="itemDay">Curspinster</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">7</td>
+      <td>Pumpanshee</td>
+      <td><span class="extremeDay">Horrabbit</span></td>
+      <td>Momomoseal</td>
+      <td>Froggon</td>
+      <td class="itemDay">Mudster</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableMounteater">3</td>
+    </tr>
+    <tr>
+      <td>Tiger Chucker</td>
+      <td class="highlightGray"></td>
+      <td class="itemDay">Curspinster</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">8</td>
+      <td>Pumpanshee</td>
+      <td><span class="extremeDay">Horrabbit</span></td>
+      <td><span class="itemDay">Gyandora</span></td>
+      <td>Froggon</td>
+      <td>Zanbeeto</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableMounteater">3</td>
+    </tr>
+    <tr>
+      <td>Tiger Chucker</td>
+      <td class="dangerDay">Spongiderm</td>
+      <td class="itemDay">Curspinster</td>
+      <td>Iron Zalokleft</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">9</td>
+      <td>Pumpanshee</td>
+      <td>Lashagga</td>
+      <td><span class="itemDay">Gyandora</span></td>
+      <td>Lt. Yanpii</td>
+      <td>Zanbeeto</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableMounteater">3</td>
+    </tr>
+    <tr>
+      <td>Tiger Chucker</td>
+      <td class="dangerDay">Spongiderm</td>
+      <td class="highlightGray"></td>
+      <td>Iron Zalokleft</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">10</td>
+      <td>Pumpanshee</td>
+      <td>Lashagga</td>
+      <td><span class="itemDay">Gyandora</span></td>
+      <td>Lt. Yanpii</td>
+      <td>Zanbeeto</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableMounteater">3</td>
+    </tr>
+    <tr>
+      <td>Tiger Chucker</td>
+      <td class="dangerDay">Spongiderm</td>
+      <td>Polygon Singa</td>
+      <td>Iron Zalokleft</td>
+      <td class="itemDay">Item Knave</td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">11</td>
+      <td><span class="itemDay">Sensei</span></td>
+      <td>Lashagga</td>
+      <td>Bunchukdon</td>
+      <td>Lt. Yanpii</td>
+      <td>Pierce Cart</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableMounteater">3</td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td>Polygon Singa</td>
+      <td class="highlightGray"></td>
+      <td class="itemDay">Item Knave</td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">12</td>
+      <td><span class="itemDay">Sensei</span></td>
+      <td>Flarebird</td>
+      <td>Bunchukdon</td>
+      <td>Grass Poppa</td>
+      <td>Pierce Cart</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableMounteater">3</td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td>Polygon Singa</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">13</td>
+      <td><span class="itemDay">Sensei</span></td>
+      <td>Flarebird</td>
+      <td>Bunchukdon</td>
+      <td>Grass Poppa</td>
+      <td>Pierce Cart</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableMounteater">3</td>
+    </tr>
+    <tr>
+      <td>Bitter Nut</td>
+      <td>Blazepuff</td>
+      <td>Polygon Singa</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">14</td>
+      <td><span class="itemDay">Sensei</span></td>
+      <td>Flarebird</td>
+      <td>Bunchukdon</td>
+      <td>Bouncy</td>
+      <td>Fulminachin</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableMounteater">3</td>
+    </tr>
+    <tr>
+      <td>Bitter Nut</td>
+      <td>Blazepuff</td>
+      <td>Onigirizzly</td>
+      <td>Spirit Ham</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">15</td>
+      <td><span class="itemDay">Sensei</span></td>
+      <td><span class="dangerDay">Nigiri Boss</span></td>
+      <td><span class="itemDay">Hyper Gazer</span></td>
+      <td>Bouncy</td>
+      <td>Fulminachin</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableMounteater">3</td>
+    </tr>
+    <tr>
+      <td>Bitter Nut</td>
+      <td>Blazepuff</td>
+      <td>Onigirizzly</td>
+      <td>Spirit Ham</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">16</td>
+      <td>Phoenix Tengu</td>
+      <td><span class="dangerDay">Nigiri Boss</span></td>
+      <td><span class="itemDay">Hyper Gazer</span></td>
+      <td>Bouncy</td>
+      <td>Fulminachin</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableMounteater">3</td>
+    </tr>
+    <tr>
+      <td>Bitter Nut</td>
+      <td><span class="extremeDay">Dozikon</span></td>
+      <td>Onigirizzly</td>
+      <td>Spirit Ham</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">17</td>
+      <td>Phoenix Tengu</td>
+      <td><span class="dangerDay">Nigiri Boss</span></td>
+      <td><span class="itemDay">Hyper Gazer</span></td>
+      <td><span class="extremeDay">Archdragon</span></td>
+      <td>Comatapir</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableMounteater">3</td>
+    </tr>
+    <tr>
+      <td>Bitter Nut</td>
+      <td><span class="extremeDay">Dozikon</span></td>
+      <td><span class="dangerDay">King Squid</span></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">18</td>
+      <td>Phoenix Tengu</td>
+      <td><span class="itemDay">Mudder</span></td>
+      <td><span class="itemDay">Hyper Gazer</span></td>
+      <td><span class="extremeDay">Archdragon</span></td>
+      <td>Comatapir</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableMounteater">3</td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td><span class="extremeDay">Dozikon</span></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">19</td>
+      <td>Phoenix Tengu</td>
+      <td><span class="itemDay">Mudder</span></td>
+      <td>Grainie</td>
+      <td><span class="extremeDay">Archdragon</span></td>
+      <td>Comatapir</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableMounteater">3</td>
+    </tr>
+    <tr>
+      <td>FO-UZ</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>Huge Chintala</td>
+      <td><span class="itemDay">Mudder</span></td>
+      <td>Grainie</td>
+      <td>Cyberoid</td>
+      <td><span class="itemDay">Trowelie</span></td>
+      <td class="highlightGray"></td>
+      <td class="monsterTableMounteater">3</td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">21</td>
+      <td>Huge Chintala</td>
+      <td class="dangerDay">N'dup</td>
+      <td>Grainie</td>
+      <td>Cyberoid</td>
+      <td><span class="itemDay">Trowelie</span></td>
+      <td rowspan="2" class="monsterTableNdup">4</td>
+      <td rowspan="2" class="monsterTableMounteater">3</td>
+    </tr>
+    <tr>
+      <td>Mixerdon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">22</td>
+      <td>Huge Chintala</td>
+      <td class="dangerDay">N'dup</td>
+      <td>Grainie</td>
+      <td>Cyberoid</td>
+      <td><span class="itemDay">Trowelie</span></td>
+      <td rowspan="2" class="monsterTableNdup">4</td>
+      <td rowspan="2" class="monsterTableMounteater">3</td>
+    </tr>
+    <tr>
+      <td>Mixerdon</td>
+      <td>Detonachin</td>
+      <td>Eligagon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">23</td>
+      <td>Huge Chintala</td>
+      <td class="dangerDay">N'dup</td>
+      <td><span class="itemDay">Knave King</span></td>
+      <td>Cyberoid</td>
+      <td>Mealy</td>
+      <td rowspan="2" class="monsterTableNdup">4</td>
+      <td rowspan="2" class="monsterTableMounteater">3</td>
+    </tr>
+    <tr>
+      <td>Mixerdon</td>
+      <td>Detonachin</td>
+      <td>Eligagon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">24</td>
+      <td><span class="itemDay">Cursenior</span></td>
+      <td class="dangerDay">N'dup</td>
+      <td><span class="itemDay">Knave King</span></td>
+      <td>Cyberoid</td>
+      <td>Mealy</td>
+      <td rowspan="2" class="monsterTableNdup">4</td>
+      <td rowspan="2" class="monsterTableMounteater">3</td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td>Detonachin</td>
+      <td>Eligagon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">25</td>
+      <td><span class="itemDay">Cursenior</span></td>
+      <td>Sproutitan</td>
+      <td><span class="itemDay">Knave King</span></td>
+      <td>Cyberoid</td>
+      <td>Mealy</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableMounteater">3</td>
+    </tr>
+    <tr>
+      <td class="extremeDay">Porgon</td>
+      <td>Detonachin</td>
+      <td>Eligagon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">26</td>
+      <td><span class="itemDay">Cursenior</span></td>
+      <td>Sproutitan</td>
+      <td><span class="itemDay">Knave King</span></td>
+      <td>Ruiner</td>
+      <td>Mealy</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableMounteater">3</td>
+    </tr>
+    <tr>
+      <td class="extremeDay">Porgon</td>
+      <td><span class="dangerDay">Squidperor</span></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">27</td>
+      <td>Pumptergeist</td>
+      <td>Sproutitan</td>
+      <td><span class="extremeDay">Terrabbit</span></td>
+      <td>Ruiner</td>
+      <td class="highlightGray"></td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableMounteater">3</td>
+    </tr>
+    <tr>
+      <td class="extremeDay">Porgon</td>
+      <td><span class="dangerDay">Squidperor</span></td>
+      <td>Trillman</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">28</td>
+      <td>Pumptergeist</td>
+      <td>Sproutitan</td>
+      <td><span class="extremeDay">Terrabbit</span></td>
+      <td>Ruiner</td>
+      <td>Oingodile</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td class="dangerDay">Foly</td>
+      <td class="highlightGray"></td>
+      <td>Trillman</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">29</td>
+      <td>Pumptergeist</td>
+      <td><span class="itemDay">Shovelie</span></td>
+      <td><span class="extremeDay">Terrabbit</span></td>
+      <td>Ruiner</td>
+      <td>Oingodile</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Colocolocolum</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">30</td>
+      <td>Pumptergeist</td>
+      <td><span class="itemDay">Shovelie</span></td>
+      <td class="highlightGray"></td>
+      <td>Ruiner</td>
+      <td>Oingodile</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Colocolocolum</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">31</td>
+      <td>Pumptergeist</td>
+      <td><span class="itemDay">Shovelie</span></td>
+      <td>Steelhead</td>
+      <td>Grass Gramps</td>
+      <td>Oingodile</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Colocolocolum</td>
+      <td>Kleptoad</td>
+      <td>Kodionigiri</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">32</td>
+      <td>Pumptergeist</td>
+      <td><span class="itemDay">Shovelie</span></td>
+      <td>Steelhead</td>
+      <td>Grass Gramps</td>
+      <td>Hell Gyaza</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Colocolocolum</td>
+      <td>Kleptoad</td>
+      <td>Kodionigiri</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">33</td>
+      <td>Bashagga</td>
+      <td><span class="dangerDay">Nigiri King</span></td>
+      <td>Steelhead</td>
+      <td>Grass Gramps</td>
+      <td>Hell Gyaza</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td><span class="dangerDay">Osmammoth</span></td>
+      <td>Kleptoad</td>
+      <td>Kodionigiri</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">34</td>
+      <td>Bashagga</td>
+      <td><span class="dangerDay">Nigiri King</span></td>
+      <td>Steelhead</td>
+      <td>Grass Gramps</td>
+      <td>Hell Gyaza</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td><span class="dangerDay">Osmammoth</span></td>
+      <td>Kleptoad</td>
+      <td>Kodionigiri</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">35</td>
+      <td>Bashagga</td>
+      <td><span class="dangerDay">Nigiri King</span></td>
+      <td>Steelhead</td>
+      <td><span class="itemDay">Gyandoron</span></td>
+      <td>Hell Gyaza</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td><span class="dangerDay">Osmammoth</span></td>
+      <td>Boss Yanpii</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">36</td>
+      <td>Bashagga</td>
+      <td><span class="dangerDay">Nigiri King</span></td>
+      <td>Blazebird</td>
+      <td><span class="itemDay">Gyandoron</span></td>
+      <td>BlightScorp</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td><span class="dangerDay">Osmammoth</span></td>
+      <td>Boss Yanpii</td>
+      <td>Zotdon</td>
+      <td>Googoman</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">37</td>
+      <td>Bashagga</td>
+      <td><span class="dangerDay">Nigiri King</span></td>
+      <td>Blazebird</td>
+      <td><span class="itemDay">Gyandoron</span></td>
+      <td>BlightScorp</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td><span class="dangerDay">Osmammoth</span></td>
+      <td>Boss Yanpii</td>
+      <td>Zotdon</td>
+      <td><span class="dangerDay">Kappa Troll</span></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">38</td>
+      <td><span class="extremeDay">Mesmerikon</span></td>
+      <td>Doom Gyaza</td>
+      <td>Blazebird</td>
+      <td><span class="itemDay">Gyandoron</span></td>
+      <td>BlightScorp</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td><span class="dangerDay">Foly</span></td>
+      <td class="highlightGray"></td>
+      <td>Zotdon</td>
+      <td><span class="dangerDay">Kappa Troll</span></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">39</td>
+      <td><span class="extremeDay">Mesmerikon</span></td>
+      <td>Doom Gyaza</td>
+      <td>Polygon Stunna</td>
+      <td><span class="itemDay">Gyandoron</span></td>
+      <td class="highlightGray"></td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td><span class="dangerDay">Foly</span></td>
+      <td class="highlightGray"></td>
+      <td>Zotdon</td>
+      <td><span class="dangerDay">Kappa Troll</span></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">40</td>
+      <td><span class="extremeDay">Mesmerikon</span></td>
+      <td>Doom Gyaza</td>
+      <td>Polygon Stunna</td>
+      <td>Cyberoid</td>
+      <td><span class="itemDay">Swordmaster</span></td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td><span class="extremeDay">Ultra Gazer</span></td>
+      <td class="highlightGray"></td>
+      <td>Zotdon</td>
+      <td><span class="dangerDay">Kappa Troll</span></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">41</td>
+      <td>Gitan Mamel</td>
+      <td>Doom Gyaza</td>
+      <td>Polygon Stunna</td>
+      <td>Cyberoid</td>
+      <td><span class="itemDay">Swordmaster</span></td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td><span class="extremeDay">Ultra Gazer</span></td>
+      <td class="highlightGray"></td>
+      <td>Zotdon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">42</td>
+      <td>Gitan Mamel</td>
+      <td>Doom Gyaza</td>
+      <td>Polygon Stunna</td>
+      <td>Cyberoid</td>
+      <td><span class="itemDay">Swordmaster</span></td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td><span class="extremeDay">Ultra Gazer</span></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">43</td>
+      <td>Gitan Mamel</td>
+      <td>Tiger Ace</td>
+      <td>Polygon Stunna</td>
+      <td>Cyberoid</td>
+      <td><span class="itemDay">Swordmaster</span></td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td><span class="extremeDay">Ultra Gazer</span></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">44</td>
+      <td>Gitan Mamel</td>
+      <td>Tiger Ace</td>
+      <td><span class="extremeDay">MC Sorceror</span></td>
+      <td>Cyberoid</td>
+      <td><span class="itemDay">Swordmaster</span></td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td><span class="extremeDay">Ultra Gazer</span></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">45</td>
+      <td>Gitan Mamel</td>
+      <td>Tiger Ace</td>
+      <td><span class="extremeDay">MC Sorceror</span></td>
+      <td>Cyberoid</td>
+      <td>Despoiler</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td><span class="extremeDay">Ultra Gazer</span></td>
+      <td>Chow</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">46</td>
+      <td>Gitan Mamel</td>
+      <td>Tiger Ace</td>
+      <td><span class="extremeDay">MC Sorceror</span></td>
+      <td>Cyberoid</td>
+      <td>Despoiler</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Elizgagon</td>
+      <td>Chow</td>
+      <td><span class="extremeDay">Abyss Dragon</span></td>
+      <td><span class="extremeDay">Ornery Tank</span></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">47</td>
+      <td>Gitan Mamel</td>
+      <td>Tiger Ace</td>
+      <td><span class="extremeDay">MC Sorceror</span></td>
+      <td>Cyberoid</td>
+      <td>Despoiler</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Elizgagon</td>
+      <td>Chow</td>
+      <td><span class="extremeDay">Abyss Dragon</span></td>
+      <td><span class="extremeDay">Ornery Tank</span></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">48</td>
+      <td>Gitan Mamel</td>
+      <td>Tiger Ace</td>
+      <td><span class="extremeDay">MC Sorceror</span></td>
+      <td>Zalokleft King</td>
+      <td>Despoiler</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Elizgagon</td>
+      <td>Chow</td>
+      <td><span class="extremeDay">Abyss Dragon</span></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">49</td>
+      <td>Gitan Mamel</td>
+      <td>Tiger Ace</td>
+      <td><span class="extremeDay">MC Sorceror</span></td>
+      <td>Zalokleft King</td>
+      <td>Despoiler</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Elizgagon</td>
+      <td>Chow</td>
+      <td><span class="extremeDay">Abyss Dragon</span></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">50</td>
+      <td>Gitan Mamel</td>
+      <td>Tiger Ace</td>
+      <td><span class="extremeDay">MC Sorceror</span></td>
+      <td>Zalokleft King</td>
+      <td>Despoiler</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Elizgagon</td>
+      <td>Chow</td>
+      <td><span class="extremeDay">Abyss Dragon</span></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">51</td>
+      <td>Gitan Mamel</td>
+      <td>Froggon</td>
+      <td><span class="extremeDay">MC Sorceror</span></td>
+      <td class="highlightGray"></td>
+      <td>Despoiler</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Elizgagon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">52</td>
+      <td>Gitan Mamel</td>
+      <td>Froggon</td>
+      <td><span class="extremeDay">MC Sorceror</span></td>
+      <td>Sprouterror</td>
+      <td>Trillman</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Elizgagon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">53</td>
+      <td>Jouncy</td>
+      <td>Froggon</td>
+      <td><span class="extremeDay">MC Sorceror</span></td>
+      <td>Sprouterror</td>
+      <td>Vexing Kappa</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td><span class="itemDay">Mudster</span></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">54</td>
+      <td>Jouncy</td>
+      <td>Froggon</td>
+      <td class="highlightGray"></td>
+      <td>Sprouterror</td>
+      <td>Vexing Kappa</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td><span class="itemDay">Mudster</span></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">55</td>
+      <td>Jouncy</td>
+      <td>Froggon</td>
+      <td><span class="itemDay">Item Knave</span></td>
+      <td><span class="extremeDay">Horrabbit</span></td>
+      <td>Vexing Kappa</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td><span class="itemDay">Mudster</span></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td><span class="dangerDay">Spongiderm</span></td>
+      <td>Froggon</td>
+      <td><span class="itemDay">Item Knave</span></td>
+      <td><span class="extremeDay">Horrabbit</span></td>
+      <td>BlightScorp</td>
+      <td class="highlightGray"></td>
+      <td class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td><span class="dangerDay">Spongiderm</span></td>
+      <td><span class="extremeDay">Dozikon</span></td>
+      <td><span class="itemDay">Item Knave</span></td>
+      <td><span class="extremeDay">Horrabbit</span></td>
+      <td>BlightScorp</td>
+      <td class="highlightGray"></td>
+      <td class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">58</td>
+      <td><span class="dangerDay">Spongiderm</span></td>
+      <td><span class="extremeDay">Dozikon</span></td>
+      <td><span class="itemDay">Item Knave</span></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Iron Zalokleft</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">59</td>
+      <td>Bunchukdon</td>
+      <td><span class="extremeDay">Dozikon</span></td>
+      <td><span class="itemDay">Item Knave</span></td>
+      <td>Momomomoseal</td>
+      <td><span class="itemDay">Curspinster</span></td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Iron Zalokleft</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">60</td>
+      <td>Bunchukdon</td>
+      <td>Grass Gramps</td>
+      <td>Lashagga</td>
+      <td>Momomomoseal</td>
+      <td><span class="itemDay">Curspinster</span></td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Iron Zalokleft</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>Bunchukdon</td>
+      <td>Grass Gramps</td>
+      <td>Lashagga</td>
+      <td>Momomomoseal</td>
+      <td><span class="itemDay">Curspinster</span></td>
+      <td class="highlightGray"></td>
+      <td class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>Bunchukdon</td>
+      <td>Grass Gramps</td>
+      <td>Lashagga</td>
+      <td>Momomomoseal</td>
+      <td><span class="itemDay">Curspinster</span></td>
+      <td class="highlightGray"></td>
+      <td class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">63</td>
+      <td>Bunchukdon</td>
+      <td>Phoenix Tengu</td>
+      <td>Lashagga</td>
+      <td>Momomomoseal</td>
+      <td>Polygon Singa</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Fulminachin</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">64</td>
+      <td><span class="itemDay">Hyper Gazer</span></td>
+      <td>Phoenix Tengu</td>
+      <td>Bouncy</td>
+      <td>Spirit Ham</td>
+      <td>Polygon Singa</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Fulminachin</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">65</td>
+      <td><span class="itemDay">Hyper Gazer</span></td>
+      <td>Phoenix Tengu</td>
+      <td>Bouncy</td>
+      <td>Spirit Ham</td>
+      <td>Polygon Singa</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Fulminachin</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">66</td>
+      <td><span class="itemDay">Hyper Gazer</span></td>
+      <td>Phoenix Tengu</td>
+      <td>Bouncy</td>
+      <td>Spirit Ham</td>
+      <td>Polygon Singa</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Flarebird</td>
+      <td>Mixerdon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">67</td>
+      <td><span class="itemDay">Hyper Gazer</span></td>
+      <td>Phoenix Tengu</td>
+      <td>Bouncy</td>
+      <td>Spirit Ham</td>
+      <td class="highlightGray"></td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Flarebird</td>
+      <td>Mixerdon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">68</td>
+      <td>Bitter Nut</td>
+      <td>Phoenix Tengu</td>
+      <td><span class="extremeDay">Archdragon</span></td>
+      <td><span class="itemDay">Mudder</span></td>
+      <td>Comatapir</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Flarebird</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">69</td>
+      <td>Bitter Nut</td>
+      <td class="highlightGray"></td>
+      <td><span class="extremeDay">Archdragon</span></td>
+      <td><span class="itemDay">Mudder</span></td>
+      <td>Comatapir</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td>FO-UZZ</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">70</td>
+      <td>Bitter Nut</td>
+      <td>Huge Chintala</td>
+      <td><span class="extremeDay">Archdragon</span></td>
+      <td><span class="itemDay">Mudder</span></td>
+      <td>Comatapir</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Eligagon</td>
+      <td>FO-UZZ</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">71</td>
+      <td>Bitter Nut</td>
+      <td>Huge Chintala</td>
+      <td><span class="itemDay">Shovelie</span></td>
+      <td><span class="itemDay">Mudder</span></td>
+      <td class="highlightGray"></td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Eligagon</td>
+      <td>FO-UZZ</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">72</td>
+      <td><span class="itemDay">Cursenior</span></td>
+      <td>Huge Chintala</td>
+      <td><span class="itemDay">Shovelie</span></td>
+      <td>Detonachin</td>
+      <td class="highlightGray"></td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Eligagon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">73</td>
+      <td><span class="itemDay">Cursenior</span></td>
+      <td>Huge Chintala</td>
+      <td><span class="itemDay">Shovelie</span></td>
+      <td>Detonachin</td>
+      <td><span class="extremeDay">Porgon</span></td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Eligagon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">74</td>
+      <td><span class="itemDay">Cursenior</span></td>
+      <td>Boingodile</td>
+      <td>Sproutitan</td>
+      <td>Detonachin</td>
+      <td><span class="extremeDay">Porgon</span></td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td><span class="itemDay">Knave King</span></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="limitBreak">75</td>
+      <td>Pumptergeist2</td>
+      <td>Boingodile2</td>
+      <td>Sproutitan2</td>
+      <td class="highlightGray"></td>
+      <td><span class="extremeDay">Porgon2</span></td>
+      <td rowspan="2" class="monsterTableNdup">4</td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td><span class="itemDay">Knave King2</span></td>
+      <td>Ruiner</td>
+      <td><span class="dangerDay">N'dup2</span></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="limitBreak">76</td>
+      <td>Pumptergeist2</td>
+      <td>Boingodile2</td>
+      <td>Sproutitan2</td>
+      <td class="dangerDay">Gitan Mamel2</td>
+      <td><span class="extremeDay">Porgon2</span></td>
+      <td rowspan="2" class="monsterTableNdup">4</td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td><span class="itemDay">Knave King2</span></td>
+      <td>Ruiner</td>
+      <td><span class="dangerDay">N'dup2</span></td>
+      <td><span class="extremeDay">Terrabbit2</span></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="limitBreak">77</td>
+      <td>Pumptergeist2</td>
+      <td><span class="extremeDay">MC Sorceror2</span></td>
+      <td>Sproutitan2</td>
+      <td class="dangerDay">Gitan Mamel2</td>
+      <td>Kodionigiri2</td>
+      <td rowspan="2" class="monsterTableNdup">4</td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td><span class="itemDay">Knave King2</span></td>
+      <td>Ruiner</td>
+      <td><span class="dangerDay">N'dup2</span></td>
+      <td><span class="extremeDay">Terrabbit2</span></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="limitBreak">78</td>
+      <td>Pumptergeist2</td>
+      <td><span class="extremeDay">MC Sorceror2</span></td>
+      <td><span class="dangerDay">Squidperor2</span></td>
+      <td class="dangerDay">Gitan Mamel2</td>
+      <td>Kodionigiri2</td>
+      <td rowspan="2" class="monsterTableNdup">4</td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Colocolocolum2</td>
+      <td>Ruiner</td>
+      <td><span class="dangerDay">N'dup2</span></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="limitBreak">79</td>
+      <td>Pumptergeist2</td>
+      <td><span class="extremeDay">MC Sorceror2</span></td>
+      <td><span class="dangerDay">Squidperor2</span></td>
+      <td class="dangerDay">Gitan Mamel2</td>
+      <td>Kodionigiri2</td>
+      <td rowspan="2" class="monsterTableNdup">4</td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Colocolocolum2</td>
+      <td>BlightScorp2</td>
+      <td><span class="dangerDay">N'dup2</span></td>
+      <td><span class="dangerDay">Osmammoth2</span></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="limitBreak">80</td>
+      <td class="extremeDay">Abyss Dragon2</td>
+      <td><span class="extremeDay">MC Sorceror2</span></td>
+      <td>Kleptoad2</td>
+      <td class="dangerDay">Gitan Mamel2</td>
+      <td class="dangerDay">Kappa Troll2</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Colocolocolum2</td>
+      <td>BlightScorp2</td>
+      <td>Doomhead2</td>
+      <td><span class="dangerDay">Osmammoth2</span></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="limitBreak">81</td>
+      <td class="extremeDay">Abyss Dragon2</td>
+      <td><span class="extremeDay">MC Sorceror2</span></td>
+      <td>Kleptoad2</td>
+      <td class="dangerDay">Gitan Mamel2</td>
+      <td class="dangerDay">Kappa Troll2</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td>Doomhead2</td>
+      <td><span class="dangerDay">Osmammoth2</span></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="limitBreak">82</td>
+      <td class="extremeDay">Abyss Dragon2</td>
+      <td><span class="extremeDay">MC Sorceror2</span></td>
+      <td>Kleptoad2</td>
+      <td class="dangerDay">Gitan Mamel2</td>
+      <td class="dangerDay">Kappa Troll2</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td class="dangerDay">Bashagga2</td>
+      <td>Googoman2</td>
+      <td>Doomhead2</td>
+      <td><span class="dangerDay">Osmammoth2</span></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="limitBreak">83</td>
+      <td class="extremeDay">Abyss Dragon2</td>
+      <td><span class="extremeDay">MC Sorceror2</span></td>
+      <td>Kleptoad2</td>
+      <td class="dangerDay">Gitan Mamel2</td>
+      <td class="dangerDay">Nigiri King2</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td class="dangerDay">Bashagga2</td>
+      <td class="itemDay">Gyandoron2</td>
+      <td>Doomhead2</td>
+      <td><span class="dangerDay">Osmammoth2</span></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="limitBreak">84</td>
+      <td class="extremeDay">Abyss Dragon2</td>
+      <td><span class="extremeDay">MC Sorceror2</span></td>
+      <td>Kleptoad2</td>
+      <td class="dangerDay">Gitan Mamel2</td>
+      <td class="dangerDay">Nigiri King2</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td class="dangerDay">Bashagga2</td>
+      <td class="itemDay">Gyandoron2</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="limitBreak">85</td>
+      <td class="extremeDay">Abyss Dragon2</td>
+      <td><span class="extremeDay">MC Sorceror2</span></td>
+      <td class="highlightGray"></td>
+      <td class="dangerDay">Gitan Mamel2</td>
+      <td class="dangerDay">Nigiri King2</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td class="dangerDay">Bashagga2</td>
+      <td class="itemDay">Gyandoron2</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="limitBreak">86</td>
+      <td class="extremeDay">Abyss Dragon2</td>
+      <td><span class="extremeDay">MC Sorceror2</span></td>
+      <td>Cyberoid2</td>
+      <td class="dangerDay">Gitan Mamel2</td>
+      <td class="dangerDay">Nigiri King2</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Tiger Ace2</td>
+      <td>Blazebird2</td>
+      <td>Zalokleft King2</td>
+      <td class="dangerDay">Doom Gyaza2</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="limitBreak">87</td>
+      <td class="extremeDay">Abyss Dragon2</td>
+      <td><span class="extremeDay">MC Sorceror2</span></td>
+      <td>Cyberoid2</td>
+      <td class="dangerDay">Gitan Mamel2</td>
+      <td>Boss Yanpii2</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Tiger Ace2</td>
+      <td>Blazebird2</td>
+      <td>Zalokleft King2</td>
+      <td class="dangerDay">Doom Gyaza2</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="limitBreak">88</td>
+      <td class="extremeDay">Abyss Dragon2</td>
+      <td><span class="extremeDay">MC Sorceror2</span></td>
+      <td>Cyberoid2</td>
+      <td class="dangerDay">Gitan Mamel2</td>
+      <td>Boss Yanpii2</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Tiger Ace2</td>
+      <td>Blazebird2</td>
+      <td>Zalokleft King2</td>
+      <td class="dangerDay">Doom Gyaza2</td>
+      <td>Polygon Stunna2</td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="limitBreak">89</td>
+      <td class="extremeDay">Abyss Dragon2</td>
+      <td><span class="extremeDay">MC Sorceror2</span></td>
+      <td>Cyberoid2</td>
+      <td class="dangerDay">Gitan Mamel2</td>
+      <td>Boss Yanpii2</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Tiger Ace2</td>
+      <td>Despoiler2</td>
+      <td>Elizgagon2</td>
+      <td class="dangerDay">Doom Gyaza2</td>
+      <td>Polygon Stunna2</td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="limitBreak">90</td>
+      <td class="extremeDay">Abyss Dragon2</td>
+      <td><span class="extremeDay">MC Sorceror2</span></td>
+      <td>Cyberoid2</td>
+      <td class="dangerDay">Gitan Mamel2</td>
+      <td>Boss Yanpii2</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Tiger Ace2</td>
+      <td>Despoiler2</td>
+      <td>Elizgagon2</td>
+      <td class="dangerDay">Doom Gyaza2</td>
+      <td>Polygon Stunna2</td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="limitBreak">91</td>
+      <td class="extremeDay">Abyss Dragon2</td>
+      <td><span class="extremeDay">MC Sorceror2</span></td>
+      <td>Cyberoid2</td>
+      <td class="dangerDay">Gitan Mamel2</td>
+      <td class="itemDay">Swordmaster2</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Tiger Ace2</td>
+      <td>Despoiler2</td>
+      <td>Elizgagon2</td>
+      <td>Chow</td>
+      <td>Polygon Stunna2</td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="limitBreak">92</td>
+      <td class="extremeDay">Abyss Dragon2</td>
+      <td><span class="extremeDay">MC Sorceror2</span></td>
+      <td>Cyberoid2</td>
+      <td class="dangerDay">Gitan Mamel2</td>
+      <td class="itemDay">Swordmaster2</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Tiger Ace2</td>
+      <td>Despoiler2</td>
+      <td>Elizgagon2</td>
+      <td>Chow</td>
+      <td>Polygon Stunna2</td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="limitBreak">93</td>
+      <td class="extremeDay">Abyss Dragon2</td>
+      <td><span class="extremeDay">MC Sorceror2</span></td>
+      <td>Cyberoid2</td>
+      <td class="dangerDay">Gitan Mamel2</td>
+      <td class="itemDay">Swordmaster2</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Tiger Ace2</td>
+      <td>Despoiler2</td>
+      <td>Elizgagon2</td>
+      <td>Chow</td>
+      <td class="extremeDay">Ultra Gazer2</td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="limitBreak">94</td>
+      <td class="extremeDay">Abyss Dragon2</td>
+      <td><span class="extremeDay">MC Sorceror2</span></td>
+      <td>Cyberoid2</td>
+      <td class="dangerDay">Gitan Mamel2</td>
+      <td>Zotdon2</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Tiger Ace2</td>
+      <td>Despoiler2</td>
+      <td>Elizgagon2</td>
+      <td>Chow</td>
+      <td class="extremeDay">Ultra Gazer2</td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="limitBreak">95</td>
+      <td class="extremeDay">Abyss Dragon2</td>
+      <td><span class="extremeDay">MC Sorceror2</span></td>
+      <td>Cyberoid2</td>
+      <td class="dangerDay">Gitan Mamel2</td>
+      <td>Zotdon2</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td>Tiger Ace2</td>
+      <td>Despoiler2</td>
+      <td>Elizgagon2</td>
+      <td>Chow</td>
+      <td class="extremeDay">Ultra Gazer2</td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="limitBreak">96</td>
+      <td class="extremeDay">Abyss Dragon2</td>
+      <td><span class="extremeDay">MC Sorceror2</span></td>
+      <td>Cyberoid2</td>
+      <td class="dangerDay">Gitan Mamel2</td>
+      <td>Zotdon2</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td class="extremeDay">Cranky Tank2</td>
+      <td>Despoiler2</td>
+      <td>Elizgagon2</td>
+      <td>Chow</td>
+      <td class="extremeDay">Ultra Gazer2</td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="limitBreak">97</td>
+      <td class="extremeDay">Abyss Dragon2</td>
+      <td><span class="extremeDay">MC Sorceror2</span></td>
+      <td>Cyberoid2</td>
+      <td class="dangerDay">Gitan Mamel2</td>
+      <td>Zotdon2</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td class="extremeDay">Cranky Tank2</td>
+      <td>Despoiler2</td>
+      <td>Elizgagon2</td>
+      <td>Chow</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="limitBreak">98</td>
+      <td class="extremeDay">Abyss Dragon2</td>
+      <td><span class="extremeDay">MC Sorceror2</span></td>
+      <td>Cyberoid2</td>
+      <td class="dangerDay">Gitan Mamel2</td>
+      <td>Zotdon2</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td class="extremeDay">Cranky Tank2</td>
+      <td>Despoiler2</td>
+      <td>Elizgagon2</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="limitBreak">99</td>
+      <td class="extremeDay">Abyss Dragon2</td>
+      <td><span class="extremeDay">MC Sorceror2</span></td>
+      <td>Cyberoid2</td>
+      <td class="dangerDay">Gitan Mamel2</td>
+      <td>Zotdon2</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <td class="extremeDay">Cranky Tank2</td>
+      <td>Despoiler2</td>
+      <td>Elizgagon2</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+  </tbody>
+</table>
 
 # Items
 

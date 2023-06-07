@@ -685,7 +685,7 @@ export const baseStyles = css`
     font-weight: normal;
     text-align: center;
     padding: 2.5px;
-    background-color: #e6e6fa !important;
+    background-color: #e6e6fa;
   }
   .monsterTable td {
     text-align: center;
