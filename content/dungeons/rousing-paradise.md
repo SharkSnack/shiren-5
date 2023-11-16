@@ -77,28 +77,61 @@ Dungeon where new monsters spawn extremely fast - 1 new monster every 15 turns.<
 
 # Strategy
 
-<ul class="quickLinksUL">
-  <li><a href="#dungeon-mechanics">Dungeon Mechanics</a></li>
-  <li><a href="#equipment">Equipment</a></li>
-</ul>
+### Spawn Mechanics
 
-### Dungeon Mechanics
+A new monster spawns every 15 turns in this dungeon.<br/>The monsters that spawn are categorized as swarm, out-of-depth, and regular slots.
 
+- Swarm
+    - Generally a weaker monster relative to the current floor's monsters with a higher spawn rate.
+    - However, sometimes it's a nasty monster such as Dozikon or Mesmerikon2.
+- Out-of-Depth
+    - Strong monster that normally wouldn't appear at the current depth.
+    - An out-of-depth monster spawns in a manner where 1 is present on the floor at most times.
+    - If you defeat or alter the level of this monster, the next spawn will be a fresh out-of-depth monster,<br/>so the best way to deal with it is to disable it by inflicting Paralyzed or Slow status.
+- Regular
+    - Monsters that spawn without special rules.
 
+### Other Notes
+
+Limit broken monsters that can deal 100+ damage per hit appear starting on 76F.<br/>Day Shield and Pauper's Plank are rarely found, so don't count on being able to trade hits with them.<br/>Lv8 Binary Shield can reduce damage to roughly 10\~30 per hit when the effect activates,<br/>but you'll still likely want to focus on run away play instead of trying to brute force encounters.
+
+Shops are rare, and imitation items appear from 1F, so identification is a chore.<br/>Disastrous items like Amnesia Grass and SuperUnlucky Seed can appear as early as single digit floors,<br/>so it's better to throw unidentified grass at enemies and take notes instead of eating grass.<br/>Some grasses like Revival Grass are hard to identify using this method, since they just deal 2 damage.
+
+Staves and talismans are somewhat common.<br/>Pinning, Swap, Knockback, Transient, Paralysis, and Slow staves are most frequently seen,<br/>while Clone, Unlucky, Mage, and Boring staves are less frequent.
+
+Open type pots are limited to Heal and Hilarious - Monster, Zalokleft, and Klein can't be found.
 
 ### Equipment
 
+Equipment is slightly on the uncommon side compared to other item categories.<br/>Powerful bracelets can be found on the ground, so 2 bracelet resonance equipment is good.<br/>Otherwise, good type-effective options include Drain Dagger, Water Cutter, and Lizard Lasher.<br/>These work well against end game Polygon Spinna, Absorbiphant, Gyaza, and Dragon families.<br/>Snake Shield is a good option to counter end game Abyss Dragon2 (Cranky Tank doesn't appear).<br/>Percentage based damage reduction shields like Binary Shield are also fantastic.
 
+Burning Blade + Binary Shield is a combination that lets you keep up with monsters on deeper floors,<br/>with the former getting even easier to use if you can find a Monster Detector or Scout Bracelet.<br/>However, Burning Blade isn't that great against enemies like Porgon, Doom Gyaza, and Abyss Dragon,<br/>so don't neglect to collect items even if you get lucky and find it on the ground.
+
+If you're using Binary Shield as a main shield, consider synthesizing runes that increase max HP<br/>to make it easier to maintain the HP values needed to activate the damage reduction effect.<br/>Also try to level the shield to Lv6 for <span class="greenText">Magi-Twister</span> prior to MC Sorceror (42-44F) floors.
 
 # Floor Guide
 
 ### General
 
+Optimal play can vary a lot based on the items you find - bracelets in particular.<br/>But it's still possible to clear the dungeon without Scout Bracelet, Floating Bracelet, Identify Bracelet, etc.<br/>Type-effective runes, <span class="greenText">Tri-direction</span>, <span class="greenText">Critical</span>, <span class="greenText">Dispersing</span>, high strength, and Super status are all helpful.<br/>Wind of Kron blows very early, so plan ahead if you want to farm monsters.
+
 ### 1-4F
+
+Some players like to restart if they don't find a decent weapon and shield by the end of 2F.<br/>Cololum (45 HP) will likely one-shot you at Lv1 without a shield, and is tough to defeat without a weapon.<br/>Empathy Staff can be used to deal meaningful damage to it, and Paralyzed or Slow status disables it.<br/>Hunt a Gitan Mamel if possible - You can keep up with depth monsters until about 10F if you do so.
+
+Froggos can be hunted on 4F to stock up on Gitan bags to be used as projectiles.<br/>(Shops are rare, and merchandise is usually a bit lackluster in this dungeon)
 
 ### 5-9F
 
+Blade Bee is the swarm monster for 5-7F - Beware of its Confusion Stab if other monsters are nearby.
+
+Fearabbit (7-9F) appears alongside Zapdon (6-8F), Gazer (7-8F), Cheer-Ham (8-9F), Swordsman (9-11F), etc.<br/>Fearabbit is also the swarm slot on 8-9F and can cause a game over due to wind if you get a bad map.<br/>Beware of Zapdon in dark hallways - It usually deals 50\~65 damage without a shield.
+
+Field Knave (7-11F) appears, so keep 1 Weeds on hand to synthesize the <span class="greenText">Anti-Plant</span> weapon rune.
+
 ### 10-11F
+
+Mixer (10-11F) provides a chance to synthesize items - The next one is Mixermon (45-46F), so don't skip it.<br/>Synthesize unidentified grass with secondary weapons, then add it to your main if it was a good rune.<br/>Mixers are very common, so don't worry about running out of synthesis chances.
 
 ### 12-19F
 
@@ -1509,7 +1542,7 @@ Floor Colors: <span class="limitBreak">Limit break monsters</span><br/>Enemy Col
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Burning Blade</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1640,7 +1673,7 @@ Floor Colors: <span class="limitBreak">Limit break monsters</span><br/>Enemy Col
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Binary Shield</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>

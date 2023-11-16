@@ -77,19 +77,51 @@ Dungeon where items can't be found on the ground, but monsters have a higher ite
 
 # Strategy
 
-[Quick Links]
+### General
 
-[Content]
+The start is a bit luck-based - Not bad if you get decent equipment, but otherwise it can be rough.<br/>Gitan dropped by Froggo (3-5F) should be used as a projectile against Gazers (5-7F) and Fearabbits (5-7F).<br/>Don't worry about saving money - Shops are rare, and you can just sell equipment if you need Gitan.<br/>Don't try to hunt Zalokleft type monsters unless you have a Lock Shield.
+
+Kumonigiri (7-9F) has a very high chance to drop Onigiri when defeated.<br/>If you manage to make it to this floor range, hunger issues usually ease up for a while.<br/>Don't eat extra Onigiri to raise max fullness - Instead, just keep the food on hand for later use.
+
+Mixer (9-10F) overlaps with Crow Tengu on 10F, so check Mixer's movement near water to ensure it's real.<br/>Real Mixers can't walk on water tiles, so if the Mixer approaches through water, it's a Crow Tengu.<br/>Mixers are a bit rare, so you might be forced to linger despite the abysmal 180 turn spawn rate.
+
+Since this dungeon lacks walls, you'll need to throw pots at enemies to retrieve contents.<br/>It helps to check for traps before throwing the pot to avoid accidents that might lead to item loss.
+
+If a monster is on a water tile, you can swing a Clone Staff at it to have it warp to a random room<br/>and distract other monsters on the floor for a short while - Handy near the stairs in particular.<br/>Monster Detector plays well with Transient and Swap staves, as expected for a dungeon without walls.
+
+The difficulty spikes upward from 23F where Hopodile and other aquatic and floating types appear.<br/><span class="blueText">Water Cutter</span> is worth using as a main weapon even if you're already past Mixer floors.<br/>It's especially great against Doom Gyaza, Oingodile, and Boingodile near the end of the 2nd clear.<br/>That said, you'll likely need high strength or a fully leveled Watter Cutter to one-shot Doom Gyaza.<br/>Lizard Lasher (w/<span class="greenText">Anti-Aquatic</span>) is also good, since it excels against Hopodile type monsters.<br/>For other type-effective runes, prioritize <span class="greenText">Anti-Floating</span> and <span class="greenText">Anti-Plant</span> if possible.
+
+### Farming
+
+- Kumonigiri (7-9F)
+    - Often drops Onigiri when defeated, which can be grilled by Pop Tank (13-15F) if desired.
+- Mixer (9-10F)
+    - Beware of Crow Tengu disguised as a Mixer.
+- Karakuroid (13-15F), Steamroid (34-36F), Electroid (44-45F)
+    - Have it create useful traps like Monster Trap, Decay Trap, etc.
+- Muddy (25-27F), Mudster (41-43F)
+    - Position it on a water tile and make it endlessly multiply for item drops.
+- Flamebird (15-17F), Sparkbird (29-31F), Flarebird (42-44F)
+    - Synthesize <span class="greenText">Anti-Blast+</span> and step on an Explosion Trap to have it multiply, then defeat for items.
+    - Incredibly rare to obtain all of the needed items to set this up.
+- Shopkeepers
+    - Trigger Thief Mode, then hunt Shopkeepers that endlessly spawn for item drops.
+    - Use a Fort. Staff + Breeze Blade or Burning Blade to ensure safety, along with a Juicy Peach.
 
 # Monsters
 
 See [Monsters](/system/monsters) for individual monster details.
+
+- N = N'dubba <span class="monsterTableNdubba">Lv1</span> <span class="monsterTableNtwyn">Lv2</span> <span class="monsterTableNmach">Lv3</span> <span class="monsterTableNdup">Lv4</span>
+
+Enemy Colors: <span class="farmingDay">Farming</span> <span class="usefulDay">Useful</span> <span class="itemDay">Destroys Items</span> <span class="dangerDay">Dangerous</span> <span class="extremeDay">Very Dangerous</span>
 
 <table class="monsterTable">
   <thead>
     <tr>
       <th>F</th>
       <th colspan="6">Monsters</th>
+      <th>N</th>
     </tr>
   </thead>
   <tbody>
@@ -101,6 +133,10 @@ See [Monsters](/system/monsters) for individual monster details.
       <td>Seedie</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
     </tr>
     <tr>
       <td>2</td>
@@ -110,6 +146,10 @@ See [Monsters](/system/monsters) for individual monster details.
       <td>Seedie</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
     </tr>
     <tr>
       <td>3</td>
@@ -119,6 +159,10 @@ See [Monsters](/system/monsters) for individual monster details.
       <td>Seedie</td>
       <td>Blade Bee</td>
       <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
     </tr>
     <tr>
       <td>4</td>
@@ -128,87 +172,191 @@ See [Monsters](/system/monsters) for individual monster details.
       <td class="highlightGray"></td>
       <td>Blade Bee</td>
       <td>Chintala</td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>Pit Mamel<br/>Fearabbit</td>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">5</td>
+      <td>Pit Mamel</td>
       <td>Nigiri Baby</td>
       <td>Froggo</td>
-      <td>Gazer</td>
+      <td class="itemDay">Gazer</td>
       <td>Blade Bee</td>
       <td>Chintala</td>
+      <td rowspan="2" class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="dangerDay">Fearabbit</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
     </tr>
     <tr>
       <td>6</td>
-      <td>Fearabbit</td>
+      <td class="dangerDay">Fearabbit</td>
       <td>Nigiri Baby</td>
       <td class="highlightGray"></td>
-      <td>Gazer</td>
+      <td class="itemDay">Gazer</td>
       <td class="highlightGray"></td>
       <td>Chintala</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>Fearabbit<br/>Swordsman</td>
-      <td>Nigiri Baby<br/>Curse Girl</td>
-      <td>Kumonigiri<br/>Cheer-Ham</td>
-      <td>Gazer</td>
-      <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>Swordsman</td>
-      <td>Curse Girl</td>
-      <td>Kumonigiri<br/>Cheer-Ham</td>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">7</td>
+      <td class="dangerDay">Fearabbit</td>
+      <td>Nigiri Baby</td>
+      <td class="farmingDay">Kumonigiri</td>
+      <td class="itemDay">Gazer</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td rowspan="2" class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="itemDay">Swordsman</td>
+      <td class="itemDay">Curse Girl</td>
+      <td>Cheer-Ham</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>Swordsman<br/>Yanpii</td>
-      <td>Curse Girl<br/>Tiger Tosser</td>
-      <td>Kumonigiri<br/>Cheer-Ham</td>
-      <td>Mixer</td>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">8</td>
+      <td class="itemDay">Swordsman</td>
+      <td class="itemDay">Curse Girl</td>
+      <td class="farmingDay">Kumonigiri</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td rowspan="2" class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td>Cheer-Ham</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">9</td>
+      <td class="itemDay">Swordsman</td>
+      <td class="itemDay">Curse Girl</td>
+      <td class="farmingDay">Kumonigiri</td>
+      <td class="usefulDay">Mixer</td>
       <td>Moseal</td>
       <td>Mid Chintala</td>
+      <td rowspan="2" class="highlightGray"></td>
     </tr>
     <tr>
-      <td>10</td>
       <td>Yanpii</td>
-      <td>Polygon Spinna<br/>Tiger Tosser</td>
-      <td>Crow Tengu</td>
-      <td>Mixer</td>
-      <td>Moseal</td>
-      <td>Mid Chintala</td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>Scoopie</td>
-      <td>Polygon Spinna<br/>Tiger Tosser</td>
-      <td>Crow Tengu<br/>Scorpion</td>
+      <td>Tiger Tosser</td>
+      <td>Cheer-Ham</td>
       <td class="highlightGray"></td>
-      <td>Moseal</td>
-      <td>Mid Chintala</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td>12</td>
-      <td>Scoopie<br/>Sproutyrant</td>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">10</td>
+      <td>Yanpii</td>
+      <td>Tiger Tosser</td>
+      <td class="dangerDay">Crow Tengu</td>
+      <td class="usefulDay">Mixer</td>
+      <td>Moseal</td>
+      <td>Mid Chintala</td>
+      <td rowspan="2" class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
       <td>Polygon Spinna</td>
-      <td>Crow Tengu<br/>Scorpion</td>
+      <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td>13</td>
-      <td>Scoopie<br/>Sproutyrant</td>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">11</td>
+      <td class="itemDay">Scoopie</td>
+      <td>Tiger Tosser</td>
+      <td>Crow Tengu</td>
+      <td class="highlightGray"></td>
+      <td>Moseal</td>
+      <td>Mid Chintala</td>
+      <td rowspan="2" class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td>Polygon Spinna</td>
+      <td>Scorpion</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">12</td>
+      <td class="itemDay">Scoopie</td>
+      <td>Polygon Spinna</td>
+      <td>Crow Tengu</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td rowspan="2" class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>Sproutyrant</td>
+      <td class="highlightGray"></td>
+      <td>Scorpion</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">13</td>
+      <td class="itemDay">Scoopie</td>
       <td>Porky</td>
       <td>Scorpion</td>
       <td>N'dubba</td>
       <td>Pop Tank</td>
-      <td>Karakuroid</td>
+      <td class="usefulDay">Karakuroid</td>
+      <td rowspan="2" class="monsterTableNdubba">1</td>
+    </tr>
+    <tr>
+      <td>Sproutyrant</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
     </tr>
     <tr>
       <td>14</td>
@@ -217,331 +365,711 @@ See [Monsters](/system/monsters) for individual monster details.
       <td class="highlightGray"></td>
       <td>N'dubba</td>
       <td>Pop Tank</td>
-      <td>Karakuroid</td>
+      <td class="usefulDay">Karakuroid</td>
+      <td class="monsterTableNdubba">1</td>
     </tr>
     <tr>
-      <td>15</td>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">15</td>
       <td>Flamebird</td>
-      <td>Porky<br/>Go-Ham!</td>
-      <td>Acrid Nut<br/>Zapdon</td>
+      <td>Porky</td>
+      <td>Acrid Nut</td>
       <td>N'dubba</td>
       <td>Pop Tank</td>
-      <td>Karakuroid</td>
+      <td class="usefulDay">Karakuroid</td>
+      <td rowspan="2" class="monsterTableNdubba">1</td>
     </tr>
     <tr>
-      <td>16</td>
-      <td>Flamebird<br/>Mutaikon</td>
-      <td>Go-Ham!<br/>Pumphantasm</td>
-      <td>Acrid Nut<br/>Zapdon</td>
+      <td class="highlightGray"></td>
+      <td>Go-Ham!</td>
+      <td>Zapdon</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td>17</td>
-      <td>Flamebird<br/>Mutaikon</td>
-      <td>Go-Ham!<br/>Pumphantasm</td>
-      <td>Zapdon<br/>Gyaza</td>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">16</td>
+      <td>Flamebird</td>
+      <td>Go-Ham!</td>
+      <td>Acrid Nut</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td rowspan="2" class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>Mutaikon</td>
+      <td>Pumphantasm</td>
+      <td>Zapdon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">17</td>
+      <td>Flamebird</td>
+      <td>Go-Ham!</td>
+      <td>Zapdon</td>
       <td class="highlightGray"></td>
       <td>Metalhead</td>
       <td>Bored Kappa</td>
+      <td rowspan="2" class="highlightGray"></td>
     </tr>
     <tr>
-      <td>18</td>
-      <td>Mutaikon<br/>Scarabbit</td>
+      <td>Mutaikon</td>
+      <td>Pumphantasm</td>
+      <td>Gyaza</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">18</td>
+      <td>Mutaikon</td>
       <td>Pumphantasm</td>
       <td>Gyaza</td>
       <td class="highlightGray"></td>
       <td>Metalhead</td>
       <td>Bored Kappa</td>
+      <td rowspan="2" class="highlightGray"></td>
     </tr>
     <tr>
-      <td>19</td>
-      <td>Scarabbit</td>
+      <td class="dangerDay">Scarabbit</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">19</td>
+      <td class="dangerDay">Scarabbit</td>
       <td>Cololum</td>
-      <td>Gyaza<br/>Absorbiphant</td>
-      <td>Cursister</td>
+      <td>Gyaza</td>
+      <td class="itemDay">Cursister</td>
       <td>Metalhead</td>
       <td>Bored Kappa</td>
+      <td rowspan="2" class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="dangerDay">Absorbiphant</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
     </tr>
     <tr>
       <td>20</td>
-      <td>Scarabbit</td>
+      <td class="dangerDay">Scarabbit</td>
       <td>Cololum</td>
-      <td>Absorbiphant</td>
-      <td>Cursister</td>
+      <td class="dangerDay">Absorbiphant</td>
+      <td class="itemDay">Cursister</td>
+      <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td>21</td>
-      <td>Green Zalokleft<br/>Kid Squid</td>
-      <td>Cololum<br/>Naptapir</td>
-      <td>Absorbiphant</td>
-      <td>Cursister</td>
-      <td class="highlightGray"></td>
-      <td>MC Mage</td>
+      <td colspan="8" class="monsterDivider"></td>
     </tr>
     <tr>
-      <td>22</td>
-      <td>Green Zalokleft<br/>Kid Squid</td>
+      <td rowspan="2">21</td>
+      <td class="farmingDay">Green Zalokleft</td>
+      <td>Cololum</td>
+      <td class="dangerDay">Absorbiphant</td>
+      <td class="itemDay">Cursister</td>
+      <td class="highlightGray"></td>
+      <td class="dangerDay">MC Mage</td>
+      <td rowspan="2" class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>Kid Squid</td>
+      <td>Naptapir</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">22</td>
+      <td class="farmingDay">Green Zalokleft</td>
       <td>Naptapir</td>
       <td>Beanie</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
-      <td>MC Mage</td>
+      <td class="dangerDay">MC Mage</td>
+      <td rowspan="2" class="highlightGray"></td>
     </tr>
     <tr>
-      <td>23</td>
-      <td>Green Zalokleft<br/>Kid Squid</td>
-      <td>Naptapir<br/>Nigiri Morph</td>
+      <td>Kid Squid</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">23</td>
+      <td class="farmingDay">Green Zalokleft</td>
+      <td>Naptapir</td>
       <td>Beanie</td>
       <td>Momoseal</td>
-      <td>Hopodile</td>
-      <td>MC Mage</td>
+      <td class="dangerDay">Hopodile</td>
+      <td class="dangerDay">MC Mage</td>
+      <td rowspan="2" class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>Kid Squid</td>
+      <td class="itemDay">Nigiri Morph</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
     </tr>
     <tr>
       <td>24</td>
       <td>Huistdon</td>
-      <td>Nigiri Morph</td>
+      <td class="itemDay">Nigiri Morph</td>
       <td>Beanie</td>
       <td>Momoseal</td>
-      <td>Hopodile</td>
+      <td class="dangerDay">Hopodile</td>
+      <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td>25</td>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">25</td>
       <td>Huistdon</td>
-      <td>Nigiri Morph<br/>Falcon Tengu</td>
-      <td>Muddy</td>
+      <td class="itemDay">Nigiri Morph</td>
+      <td class="itemDay">Muddy</td>
       <td>Momoseal</td>
-      <td>Hopodile</td>
+      <td class="dangerDay">Hopodile</td>
       <td>Boy Cart</td>
+      <td rowspan="2" class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td>Falcon Tengu</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
     </tr>
     <tr>
       <td>26</td>
       <td>Huistdon</td>
       <td>Falcon Tengu</td>
-      <td>Muddy</td>
+      <td class="itemDay">Muddy</td>
       <td class="highlightGray"></td>
-      <td>Hopodile</td>
+      <td class="dangerDay">Hopodile</td>
       <td>Boy Cart</td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td>27</td>
-      <td>Gyadon</td>
-      <td>Falcon Tengu<br/>DJ Mage</td>
-      <td>Muddy</td>
-      <td>Death Gyaza</td>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">27</td>
+      <td class="itemDay">Gyadon</td>
+      <td>Falcon Tengu</td>
+      <td class="itemDay">Muddy</td>
+      <td class="dangerDay">Death Gyaza</td>
       <td>Sproutyrant</td>
       <td>Boy Cart</td>
+      <td rowspan="2" class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td>DJ Mage</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
     </tr>
     <tr>
       <td>28</td>
-      <td>Gyadon</td>
+      <td class="itemDay">Gyadon</td>
       <td>DJ Mage</td>
       <td>Kappa Pest</td>
-      <td>Death Gyaza</td>
+      <td class="dangerDay">Death Gyaza</td>
       <td>Sproutyrant</td>
       <td>Dagger Bee</td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td>29</td>
-      <td>Gyadon<br/>Polygon Shaka</td>
-      <td>DJ Mage<br/>Sparkbird</td>
-      <td>Kappa Pest<br/>Firepuff</td>
-      <td>Death Gyaza<br/>Rally Ham</td>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">29</td>
+      <td class="itemDay">Gyadon</td>
+      <td>DJ Mage</td>
+      <td>Kappa Pest</td>
+      <td class="dangerDay">Death Gyaza</td>
       <td>Sproutyrant</td>
       <td>Dagger Bee</td>
+      <td rowspan="2" class="highlightGray"></td>
     </tr>
     <tr>
-      <td>30</td>
       <td>Polygon Shaka</td>
       <td>Sparkbird</td>
-      <td>Kappa Pest<br/>Firepuff</td>
+      <td>Firepuff</td>
       <td>Rally Ham</td>
-      <td>Katana Bee</td>
-      <td>Dagger Bee</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td>31</td>
-      <td>Polygon Shaka<br/>Sr. Yanpii</td>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">30</td>
+      <td>Polygon Shaka</td>
       <td>Sparkbird</td>
-      <td>Firepuff<br/>Big Chintala</td>
-      <td>Rally Ham<br/>Eligan</td>
-      <td>Poofy</td>
+      <td>Kappa Pest</td>
+      <td>Rally Ham</td>
+      <td class="dangerDay">Katana Bee</td>
       <td>Dagger Bee</td>
+      <td rowspan="2" class="highlightGray"></td>
     </tr>
     <tr>
-      <td>32</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td>Firepuff</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">31</td>
+      <td>Polygon Shaka</td>
+      <td>Sparkbird</td>
+      <td>Firepuff</td>
+      <td>Rally Ham</td>
+      <td class="highlightGray"></td>
+      <td>Dagger Bee</td>
+      <td rowspan="2" class="highlightGray"></td>
+    </tr>
+    <tr>
       <td>Sr. Yanpii</td>
       <td class="highlightGray"></td>
       <td>Big Chintala</td>
       <td>Eligan</td>
-      <td>Katana Bee<br/>Poofy</td>
+      <td>Poofy</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td>33</td>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">32</td>
       <td>Sr. Yanpii</td>
-      <td>MC Mage</td>
-      <td>Big Chintala<br/>Zotdon</td>
+      <td class="highlightGray"></td>
+      <td>Big Chintala</td>
       <td>Eligan</td>
-      <td>Poofy<br/>Cross Cart</td>
-      <td>Punisher</td>
+      <td class="dangerDay">Katana Bee</td>
+      <td class="highlightGray"></td>
+      <td rowspan="2" class="highlightGray"></td>
     </tr>
     <tr>
-      <td>34</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td>Poofy</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">33</td>
+      <td>Sr. Yanpii</td>
+      <td class="dangerDay">MC Mage</td>
+      <td>Big Chintala</td>
+      <td>Eligan</td>
+      <td>Poofy</td>
+      <td>Punisher</td>
+      <td rowspan="2" class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td>Zotdon</td>
+      <td class="highlightGray"></td>
+      <td>Cross Cart</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">34</td>
       <td>Pumphantom</td>
-      <td>MC Mage</td>
-      <td>Zotdon<br/>Steamroid</td>
+      <td class="dangerDay">MC Mage</td>
+      <td>Zotdon</td>
       <td class="highlightGray"></td>
       <td>Cross Cart</td>
       <td>Punisher</td>
+      <td rowspan="2" class="highlightGray"></td>
     </tr>
     <tr>
-      <td>35</td>
-      <td>Pumphantom<br/>Pandanigiri</td>
-      <td>MC Mage<br/>Curspinster</td>
-      <td>Zotdon<br/>Steamroid</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="usefulDay">Steamroid</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">35</td>
+      <td>Pumphantom</td>
+      <td class="dangerDay">MC Mage</td>
+      <td>Zotdon</td>
       <td>Momomoseal</td>
       <td>Cross Cart</td>
       <td>Punisher</td>
+      <td rowspan="2" class="highlightGray"></td>
     </tr>
     <tr>
-      <td>36</td>
-      <td>Pumphantom<br/>Pandanigiri</td>
-      <td>Curspinster</td>
-      <td>Steamroid</td>
+      <td class="farmingDay">Pandanigiri</td>
+      <td class="itemDay">Curspinster</td>
+      <td class="usefulDay">Steamroid</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">36</td>
+      <td>Pumphantom</td>
+      <td class="itemDay">Curspinster</td>
+      <td class="usefulDay">Steamroid</td>
       <td>Momomoseal</td>
       <td class="highlightGray"></td>
       <td>Debaser</td>
+      <td rowspan="2" class="highlightGray"></td>
     </tr>
     <tr>
-      <td>37</td>
-      <td>Pumphantom<br/>Pandanigiri</td>
-      <td>Curspinster<br/>Eagle Tengu</td>
-      <td>Fencer<br/>Super Gazer</td>
-      <td>Momomoseal<br/>N'twyn</td>
-      <td>Mixermon</td>
-      <td>Debaser</td>
-    </tr>
-    <tr>
-      <td>38</td>
+      <td class="farmingDay">Pandanigiri</td>
       <td class="highlightGray"></td>
-      <td>Eagle Tengu</td>
-      <td>Fencer<br/>Super Gazer</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">37</td>
+      <td>Pumphantom</td>
+      <td class="itemDay">Curspinster</td>
+      <td class="itemDay">Fencer</td>
+      <td>Momomoseal</td>
+      <td class="usefulDay">Mixermon</td>
+      <td>Debaser</td>
+      <td rowspan="2" class="monsterTableNtwyn">2</td>
+    </tr>
+    <tr>
+      <td class="farmingDay">Pandanigiri</td>
+      <td class="dangerDay">Eagle Tengu</td>
+      <td class="itemDay">Super Gazer</td>
       <td>N'twyn</td>
-      <td>Mixermon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">38</td>
+      <td class="highlightGray"></td>
+      <td class="dangerDay">Eagle Tengu</td>
+      <td class="itemDay">Fencer</td>
+      <td>N'twyn</td>
+      <td class="usefulDay">Mixermon</td>
       <td>Debaser</td>
+      <td rowspan="2" class="monsterTableNtwyn">2</td>
     </tr>
     <tr>
-      <td>39</td>
-      <td>Dozikon<br/>Lt. Yanpii</td>
-      <td>Eagle Tengu<br/>Nigiri Boss</td>
-      <td>Fencer<br/>Super Gazer</td>
-      <td>N'twyn<br/>Colocolum</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="itemDay">Super Gazer</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">39</td>
+      <td class="extremeDay">Dozikon</td>
+      <td>Eagle Tengu</td>
+      <td class="itemDay">Fencer</td>
+      <td>N'twyn</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td rowspan="2" class="monsterTableNtwyn">2</td>
+    </tr>
+    <tr>
+      <td>Lt. Yanpii</td>
+      <td class="dangerDay">Nigiri Boss</td>
+      <td class="itemDay">Super Gazer</td>
+      <td>Colocolum</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td>40</td>
-      <td>Dozikon<br/>Lt. Yanpii</td>
-      <td>Nigiri Boss</td>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">40</td>
+      <td class="extremeDay">Dozikon</td>
+      <td class="dangerDay">Nigiri Boss</td>
       <td class="highlightGray"></td>
       <td>Colocolum</td>
       <td>Nuttie</td>
       <td class="highlightGray"></td>
+      <td rowspan="2" class="highlightGray"></td>
     </tr>
     <tr>
-      <td>41</td>
-      <td>Dozikon<br/>Lt. Yanpii</td>
-      <td>Nigiri Boss</td>
-      <td>Mudster<br/>Tiger Hurler</td>
+      <td>Lt. Yanpii</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">41</td>
+      <td class="extremeDay">Dozikon</td>
+      <td class="dangerDay">Nigiri Boss</td>
+      <td class="itemDay">Mudster</td>
       <td>Colocolum</td>
       <td>Nuttie</td>
       <td>Flamepuff</td>
+      <td rowspan="2" class="highlightGray"></td>
     </tr>
     <tr>
-      <td>42</td>
-      <td>Flarebird</td>
-      <td>Sensei</td>
-      <td>Mudster<br/>Tiger Hurler</td>
+      <td>Lt. Yanpii</td>
+      <td class="highlightGray"></td>
+      <td>Tiger Hurler</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">42</td>
+      <td class="dangerDay">Flarebird</td>
+      <td class="itemDay">Sensei</td>
+      <td class="itemDay">Mudster</td>
       <td class="highlightGray"></td>
       <td>Nuttie</td>
       <td>Flamepuff</td>
+      <td rowspan="2" class="highlightGray"></td>
     </tr>
     <tr>
-      <td>43</td>
-      <td>Flarebird<br/>Strong Cart</td>
-      <td>Gyairas</td>
-      <td>Mudster<br/>Tiger Hurler</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td>Tiger Hurler</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">43</td>
+      <td class="dangerDay">Flarebird</td>
+      <td class="itemDay">Sensei</td>
+      <td class="itemDay">Mudster</td>
       <td>Electroid</td>
-      <td>Hipadile</td>
+      <td class="dangerDay">Hipadile</td>
       <td>Flamepuff</td>
+      <td rowspan="2" class="highlightGray"></td>
     </tr>
     <tr>
-      <td>44</td>
-      <td>Flarebird<br/>Strong Cart</td>
-      <td>Gyairas<br/>Sensei</td>
+      <td>Strong Cart</td>
+      <td class="itemDay">Gyairas</td>
+      <td>Tiger Hurler</td>
       <td class="highlightGray"></td>
-      <td>Electroid<br/>Phoenix Tengu</td>
-      <td>Hipadile</td>
+      <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td>45</td>
-      <td>Strong Cart<br/>MC Sorceror</td>
-      <td>Gyairas<br/>Sensei</td>
-      <td>Pyrepuff<br/>Porkon</td>
-      <td>Electroid<br/>Phoenix Tengu</td>
-      <td>Hipadile</td>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">44</td>
+      <td class="dangerDay">Flarebird</td>
+      <td class="itemDay">Sensei</td>
+      <td class="highlightGray"></td>
+      <td>Electroid</td>
+      <td class="dangerDay">Hipadile</td>
+      <td class="highlightGray"></td>
+      <td rowspan="2" class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>Strong Cart</td>
+      <td class="itemDay">Gyairas</td>
+      <td class="highlightGray"></td>
+      <td>Phoenix Tengu</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">45</td>
+      <td>Strong Cart</td>
+      <td class="itemDay">Sensei</td>
+      <td>Pyrepuff</td>
+      <td>Electroid</td>
+      <td class="dangerDay">Hipadile</td>
       <td>Snooztapir</td>
+      <td rowspan="2" class="highlightGray"></td>
     </tr>
     <tr>
-      <td>46</td>
-      <td>MC Sorceror</td>
+      <td class="extremeDay">MC Sorceror</td>
+      <td class="itemDay">Gyairas</td>
+      <td class="extremeDay">Porkon</td>
+      <td>Phoenix Tengu</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">46</td>
+      <td class="extremeDay">MC Sorceror</td>
       <td>Pumpanshee</td>
-      <td>Pyrepuff<br/>Porkon</td>
+      <td>Pyrepuff</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td>Snooztapir</td>
+      <td rowspan="2" class="highlightGray"></td>
     </tr>
     <tr>
-      <td>47</td>
-      <td>MC Sorceror</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="extremeDay">Porkon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2">47</td>
+      <td class="extremeDay">MC Sorceror</td>
       <td>Pumpanshee</td>
-      <td>Pyrepuff<br/>Porkon</td>
+      <td>Pyrepuff</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td>Snooztapir</td>
+      <td rowspan="2" class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="extremeDay">Porkon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
     </tr>
     <tr>
       <td>48</td>
       <td class="highlightGray"></td>
       <td>Pumpanshee</td>
-      <td>Zalokleft King</td>
+      <td class="farmingDay">Zalokleft King</td>
       <td>Vexing Kappa</td>
-      <td>Doom Gyaza</td>
-      <td>King Squid</td>
+      <td class="extremeDay">Doom Gyaza</td>
+      <td class="dangerDay">King Squid</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
     </tr>
     <tr>
       <td>49</td>
-      <td>Oingodile</td>
-      <td>Boingodile</td>
-      <td>Zalokleft King</td>
+      <td class="dangerDay">Oingodile</td>
+      <td class="extremeDay">Boingodile</td>
+      <td class="farmingDay">Zalokleft King</td>
       <td>Vexing Kappa</td>
-      <td>Doom Gyaza</td>
-      <td>King Squid</td>
+      <td class="extremeDay">Doom Gyaza</td>
+      <td class="dangerDay">King Squid</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
     </tr>
     <tr>
       <td>50</td>
-      <td>Oingodile</td>
-      <td>Boingodile</td>
-      <td>Zalokleft King</td>
+      <td class="dangerDay">Oingodile</td>
+      <td class="extremeDay">Boingodile</td>
+      <td class="farmingDay">Zalokleft King</td>
       <td>Vexing Kappa</td>
-      <td>Doom Gyaza</td>
-      <td>King Squid</td>
+      <td class="extremeDay">Doom Gyaza</td>
+      <td class="dangerDay">King Squid</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterDivider"></td>
     </tr>
   </tbody>
 </table>
@@ -693,7 +1221,7 @@ See [Monsters](/system/monsters) for individual monster details.
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Glass Dirk</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>

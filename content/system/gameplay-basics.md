@@ -697,7 +697,7 @@ Aura effects vary by color:
   </tr>
   <tr>
     <td class="highlightBlue">Blue</td>
-    <td>Reduce damage received by 70%. (3 stages of Bolstered status)</td>
+    <td>Reduce damage received by 40%. (3 stages of Bolstered status)</td>
   </tr>
   <tr>
     <td class="highlightYellow">Yellow</td>

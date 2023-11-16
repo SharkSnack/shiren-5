@@ -33,7 +33,7 @@ Dungeon where [Monster Houses](/system/dungeon-features#monster-house) have a hi
 <table class="dungeonTable">
   <tr>
     <th>Floors</th>
-    <td>29F (first) / 50F</td>
+    <td>50F (first) / 99F</td>
     <th>Day</th>
     <td>Day</td>
   </tr>

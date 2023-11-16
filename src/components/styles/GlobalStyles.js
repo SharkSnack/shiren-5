@@ -24,9 +24,7 @@ export const baseStyles = css`
   }
   html,
   body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Roboto Light', 'Oxygen',
-      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif,
-      'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+    font-family: 'Roboto';
 
     font-size: 16px;
     /* scroll-behavior: smooth; */
@@ -318,6 +316,11 @@ export const baseStyles = css`
     opacity: 0.7;
   }
   pre {
+    border: 0 !important;
+    background-color: rgb(245, 247, 249); /* !important; */
+  }
+  .password {
+    font-family: 'Arial';
     border: 0 !important;
     background-color: rgb(245, 247, 249); /* !important; */
   }

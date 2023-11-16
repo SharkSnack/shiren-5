@@ -59,7 +59,7 @@ Dungeon where Wind of Kron blows extremely fast - <span class="redText">You have
     <th>Initial Enemies</th>
     <td></td>
     <th>Spawn Rate</th>
-    <td>50</td>
+    <td>25</td>
   </tr>
   <tr>
     <th>Ominous aura</th>
