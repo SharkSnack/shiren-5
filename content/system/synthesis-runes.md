@@ -45,6 +45,8 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
 
 ## Rune List
 
+Synthesis Pot cannot be used to obtain runes listed under the "Synthesis (Mixer)" column.<br/>Instead, a Mixer family monster must be used in order to synthesize the listed rune to the item.
+
 ### Weapon
 
 <table class="runeTable">

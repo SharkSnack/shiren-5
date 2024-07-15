@@ -430,14 +430,18 @@ Synthesize weapons and shields to merge special abilities, upgrade value, and ru
   <img src="../images/other/runes.png"/>
 </div>
 
-#### Synthesis Effects
+#### Synthesis Basics
+
+The first item you insert into a Synthesis Pot or throw at a Mixer acts as the base.<br/><span class="redText">Synthesis Pots can only combine weapons with weapons, shields with shields, or staves with staves.</span><br/>Mixers can combine the full range of items used in rune recipes, including different category items.
 
 Weapons, Shields:
 
 - First item is the base. Runes and upgrade value of subsequent items are added to it.
     - Example: Katana first, Scythe+1 second → Katana+1 with <span class="greenText">Anti-Plant</span> rune.
 - Each item has a "rune count", and no more runes can be added once you reach the limit.
-    - Example: Katana has 4 rune slots.
+    - Example: Katana has 4 rune slots at Lv1.
+- Each item has an upgrade limit that increases as the weapon levels up through usage.
+    - The upgrade limit for weapons and shields maxes out at +99 once the item reaches Lv8.
 - Innate runes get stronger as the item levels up, but runes are always equal to Lv1 effect.
     - Example: Lv4 Scythe = 210%, Lv4 Katana with <span class="greenText">Anti-Plant</span> rune = 135%.<br/>→ [Rune Multipliers](/system/synthesis-runes#multipliers)
 
@@ -446,10 +450,12 @@ Staves:
 - Adds use counts together. Can only combine same name staves.
     - Example: Knockback Staff [3] first, Knockback Staff [4] second → Knockback Staff [7].
 
-#### Different Category Synthesis
+Cross-Mixing (Different Item Category Synthesis):
 
-Normally, you can only synthesize weapons with weapons, and shields with shields.<br/>However, certain different category items can be synthesized by Mixers to add runes.<br/>
-(Example: Weapon + Dragon Grass = <span class="greenText">Anti-Dragon</span> rune)<br/>→ Check [Rune List](/system/synthesis-runes#rune-list) for all possible combinations.
+- When synthesizing using Mixers, certain different category items can be combined to add runes.
+    - To be clear, this is NOT possible when synthesizing using a Synthesis Pot.
+    - Example: Weapon + Dragon Grass = <span class="greenText">Anti-Dragon</span> rune
+        - Check [Rune List](/system/synthesis-runes#rune-list) under the "Synthesis (Mixer)" column for all possible combinations.
 
 #### Synthesis Methods
 
@@ -459,7 +465,7 @@ Synthesis Pot:
   <img src="../images/other/pot.png"/>
 </div>
 
-- Insert same category items to synthesize them. (Weapons, Shields, or Staves)
+- Insert same category items to synthesize them. (Only Weapons, Shields, or Staves)
 - Insert an identified staff last to result in an identified staff.
 
 Mixer:
