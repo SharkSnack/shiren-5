@@ -285,7 +285,7 @@ export const baseStyles = css`
   }
 
   .navBarBrand img {
-    width: 40px;
+    width: 32px;
     margin-right: 6px;
     display: inline-block;
   }
@@ -676,6 +676,11 @@ export const baseStyles = css`
     background-color: #e3d6ff !important;
     padding-top: 1px !important;
   }
+  .tableDivider5 {
+    background-color: #c0d9ff;
+    padding-top: 1px !important;
+    padding-bottom: 0px !important;
+  }
   .tableCategory th {
     font-weight: normal;
     background-color: #f0f0f0;
@@ -695,7 +700,7 @@ export const baseStyles = css`
     padding-right: 2px;
     padding-top: 2px;
     padding-bottom: 2px;
-    font-size: 13px;
+    font-size: 13.5px;
   }
   .monsterTable img {
     vertical-align: bottom !important;
@@ -1178,7 +1183,10 @@ export const baseStyles = css`
     background-color: #f2f2f2 !important;
   }
   .highlightGray2 {
-    background-color: #d2d2d2 !important;
+    background-color: #aeaeae !important;
+  }
+  .highlightGray3 {
+    background-color: #e3e3e3 !important;
   }
   .highlightYellow {
     background-color: #ffffe4 !important;
@@ -1304,7 +1312,7 @@ export const baseStyles = css`
     background-color: #baeaff;
   }
   .day {
-    background-color: #fffff6;
+    background-color: #fffff0;
   }
   .night {
     background-color: #222;
@@ -1317,19 +1325,19 @@ export const baseStyles = css`
     color: #0087ff;
   }
   .farmNight {
-    color: #2598ff;
+    color: #0079e6;
   }
   .useful {
     color: #01b04e;
   }
   .usefulNight {
-    color: #89ff85;
+    color: #059900;
   }
   .items {
     color: #8e1fff;
   }
   .itemsNight {
-    color: #e78eff;
+    color: #a516cc;
   }
   .strong {
     color: #bf911c;
@@ -1341,16 +1349,31 @@ export const baseStyles = css`
     color: #ff8300;
   }
   .dangerNight {
-    color: #ffc636;
+    color: #e37500;
   }
   .extreme {
     color: #ff1e1e;
   }
   .extremeNight {
-    color: #ff6060;
+    color: #ff1c1c;
   }
   .tipName {
     color: #f3d0ff;
+  }
+  .tipHP {
+    color: #89ff85;
+  }
+  .tipAP {
+    color: #ff6060;
+  }
+  .tipDP {
+    color: #2598ff;
+  }
+  .tipExp {
+    color: #ffc636;
+  }
+  .tipGP {
+    color: #e78eff;
   }
   .tipSpeed {
     color: #b3fff4;
