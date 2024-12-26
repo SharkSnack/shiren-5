@@ -418,7 +418,7 @@ export const baseStyles = css`
   }
 
   .logoWrapper img {
-    width: 40px;
+    width: 32px;
   }
 
   .sideBarUL {
