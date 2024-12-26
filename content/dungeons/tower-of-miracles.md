@@ -33,16 +33,11 @@ Staying at the inn occasionally increases max HP, max strength, or max fullness.
       <li><a href="#boss">Boss</a></li>
     </ul>
   </li>
-  <li><a href="#monsters">Monsters</a>
+  <li><a href="#monsters">Monsters</a></li>
+  <li><a href="#monster-list">Monster List</a>
     <ul>
       <li><a href="#list-(day)">List (Day)</a></li>
       <li><a href="#list-(night)">List (Night)</a></li>
-    </ul>
-  </li>
-  <li><a href="#monster-table">Monster Table</a>
-    <ul>
-      <li><a href="#table-(day)">Table (Day)</a></li>
-      <li><a href="#table-(night)">Table (Night)</a></li>
     </ul>
   </li>
   <li><a href="#items">Items</a></li>
@@ -208,10 +203,10 @@ Boss: Gr. Reeva Statue
     <tr>
       <th>Name</th>
       <th>HP</th>
-      <th>Atk</th>
-      <th>Def</th>
+      <th>AP</th>
+      <th>DP</th>
       <th>Exp</th>
-      <th>Skill</th>
+      <th>GP</th>
       <th>Rune / Item</th>
       <th>Notes</th>
     </tr>
@@ -274,6 +269,235 @@ You can continue the story even if Jirokichi collapses during the boss fight, so
 
 # Monsters
 
+<button id="hideMonTblImgBtn" onClick={()=>{var mon_imgs = document.querySelectorAll('#monsterTable img');mon_imgs.forEach(e => e.classList.toggle('hidden'));}}>Toggle Monster Images</button>
+
+Hover over or tap a monster's name for details.<br/>Floor Colors: <span class="highlightOrange2">Boss Floor</span><br/>Monster Colors: <span class="farm">Farming</span>, <span class="useful">Useful</span>, <span class="items">Destroys Items</span>, <span class="danger">Dangerous</span>, <span class="extreme">Very Dangerous</span>
+
+<table id="monsterTable" class="monsterTable">
+  <thead>
+    <tr>
+      <th>F</th>
+      <th colspan="5">Monsters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2" class="centeredText">1</td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/48-2.png"/> Flamepuff<div class="tooltiptext">- <span class="tipName">Flamepuff</span> -<br/><span class="usefulNight">HP:</span> 64 <span class="extremeNight">AP:</span> 39 <span class="farmNight">DP:</span> 22 <span class="dangerNight">Exp:</span> 400 <span class="itemsNight">GP:</span> 75<br/><span class="tipType">Type:</span> Dragon/Floating <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 89% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 4%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Breathes 20 damage fire when adjacent, which can hit through corners. Occasionally fails at breathing fire.</div></div></td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/17-2.png"/> Pumphantom<div class="tooltiptext">- <span class="tipName">Pumphantom</span> -<br/><span class="usefulNight">HP:</span> 66 <span class="extremeNight">AP:</span> 39 <span class="farmNight">DP:</span> 18 <span class="dangerNight">Exp:</span> 390 <span class="itemsNight">GP:</span> 40<br/><span class="tipType">Type:</span> Plant/Floating <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 0%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Can pass through walls. Unpredictable movement, but slowly approaches Shiren.</div></div></td>
+      <td class="highlightGray2"></td>
+      <td class="highlightGray2"></td>
+      <td class="highlightGray2"></td>
+    </tr>
+    <tr>
+      <td class="night dangerNight"><div class="tooltip"><img src="../images/monsters_s/41-6.png"/> Evil Sky Dragon<div class="tooltiptext">- <span class="tipName">Evil Sky Dragon</span> -<br/><span class="usefulNight">HP:</span> 55 <span class="extremeNight">AP:</span> 38 <span class="farmNight">DP:</span> 5 <span class="dangerNight">Exp:</span> 300 <span class="itemsNight">GP:</span> 200<br/><span class="tipType">Type:</span> Dragon <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 25% (near), 15% (far)<br/><span class="tipItem">Item Drop Rate:</span> 22%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Spews a homing 50 damage flame from anywhere in the same room.</div></div></td>
+      <td class="night"><div class="tooltip"><img src="../images/monsters_s/37-6.png"/> Dark Eligagan<div class="tooltiptext">- <span class="tipName">Dark Eligagan</span> -<br/><span class="usefulNight">HP:</span> 45 <span class="extremeNight">AP:</span> 38 <span class="farmNight">DP:</span> 5 <span class="dangerNight">Exp:</span> 150 <span class="itemsNight">GP:</span> 100<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 8%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks.</div></div></td>
+      <td class="night"><div class="tooltip"><img src="../images/monsters_s/47-6.png"/> Hell's Debaser<div class="tooltiptext">- <span class="tipName">Hell's Debaser</span> -<br/><span class="usefulNight">HP:</span> 45 <span class="extremeNight">AP:</span> 38 <span class="farmNight">DP:</span> 3 <span class="dangerNight">Exp:</span> 150 <span class="itemsNight">GP:</span> 130<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 20% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 8%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Occasionally lands a critical hit that deals double damage.</div></div></td>
+      <td class="night"><div class="tooltip"><img src="../images/monsters_s/49-6.png"/> Bad Falcon Tengu<div class="tooltiptext">- <span class="tipName">Bad Falcon Tengu</span> -<br/><span class="usefulNight">HP:</span> 45 <span class="extremeNight">AP:</span> 50 <span class="farmNight">DP:</span> 5 <span class="dangerNight">Exp:</span> 150 <span class="itemsNight">GP:</span> 23<br/><span class="tipType">Type:</span> Floating <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 0%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Disguises itself as a different monster, but it can't use special attacks of the monster it's disguised as.</div></div></td>
+      <td class="highlightGray2"></td>
+    </tr>
+    <tr>
+      <td colspan="6" class="purpleDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4" class="centeredText">2</td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/48-2.png"/> Flamepuff<div class="tooltiptext">- <span class="tipName">Flamepuff</span> -<br/><span class="usefulNight">HP:</span> 64 <span class="extremeNight">AP:</span> 39 <span class="farmNight">DP:</span> 22 <span class="dangerNight">Exp:</span> 400 <span class="itemsNight">GP:</span> 75<br/><span class="tipType">Type:</span> Dragon/Floating <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 89% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 4%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Breathes 20 damage fire when adjacent, which can hit through corners. Occasionally fails at breathing fire.</div></div></td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/17-2.png"/> Pumphantom<div class="tooltiptext">- <span class="tipName">Pumphantom</span> -<br/><span class="usefulNight">HP:</span> 66 <span class="extremeNight">AP:</span> 39 <span class="farmNight">DP:</span> 18 <span class="dangerNight">Exp:</span> 390 <span class="itemsNight">GP:</span> 40<br/><span class="tipType">Type:</span> Plant/Floating <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 0%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Can pass through walls. Unpredictable movement, but slowly approaches Shiren.</div></div></td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/1-3.png"/> Cave Mamel<div class="tooltiptext">- <span class="tipName">Cave Mamel</span> -<br/><span class="usefulNight">HP:</span> 6 <span class="extremeNight">AP:</span> 60 <span class="farmNight">DP:</span> 19 <span class="dangerNight">Exp:</span> 888 <span class="itemsNight">GP:</span> 100<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 4%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Converts non-fixed damage received to 1 damage.</div></div></td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/49-2.png"/> Falcon Tengu<div class="tooltiptext">- <span class="tipName">Falcon Tengu</span> -<br/><span class="usefulNight">HP:</span> 55 <span class="extremeNight">AP:</span> 17 <span class="farmNight">DP:</span> 11 <span class="dangerNight">Exp:</span> 66 <span class="itemsNight">GP:</span> 20<br/><span class="tipType">Type:</span> Floating <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 0%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Disguises itself as a different monster, but it can't use special attacks of the monster it's disguised as.</div></div></td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/21-2.png"/> VeniScorp<div class="tooltiptext">- <span class="tipName">VeniScorp</span> -<br/><span class="usefulNight">HP:</span> 70 <span class="extremeNight">AP:</span> 45 <span class="farmNight">DP:</span> 22 <span class="dangerNight">Exp:</span> 480 <span class="itemsNight">GP:</span> 30<br/><span class="tipType">Type:</span> Drain <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 19% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 2%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Lowers Strength by 2 when adjacent.</div></div></td>
+    </tr>
+    <tr>
+      <td class="day danger"><div class="tooltip"><img src="../images/monsters_s/22-2.png"/> Dazikon<div class="tooltiptext">- <span class="tipName">Dazikon</span> -<br/><span class="usefulNight">HP:</span> 46 <span class="extremeNight">AP:</span> 23 <span class="farmNight">DP:</span> 16 <span class="dangerNight">Exp:</span> 260 <span class="itemsNight">GP:</span> 20<br/><span class="tipType">Type:</span> Plant <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 22% (near), 22% (far)<br/><span class="tipItem">Item Drop Rate:</span> 6%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Throws Confusion Grass within a 2 tile radius. Throws Poison Grass if Shiren has Confused status. Only drops Confusion Grass.</div></div></td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/26-2.png"/> Polygon Shaka<div class="tooltiptext">- <span class="tipName">Polygon Shaka</span> -<br/><span class="usefulNight">HP:</span> 70 <span class="extremeNight">AP:</span> 34 <span class="farmNight">DP:</span> 11 <span class="dangerNight">Exp:</span> 360 <span class="itemsNight">GP:</span> 35<br/><span class="tipType">Type:</span> Drain/Magic <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 28% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 2%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Lowers Max HP by 2 or Max Fullness by 5 when adjacent. Warps in front of Shiren when in a room.</div></div></td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/18-2.png"/> Poofy<div class="tooltiptext">- <span class="tipName">Poofy</span> -<br/><span class="usefulNight">HP:</span> 55 <span class="extremeNight">AP:</span> 27 <span class="farmNight">DP:</span> 11 <span class="dangerNight">Exp:</span> 24 <span class="itemsNight">GP:</span> 40<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Swift 1<br/><span class="tipSpecial">Sp.Atk Rate:</span> 23% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 4%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Initially Napping in a group of 3. Shiren can be warped 1~3 floors when surrounded by 3 Poofy monsters.</div></div></td>
+      <td class="highlightGray2"></td>
+      <td class="highlightGray2"></td>
+    </tr>
+    <tr>
+      <td class="night dangerNight"><div class="tooltip"><img src="../images/monsters_s/41-6.png"/> Evil Sky Dragon<div class="tooltiptext">- <span class="tipName">Evil Sky Dragon</span> -<br/><span class="usefulNight">HP:</span> 55 <span class="extremeNight">AP:</span> 38 <span class="farmNight">DP:</span> 5 <span class="dangerNight">Exp:</span> 300 <span class="itemsNight">GP:</span> 200<br/><span class="tipType">Type:</span> Dragon <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 25% (near), 15% (far)<br/><span class="tipItem">Item Drop Rate:</span> 22%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Spews a homing 50 damage flame from anywhere in the same room.</div></div></td>
+      <td class="night"><div class="tooltip"><img src="../images/monsters_s/37-6.png"/> Dark Eligagan<div class="tooltiptext">- <span class="tipName">Dark Eligagan</span> -<br/><span class="usefulNight">HP:</span> 45 <span class="extremeNight">AP:</span> 38 <span class="farmNight">DP:</span> 5 <span class="dangerNight">Exp:</span> 150 <span class="itemsNight">GP:</span> 100<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 8%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks.</div></div></td>
+      <td class="night"><div class="tooltip"><img src="../images/monsters_s/47-6.png"/> Hell's Debaser<div class="tooltiptext">- <span class="tipName">Hell's Debaser</span> -<br/><span class="usefulNight">HP:</span> 45 <span class="extremeNight">AP:</span> 38 <span class="farmNight">DP:</span> 3 <span class="dangerNight">Exp:</span> 150 <span class="itemsNight">GP:</span> 130<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 20% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 8%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Occasionally lands a critical hit that deals double damage.</div></div></td>
+      <td class="night"><div class="tooltip"><img src="../images/monsters_s/49-6.png"/> Bad Falcon Tengu<div class="tooltiptext">- <span class="tipName">Bad Falcon Tengu</span> -<br/><span class="usefulNight">HP:</span> 45 <span class="extremeNight">AP:</span> 50 <span class="farmNight">DP:</span> 5 <span class="dangerNight">Exp:</span> 150 <span class="itemsNight">GP:</span> 23<br/><span class="tipType">Type:</span> Floating <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 0%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Disguises itself as a different monster, but it can't use special attacks of the monster it's disguised as.</div></div></td>
+      <td class="night itemsNight"><div class="tooltip"><img src="../images/monsters_s/14-6.png"/> Foul Cursister<div class="tooltiptext">- <span class="tipName">Foul Cursister</span> -<br/><span class="usefulNight">HP:</span> 39 <span class="extremeNight">AP:</span> 30 <span class="farmNight">DP:</span> 4 <span class="dangerNight">Exp:</span> 120 <span class="itemsNight">GP:</span> 35<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 27% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 0%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Curses or seals 1 item when adjacent.</div></div></td>
+    </tr>
+    <tr>
+      <td class="night"><div class="tooltip"><img src="../images/monsters_s/8-6.png"/> Putrid Acrid Nut<div class="tooltiptext">- <span class="tipName">Putrid Acrid Nut</span> -<br/><span class="usefulNight">HP:</span> 60 <span class="extremeNight">AP:</span> 40 <span class="farmNight">DP:</span> 3 <span class="dangerNight">Exp:</span> 150 <span class="itemsNight">GP:</span> 96<br/><span class="tipType">Type:</span> Plant/Explode <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 0%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Either doubles experience points (Max: x1024) or explodes (33% chance) each time it eats a thrown item.</div></div></td>
+      <td class="highlightGray2"></td>
+      <td class="highlightGray2"></td>
+      <td class="highlightGray2"></td>
+      <td class="highlightGray2"></td>
+    </tr>
+    <tr>
+      <td colspan="6" class="purpleDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4" class="centeredText">3</td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/48-2.png"/> Flamepuff<div class="tooltiptext">- <span class="tipName">Flamepuff</span> -<br/><span class="usefulNight">HP:</span> 64 <span class="extremeNight">AP:</span> 39 <span class="farmNight">DP:</span> 22 <span class="dangerNight">Exp:</span> 400 <span class="itemsNight">GP:</span> 75<br/><span class="tipType">Type:</span> Dragon/Floating <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 89% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 4%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Breathes 20 damage fire when adjacent, which can hit through corners. Occasionally fails at breathing fire.</div></div></td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/13-2.png"/> Tiger Hurler<div class="tooltiptext">- <span class="tipName">Tiger Hurler</span> -<br/><span class="usefulNight">HP:</span> 68 <span class="extremeNight">AP:</span> 45 <span class="farmNight">DP:</span> 18 <span class="dangerNight">Exp:</span> 350 <span class="itemsNight">GP:</span> 35<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 33% (near), 33% (far)<br/><span class="tipItem">Item Drop Rate:</span> 4%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Throws an adjacent creature at Shiren, or throws Shiren at another creature, onto a trap, or into a Monster House. Range of 10 tiles, deals 10 damage.</div></div></td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/1-3.png"/> Cave Mamel<div class="tooltiptext">- <span class="tipName">Cave Mamel</span> -<br/><span class="usefulNight">HP:</span> 6 <span class="extremeNight">AP:</span> 60 <span class="farmNight">DP:</span> 19 <span class="dangerNight">Exp:</span> 888 <span class="itemsNight">GP:</span> 100<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 4%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Converts non-fixed damage received to 1 damage.</div></div></td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/49-2.png"/> Falcon Tengu<div class="tooltiptext">- <span class="tipName">Falcon Tengu</span> -<br/><span class="usefulNight">HP:</span> 55 <span class="extremeNight">AP:</span> 17 <span class="farmNight">DP:</span> 11 <span class="dangerNight">Exp:</span> 66 <span class="itemsNight">GP:</span> 20<br/><span class="tipType">Type:</span> Floating <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 0%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Disguises itself as a different monster, but it can't use special attacks of the monster it's disguised as.</div></div></td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/21-2.png"/> VeniScorp<div class="tooltiptext">- <span class="tipName">VeniScorp</span> -<br/><span class="usefulNight">HP:</span> 70 <span class="extremeNight">AP:</span> 45 <span class="farmNight">DP:</span> 22 <span class="dangerNight">Exp:</span> 480 <span class="itemsNight">GP:</span> 30<br/><span class="tipType">Type:</span> Drain <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 19% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 2%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Lowers Strength by 2 when adjacent.</div></div></td>
+    </tr>
+    <tr>
+      <td class="day danger"><div class="tooltip"><img src="../images/monsters_s/22-2.png"/> Dazikon<div class="tooltiptext">- <span class="tipName">Dazikon</span> -<br/><span class="usefulNight">HP:</span> 46 <span class="extremeNight">AP:</span> 23 <span class="farmNight">DP:</span> 16 <span class="dangerNight">Exp:</span> 260 <span class="itemsNight">GP:</span> 20<br/><span class="tipType">Type:</span> Plant <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 22% (near), 22% (far)<br/><span class="tipItem">Item Drop Rate:</span> 6%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Throws Confusion Grass within a 2 tile radius. Throws Poison Grass if Shiren has Confused status. Only drops Confusion Grass.</div></div></td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/26-2.png"/> Polygon Shaka<div class="tooltiptext">- <span class="tipName">Polygon Shaka</span> -<br/><span class="usefulNight">HP:</span> 70 <span class="extremeNight">AP:</span> 34 <span class="farmNight">DP:</span> 11 <span class="dangerNight">Exp:</span> 360 <span class="itemsNight">GP:</span> 35<br/><span class="tipType">Type:</span> Drain/Magic <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 28% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 2%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Lowers Max HP by 2 or Max Fullness by 5 when adjacent. Warps in front of Shiren when in a room.</div></div></td>
+      <td class="day farm"><div class="tooltip"><img src="../images/monsters_s/6-3.png"/> Grass Poppa<div class="tooltiptext">- <span class="tipName">Grass Poppa</span> -<br/><span class="usefulNight">HP:</span> 74 <span class="extremeNight">AP:</span> 49 <span class="farmNight">DP:</span> 17 <span class="dangerNight">Exp:</span> 640 <span class="itemsNight">GP:</span> 210<br/><span class="tipType">Type:</span> Plant <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 21% (near), 16% (far)<br/><span class="tipItem">Item Drop Rate:</span> 0%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Spreads grass in a 1 tile radius when adjacent. Pierce-throws grass in a straight line at a distance. Carries up to 3 grass items. Becomes Pin Poppa with 0 grass.</div></div></td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/7-3.png"/> Pin Poppa<div class="tooltiptext">- <span class="tipName">Pin Poppa</span> -<br/><span class="usefulNight">HP:</span> 76 <span class="extremeNight">AP:</span> 48 <span class="farmNight">DP:</span> 16 <span class="dangerNight">Exp:</span> 400 <span class="itemsNight">GP:</span> 80<br/><span class="tipType">Type:</span> Plant <span class="tipSpeed">Speed:</span> Swift 1<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 0%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Runs from Shiren, but attacks when adjacent. Becomes Grass Poppa when it picks up a grass item. Generates its own grass as turns elapse.</div></div></td>
+      <td class="highlightGray2"></td>
+    </tr>
+    <tr>
+      <td class="night dangerNight"><div class="tooltip"><img src="../images/monsters_s/41-6.png"/> Evil Sky Dragon<div class="tooltiptext">- <span class="tipName">Evil Sky Dragon</span> -<br/><span class="usefulNight">HP:</span> 55 <span class="extremeNight">AP:</span> 38 <span class="farmNight">DP:</span> 5 <span class="dangerNight">Exp:</span> 300 <span class="itemsNight">GP:</span> 200<br/><span class="tipType">Type:</span> Dragon <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 25% (near), 15% (far)<br/><span class="tipItem">Item Drop Rate:</span> 22%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Spews a homing 50 damage flame from anywhere in the same room.</div></div></td>
+      <td class="night farmNight"><div class="tooltip"><img src="../images/monsters_s/11-6.png"/> Snide Froggucci<div class="tooltiptext">- <span class="tipName">Snide Froggucci</span> -<br/><span class="usefulNight">HP:</span> 50 <span class="extremeNight">AP:</span> 36 <span class="farmNight">DP:</span> 5 <span class="dangerNight">Exp:</span> 10 <span class="itemsNight">GP:</span> 20<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 48% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 100%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Steals Gitan when adjacent and warps, then runs from Shiren at swift speed. Stands on Gitan it finds the ground. Can use direct attacks. Heals HP when hit by thrown Gitan.</div></div></td>
+      <td class="night"><div class="tooltip"><img src="../images/monsters_s/12-6.png"/> Dark Steamroid<div class="tooltiptext">- <span class="tipName">Dark Steamroid</span> -<br/><span class="usefulNight">HP:</span> 42 <span class="extremeNight">AP:</span> 36 <span class="farmNight">DP:</span> 3 <span class="dangerNight">Exp:</span> 180 <span class="itemsNight">GP:</span> 100<br/><span class="tipType">Type:</span> Metal <span class="tipSpeed">Speed:</span> Swift 1<br/><span class="tipSpecial">Sp.Atk Rate:</span> 38% (near), 38% (far)<br/><span class="tipItem">Item Drop Rate:</span> 8%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Initially Napping, wakes when Shiren enters or exits the room. Creates a trap on the ground, then stops acting for 2 turns. Occasionally creates a trap when slain.</div></div></td>
+      <td class="night"><div class="tooltip"><img src="../images/monsters_s/49-6.png"/> Bad Falcon Tengu<div class="tooltiptext">- <span class="tipName">Bad Falcon Tengu</span> -<br/><span class="usefulNight">HP:</span> 45 <span class="extremeNight">AP:</span> 50 <span class="farmNight">DP:</span> 5 <span class="dangerNight">Exp:</span> 150 <span class="itemsNight">GP:</span> 23<br/><span class="tipType">Type:</span> Floating <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 0%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Disguises itself as a different monster, but it can't use special attacks of the monster it's disguised as.</div></div></td>
+      <td class="night itemsNight"><div class="tooltip"><img src="../images/monsters_s/14-6.png"/> Foul Cursister<div class="tooltiptext">- <span class="tipName">Foul Cursister</span> -<br/><span class="usefulNight">HP:</span> 39 <span class="extremeNight">AP:</span> 30 <span class="farmNight">DP:</span> 4 <span class="dangerNight">Exp:</span> 120 <span class="itemsNight">GP:</span> 35<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 27% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 0%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Curses or seals 1 item when adjacent.</div></div></td>
+    </tr>
+    <tr>
+      <td class="night"><div class="tooltip"><img src="../images/monsters_s/8-6.png"/> Putrid Acrid Nut<div class="tooltiptext">- <span class="tipName">Putrid Acrid Nut</span> -<br/><span class="usefulNight">HP:</span> 60 <span class="extremeNight">AP:</span> 40 <span class="farmNight">DP:</span> 3 <span class="dangerNight">Exp:</span> 150 <span class="itemsNight">GP:</span> 96<br/><span class="tipType">Type:</span> Plant/Explode <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 0%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Either doubles experience points (Max: x1024) or explodes (33% chance) each time it eats a thrown item.</div></div></td>
+      <td class="highlightGray2"></td>
+      <td class="highlightGray2"></td>
+      <td class="highlightGray2"></td>
+      <td class="highlightGray2"></td>
+    </tr>
+    <tr>
+      <td colspan="6" class="grayDivider"></td>
+    </tr>
+    <tr>
+      <td class="monsterTableVillage"></td>
+      <td colspan="5" class="monsterTableVillage centeredText">Sparrow's Inn</td>
+    </tr>
+    <tr>
+      <td colspan="6" class="grayDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">4</td>
+      <td class="day extreme"><div class="tooltip"><img src="../images/monsters_s/42-3.png"/> MC Wizard<div class="tooltiptext">- <span class="tipName">MC Wizard</span> -<br/><span class="usefulNight">HP:</span> 62 <span class="extremeNight">AP:</span> 32 <span class="farmNight">DP:</span> 20 <span class="dangerNight">Exp:</span> 800 <span class="itemsNight">GP:</span> 60<br/><span class="tipType">Type:</span> Magic <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 64% (near), 47% (far)<br/><span class="tipItem">Item Drop Rate:</span> 6%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Fires a magic bullet with a random effect in a straight line: Level-1, sealed, paralyzed, cloned, or berserk.</div></div></td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/13-2.png"/> Tiger Hurler<div class="tooltiptext">- <span class="tipName">Tiger Hurler</span> -<br/><span class="usefulNight">HP:</span> 68 <span class="extremeNight">AP:</span> 45 <span class="farmNight">DP:</span> 18 <span class="dangerNight">Exp:</span> 350 <span class="itemsNight">GP:</span> 35<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 33% (near), 33% (far)<br/><span class="tipItem">Item Drop Rate:</span> 4%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Throws an adjacent creature at Shiren, or throws Shiren at another creature, onto a trap, or into a Monster House. Range of 10 tiles, deals 10 damage.</div></div></td>
+      <td class="day farm"><div class="tooltip"><img src="../images/monsters_s/6-3.png"/> Grass Poppa<div class="tooltiptext">- <span class="tipName">Grass Poppa</span> -<br/><span class="usefulNight">HP:</span> 74 <span class="extremeNight">AP:</span> 49 <span class="farmNight">DP:</span> 17 <span class="dangerNight">Exp:</span> 640 <span class="itemsNight">GP:</span> 210<br/><span class="tipType">Type:</span> Plant <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 21% (near), 16% (far)<br/><span class="tipItem">Item Drop Rate:</span> 0%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Spreads grass in a 1 tile radius when adjacent. Pierce-throws grass in a straight line at a distance. Carries up to 3 grass items. Becomes Pin Poppa with 0 grass.</div></div></td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/7-3.png"/> Pin Poppa<div class="tooltiptext">- <span class="tipName">Pin Poppa</span> -<br/><span class="usefulNight">HP:</span> 76 <span class="extremeNight">AP:</span> 48 <span class="farmNight">DP:</span> 16 <span class="dangerNight">Exp:</span> 400 <span class="itemsNight">GP:</span> 80<br/><span class="tipType">Type:</span> Plant <span class="tipSpeed">Speed:</span> Swift 1<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 0%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Runs from Shiren, but attacks when adjacent. Becomes Grass Poppa when it picks up a grass item. Generates its own grass as turns elapse.</div></div></td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/21-2.png"/> VeniScorp<div class="tooltiptext">- <span class="tipName">VeniScorp</span> -<br/><span class="usefulNight">HP:</span> 70 <span class="extremeNight">AP:</span> 45 <span class="farmNight">DP:</span> 22 <span class="dangerNight">Exp:</span> 480 <span class="itemsNight">GP:</span> 30<br/><span class="tipType">Type:</span> Drain <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 19% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 2%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Lowers Strength by 2 when adjacent.</div></div></td>
+    </tr>
+    <tr>
+      <td class="night dangerNight"><div class="tooltip"><img src="../images/monsters_s/3-7.png"/> Bad Colocolum<div class="tooltiptext">- <span class="tipName">Bad Colocolum</span> -<br/><span class="usefulNight">HP:</span> 60 <span class="extremeNight">AP:</span> 46 <span class="farmNight">DP:</span> 4 <span class="dangerNight">Exp:</span> 180 <span class="itemsNight">GP:</span> 120<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 16%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Rolls backward 10 tiles when slain by a direct attack, damaging anything it hits equal to damage received.</div></div></td>
+      <td class="night farmNight"><div class="tooltip"><img src="../images/monsters_s/11-6.png"/> Snide Froggucci<div class="tooltiptext">- <span class="tipName">Snide Froggucci</span> -<br/><span class="usefulNight">HP:</span> 50 <span class="extremeNight">AP:</span> 36 <span class="farmNight">DP:</span> 5 <span class="dangerNight">Exp:</span> 10 <span class="itemsNight">GP:</span> 20<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 48% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 100%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Steals Gitan when adjacent and warps, then runs from Shiren at swift speed. Stands on Gitan it finds the ground. Can use direct attacks. Heals HP when hit by thrown Gitan.</div></div></td>
+      <td class="night"><div class="tooltip"><img src="../images/monsters_s/12-6.png"/> Dark Steamroid<div class="tooltiptext">- <span class="tipName">Dark Steamroid</span> -<br/><span class="usefulNight">HP:</span> 42 <span class="extremeNight">AP:</span> 36 <span class="farmNight">DP:</span> 3 <span class="dangerNight">Exp:</span> 180 <span class="itemsNight">GP:</span> 100<br/><span class="tipType">Type:</span> Metal <span class="tipSpeed">Speed:</span> Swift 1<br/><span class="tipSpecial">Sp.Atk Rate:</span> 38% (near), 38% (far)<br/><span class="tipItem">Item Drop Rate:</span> 8%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Initially Napping, wakes when Shiren enters or exits the room. Creates a trap on the ground, then stops acting for 2 turns. Occasionally creates a trap when slain.</div></div></td>
+      <td class="night"><div class="tooltip"><img src="../images/monsters_s/28-6.png"/> Mean Go-Ham!<div class="tooltiptext">- <span class="tipName">Mean Go-Ham!</span> -<br/><span class="usefulNight">HP:</span> 47 <span class="extremeNight">AP:</span> 27 <span class="farmNight">DP:</span> 5 <span class="dangerNight">Exp:</span> 36 <span class="itemsNight">GP:</span> 60<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 8%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Runs away from Shiren, but attacks when cornered. Moves toward monsters in view. Cheers for adjacent creatures, raising AP by 2 stages and letting them survive a fatal hit.</div></div></td>
+      <td class="highlightGray2"></td>
+    </tr>
+    <tr>
+      <td colspan="6" class="purpleDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">5</td>
+      <td class="day extreme"><div class="tooltip"><img src="../images/monsters_s/42-3.png"/> MC Wizard<div class="tooltiptext">- <span class="tipName">MC Wizard</span> -<br/><span class="usefulNight">HP:</span> 62 <span class="extremeNight">AP:</span> 32 <span class="farmNight">DP:</span> 20 <span class="dangerNight">Exp:</span> 800 <span class="itemsNight">GP:</span> 60<br/><span class="tipType">Type:</span> Magic <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 64% (near), 47% (far)<br/><span class="tipItem">Item Drop Rate:</span> 6%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Fires a magic bullet with a random effect in a straight line: Level-1, sealed, paralyzed, cloned, or berserk.</div></div></td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/13-2.png"/> Tiger Hurler<div class="tooltiptext">- <span class="tipName">Tiger Hurler</span> -<br/><span class="usefulNight">HP:</span> 68 <span class="extremeNight">AP:</span> 45 <span class="farmNight">DP:</span> 18 <span class="dangerNight">Exp:</span> 350 <span class="itemsNight">GP:</span> 35<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 33% (near), 33% (far)<br/><span class="tipItem">Item Drop Rate:</span> 4%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Throws an adjacent creature at Shiren, or throws Shiren at another creature, onto a trap, or into a Monster House. Range of 10 tiles, deals 10 damage.</div></div></td>
+      <td class="day farm"><div class="tooltip"><img src="../images/monsters_s/6-3.png"/> Grass Poppa<div class="tooltiptext">- <span class="tipName">Grass Poppa</span> -<br/><span class="usefulNight">HP:</span> 74 <span class="extremeNight">AP:</span> 49 <span class="farmNight">DP:</span> 17 <span class="dangerNight">Exp:</span> 640 <span class="itemsNight">GP:</span> 210<br/><span class="tipType">Type:</span> Plant <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 21% (near), 16% (far)<br/><span class="tipItem">Item Drop Rate:</span> 0%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Spreads grass in a 1 tile radius when adjacent. Pierce-throws grass in a straight line at a distance. Carries up to 3 grass items. Becomes Pin Poppa with 0 grass.</div></div></td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/7-3.png"/> Pin Poppa<div class="tooltiptext">- <span class="tipName">Pin Poppa</span> -<br/><span class="usefulNight">HP:</span> 76 <span class="extremeNight">AP:</span> 48 <span class="farmNight">DP:</span> 16 <span class="dangerNight">Exp:</span> 400 <span class="itemsNight">GP:</span> 80<br/><span class="tipType">Type:</span> Plant <span class="tipSpeed">Speed:</span> Swift 1<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 0%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Runs from Shiren, but attacks when adjacent. Becomes Grass Poppa when it picks up a grass item. Generates its own grass as turns elapse.</div></div></td>
+      <td class="day items"><div class="tooltip"><img src="../images/monsters_s/38-2.png"/> Gyairas<div class="tooltiptext">- <span class="tipName">Gyairas</span> -<br/><span class="usefulNight">HP:</span> 64 <span class="extremeNight">AP:</span> 49 <span class="farmNight">DP:</span> 22 <span class="dangerNight">Exp:</span> 440 <span class="itemsNight">GP:</span> 35<br/><span class="tipType">Type:</span> Floating <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 21% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 4%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Pecks a scroll or talisman from your inventory when adjacent, turning it into a Piece of Paper.</div></div></td>
+    </tr>
+    <tr>
+      <td class="highlightGray2"></td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/37-2.png"/> Eligagan<div class="tooltiptext">- <span class="tipName">Eligagan</span> -<br/><span class="usefulNight">HP:</span> 62 <span class="extremeNight">AP:</span> 62 <span class="farmNight">DP:</span> 22 <span class="dangerNight">Exp:</span> 680 <span class="itemsNight">GP:</span> 100<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 4%<br/>~ <span class="tipAbility">Ability</span> ~<br/>None.</div></div></td>
+      <td class="highlightGray2"></td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/40-2.png"/> Huistdon<div class="tooltiptext">- <span class="tipName">Huistdon</span> -<br/><span class="usefulNight">HP:</span> 108 <span class="extremeNight">AP:</span> 69 <span class="farmNight">DP:</span> 25 <span class="dangerNight">Exp:</span> 660 <span class="itemsNight">GP:</span> 220<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Slow<br/><span class="tipSpecial">Sp.Atk Rate:</span> 100% (near), 100% (far)<br/><span class="tipItem">Item Drop Rate:</span> 4%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Counters with a 30 damage lightning attack when Shiren is in view after taking damage 3 times.</div></div></td>
+      <td class="highlightGray2"></td>
+    </tr>
+    <tr>
+      <td class="night dangerNight"><div class="tooltip"><img src="../images/monsters_s/3-7.png"/> Bad Colocolum<div class="tooltiptext">- <span class="tipName">Bad Colocolum</span> -<br/><span class="usefulNight">HP:</span> 60 <span class="extremeNight">AP:</span> 46 <span class="farmNight">DP:</span> 4 <span class="dangerNight">Exp:</span> 180 <span class="itemsNight">GP:</span> 120<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 16%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Rolls backward 10 tiles when slain by a direct attack, damaging anything it hits equal to damage received.</div></div></td>
+      <td class="night"><div class="tooltip"><img src="../images/monsters_s/27-6.png"/> Dark Ironhead<div class="tooltiptext">- <span class="tipName">Dark Ironhead</span> -<br/><span class="usefulNight">HP:</span> 66 <span class="extremeNight">AP:</span> 59 <span class="farmNight">DP:</span> 7 <span class="dangerNight">Exp:</span> 150 <span class="itemsNight">GP:</span> 140<br/><span class="tipType">Type:</span> Cyclops <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 34% (near), 34% (far)<br/><span class="tipItem">Item Drop Rate:</span> 8%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Attacks 2 tiles ahead and through corners. Charges strength to deal double damage on the next turn.</div></div></td>
+      <td class="night usefulNight"><div class="tooltip"><img src="../images/monsters_s/20-6.png"/> Dark Mixermon<div class="tooltiptext">- <span class="tipName">Dark Mixermon</span> -<br/><span class="usefulNight">HP:</span> 60 <span class="extremeNight">AP:</span> 40 <span class="farmNight">DP:</span> 6 <span class="dangerNight">Exp:</span> 230 <span class="itemsNight">GP:</span> 80<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 0%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Eats up to 3 thrown items and synthesizes them. Gains 1 stage of Buffed status each time it eats an item.</div></div></td>
+      <td class="night"><div class="tooltip"><img src="../images/monsters_s/28-6.png"/> Mean Go-Ham!<div class="tooltiptext">- <span class="tipName">Mean Go-Ham!</span> -<br/><span class="usefulNight">HP:</span> 47 <span class="extremeNight">AP:</span> 27 <span class="farmNight">DP:</span> 5 <span class="dangerNight">Exp:</span> 36 <span class="itemsNight">GP:</span> 60<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 8%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Runs away from Shiren, but attacks when cornered. Moves toward monsters in view. Cheers for adjacent creatures, raising AP by 2 stages and letting them survive a fatal hit.</div></div></td>
+      <td class="night"><div class="tooltip"><img src="../images/monsters_s/2-6.png"/> Vile Sproutyrant<div class="tooltiptext">- <span class="tipName">Vile Sproutyrant</span> -<br/><span class="usefulNight">HP:</span> 37 <span class="extremeNight">AP:</span> 40 <span class="farmNight">DP:</span> 4 <span class="dangerNight">Exp:</span> 140 <span class="itemsNight">GP:</span> 190<br/><span class="tipType">Type:</span> Plant <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 8%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Monster family becomes immune to most recent status inflicted upon it, excluding Sealed status.</div></div></td>
+    </tr>
+    <tr>
+      <td colspan="6" class="purpleDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">6</td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/33-2.png"/> Sparkbird<div class="tooltiptext">- <span class="tipName">Sparkbird</span> -<br/><span class="usefulNight">HP:</span> 43 <span class="extremeNight">AP:</span> 20 <span class="farmNight">DP:</span> 25 <span class="dangerNight">Exp:</span> 200 <span class="itemsNight">GP:</span> 25<br/><span class="tipType">Type:</span> Floating <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 56% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 0%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Heals an adjacent monster's HP by 60. Items thrown at it burn up. Fire damage restores its HP. Multiplies from explosions.</div></div></td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/37-2.png"/> Eligagan<div class="tooltiptext">- <span class="tipName">Eligagan</span> -<br/><span class="usefulNight">HP:</span> 62 <span class="extremeNight">AP:</span> 62 <span class="farmNight">DP:</span> 22 <span class="dangerNight">Exp:</span> 680 <span class="itemsNight">GP:</span> 100<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 4%<br/>~ <span class="tipAbility">Ability</span> ~<br/>None.</div></div></td>
+      <td class="highlightGray2"></td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/40-2.png"/> Huistdon<div class="tooltiptext">- <span class="tipName">Huistdon</span> -<br/><span class="usefulNight">HP:</span> 108 <span class="extremeNight">AP:</span> 69 <span class="farmNight">DP:</span> 25 <span class="dangerNight">Exp:</span> 660 <span class="itemsNight">GP:</span> 220<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Slow<br/><span class="tipSpecial">Sp.Atk Rate:</span> 100% (near), 100% (far)<br/><span class="tipItem">Item Drop Rate:</span> 4%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Counters with a 30 damage lightning attack when Shiren is in view after taking damage 3 times.</div></div></td>
+      <td class="day items"><div class="tooltip"><img src="../images/monsters_s/38-2.png"/> Gyairas<div class="tooltiptext">- <span class="tipName">Gyairas</span> -<br/><span class="usefulNight">HP:</span> 64 <span class="extremeNight">AP:</span> 49 <span class="farmNight">DP:</span> 22 <span class="dangerNight">Exp:</span> 440 <span class="itemsNight">GP:</span> 35<br/><span class="tipType">Type:</span> Floating <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 21% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 4%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Pecks a scroll or talisman from your inventory when adjacent, turning it into a Piece of Paper.</div></div></td>
+    </tr>
+    <tr>
+      <td class="night itemsNight"><div class="tooltip"><img src="../images/monsters_s/35-7.png"/> Wicked Trowelie<div class="tooltiptext">- <span class="tipName">Wicked Trowelie</span> -<br/><span class="usefulNight">HP:</span> 45 <span class="extremeNight">AP:</span> 46 <span class="farmNight">DP:</span> 6 <span class="dangerNight">Exp:</span> 320 <span class="itemsNight">GP:</span> 200<br/><span class="tipType">Type:</span> Metal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 22% (near), 18% (far)<br/><span class="tipItem">Item Drop Rate:</span> 16%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Shovels dirt at a visible target within a 4 tile radius. Dirt fills 1 pot in your inventory when it hits Shiren, or inflicts Blind status when it hits an ally. Dirt in pots eventually changes to grass items when advancing floors.</div></div></td>
+      <td class="night"><div class="tooltip"><img src="../images/monsters_s/27-6.png"/> Dark Ironhead<div class="tooltiptext">- <span class="tipName">Dark Ironhead</span> -<br/><span class="usefulNight">HP:</span> 66 <span class="extremeNight">AP:</span> 59 <span class="farmNight">DP:</span> 7 <span class="dangerNight">Exp:</span> 150 <span class="itemsNight">GP:</span> 140<br/><span class="tipType">Type:</span> Cyclops <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 34% (near), 34% (far)<br/><span class="tipItem">Item Drop Rate:</span> 8%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Attacks 2 tiles ahead and through corners. Charges strength to deal double damage on the next turn.</div></div></td>
+      <td class="night usefulNight"><div class="tooltip"><img src="../images/monsters_s/20-6.png"/> Dark Mixermon<div class="tooltiptext">- <span class="tipName">Dark Mixermon</span> -<br/><span class="usefulNight">HP:</span> 60 <span class="extremeNight">AP:</span> 40 <span class="farmNight">DP:</span> 6 <span class="dangerNight">Exp:</span> 230 <span class="itemsNight">GP:</span> 80<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 0%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Eats up to 3 thrown items and synthesizes them. Gains 1 stage of Buffed status each time it eats an item.</div></div></td>
+      <td class="night"><div class="tooltip"><img src="../images/monsters_s/55-6.png"/> Evil Concusschin<div class="tooltiptext">- <span class="tipName">Evil Concusschin</span> -<br/><span class="usefulNight">HP:</span> 45 <span class="extremeNight">AP:</span> 55 <span class="farmNight">DP:</span> 1 <span class="dangerNight">Exp:</span> 70 <span class="itemsNight">GP:</span> 80<br/><span class="tipType">Type:</span> Aquatic/Cyclops/Explode <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 0%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Explodes after losing a certain amount of HP.</div></div></td>
+      <td class="night"><div class="tooltip"><img src="../images/monsters_s/2-6.png"/> Vile Sproutyrant<div class="tooltiptext">- <span class="tipName">Vile Sproutyrant</span> -<br/><span class="usefulNight">HP:</span> 37 <span class="extremeNight">AP:</span> 40 <span class="farmNight">DP:</span> 4 <span class="dangerNight">Exp:</span> 140 <span class="itemsNight">GP:</span> 190<br/><span class="tipType">Type:</span> Plant <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 8%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Monster family becomes immune to most recent status inflicted upon it, excluding Sealed status.</div></div></td>
+    </tr>
+    <tr>
+      <td colspan="6" class="purpleDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">7</td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/33-2.png"/> Sparkbird<div class="tooltiptext">- <span class="tipName">Sparkbird</span> -<br/><span class="usefulNight">HP:</span> 43 <span class="extremeNight">AP:</span> 20 <span class="farmNight">DP:</span> 25 <span class="dangerNight">Exp:</span> 200 <span class="itemsNight">GP:</span> 25<br/><span class="tipType">Type:</span> Floating <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 56% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 0%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Heals an adjacent monster's HP by 60. Items thrown at it burn up. Fire damage restores its HP. Multiplies from explosions.</div></div></td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/37-2.png"/> Eligagan<div class="tooltiptext">- <span class="tipName">Eligagan</span> -<br/><span class="usefulNight">HP:</span> 62 <span class="extremeNight">AP:</span> 62 <span class="farmNight">DP:</span> 22 <span class="dangerNight">Exp:</span> 680 <span class="itemsNight">GP:</span> 100<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 4%<br/>~ <span class="tipAbility">Ability</span> ~<br/>None.</div></div></td>
+      <td class="day danger"><div class="tooltip"><img src="../images/monsters_s/54-2.png"/> Nashagga<div class="tooltiptext">- <span class="tipName">Nashagga</span> -<br/><span class="usefulNight">HP:</span> 85 <span class="extremeNight">AP:</span> 55 <span class="farmNight">DP:</span> 27 <span class="dangerNight">Exp:</span> 1060 <span class="itemsNight">GP:</span> 200<br/><span class="tipType">Type:</span> Dragon <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 4%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Attacks 2 times in 1 turn (single animation).</div></div></td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/40-2.png"/> Huistdon<div class="tooltiptext">- <span class="tipName">Huistdon</span> -<br/><span class="usefulNight">HP:</span> 108 <span class="extremeNight">AP:</span> 69 <span class="farmNight">DP:</span> 25 <span class="dangerNight">Exp:</span> 660 <span class="itemsNight">GP:</span> 220<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Slow<br/><span class="tipSpecial">Sp.Atk Rate:</span> 100% (near), 100% (far)<br/><span class="tipItem">Item Drop Rate:</span> 4%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Counters with a 30 damage lightning attack when Shiren is in view after taking damage 3 times.</div></div></td>
+      <td class="highlightGray2"></td>
+    </tr>
+    <tr>
+      <td class="night itemsNight"><div class="tooltip"><img src="../images/monsters_s/35-7.png"/> Wicked Trowelie<div class="tooltiptext">- <span class="tipName">Wicked Trowelie</span> -<br/><span class="usefulNight">HP:</span> 45 <span class="extremeNight">AP:</span> 46 <span class="farmNight">DP:</span> 6 <span class="dangerNight">Exp:</span> 320 <span class="itemsNight">GP:</span> 200<br/><span class="tipType">Type:</span> Metal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 22% (near), 18% (far)<br/><span class="tipItem">Item Drop Rate:</span> 16%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Shovels dirt at a visible target within a 4 tile radius. Dirt fills 1 pot in your inventory when it hits Shiren, or inflicts Blind status when it hits an ally. Dirt in pots eventually changes to grass items when advancing floors.</div></div></td>
+      <td class="night"><div class="tooltip"><img src="../images/monsters_s/13-7.png"/> Dark Chucker<div class="tooltiptext">- <span class="tipName">Dark Chucker</span> -<br/><span class="usefulNight">HP:</span> 65 <span class="extremeNight">AP:</span> 66 <span class="farmNight">DP:</span> 9 <span class="dangerNight">Exp:</span> 260 <span class="itemsNight">GP:</span> 220<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 33% (near), 33% (far)<br/><span class="tipItem">Item Drop Rate:</span> 16%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Throws an adjacent creature at Shiren, or throws Shiren at another creature, onto a trap, or into a Monster House. Range of 15 tiles, deals 30 damage.</div></div></td>
+      <td class="highlightGray2"></td>
+      <td class="night"><div class="tooltip"><img src="../images/monsters_s/55-6.png"/> Evil Concusschin<div class="tooltiptext">- <span class="tipName">Evil Concusschin</span> -<br/><span class="usefulNight">HP:</span> 45 <span class="extremeNight">AP:</span> 55 <span class="farmNight">DP:</span> 1 <span class="dangerNight">Exp:</span> 70 <span class="itemsNight">GP:</span> 80<br/><span class="tipType">Type:</span> Aquatic/Cyclops/Explode <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 0%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Explodes after losing a certain amount of HP.</div></div></td>
+      <td class="night"><div class="tooltip"><img src="../images/monsters_s/2-6.png"/> Vile Sproutyrant<div class="tooltiptext">- <span class="tipName">Vile Sproutyrant</span> -<br/><span class="usefulNight">HP:</span> 37 <span class="extremeNight">AP:</span> 40 <span class="farmNight">DP:</span> 4 <span class="dangerNight">Exp:</span> 140 <span class="itemsNight">GP:</span> 190<br/><span class="tipType">Type:</span> Plant <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 8%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Monster family becomes immune to most recent status inflicted upon it, excluding Sealed status.</div></div></td>
+    </tr>
+    <tr>
+      <td colspan="6" class="purpleDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">8</td>
+      <td class="day danger"><div class="tooltip"><img src="../images/monsters_s/41-2.png"/> Sky Dragon<div class="tooltiptext">- <span class="tipName">Sky Dragon</span> -<br/><span class="usefulNight">HP:</span> 80 <span class="extremeNight">AP:</span> 55 <span class="farmNight">DP:</span> 26 <span class="dangerNight">Exp:</span> 1600 <span class="itemsNight">GP:</span> 120<br/><span class="tipType">Type:</span> Dragon <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 25% (near), 15% (far)<br/><span class="tipItem">Item Drop Rate:</span> 22%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Spews a homing 20 damage flame from anywhere in the same room.</div></div></td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/27-3.png"/> Steelhead<div class="tooltiptext">- <span class="tipName">Steelhead</span> -<br/><span class="usefulNight">HP:</span> 65 <span class="extremeNight">AP:</span> 58 <span class="farmNight">DP:</span> 25 <span class="dangerNight">Exp:</span> 650 <span class="itemsNight">GP:</span> 200<br/><span class="tipType">Type:</span> Cyclops <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 34% (near), 34% (far)<br/><span class="tipItem">Item Drop Rate:</span> 4%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Attacks 2 tiles ahead and through corners. Charges strength to deal double damage on the next turn.</div></div></td>
+      <td class="day danger"><div class="tooltip"><img src="../images/monsters_s/54-2.png"/> Nashagga<div class="tooltiptext">- <span class="tipName">Nashagga</span> -<br/><span class="usefulNight">HP:</span> 85 <span class="extremeNight">AP:</span> 55 <span class="farmNight">DP:</span> 27 <span class="dangerNight">Exp:</span> 1060 <span class="itemsNight">GP:</span> 200<br/><span class="tipType">Type:</span> Dragon <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 4%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Attacks 2 times in 1 turn (single animation).</div></div></td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/40-2.png"/> Huistdon<div class="tooltiptext">- <span class="tipName">Huistdon</span> -<br/><span class="usefulNight">HP:</span> 108 <span class="extremeNight">AP:</span> 69 <span class="farmNight">DP:</span> 25 <span class="dangerNight">Exp:</span> 660 <span class="itemsNight">GP:</span> 220<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Slow<br/><span class="tipSpecial">Sp.Atk Rate:</span> 100% (near), 100% (far)<br/><span class="tipItem">Item Drop Rate:</span> 4%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Counters with a 30 damage lightning attack when Shiren is in view after taking damage 3 times.</div></div></td>
+      <td class="highlightGray2"></td>
+    </tr>
+    <tr>
+      <td class="night itemsNight"><div class="tooltip"><img src="../images/monsters_s/35-7.png"/> Wicked Trowelie<div class="tooltiptext">- <span class="tipName">Wicked Trowelie</span> -<br/><span class="usefulNight">HP:</span> 45 <span class="extremeNight">AP:</span> 46 <span class="farmNight">DP:</span> 6 <span class="dangerNight">Exp:</span> 320 <span class="itemsNight">GP:</span> 200<br/><span class="tipType">Type:</span> Metal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 22% (near), 18% (far)<br/><span class="tipItem">Item Drop Rate:</span> 16%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Shovels dirt at a visible target within a 4 tile radius. Dirt fills 1 pot in your inventory when it hits Shiren, or inflicts Blind status when it hits an ally. Dirt in pots eventually changes to grass items when advancing floors.</div></div></td>
+      <td class="night"><div class="tooltip"><img src="../images/monsters_s/13-7.png"/> Dark Chucker<div class="tooltiptext">- <span class="tipName">Dark Chucker</span> -<br/><span class="usefulNight">HP:</span> 65 <span class="extremeNight">AP:</span> 66 <span class="farmNight">DP:</span> 9 <span class="dangerNight">Exp:</span> 260 <span class="itemsNight">GP:</span> 220<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 33% (near), 33% (far)<br/><span class="tipItem">Item Drop Rate:</span> 16%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Throws an adjacent creature at Shiren, or throws Shiren at another creature, onto a trap, or into a Monster House. Range of 15 tiles, deals 30 damage.</div></div></td>
+      <td class="night dangerNight"><div class="tooltip"><img src="../images/monsters_s/15-6.png"/> Dark Scarabbit<div class="tooltiptext">- <span class="tipName">Dark Scarabbit</span> -<br/><span class="usefulNight">HP:</span> 42 <span class="extremeNight">AP:</span> 32 <span class="farmNight">DP:</span> 3 <span class="dangerNight">Exp:</span> 160 <span class="itemsNight">GP:</span> 80<br/><span class="tipType">Type:</span> Magic <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 21% (near), 21% (far)<br/><span class="tipItem">Item Drop Rate:</span> 8%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Attracts up to 5 creatures including Shiren to itself from anywhere in the same room.</div></div></td>
+      <td class="night"><div class="tooltip"><img src="../images/monsters_s/17-7.png"/> Vile Pumpanshee<div class="tooltiptext">- <span class="tipName">Vile Pumpanshee</span> -<br/><span class="usefulNight">HP:</span> 65 <span class="extremeNight">AP:</span> 62 <span class="farmNight">DP:</span> 4 <span class="dangerNight">Exp:</span> 240 <span class="itemsNight">GP:</span> 160<br/><span class="tipType">Type:</span> Plant/Floating <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 0%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Can pass through walls. Unpredictable movement, but slowly approaches Shiren.</div></div></td>
+      <td class="night extremeNight"><div class="tooltip"><img src="../images/monsters_s/43-7.png"/> Sinister Porkon<div class="tooltiptext">- <span class="tipName">Sinister Porkon</span> -<br/><span class="usefulNight">HP:</span> 62 <span class="extremeNight">AP:</span> 72 <span class="farmNight">DP:</span> 4 <span class="dangerNight">Exp:</span> 250 <span class="itemsNight">GP:</span> 220<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 19% (near), 23% (far)<br/><span class="tipItem">Item Drop Rate:</span> 16%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Throws a Porky Rock that deals 20 damage within a 6 tile radius. Only drops Porky Rocks.</div></div></td>
+    </tr>
+    <tr>
+      <td colspan="6" class="purpleDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">9</td>
+      <td class="day danger"><div class="tooltip"><img src="../images/monsters_s/41-2.png"/> Sky Dragon<div class="tooltiptext">- <span class="tipName">Sky Dragon</span> -<br/><span class="usefulNight">HP:</span> 80 <span class="extremeNight">AP:</span> 55 <span class="farmNight">DP:</span> 26 <span class="dangerNight">Exp:</span> 1600 <span class="itemsNight">GP:</span> 120<br/><span class="tipType">Type:</span> Dragon <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 25% (near), 15% (far)<br/><span class="tipItem">Item Drop Rate:</span> 22%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Spews a homing 20 damage flame from anywhere in the same room.</div></div></td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/27-3.png"/> Steelhead<div class="tooltiptext">- <span class="tipName">Steelhead</span> -<br/><span class="usefulNight">HP:</span> 65 <span class="extremeNight">AP:</span> 58 <span class="farmNight">DP:</span> 25 <span class="dangerNight">Exp:</span> 650 <span class="itemsNight">GP:</span> 200<br/><span class="tipType">Type:</span> Cyclops <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 34% (near), 34% (far)<br/><span class="tipItem">Item Drop Rate:</span> 4%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Attacks 2 tiles ahead and through corners. Charges strength to deal double damage on the next turn.</div></div></td>
+      <td class="day danger"><div class="tooltip"><img src="../images/monsters_s/54-2.png"/> Nashagga<div class="tooltiptext">- <span class="tipName">Nashagga</span> -<br/><span class="usefulNight">HP:</span> 85 <span class="extremeNight">AP:</span> 55 <span class="farmNight">DP:</span> 27 <span class="dangerNight">Exp:</span> 1060 <span class="itemsNight">GP:</span> 200<br/><span class="tipType">Type:</span> Dragon <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 4%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Attacks 2 times in 1 turn (single animation).</div></div></td>
+      <td class="highlightGray2"></td>
+      <td class="highlightGray2"></td>
+    </tr>
+    <tr>
+      <td class="night"><div class="tooltip"><img src="../images/monsters_s/48-7.png"/> Evil Blazepuff<div class="tooltiptext">- <span class="tipName">Evil Blazepuff</span> -<br/><span class="usefulNight">HP:</span> 65 <span class="extremeNight">AP:</span> 62 <span class="farmNight">DP:</span> 9 <span class="dangerNight">Exp:</span> 160 <span class="itemsNight">GP:</span> 100<br/><span class="tipType">Type:</span> Dragon/Floating <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 89% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 16%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Breathes 60 damage fire when adjacent, which can hit through corners. Occasionally fails at breathing fire.</div></div></td>
+      <td class="night"><div class="tooltip"><img src="../images/monsters_s/13-7.png"/> Dark Chucker<div class="tooltiptext">- <span class="tipName">Dark Chucker</span> -<br/><span class="usefulNight">HP:</span> 65 <span class="extremeNight">AP:</span> 66 <span class="farmNight">DP:</span> 9 <span class="dangerNight">Exp:</span> 260 <span class="itemsNight">GP:</span> 220<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 33% (near), 33% (far)<br/><span class="tipItem">Item Drop Rate:</span> 16%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Throws an adjacent creature at Shiren, or throws Shiren at another creature, onto a trap, or into a Monster House. Range of 15 tiles, deals 30 damage.</div></div></td>
+      <td class="night dangerNight"><div class="tooltip"><img src="../images/monsters_s/15-6.png"/> Dark Scarabbit<div class="tooltiptext">- <span class="tipName">Dark Scarabbit</span> -<br/><span class="usefulNight">HP:</span> 42 <span class="extremeNight">AP:</span> 32 <span class="farmNight">DP:</span> 3 <span class="dangerNight">Exp:</span> 160 <span class="itemsNight">GP:</span> 80<br/><span class="tipType">Type:</span> Magic <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 21% (near), 21% (far)<br/><span class="tipItem">Item Drop Rate:</span> 8%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Attracts up to 5 creatures including Shiren to itself from anywhere in the same room.</div></div></td>
+      <td class="night"><div class="tooltip"><img src="../images/monsters_s/17-7.png"/> Vile Pumpanshee<div class="tooltiptext">- <span class="tipName">Vile Pumpanshee</span> -<br/><span class="usefulNight">HP:</span> 65 <span class="extremeNight">AP:</span> 62 <span class="farmNight">DP:</span> 4 <span class="dangerNight">Exp:</span> 240 <span class="itemsNight">GP:</span> 160<br/><span class="tipType">Type:</span> Plant/Floating <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 0%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Can pass through walls. Unpredictable movement, but slowly approaches Shiren.</div></div></td>
+      <td class="night extremeNight"><div class="tooltip"><img src="../images/monsters_s/43-7.png"/> Sinister Porkon<div class="tooltiptext">- <span class="tipName">Sinister Porkon</span> -<br/><span class="usefulNight">HP:</span> 62 <span class="extremeNight">AP:</span> 72 <span class="farmNight">DP:</span> 4 <span class="dangerNight">Exp:</span> 250 <span class="itemsNight">GP:</span> 220<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 19% (near), 23% (far)<br/><span class="tipItem">Item Drop Rate:</span> 16%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Resists non-ability attacks. Throws a Porky Rock that deals 20 damage within a 6 tile radius. Only drops Porky Rocks.</div></div></td>
+    </tr>
+    <tr>
+      <td colspan="6" class="purpleDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="1" class="centeredText highlightOrange2">10</td>
+      <td class="day extreme"><div class="tooltip"><img src="../images/monsters_s/61-1.png"/> Gr. Reeva Statue<div class="tooltiptext">- <span class="tipName">Gr. Reeva Statue</span> -<br/><span class="usefulNight">HP:</span> 1200 <span class="extremeNight">AP:</span> 75 <span class="farmNight">DP:</span> 20 <span class="dangerNight">Exp:</span> 0 <span class="itemsNight">GP:</span> 0<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 46% (near), 46% (far)<br/><span class="tipItem">Item Drop Rate:</span> 0%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Immune to select statuses. Cures ailments after 1 turn. Reflects projectiles. Special attacks include Shockwave (15 damage + knockback), Lightning (damage to all creatures), Earthquake (Shiren's items become unequipped), Gust (knockback), Stray Missile (40 damage cannonball), Summon (Sky Dragons).</div></div></td>
+      <td class="day danger"><div class="tooltip"><img src="../images/monsters_s/41-2.png"/> Sky Dragon<div class="tooltiptext">- <span class="tipName">Sky Dragon</span> -<br/><span class="usefulNight">HP:</span> 80 <span class="extremeNight">AP:</span> 55 <span class="farmNight">DP:</span> 26 <span class="dangerNight">Exp:</span> 1600 <span class="itemsNight">GP:</span> 120<br/><span class="tipType">Type:</span> Dragon <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 25% (near), 15% (far)<br/><span class="tipItem">Item Drop Rate:</span> 22%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Spews a homing 20 damage flame from anywhere in the same room.</div></div></td>
+      <td class="highlightGray2"></td>
+      <td class="highlightGray2"></td>
+      <td class="highlightGray2"></td>
+    </tr>
+  </tbody>
+</table>
+
+# Monster List
+
 <div><span class="redText2">Red</span>: Very Dangerous, <span class="orangeText2">Orange</span>: Dangerous, <span class="blueText2">Blue</span>: Beneficial</div>
 
 #### List (Day)
@@ -283,10 +507,10 @@ You can continue the story even if Jirokichi collapses during the boss fight, so
     <th>F</th>
     <th>Name</th>
     <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
+    <th>AP</th>
+    <th>DP</th>
     <th>Exp</th>
-    <th>Skill</th>
+    <th>GP</th>
     <th>Rune / Item</th>
     <th>Notes</th>
   </tr>
@@ -508,10 +732,10 @@ You can continue the story even if Jirokichi collapses during the boss fight, so
     <th>F</th>
     <th>Name</th>
     <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
+    <th>AP</th>
+    <th>DP</th>
     <th>Exp</th>
-    <th>Skill</th>
+    <th>GP</th>
     <th>Rune / Item</th>
     <th>Notes</th>
   </tr>
@@ -734,213 +958,6 @@ You can continue the story even if Jirokichi collapses during the boss fight, so
     <td>100</td>
     <td><span class="greenText">Anti-Fire</span><br/><span class="blueText">Zen Pot</span></td>
     <td>60 damage fire 1 tile in front.</td>
-  </tr>
-</table>
-
-# Monster Table
-
-#### Table (Day)
-
-<table class="monsterTable">
-  <tr>
-    <th colspan="10">Day</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td class="highlightYellow">Pumphantom</td>
-    <td class="highlightYellow">Flamepuff</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td class="highlightYellow">Pumphantom</td>
-    <td class="highlightYellow">Flamepuff</td>
-    <td class="highlightYellow">Cave Mamel</td>
-    <td class="highlightYellow">Falcon Tengu</td>
-    <td class="highlightYellow">Polygon Shaka</td>
-    <td class="highlightOrange2">Dazikon</td>
-    <td class="highlightYellow">VeniScorp</td>
-    <td class="highlightYellow">Poofy</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td class="highlightYellow">Tiger Hurler</td>
-    <td class="highlightYellow">Flamepuff</td>
-    <td class="highlightYellow">Cave Mamel</td>
-    <td class="highlightYellow">Falcon Tengu</td>
-    <td class="highlightYellow">Polygon Shaka</td>
-    <td class="highlightOrange2">Dazikon</td>
-    <td class="highlightYellow">VeniScorp</td>
-    <td class="highlightBlue">Grass Poppa</td>
-    <td class="highlightYellow">Pin Poppa</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td class="highlightYellow">Tiger Hurler</td>
-    <td class="highlightOrange3">MC Wizard</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td class="highlightYellow">VeniScorp</td>
-    <td class="highlightBlue">Grass Poppa</td>
-    <td class="highlightYellow">Pin Poppa</td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td class="highlightYellow">Tiger Hurler</td>
-    <td class="highlightOrange3">MC Wizard</td>
-    <td class="highlightYellow">Eligagan</td>
-    <td class="highlightYellow">Huistdon</td>
-    <td class="highlightYellow">Gyairas</td>
-    <td></td>
-    <td></td>
-    <td class="highlightBlue">Grass Poppa</td>
-    <td class="highlightYellow">Pin Poppa</td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td class="highlightYellow">Sparkbird</td>
-    <td></td>
-    <td class="highlightYellow">Eligagan</td>
-    <td class="highlightYellow">Huistdon</td>
-    <td class="highlightYellow">Gyairas</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>7</td>
-    <td class="highlightYellow">Sparkbird</td>
-    <td class="highlightOrange3">Nashagga</td>
-    <td class="highlightYellow">Eligagan</td>
-    <td class="highlightYellow">Huistdon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>8</td>
-    <td class="highlightOrange2">Sky Dragon</td>
-    <td class="highlightOrange3">Nashagga</td>
-    <td class="highlightYellow">Steelhead</td>
-    <td class="highlightYellow">Huistdon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>9</td>
-    <td class="highlightOrange2">Sky Dragon</td>
-    <td class="highlightOrange3">Nashagga</td>
-    <td class="highlightYellow">Steelhead</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
-#### Table (Night)
-
-<table class="monsterTable">
-  <tr>
-    <th colspan="11" class="highlightBlack">Night</th>
-  </tr>
-  <tr>
-    <th>1</th>
-    <td class="highlightPurple">Dark Eligagan</td>
-    <td class="highlightPurple">Hell's Debaser</td>
-    <td class="highlightPurple">Bad Falcon Tengu</td>
-    <td class="highlightNight2">Evil Sky Dragon</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <th>2</th>
-    <td class="highlightPurple">Dark Eligagan</td>
-    <td class="highlightPurple">Hell's Debaser</td>
-    <td class="highlightPurple">Bad Falcon Tengu</td>
-    <td class="highlightNight2">Evil Sky Dragon</td>
-    <td class="highlightPurple">Foul Cursister</td>
-    <td class="highlightPurple">Putrid Acrid Nut</td>
-  </tr>
-  <tr>
-    <th>3</th>
-    <td class="highlightPurple">Snide Froggucci</td>
-    <td class="highlightPurple">Dark Steamroid</td>
-    <td class="highlightPurple">Bad Falcon Tengu</td>
-    <td class="highlightNight2">Evil Sky Dragon</td>
-    <td class="highlightPurple">Foul Cursister</td>
-    <td class="highlightPurple">Putrid Acrid Nut</td>
-  </tr>
-  <tr>
-    <th>4</th>
-    <td class="highlightPurple">Snide Froggucci</td>
-    <td class="highlightPurple">Dark Steamroid</td>
-    <td class="highlightPurple">Mean Go-Ham!</td>
-    <td class="highlightPurple">Bad Colocolum</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <th>5</th>
-    <td class="highlightPurple">Dark Ironhead</td>
-    <td class="highlightBlue">Dark Mixermon</td>
-    <td class="highlightPurple">Mean Go-Ham!</td>
-    <td class="highlightPurple">Bad Colocolum</td>
-    <td class="highlightPurple">Vile Sproutyrant</td>
-    <td></td>
-  </tr>
-  <tr>
-    <th>6</th>
-    <td class="highlightPurple">Dark Ironhead</td>
-    <td class="highlightBlue">Dark Mixermon</td>
-    <td class="highlightNight2">Evil Concusschin</td>
-    <td class="highlightNight2">Wicked Trowelie</td>
-    <td class="highlightPurple">Vile Sproutyrant</td>
-    <td></td>
-  </tr>
-  <tr>
-    <th>7</th>
-    <td class="highlightNight2">Dark Chucker</td>
-    <td></td>
-    <td class="highlightNight2">Evil Concusschin</td>
-    <td class="highlightNight2">Wicked Trowelie</td>
-    <td class="highlightPurple">Vile Sproutyrant</td>
-    <td></td>
-  </tr>
-  <tr>
-    <th>8</th>
-    <td class="highlightNight2">Dark Chucker</td>
-    <td class="highlightNight2">Dark Scarabbit</td>
-    <td class="highlightNight2">Vile Pumpanshee</td>
-    <td class="highlightNight2">Wicked Trowelie</td>
-    <td class="highlightNight2">Sinister Porkon</td>
-    <td></td>
-  </tr>
-  <tr>
-    <th>9</th>
-    <td class="highlightNight2">Dark Chucker</td>
-    <td class="highlightNight2">Dark Scarabbit</td>
-    <td class="highlightNight2">Vile Pumpanshee</td>
-    <td class="highlightPurple">Evil Blazepuff</td>
-    <td class="highlightNight2">Sinister Porkon</td>
-    <td></td>
   </tr>
 </table>
 

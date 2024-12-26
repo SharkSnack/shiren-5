@@ -119,7 +119,7 @@ When a resonance effect activates, a message is displayed in the scrolling messa
   </tr>
   <tr>
     <td class="highlightYellow"><a href="/shiren-5/items/weapons#violent-blade">Violent Blade</a></td>
-    <td class="highlightGray"><a href="/shiren-5/items/shields#mojo-bracelet">Mojo Bracelet</a></td>
+    <td class="highlightGray"><a href="/shiren-5/items/bracelets#mojo-bracelet">Mojo Bracelet</a></td>
     <td>Chance to inflict <a href="/shiren-5/system/status-conditions#slow">Slow</a> status</td>
   </tr>
   <tr>
@@ -128,8 +128,8 @@ When a resonance effect activates, a message is displayed in the scrolling messa
     <td>Increases flame damage by 1 level<br/>・Blue Flame takes priority if present, increasing flame damage<br/>　to 30 regardless of weapon level. (The flame also turns blue)</td>
   </tr>
   <tr>
-    <td class="highlightYellow"><a href="/shiren-5/items/weapons#rising-sun">Rising Sun</a></td>
-    <td class="highlightGray"><a href="/shiren-5/items/shields#rising-sun-shld">Rising Sun Shld</a></td>
+    <td class="highlightYellow"><a href="/shiren-5/items/weapons#pathetic-blade">Rising Sun</a></td>
+    <td class="highlightGray"><a href="/shiren-5/items/shields#pathetic-shield">Rising Sun Shld</a></td>
     <td>Adjacent monsters might step away</td>
   </tr>
   <tr>

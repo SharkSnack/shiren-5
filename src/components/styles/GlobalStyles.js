@@ -668,12 +668,12 @@ export const baseStyles = css`
     font-weight: normal;
     background-color: #ececec;
   }
-  .tableDivider2 {
-    background-color: #bcddff;
-    padding-top: 2px !important;
+  .grayDivider {
+    background-color: #ececec;
+    padding-top: 1px !important;
   }
-  .tableDivider3 {
-    background-color: #ffe970;
+  .purpleDivider {
+    background-color: #e3d6ff !important;
     padding-top: 1px !important;
   }
   .tableCategory th {
@@ -688,15 +688,88 @@ export const baseStyles = css`
     font-weight: normal;
     text-align: center;
     padding: 2.5px;
-    background-color: #e6e6fa;
+    background-color: #d6d6ff;
   }
   .monsterTable td {
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-size: 13px;
+  }
+  .monsterTable img {
+    vertical-align: bottom !important;
+    position: relative !important;
+    max-height: 16px;
+    max-width: 16px;
+  }
+  #hideMonTblImgBtn {
+    padding: 3px;
+    border-radius: 3px;
+    margin: 0;
+  }
+  .hidden {
+    display: none;
+  }
+  .tooltip {
+    position: relative;
+    display: block;
+  }
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 300px;
+    background-color: #666;
+    color: #fff;
     text-align: center;
-    padding-left: 2.5px;
-    padding-right: 2.5px;
-    padding-top: 3.5px;
-    padding-bottom: 3.5px;
-    font-size: 13.5px;
+    border: 2px solid #b3fff4;
+    border-radius: 6px;
+    padding: 5px;
+    position: absolute;
+    z-index: 1;
+    bottom: 150%;
+    left: -50%;
+    margin-left: -60px;
+  }
+  .tooltip .tooltiptextManeater {
+    visibility: hidden;
+    width: 300px;
+    background-color: #666;
+    color: #fff;
+    text-align: center;
+    border: 2px solid #b3fff4;
+    border-radius: 6px;
+    padding: 5px;
+    position: absolute;
+    z-index: 1;
+    bottom: 150%;
+    left: -50%;
+    margin-left: -135px;
+  }
+  .tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #666 transparent transparent transparent;
+  }
+  .tooltip .tooltiptextManeater::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #666 transparent transparent transparent;
+  }
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+  }
+  .tooltip:hover .tooltiptextManeater {
+    visibility: visible;
   }
   .monsterTableSmall th {
     padding: 2px;
@@ -740,10 +813,33 @@ export const baseStyles = css`
   .monsterPageTable th {
     font-weight: normal;
     text-align: center;
-    padding: 2px;
+    padding: 1.5px;
   }
   .monsterPageTable td {
-    padding: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 1.5px;
+    padding-right: 1.5px;
+    font-size: 13.5px;
+  }
+  .monsterPageTable td:nth-of-type(1),
+  .monsterPageTable td:nth-of-type(2),
+  .monsterPageTable td:nth-of-type(4),
+  .monsterPageTable td:nth-of-type(5),
+  .monsterPageTable td:nth-of-type(6),
+  .monsterPageTable td:nth-of-type(7),
+  .monsterPageTable td:nth-of-type(8),
+  .monsterPageTable td:nth-of-type(9),
+  .monsterPageTable td:nth-of-type(10) {
+    text-align: center;
+  }
+  .monsterPageTable td:nth-of-type(2) {
+    background-color: #f2f2f2;
+  }
+  .monsterPageTable img {
+    padding: 0px;
+    max-height: 20px;
+    position: relative !important;
   }
   .monsterImage {
     margin-bottom: 5px !important;
@@ -1079,7 +1175,10 @@ export const baseStyles = css`
     background-color: #CCFFCC !important;
   }
   .highlightGray {
-    background-color: #f3f3f3 !important;
+    background-color: #f2f2f2 !important;
+  }
+  .highlightGray2 {
+    background-color: #d2d2d2 !important;
   }
   .highlightYellow {
     background-color: #ffffe4 !important;
@@ -1111,10 +1210,10 @@ export const baseStyles = css`
     background-color: #fff4e6 !important;
   }
   .highlightOrange2 {
-    background-color: #ffe3b9;
+    background-color: #ffe3b9 !important;
   }
   .highlightOrange3 {
-    background-color: #ffb23e;
+    background-color: #ffb23e !important;
   }
   .highlightLightblue {
     background-color: #eef6ff !important;
@@ -1201,6 +1300,73 @@ export const baseStyles = css`
   .monsterNight {
     background-color: #edf4ff;
   }
+  .monsterTableVillage {
+    background-color: #baeaff;
+  }
+  .day {
+    background-color: #fffff6;
+  }
+  .night {
+    background-color: #222;
+    color: #d2d2d2;
+  }
+  .night img {
+    filter: brightness(1.75);
+  }
+  .farm {
+    color: #0087ff;
+  }
+  .farmNight {
+    color: #2598ff;
+  }
+  .useful {
+    color: #01b04e;
+  }
+  .usefulNight {
+    color: #89ff85;
+  }
+  .items {
+    color: #8e1fff;
+  }
+  .itemsNight {
+    color: #e78eff;
+  }
+  .strong {
+    color: #bf911c;
+  }
+  .strongNight {
+    color: goldenrod;
+  }
+  .danger {
+    color: #ff8300;
+  }
+  .dangerNight {
+    color: #ffc636;
+  }
+  .extreme {
+    color: #ff1e1e;
+  }
+  .extremeNight {
+    color: #ff6060;
+  }
+  .tipName {
+    color: #f3d0ff;
+  }
+  .tipSpeed {
+    color: #b3fff4;
+  }
+  .tipType {
+    color: #eec69c;
+  }
+  .tipSpecial {
+    color: #fdffc5;
+  }
+  .tipItem {
+    color: #ffdec1;
+  }
+  .tipAbility {
+    color: #ccc;
+  }
   .monsterTableNdubba {
     color: white;
     background-color: #bb976a;
@@ -1216,6 +1382,38 @@ export const baseStyles = css`
   .monsterTableNdup {
     color: white;
     background-color: #cece7e;
+  }
+  .maneater {
+    color: white;
+    background-color: #ffccc9;
+  }
+  .darkManeater {
+    color: white;
+    background-color: #d9b1b0;
+  }
+  .villeater {
+    color: white;
+    background-color: #fff5bb;
+  }
+  .darkVilleater {
+    color: white;
+    background-color: #d5c982;
+  }
+  .mounteater {
+    color: white;
+    background-color: #90ffb1;
+  }
+  .darkMounteater {
+    color: white;
+    background-color: #84d09b;
+  }
+  .isleater {
+    color: white;
+    background-color: #b5b0ff;
+  }
+  .darkIsleater {
+    color: white;
+    background-color: #8782ce;
   }
   .monsterTableManeater {
     color: white;
@@ -1297,42 +1495,6 @@ export const baseStyles = css`
   }
   .purpleText2 {
     color: #a256bd;
-  }
-  .farmingDay {
-    color: #0076df;
-  }
-  .farmingNight {
-    color: #006cdf;
-  }
-  .usefulDay {
-    color: #299b5b;
-  }
-  .usefulNight {
-    color: #059300;
-  }
-  .itemDay {
-    color: #8b3ed9;
-  }
-  .itemNight {
-    color: #70008e;
-  }
-  .strongDay {
-    color: #bf911c;
-  }
-  .strongNight {
-    color: goldenrod;
-  }
-  .dangerDay {
-    color: #db7d1a;
-  }
-  .dangerNight {
-    color: #bd8700;
-  }
-  .extremeDay {
-    color: #e32a2a;
-  }
-  .extremeNight {
-    color: #d51818;
   }
   .limitBreak {
     color: #ff46a3;
@@ -1788,6 +1950,26 @@ export const baseStyles = css`
       top: 35px;
       max-height: fit-content;
       position: static;
+    }
+    .monsterTable th {
+      padding: 0.5px;
+      font-size: 12px;
+    }
+    .monsterTable td {
+      padding: 0.5px;
+      font-size: 12px;
+    }
+    .monsterTable img {
+      display: none;
+    }
+    .tooltip .tooltiptext {
+      width: 150px;
+      margin-left: -5px;
+      left: -30%;
+    }
+    .tooltip .tooltiptextManeater {
+      width: 150px;
+      margin-left: -120px;
     }
   }
 

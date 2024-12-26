@@ -42,7 +42,11 @@ Once cleared, you can never return to this dungeon.
 
 # Monster Table
 
-<table class="monsterTable">
+<button id="hideMonTblImgBtn" onClick={()=>{var mon_imgs = document.querySelectorAll('#monsterTable img');mon_imgs.forEach(e => e.classList.toggle('hidden'));}}>Toggle Monster Images</button>
+
+Hover over or tap a monster's name for details.
+
+<table id="monsterTable" class="monsterTable">
   <thead>
     <tr>
       <th>F</th>
@@ -51,19 +55,25 @@ Once cleared, you can never return to this dungeon.
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
-      <td class="monsterDay">Mamel</td>
-      <td class="highlightGray"></td>
+      <td class="centeredText">1</td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/1-1.png"/> Mamel<div class="tooltiptext">- <span class="tipName">Mamel</span> -<br/><span class="usefulNight">HP:</span> 5 <span class="extremeNight">AP:</span> 2 <span class="farmNight">DP:</span> 1 <span class="dangerNight">Exp:</span> 2 <span class="itemsNight">GP:</span> 1<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 4%<br/>~ <span class="tipAbility">Ability</span> ~<br/>None.</div></div></td>
+      <td class="highlightGray2"></td>
     </tr>
     <tr>
-      <td>2</td>
-      <td class="monsterDay">Mamel</td>
-      <td class="monsterDay">Sproutant</td>
+      <td colspan="3" class="purpleDivider"></td>
     </tr>
     <tr>
-      <td>3</td>
-      <td class="monsterDay">Mamel</td>
-      <td class="monsterDay">Sproutant</td>
+      <td class="centeredText">2</td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/1-1.png"/> Mamel<div class="tooltiptext">- <span class="tipName">Mamel</span> -<br/><span class="usefulNight">HP:</span> 5 <span class="extremeNight">AP:</span> 2 <span class="farmNight">DP:</span> 1 <span class="dangerNight">Exp:</span> 2 <span class="itemsNight">GP:</span> 1<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 4%<br/>~ <span class="tipAbility">Ability</span> ~<br/>None.</div></div></td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/2-1.png"/> Sproutant<div class="tooltiptext">- <span class="tipName">Sproutant</span> -<br/><span class="usefulNight">HP:</span> 5 <span class="extremeNight">AP:</span> 2 <span class="farmNight">DP:</span> 1 <span class="dangerNight">Exp:</span> 3 <span class="itemsNight">GP:</span> 2<br/><span class="tipType">Type:</span> Plant <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 4%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Monster family becomes immune to most recent status inflicted upon it, excluding Sealed status.</div></div></td>
+    </tr>
+    <tr>
+      <td colspan="3" class="purpleDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">3</td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/1-1.png"/> Mamel<div class="tooltiptext">- <span class="tipName">Mamel</span> -<br/><span class="usefulNight">HP:</span> 5 <span class="extremeNight">AP:</span> 2 <span class="farmNight">DP:</span> 1 <span class="dangerNight">Exp:</span> 2 <span class="itemsNight">GP:</span> 1<br/><span class="tipType">Type:</span> Normal <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 4%<br/>~ <span class="tipAbility">Ability</span> ~<br/>None.</div></div></td>
+      <td class="day"><div class="tooltip"><img src="../images/monsters_s/2-1.png"/> Sproutant<div class="tooltiptext">- <span class="tipName">Sproutant</span> -<br/><span class="usefulNight">HP:</span> 5 <span class="extremeNight">AP:</span> 2 <span class="farmNight">DP:</span> 1 <span class="dangerNight">Exp:</span> 3 <span class="itemsNight">GP:</span> 2<br/><span class="tipType">Type:</span> Plant <span class="tipSpeed">Speed:</span> Normal<br/><span class="tipSpecial">Sp.Atk Rate:</span> 0% (near), 0% (far)<br/><span class="tipItem">Item Drop Rate:</span> 4%<br/>~ <span class="tipAbility">Ability</span> ~<br/>Monster family becomes immune to most recent status inflicted upon it, excluding Sealed status.</div></div></td>
     </tr>
   </tbody>
 </table>
