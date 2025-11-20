@@ -2595,7 +2595,7 @@ Floor Colors: <span class="limitBreak">Limit break monsters</span><br/>Enemy Col
     <td></td>
     <td class="leftText highlightGray">Blank Scroll</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td>X</td>
